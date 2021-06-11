@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer学習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer LearnTutorials
-source-git-commit: 379f3781e8d594fe7be4d9fdfabd4bcbe5a132a9
+source-git-commit: e6d026a3fddd846323290bbff059165050dd56e1
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 23%
@@ -25,7 +25,7 @@ ht-degree: 23%
 + メッセージの作成 {#create-messages}
 + コンテンツのパーソナライズ {#personalize-content}
    + [プロファイルとセグメントのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
-   + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages)
+   + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
 + ジャーニーの作成{#create-journeys}
 + {#report-and-monitor}のレポートと監視
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
