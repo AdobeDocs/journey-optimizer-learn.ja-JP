@@ -2,13 +2,13 @@
 title: パーソナライゼーションとしてのオファーの追加
 description: Journey Optimizerでメッセージにoffer decisioningコンポーネントを追加する方法を説明します。
 kt: 8033
-thumbnail: 334086.jpg
+thumbnail: 334088.jpg
 feature: パーソナライズ機能
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: b2088add97c592d1d9d1f360217370630214cbfa
+source-git-commit: bad49acacba7c110fceecc4d21b8d2b2d2c9befd
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 23%
@@ -20,7 +20,7 @@ ht-degree: 23%
 
 Journey Optimizerでメッセージにoffer decisioningコンポーネントを追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334086?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12)
 
 ## 追加情報
 
