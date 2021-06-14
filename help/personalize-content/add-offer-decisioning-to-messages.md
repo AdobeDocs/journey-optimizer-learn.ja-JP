@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: bad49acacba7c110fceecc4d21b8d2b2d2c9befd
+source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 23%
+source-wordcount: '71'
+ht-degree: 19%
 
 ---
 
@@ -26,3 +26,4 @@ Journey Optimizerでメッセージにoffer decisioningコンポーネントを�
 
 * [Offer Decisioning のビデオとチュートリアル](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ja)
 * [判定管理について（ドキュメント）](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+* [パーソナライズされたオファーの追加（ドキュメント）](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
