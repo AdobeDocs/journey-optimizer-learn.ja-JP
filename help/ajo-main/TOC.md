@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer学習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer LearnTutorials
-source-git-commit: e6d026a3fddd846323290bbff059165050dd56e1
+source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 23%
+source-wordcount: '73'
+ht-degree: 16%
 
 ---
 
@@ -16,13 +16,14 @@ ht-degree: 23%
 + Journey Optimizerの概要{#introduction-to-journey-optimizer}
 + はじめに {#get-started}
    + アクセス制御 {#access-set-up}
-      + [アクセス管理](/help/set-up-access/access-management.md)
+      + [メッセージエディターでのEメールコンテンツの読み込みと作成][Access management](/help/set-up-access/access-management.md)
    + データソース設定 {#data-source-configuration}
    + チャネル設定{#channel-configuration}
    + {#resource-set-up}リソースの設定
    + 判定管理の設定{#decision-management-configuration}
    + ジャーニー設定{#journey-configuration}
 + メッセージの作成 {#create-messages}
+   + (/help/create-messages/import-and-author-email-content.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [プロファイルとセグメントのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
