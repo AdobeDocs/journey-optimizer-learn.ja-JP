@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer学習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer LearnTutorials
-source-git-commit: 4089dacbf87aa7eca7900ecf50ec2389e8338fe2
+source-git-commit: 9a61f655d7cdf4f85a5368e20000a6c0ba7ed16a
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 21%
+source-wordcount: '64'
+ht-degree: 18%
 
 ---
 
@@ -15,8 +15,7 @@ ht-degree: 21%
 + [概要](/help/overview.md)
 + Journey Optimizerの概要{#introduction-to-journey-optimizer}
 + はじめに {#get-started}
-   + アクセス制御 {#access-set-up}
-      + [アクセス管理](/help/set-up-access/access-management.md)
+   + [アクセス管理](/help/set-up-access/access-management.md)
    + データソース設定 {#data-source-configuration}
    + チャネル設定{#channel-configuration}
    + {#resource-set-up}リソースの設定
