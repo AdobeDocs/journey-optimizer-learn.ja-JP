@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 7f8404d4bf526bf551d8db9ee6cbcd4a95063356
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 2%
 
 ---
 
@@ -21,3 +21,10 @@ ht-degree: 1%
 プロファイルベースのパーソナライゼーションをメッセージに追加する方法、およびセグメントメンバーシップをパーソナライゼーションブロックの事前条件として使用する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
+
+## 追加のリソース
+
+* [Journey Optimizerでのパーソナライゼーションの概要](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [使用例：プッシュ通知へのパーソナライゼーションの追加](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
+* [パーソナライゼーション構文の理解](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html)
+* [ヘルパー関数の使用](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
