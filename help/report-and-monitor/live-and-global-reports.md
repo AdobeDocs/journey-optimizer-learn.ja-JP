@@ -1,21 +1,23 @@
 ---
 title: ライブレポートとグローバルレポート
-description: ライブレポートとグローバルレポートにアクセスして、ジャーニーと配信を分析する方法を説明します。
-kt: 7677
-thumbnail: 333998
+description: ライブレポートとグローバルレポートの違い、ジャーニーとメッセージ固有のレポートにアクセスして分析する方法、およびレポートダッシュボードを変更する方法について説明します。  
+kt: 7690
+thumbnail: 334108.jpg
 feature: レポート
 doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 50dd912c4a0a64af3d98ecad28b1805abfd89daa
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 2%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
 
 # ライブレポートとグローバルレポート
 
-ライブレポートとグローバルレポートにアクセスして、ジャーニーと配信を分析する方法を説明します。
+ライブレポートとグローバルレポートの違い、ジャーニーとメッセージ固有のレポートにアクセスして分析する方法、およびレポートダッシュボードを変更する方法について説明します。  
+
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
