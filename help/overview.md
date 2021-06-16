@@ -2,10 +2,10 @@
 title: Journey OptimizerのビデオとTutorials
 description: このユーザーガイドには、Adobe Journey Optimizerの機能に関するビデオとチュートリアルが含まれています。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4ccc9340e312db53c5414c15d37a637107afd333
+source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 32%
+source-wordcount: '148'
+ht-degree: 17%
 
 ---
 
@@ -19,5 +19,36 @@ Journey Optimizerは、企業が顧客に対して、コネクティブでコン
 このユーザーガイドには、Adobe Journey Optimizerの機能に関するビデオとチュートリアルが含まれています。
 
 ## スタッフのおすすめ
+<table>
+<tr>
+  <td>
+    <a href="./introduction/journey-optimizer-overview-part-1.md">
+      <img alt="Journey Optimizer概要第1部 — オムニチャネルジャーニーの配信（ビデオ）" src="./assets/334174.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-1.md">
+    <strong>Journey Optimizer Overview Part 1  </strong>
+    </a>
+    </div>
+    <p>
+    <em>このビデオでは、企業がAdobeジャーニーの最適化を使用して、パーソナライズされたオムニチャネルジャーニーを消費者に提供する方法を示します。</em>
+    <p>
+  </td>
+    <td>
+    <a href="./introduction/journey-optimizer-overview-part-2.md">
+      <img alt="Journey Optimizer概要第2部 — オムニチャネルジャーニーの配信（ビデオ）" src="./assets/334175.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-2.md">
+    <strong>Journey Optimizer概要パート2  </strong>
+    </a>
+    </div>
+    <p>
+    <em>このビデオでは、企業がAdobeジャーニー最適化のoffer decisioning、リアルタイムセグメント認定、ビジネスイベント管理を使用して、コンシューマジャーニーを新たな高みに導く方法を示します。</em>
+    <p>
+  </td>
+</table>
 
-準備中
+
+
+
