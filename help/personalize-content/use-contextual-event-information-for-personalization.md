@@ -8,11 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-hidefromtoc: true
-source-git-commit: 44442d3f61436423513fe1e730a647f1d76afd3c
+source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 2%
+source-wordcount: '95'
+ht-degree: 3%
 
 ---
 
@@ -23,3 +22,8 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/334165?quality=12)
 
+## 追加のリソース
+
+* [Journey Optimizerでのパーソナライゼーションの概要](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [ジャーニーでイベントを作成する方法を説明します](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/configure-journeys/events-journeys/unitary-events/about-creating.html)
+* [使用例：メッセージでの複数のタイプのパーソナライゼーションの活用](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
