@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer学習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer LearnTutorials
-source-git-commit: af22990a5b431366b6d4d89913932f495e164882
+source-git-commit: 8eef9004135c090db29dcab3203e838c0520e510
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 11%
@@ -37,7 +37,7 @@ ht-degree: 11%
    + [使用例 — トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
    + [使用例 — セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
    + [使用例 — ビジネスイベント](/help/create-journeys/use-case-business-event.md)
-   + [使用例 — セグメントの選定](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [使用例 — セグメント認定](/help/create-journeys/use-case-read-segment-qualification.md)
    + [ジャーニーのテスト](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
 + {#report-and-monitor}のレポートと監視
