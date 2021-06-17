@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer学習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer LearnTutorials
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+source-git-commit: f885d20058826ac9e9c004c8d3544676c36a6e5c
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 14%
+source-wordcount: '98'
+ht-degree: 13%
 
 ---
 
@@ -33,5 +33,7 @@ ht-degree: 14%
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [パーソナライゼーションに関するコンテキストイベント情報の使用](/help/personalize-content/use-contextual-event-information-for-personalization.md)
 + ジャーニーの作成{#create-journeys}
+   + [使用例 — トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
+   + [使用例 — セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
 + {#report-and-monitor}のレポートと監視
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
