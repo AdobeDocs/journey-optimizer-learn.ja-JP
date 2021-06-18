@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer学習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer LearnTutorials
-source-git-commit: 8eef9004135c090db29dcab3203e838c0520e510
+source-git-commit: 5d6431eea3239fbdceaf9485d6a21edee92f6c3b
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 11%
+source-wordcount: '122'
+ht-degree: 10%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 11%
 + メッセージの作成 {#create-messages}
    + [メッセージエディターでのEメールコンテンツの作成](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [HTML電子メールコンテンツの読み込みと作成](/help/create-messages/import-and-author-html-email-content.md)
+   + [プレビュー、配達確認、公開](/help/create-messages/preview-proof-and-publish.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [プロファイルとセグメントのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
