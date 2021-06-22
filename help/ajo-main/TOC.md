@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer学習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer LearnTutorials
-source-git-commit: 71fc3f87f0292f943b7c0b1db397848112b01223
+source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 10%
+source-wordcount: '131'
+ht-degree: 9%
 
 ---
 
@@ -21,11 +21,13 @@ ht-degree: 10%
    + [アーキテクチャ](/help/introduction/architecture.md)
 + はじめに {#get-started}
    + [アクセス管理](/help/set-up-access/access-management.md)
-   + データソース設定 {#data-source-configuration}
+   + データ設定{#data-configuration}
    + チャネル設定{#channel-configuration}
    + {#resource-set-up}リソースの設定
    + 判定管理の設定{#decision-management-configuration}
    + ジャーニー設定{#journey-configuration}
+      + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
+      + [アクションの作成](/help/set-up-journeys/create-actions.md)
 + メッセージの作成 {#create-messages}
    + [メッセージエディターでのEメールコンテンツの作成](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [HTML電子メールコンテンツの読み込みと作成](/help/create-messages/import-and-author-html-email-content.md)
