@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 4c5bbbca213048a26fb2c07980cf71e2658e680b
+source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '92'
+ht-degree: 9%
 
 ---
 
 
-# データソースの設定
+# データセットの作成とデータの取り込み
 
 データセットの作成、スキーマへのマッピング、データの追加、データの取り込みの確認の方法について説明します。
 
