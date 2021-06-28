@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer学習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer LearnTutorials
-source-git-commit: 359377095abbf30572f671b61f363abef67074aa
+source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 11%
+source-wordcount: '139'
+ht-degree: 10%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 11%
    + データ設定{#data-configuration}
       + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
    + チャネル設定{#channel-configuration}
+      + [Eメールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
    + 判定管理の設定{#decision-management-configuration}
    + ジャーニー設定{#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
