@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer学習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer LearnTutorials
-source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
+source-git-commit: 638d5d7727d0e653d8f31cefdf8a5c311f11eec9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '143'
 ht-degree: 10%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 10%
    + [アーキテクチャ](/help/introduction/architecture.md)
 + はじめに {#get-started}
    + [アクセス管理](/help/set-up-access/access-management.md)
+   + [サンドボックスの作成と管理](/help/set-up-access/create-and-manage-sandboxes.md)
    + データ設定{#data-configuration}
       + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
    + チャネル設定{#channel-configuration}
