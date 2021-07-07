@@ -1,6 +1,6 @@
 ---
-title: Adobe Journey Optimizerの概要
-description: Adobe Journey Optimizerとは何か、このソリューションが解決するビジネス上の課題と主な使用例を理解します。
+title: Adobe Journey Optimizer の紹介
+description: Adobe Journey Optimizer とは何か、このソリューションはどのようなビジネス上の課題を解決するのか、主な使用例は何かを理解します。
 kt: 7517
 thumbnail: 333745.jpg
 feature: 概要
@@ -10,19 +10,19 @@ role: Business Practitioner
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# Adobe Journey Optimizerの概要
+# Adobe Journey Optimizer の紹介
 
-Adobe Journey Optimizerとは何か、このソリューションが解決するビジネス上の課題、主な使用例を理解します。
+Adobe Journey Optimizer とは何か、このソリューションはどのようなビジネス上の課題を解決するのか、主な使用例は何かを理解します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12)
 
 ## その他のリソース
 
-*[Journey Optimizer とは?](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/get-started.html)
-* [Journey Optimizerから始めるための主な手順](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/quick-start.html)
+*[Journey Optimizer とは？](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/get-started.html?lang=ja)
+* [Journey Optimizer を開始するための主な手順](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/quick-start.html?lang=ja)
