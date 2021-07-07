@@ -1,6 +1,6 @@
 ---
-title: 使用例 — ビジネスイベント
-description: ビジネスイベントに適した使用例を理解します。 ビジネスイベントを使用したジャーニーの構築方法と、適用するベストプラクティスを説明します。
+title: 使用例 - ビジネスイベント
+description: ビジネスイベントに適用できる使用例を理解します。ビジネスイベントを使用したジャーニーの構築方法と、適用するベストプラクティスについて説明します。
 kt: 7703
 thumbnail: 334234.jpg
 feature: ジャーニー
@@ -8,16 +8,16 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: fed061df079725072387b24ed57303f66791c2bf
-workflow-type: tm+mt
+exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
+# 使用例 - ビジネスイベント
 
-# 使用例 — ビジネスイベント
-
-ビジネスイベントに適した使用例を理解します。 ビジネスイベントを使用したジャーニーの構築方法と、適用するベストプラクティスを説明します。
+ビジネスイベントに適用できる使用例を理解します。ビジネスイベントを使用したジャーニーの構築方法と、適用するベストプラクティスについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12)
