@@ -9,9 +9,9 @@ team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ ht-degree: 9%
 
 ## その他のリソース
 
-* [スキーマ、データセットの作成とデータの取り込みによるテストプロファイルの追加](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [スキーマ、データセットの作成とデータの取り込みによるテストプロファイルの追加](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html?lang=ja)
 * [データセットの作成と管理](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=ja)
