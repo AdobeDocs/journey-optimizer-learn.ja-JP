@@ -1,6 +1,6 @@
 ---
 title: アクセス管理
-description: Adobe Journey Optimizerのアクセス制御システムと8つのカスタムプロファイルについて理解します。 製品プロファイルと権限の管理方法、およびユーザーを追加および管理する方法について説明します。
+description: Adobe Journey Optimizer のアクセス制御システムと 8 つのカスタムプロファイルについて理解します。製品プロファイルと権限の管理方法、およびユーザーを追加し管理する方法について説明します。
 kt: 7677
 thumbnail: 333998.jpg
 feature: アクセス管理
@@ -8,20 +8,20 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
-workflow-type: tm+mt
+exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-
 # アクセス管理
 
-Adobe Journey Optimizerのアクセス制御システムと8つのカスタムプロファイルについて理解します。 製品プロファイルと権限の管理方法、およびユーザーを追加および管理する方法について説明します。
+Adobe Journey Optimizer のアクセス制御システムと 8 つのカスタムプロファイルについて理解します。製品プロファイルと権限の管理方法、およびユーザーを追加し管理する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12)
 
-## 追加のリソース
+## その他のリソース
 
-* [製品プロファイル（ドキュメント）](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html)
+* [製品プロファイル（ドキュメント）](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html?lang=ja)
