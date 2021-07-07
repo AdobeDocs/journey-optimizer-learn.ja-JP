@@ -9,15 +9,15 @@ team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # アクションの作成
 
-Journey Optimizerのアクションとは何か、およびカスタムアクションを設定する方法について説明します。
+Journey Optimizer のアクションとは何か、およびカスタムアクションを設定する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334257?quality=12)
