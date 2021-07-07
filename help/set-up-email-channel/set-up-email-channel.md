@@ -1,6 +1,6 @@
 ---
-title: Eメールチャネルの設定
-description: メッセージプリセットの作成方法、メッセージプリセットの使用方法、サブドメインをデリゲートしてIPプールを作成する方法について説明します。
+title: 電子メールチャネルの設定
+description: メッセージプリセットを作成する方法とその使用方法、およびサブドメインをデリゲートして IP プールを作成する方法について説明します。
 kt: 7854
 thumbnail: 334343.jpg
 feature: ジャーニー、データソース
@@ -9,15 +9,15 @@ team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Eメールチャネルの設定
+# 電子メールチャネルの設定
 
-メッセージプリセットの作成方法、メッセージプリセットの使用方法、サブドメインをデリゲートしてIPプールを作成する方法について説明します。
+メッセージプリセットを作成する方法とその使用方法、およびサブドメインをデリゲートして IP プールを作成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12)
