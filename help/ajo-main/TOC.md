@@ -45,7 +45,7 @@ ht-degree: 97%
    + [使用例 - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
    + [使用例 - セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
    + [使用例 - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
-   + [使用例 - セグメントの選定](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [使用例 - セグメントを選定](/help/create-journeys/use-case-read-segment-qualification.md)
    + [ジャーニーのテスト](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
 + レポートと監視 {#report-and-monitor}
