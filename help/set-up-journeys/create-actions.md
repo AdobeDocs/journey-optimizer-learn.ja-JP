@@ -6,10 +6,10 @@ thumbnail: 334257.jpg
 feature: ジャーニー、データソース
 doc-type: feature video
 team: PM
-role: Administrator, Developer
+role: Admin, Developer
 level: Beginner
-source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
-workflow-type: ht
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 100%
 
