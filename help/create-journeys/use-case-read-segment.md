@@ -6,11 +6,11 @@ thumbnail: 334206.jpg
 feature: ジャーニー
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 7116a20e-f46a-4676-8b16-21699723828a
-source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
-workflow-type: ht
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
