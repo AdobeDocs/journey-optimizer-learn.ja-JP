@@ -6,11 +6,11 @@ thumbnail: 334078.jpg
 feature: パーソナライゼーション
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
-workflow-type: ht
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
