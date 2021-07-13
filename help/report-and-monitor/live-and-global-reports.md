@@ -6,11 +6,11 @@ thumbnail: 334108.jpg
 feature: レポート
 doc-type: feature video
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
-source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
-workflow-type: ht
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
