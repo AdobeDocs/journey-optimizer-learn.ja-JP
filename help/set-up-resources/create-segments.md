@@ -6,10 +6,10 @@ thumbnail: 334281.jpg
 feature: ルール、セグメント、オーディエンス
 doc-type: feature video
 team: PM
-role: Developer, Business Practitioner
+role: Developer, User
 level: Beginner
-source-git-commit: 9b717aa256139f6cf70c31ff0d519ee40c18221d
-workflow-type: ht
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
