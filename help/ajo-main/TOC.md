@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
+source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 94%
+source-wordcount: '155'
+ht-degree: 91%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 94%
    + [パーソナライゼーションに関するコンテキストイベント情報の使用](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
 + ジャーニーの作成{#create-journeys}
+   + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用例 - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
    + [使用例 - セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
    + [使用例 - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
