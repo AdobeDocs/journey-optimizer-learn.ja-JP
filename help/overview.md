@@ -2,10 +2,10 @@
 title: Journey Optimizer のビデオとチュートリアル
 description: このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 59a67f82a74618305ea1447f2be824173538b0e3
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
+workflow-type: tm+mt
+source-wordcount: '177'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 Journey Optimizer は、企業が顧客に対して、連続性がありコンテキストに沿う、パーソナライズされたエクスペリエンスを提供するのに役立ちます。カスタマージャーニーとは、顧客がブランドに最初に接触した瞬間から離れていくまでの、やり取りのプロセス全体を表すものです。
 
 このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
+
+## 最新情報
+
+* **[使用例 — バーストメッセージ](/help/create-journeys/use-case-read-burst-message.md)**
+
+   *バーストメッセージの該当する使用例を理解します。バーストメッセージのジャーニーを設定する方法と適用するベストプラクティスを説明します。*
 
 ## スタッフのおすすめ
 
