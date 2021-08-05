@@ -2,10 +2,10 @@
 title: Journey Optimizer のビデオとチュートリアル
 description: このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 77%
+source-wordcount: '265'
+ht-degree: 57%
 
 ---
 
@@ -19,6 +19,18 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 
 ## 最新情報
+
+* **[データの設定 — 概要](/help/set-up-data/set-up-data-overview.md)**
+
+   *リアルタイム顧客プロファイルデータと、Journey Optimizerの顧客プロファイルデータを設定するために必要な手順について説明します。*
+
+* **[IDのマッピング](/help/set-up-data/map-identities.md)**
+
+   *スキーマフィールドにIDとしてラベルを付ける方法とタイミング、名前空間の作成方法、IDプライマリにする方法、IDデータの取得と検証方法について説明します。*
+
+* **[データソースの設定](/help/set-up-data/configure-data-sources.md)**
+
+   *ソースコネクタについて、およびJourney Optimizerでのソースコネクタの設定方法について説明します*
 
 * **[ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)**
 
