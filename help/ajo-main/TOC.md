@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 91%
+source-wordcount: '160'
+ht-degree: 89%
 
 ---
 
@@ -23,8 +23,11 @@ ht-degree: 91%
    + [アクセス管理](/help/set-up-access/access-management.md)
    + [サンドボックスの作成と管理](/help/set-up-access/create-and-manage-sandboxes.md)
    + データ設定 {#data-configuration}
-      + [スキーマの作成](/help/set-up-data/create-schema.md)
+      + [概要](/help/set-up-data/set-up-data-overview.md)
+      + [[スキーマ](/help/set-up-data/create-schema.md)
+      + [IDのマッピング](/help/set-up-data/map-identities.md)
       + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
+      + [ソースの設定](/help/set-up-data/configure-sources.md)
    + チャネル設定 {#channel-configuration}
       + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
    + 決定管理の設定 {#decision-management-configuration}
