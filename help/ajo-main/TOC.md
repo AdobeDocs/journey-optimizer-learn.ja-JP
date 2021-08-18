@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
 source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 90%
    + データ設定 {#data-configuration}
       + [概要](/help/set-up-data/set-up-data-overview.md)
       + [スキーマの作成](/help/set-up-data/create-schema.md)
-      + [IDのマッピング](/help/set-up-data/map-identities.md)
+      + [ID のマッピング](/help/set-up-data/map-identities.md)
       + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [データソースの設定](/help/set-up-data/configure-data-sources.md)
    + チャネル設定 {#channel-configuration}
@@ -50,7 +50,7 @@ ht-degree: 90%
    + [使用例 - セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
    + [使用例 - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
    + [使用例 - セグメントを選定](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [使用例 — バーストメッセージ](/help/create-journeys/use-case-read-burst-message.md)
+   + [ユースケース - バーストメッセージ](/help/create-journeys/use-case-read-burst-message.md)
    + [ジャーニーのテスト](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
 + レポートと監視 {#report-and-monitor}
