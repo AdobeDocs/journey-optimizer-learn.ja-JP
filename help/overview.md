@@ -3,9 +3,9 @@ title: Journey Optimizer のビデオとチュートリアル
 description: このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '265'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -20,25 +20,25 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ## 最新情報
 
-* **[データの設定 — 概要](/help/set-up-data/set-up-data-overview.md)**
+* **[データの設定 - 概要](/help/set-up-data/set-up-data-overview.md)**
 
-   *リアルタイム顧客プロファイルデータと、Journey Optimizerの顧客プロファイルデータを設定するために必要な手順について説明します。*
+   *リアルタイム顧客プロファイルデータと、Journey Optimizer の顧客プロファイルデータを設定するために必要な手順について説明します。*
 
-* **[IDのマッピング](/help/set-up-data/map-identities.md)**
+* **[ID のマッピング](/help/set-up-data/map-identities.md)**
 
-   *スキーマフィールドにIDとしてラベルを付ける方法とタイミング、名前空間の作成方法、IDプライマリにする方法、IDデータの取得と検証方法について説明します。*
+   *スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間を作成する方法、ID プライマリにするタイミングおよび ID データを取得して検証する方法について説明します。*
 
 * **[データソースの設定](/help/set-up-data/configure-data-sources.md)**
 
-   *ソースコネクタについて、およびJourney Optimizerでのソースコネクタの設定方法について説明します*
+   *ソースコネクタと、Journey Optimizer でソースコネクタを設定する方法について説明します*
 
 * **[ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)**
 
-   *ジャーニーキャンバスでのジャーニー構築の基本を理解します。*
+   *ジャーニーキャンバスでジャーニーを構築する基本を理解します。*
 
-* **[使用例 — バーストメッセージ](/help/create-journeys/use-case-read-burst-message.md)**
+* **[ユースケース - バーストメッセージ](/help/create-journeys/use-case-read-burst-message.md)**
 
-   *バーストメッセージの該当する使用例を理解します。バーストメッセージのジャーニーを設定する方法と適用するベストプラクティスを説明します。*
+   *バーストメッセージに適用できるユースケースを理解します。バーストメッセージのジャーニーを設定する方法と適用するベストプラクティスを説明します。*
 
 ## スタッフのおすすめ
 
