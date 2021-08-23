@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: ht
-source-wordcount: '161'
-ht-degree: 100%
+source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+workflow-type: tm+mt
+source-wordcount: '163'
+ht-degree: 98%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 100%
    + 決定管理の設定 {#decision-management-configuration}
    + ジャーニーの設定{#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
+      + [イベントの作成](/help/set-up-journeys/create-events.md)
       + [アクションの作成](/help/set-up-journeys/create-actions.md)
 + [セグメントの作成](/help/set-up-resources/create-segments.md)
 + メッセージの作成 {#create-messages}
