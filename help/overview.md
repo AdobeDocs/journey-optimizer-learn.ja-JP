@@ -2,10 +2,10 @@
 title: Journey Optimizer のビデオとチュートリアル
 description: このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 93%
 
 ---
 
@@ -19,6 +19,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 
 ## 最新情報
+
+* ** [イベントを作成](/help/set-up-journeys/create-events.md)**
+
+   *イベントの設定、ストリーミングエンドポイントとイベントのペイロードの指定の方法について説明します。*
 
 * **[データの設定 - 概要](/help/set-up-data/set-up-data-overview.md)**
 
