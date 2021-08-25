@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 98%
@@ -19,22 +19,22 @@ ht-degree: 98%
    + [Journey Optimizer 概要第 2 部](/help/introduction/journey-optimizer-overview-part-2.md)
    + [主な機能とユーザーインターフェイス](/help/introduction/key-capabilities-and-user-interface.md)
    + [アーキテクチャ](/help/introduction/architecture.md)
-+ はじめに {#get-started}
++ アクセス制御 {#access-control}
    + [アクセス管理](/help/set-up-access/access-management.md)
    + [サンドボックスの作成と管理](/help/set-up-access/create-and-manage-sandboxes.md)
-   + データ設定 {#data-configuration}
-      + [概要](/help/set-up-data/set-up-data-overview.md)
-      + [スキーマの作成](/help/set-up-data/create-schema.md)
-      + [ID のマッピング](/help/set-up-data/map-identities.md)
-      + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [データソースの設定](/help/set-up-data/configure-data-sources.md)
-   + チャネル設定 {#channel-configuration}
-      + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
-   + 決定管理の設定 {#decision-management-configuration}
-   + ジャーニーの設定{#journey-configuration}
-      + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
-      + [イベントの作成](/help/set-up-journeys/create-events.md)
-      + [アクションの作成](/help/set-up-journeys/create-actions.md)
++ データ設定 {#data-configuration}
+   + [概要](/help/set-up-data/set-up-data-overview.md)
+   + [スキーマの作成](/help/set-up-data/create-schema.md)
+   + [ID のマッピング](/help/set-up-data/map-identities.md)
+   + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [データソースの設定](/help/set-up-data/configure-data-sources.md)
++ チャネル設定 {#channel-configuration}
+   + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
++ 決定管理の設定 {#decision-management-configuration}
++ ジャーニーの設定{#journey-configuration}
+   + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
+   + [イベントの作成](/help/set-up-journeys/create-events.md)
+   + [アクションの作成](/help/set-up-journeys/create-actions.md)
 + [セグメントの作成](/help/set-up-resources/create-segments.md)
 + メッセージの作成 {#create-messages}
    + [メッセージエディターでの電子メールコンテンツの作成](/help/create-messages/create-email-content-with-the-message-editor.md)
