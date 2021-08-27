@@ -2,7 +2,7 @@
 title: Journey Optimizer のビデオとチュートリアル
 description: このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
+source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -24,7 +24,7 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
    *イベントの設定、ストリーミングエンドポイントとイベントのペイロードの指定の方法について説明します。*
 
-* **[データソースの設定](/help/set-up-data/configure-source-connectors.md)**
+* **[データソースの設定](/help/set-up-journeys/configure-data-sources.md)**
 
    *ソースコネクタと、Journey Optimizer でソースコネクタを設定する方法について説明します*
 
