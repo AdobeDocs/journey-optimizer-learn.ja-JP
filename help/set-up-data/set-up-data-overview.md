@@ -3,15 +3,15 @@ title: データの設定 - 概要
 description: リアルタイム顧客プロファイルデータと、Journey Optimizer の顧客プロファイルデータを設定するために必要な手順について説明します。
 kt: 7855
 thumbnail: 335878.jpg
-feature: スキーマ
+feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 203f391d8216ff55b1b8b455d3789f5fd9060126
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 * [スキーマの作成](/help/set-up-data/create-schema.md)
 * [ID のマッピング](/help/set-up-data/map-identities.md)
 * [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
-* [ソースの設定](/help/set-up-data/configure-data-sources.md)
+* [ソースの設定](/help/set-up-data/configure-source-connectors.md)
