@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: acbdb0e3fa0da0cf7af56b3fdecd9662010e5d9b
+source-git-commit: 7b51c728a8c73a05e89f18e9e7c908a9f835f818
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 95%
+source-wordcount: '190'
+ht-degree: 97%
 
 ---
 
@@ -31,7 +31,16 @@ ht-degree: 95%
 + チャネル設定 {#channel-configuration}
    + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
 + 決定管理の設定 {#decision-management-configuration}
-   + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ja)
+   + [ [!DNL Offer Decisioning]の概要](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [ [!DNL Offer Decisioning] のデモ](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [プレースメントの作成](/help/set-up-decision-management/create-placements.md)
+   + [ルールの作成](/help/set-up-decision-management/create-rules.md)
+   + [タグの作成](/help/set-up-decision-management/create-tags.md)
+   + [パーソナライズされたオファーの作成](/help/set-up-decision-management/create-personalized-offers.md)
+   + [フォールバックオファーの作成](/help/set-up-decision-management/create-fallback-offers.md)
+   + [コレクションの作成](/help/set-up-decision-management/create-collections.md)
+   + [オファーアクティビティの作成](/help/set-up-decision-management/create-offer-activities.md)
+   + [意思決定 API を使用したオファーの配信](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + ジャーニーの設定{#journey-configuration}
    + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
    + [イベントの作成](/help/set-up-journeys/create-events.md)
