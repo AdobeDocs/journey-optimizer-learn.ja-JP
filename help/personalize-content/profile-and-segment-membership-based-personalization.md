@@ -3,16 +3,16 @@ title: パーソナライゼーションのためのプロファイルとセグ�
 description: プロファイルベースのパーソナライゼーションをメッセージに追加する方法と、セグメントメンバーシップをパーソナライゼーションブロックの前提条件として使用する方法について説明します。
 kt: 8024
 thumbnail: 334078.jpg
-feature: パーソナライゼーション
+feature: Personalization
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
 source-git-commit: 4d8bf022ca43aa219719140f5b72bccf50c700d7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '113'
+ht-degree: 100%
 
 ---
 
