@@ -3,9 +3,9 @@ title: Journey Optimizer のビデオとチュートリアル
 description: このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 79%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer は、企業が顧客に対して、連続性がありコンテキストに沿う、パーソナライズされたエクスペリエンスを提供するのに役立ちます。カスタマージャーニーとは、顧客がブランドとやり取りするプロセス全体を指します。顧客との最初の連絡から、顧客がサイトを離れるまでの間です。
+Journey Optimizer は、企業が顧客に対して、連続性がありコンテキストに沿う、パーソナライズされたエクスペリエンスを提供するのに役立ちます。カスタマージャーニーとは、顧客がブランドと最初に接触してからサイトを離れるまでの間にブランドとやり取りする過程全体のことです。
 
-このユーザガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
+このユーザーガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 
 ## 最新情報
 
 * **[イベントの作成](/help/set-up-journeys/create-events.md)**
 
-   *イベントの設定、ストリーミングエンドポイントとイベントのペイロードの指定の方法について説明します。*
+   *イベントの設定、ストリーミングエンドポイントとイベントペイロードの指定を行う方法を説明します。*
 
 * **[データソースの設定](/help/set-up-journeys/configure-data-sources.md)**
 
