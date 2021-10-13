@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 7116a20e-f46a-4676-8b16-21699723828a
 source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ ht-degree: 91%
 
 ## その他のリソース
 
-* [セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/segments/creating-a-segment.html)
+* [セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/segments/creating-a-segment.html?lang=ja)
 * [ジャーニーでのセグメントの使用](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html?lang=ja)
 * [ジャーニーのデザイン方法を説明します](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer.html?lang=ja)
