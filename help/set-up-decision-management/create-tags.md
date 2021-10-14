@@ -6,7 +6,7 @@ kt: 6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 # タグの作成
 
-[!DNL Offer Decisioning] でタグを作成する方法を説明します。 タグは、オファーのオプションの構成要素コンポーネントです。これらを使用すると、オファーを整理して、動的なコレクションにグループ化できます。
+[!DNL Offer Decisioning] でタグを作成する方法を説明します。 タグは、オファーのオプションの構成要素です。これらを使用すると、オファーを整理して、動的なコレクションにグループ化できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
 

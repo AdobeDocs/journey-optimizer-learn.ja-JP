@@ -1,5 +1,5 @@
 ---
-title: Adobe Journey Optimizer の紹介
+title: Adobe Journey Optimizer の概要
 description: Adobe Journey Optimizer とは何か、このアプリケーションでビジネス上のどのような課題が解決されるのか、主要なユースケースは何かを説明します。
 kt: 7517
 thumbnail: 333745.jpg
@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: 74369d03b19125ebf26c708caf1cc4535cb09c38
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 
