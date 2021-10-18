@@ -5,7 +5,7 @@ user-guide-description: これが Journey Optimizer 学習チュートリアル�
 source-git-commit: 73c14dba1d95e0bdd369ee5530fc0c3f763be385
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 97%
 + チャネル設定 {#channel-configuration}
    + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
 + 決定管理の設定 {#decision-management-configuration}
-   + [ [!DNL Offer Decisioning]の概要](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [ [!DNL Offer Decisioning] の概要](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [ [!DNL Offer Decisioning] のデモ](/help/set-up-decision-management/demo-of-offer-decisioning.md)
    + [プレースメントの作成](/help/set-up-decision-management/create-placements.md)
    + [ルールの作成](/help/set-up-decision-management/create-rules.md)
@@ -40,7 +40,7 @@ ht-degree: 97%
    + [フォールバックオファーの作成](/help/set-up-decision-management/create-fallback-offers.md)
    + [コレクションの作成](/help/set-up-decision-management/create-collections.md)
    + [オファーアクティビティの作成](/help/set-up-decision-management/create-offer-activities.md)
-   + [意思決定 API を使用したオファーの配信](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
+   + [決定 API を使用したオファーの配信](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + ジャーニーの設定{#journey-configuration}
    + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
    + [イベントの作成](/help/set-up-journeys/create-events.md)
