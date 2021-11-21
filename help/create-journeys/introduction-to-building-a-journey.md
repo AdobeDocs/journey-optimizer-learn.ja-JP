@@ -3,14 +3,15 @@ title: ジャーニー構築の概要
 description: ジャーニーキャンバスでジャーニーを構築する基本を理解します。
 kt: 7530
 thumbnail: 334522.jpg
-feature: ジャーニー
+feature: Journeys
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
-workflow-type: ht
-source-wordcount: '33'
+exl-id: dc510572-96c8-42bd-b213-e8738510bb0c
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: tm+mt
+source-wordcount: '32'
 ht-degree: 100%
 
 ---
