@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 73c14dba1d95e0bdd369ee5530fc0c3f763be385
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 100%
+source-wordcount: '194'
+ht-degree: 98%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 100%
    + [ソースコネクタの設定](/help/set-up-data/configure-source-connectors.md)
 + チャネル設定 {#channel-configuration}
    + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
+   + [CName サブドメインをデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 決定管理の設定 {#decision-management-configuration}
    + [ [!DNL Offer Decisioning] の概要](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [ [!DNL Offer Decisioning] のデモ](/help/set-up-decision-management/demo-of-offer-decisioning.md)
@@ -60,7 +61,7 @@ ht-degree: 100%
    + [使用例 - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
    + [使用例 - セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
    + [使用例 - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
-   + [使用例 - セグメントを選定](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [ユースケース - セグメントの選定](/help/create-journeys/use-case-read-segment-qualification.md)
    + [ユースケース - バーストメッセージ](/help/create-journeys/use-case-burst-message.md)
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)

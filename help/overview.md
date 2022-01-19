@@ -2,10 +2,10 @@
 title: Journey Optimizer のビデオとチュートリアル
 description: このユーザーガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ## 最新情報
 
+* **[CName サブドメインをデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+
+   *CNAME を使用してサブドメイン固有のレコードを指すAdobeを作成する方法を説明します。*
+
 * **[イベントの作成](/help/set-up-journeys/create-events.md)**
 
    *イベントの設定、ストリーミングエンドポイントとイベントペイロードの指定を行う方法を説明します。*
@@ -28,9 +32,6 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
    *ソースコネクタと、Journey Optimizer でソースコネクタを設定する方法について説明します*
 
-* **[ユースケース - バーストメッセージ](/help/create-journeys/use-case-burst-message.md)**
-
-   *バーストメッセージに適用できるユースケースを理解します。バーストメッセージのジャーニーを設定する方法と適用するベストプラクティスを説明します。*
 
 ## スタッフのおすすめ
 
