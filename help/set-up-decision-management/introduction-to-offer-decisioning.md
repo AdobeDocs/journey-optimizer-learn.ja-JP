@@ -5,9 +5,9 @@ feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -22,8 +22,3 @@ Adobe Experience Platform 上に構築されたアプリケーションサービ
 >[!INFO]
 >
 > このビデオは、「[マーケター向け Offer Decisioning の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)」コースの一部であり、Experience League から無料で入手できます。
-
-## その他のリソース
-
-* [  [!DNL Offer Decisioning]  のデモ（ビデオ）](demo-of-offer-decisioning.md)
-* [[!DNL Offer Decisioning] （ドキュメント）](https://experienceleague.adobe.com/docs/offer-decisioning/using/get-started/starting-offer-decisioning.html?lang=ja)

@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 20dfc3a7-aa09-4ca2-a02e-3134fd680e2b
-source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '67'
+ht-degree: 80%
 
 ---
 
@@ -22,7 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12)
 
-## その他のリソース
-
-* [Journey Optimizer でのパーソナライゼーションの概要](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html?lang=ja)
-* [テンプレート言語およびヘルパー関数](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=ja)
+詳しくは、製品ガイドを参照してください。 [テンプレート言語とヘルパー関数](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=ja).

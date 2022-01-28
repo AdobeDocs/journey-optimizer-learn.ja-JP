@@ -1,13 +1,13 @@
 ---
 title: コレクションの作成
 description: ' [!DNL Offer Decisioning] でコレクションを作成する方法を説明します。コレクションには実施要件ルールが関連付けられているので、関係のある顧客にのみコレクションを表示することができます。'
-feature: Offers
+feature: Offers, Collections
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,3 @@ ht-degree: 100%
 >[!INFO]
 >
 > このビデオは、「[マーケター向け Offer Decisioning の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)」コースの一部であり、Experience League から無料で入手できます。
-
-
-## その他のリソース
-
-* [コレクションの作成（ドキュメント）](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-collections.html?lang=ja)
-* [API を使用したコレクションの作成（ドキュメント）](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/collections/create.html?lang=ja)
