@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -30,9 +30,8 @@ ht-degree: 88%
    + [ソースコネクタの設定](/help/set-up-data/configure-source-connectors.md)
 + チャネル設定 {#channel-configuration}
    + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
-   + [CName サブドメインをデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)
+   + [CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 意思決定管理の設定 {#decision-management-configuration}
-
    + [ [!DNL Offer Decisioning] の概要](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [ [!DNL Offer Decisioning] のデモ](/help/set-up-decision-management/demo-of-offer-decisioning.md)
    + [プレースメントの作成](/help/set-up-decision-management/create-placements.md)
@@ -59,11 +58,11 @@ ht-degree: 88%
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
 + ジャーニーの作成{#create-journeys}
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [使用例 — トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
-   + [使用例 — セグメントを読み取り](/help/create-journeys/use-case-read-segment.md)
-   + [使用例 — ビジネスイベント](/help/create-journeys/use-case-business-event.md)
-   + [使用例 — セグメントの選定](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [使用例 — バーストメッセージ](/help/create-journeys/use-case-burst-message.md)
+   + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
+   + [ユースケース - セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
+   + [ユースケース - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
+   + [ユースケース - セグメントの選定](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [ユースケース - バーストメッセージ](/help/create-journeys/use-case-burst-message.md)
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
 + レポートと監視 {#report-and-monitor}
