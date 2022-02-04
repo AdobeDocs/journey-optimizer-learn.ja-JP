@@ -4,9 +4,9 @@ description: このユーザーガイドには、Adobe Journey Optimizer の特�
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ## 最新情報
 
-* **[CName サブドメインをデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+* **[CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
-   *CNAME を使用してサブドメイン固有のレコードを指すAdobeを作成する方法を説明します。*
+   *CNAME を使用してサブドメインを作成しアドビ固有のレコードを指すようにする方法を説明します。*
 
 * **[イベントの作成](/help/set-up-journeys/create-events.md)**
 
