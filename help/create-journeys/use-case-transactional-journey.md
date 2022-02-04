@@ -1,5 +1,5 @@
 ---
-title: 使用例 - トランザクションジャーニー
+title: ユースケース - トランザクションジャーニー
 description: トランザクションジャーニーに適用できる使用例を理解します。 トランザクションジャーニーを構築する方法と適用するベストプラクティスについて説明します。
 kt: 8030
 thumbnail: 334202.jpg
@@ -10,13 +10,13 @@ role: User
 level: Beginner
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
 ---
 
-# 使用例 - トランザクションジャーニー
+# ユースケース - トランザクションジャーニー
 
 トランザクションジャーニーに適用できる使用例を理解します。 トランザクションジャーニーを構築する方法と適用するベストプラクティスについて説明します。
 
