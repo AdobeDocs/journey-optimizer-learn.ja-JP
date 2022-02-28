@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: a663d531061ef343d10b837c447242b89f020eba
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 100%
@@ -32,16 +32,16 @@ ht-degree: 100%
    + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
    + [CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 意思決定管理の設定 {#decision-management-configuration}
-   + [ [!DNL Offer Decisioning] の概要](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
-   + [ [!DNL Offer Decisioning] のデモ](/help/set-up-decision-management/demo-of-offer-decisioning.md)
-   + [プレースメントの作成](/help/set-up-decision-management/create-placements.md)
-   + [ルールの作成](/help/set-up-decision-management/create-rules.md)
-   + [タグの作成](/help/set-up-decision-management/create-tags.md)
-   + [パーソナライズされたオファーの作成](/help/set-up-decision-management/create-personalized-offers.md)
-   + [フォールバックオファーの作成](/help/set-up-decision-management/create-fallback-offers.md)
-   + [コレクションの作成](/help/set-up-decision-management/create-collections.md)
-   + [オファーアクティビティの作成](/help/set-up-decision-management/create-offer-activities.md)
-   + [決定 API を使用したオファーの配信](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
+   + [ [!DNL Offer Decisioning] の概要](/help/decision-management/introduction-to-offer-decisioning.md)
+   + [ [!DNL Offer Decisioning] のデモ](/help/decision-management/demo-of-offer-decisioning.md)
+   + [プレースメントの作成](/help/decision-management/create-placements.md)
+   + [ルールの作成](/help/decision-management/create-rules.md)
+   + [タグの作成](/help/decision-management/create-tags.md)
+   + [パーソナライズされたオファーの作成](/help/decision-management/create-personalized-offers.md)
+   + [フォールバックオファーの作成](/help/decision-management/create-fallback-offers.md)
+   + [コレクションの作成](/help/decision-management/create-collections.md)
+   + [オファーアクティビティの作成](/help/decision-management/create-offer-activities.md)
+   + [決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + ジャーニーの設定{#journey-configuration}
    + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
    + [イベントの作成](/help/set-up-journeys/create-events.md)
