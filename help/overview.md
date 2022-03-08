@@ -3,10 +3,10 @@ title: Journey Optimizer のビデオとチュートリアル
 description: このユーザーガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '215'
+ht-degree: 86%
 
 ---
 
@@ -21,6 +21,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ## 最新情報
 
+* **[パーソナライゼーションライブラリで保存済みの式を使用および管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+
+   *保存したパーソナライゼーションライブラリ項目をメッセージで使用する方法と、パーソナライゼーションライブラリ項目を作成および管理する方法について説明します。*
+
 * **[CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *CNAME を使用してサブドメインを作成しアドビ固有のレコードを指すようにする方法を説明します。*
@@ -28,10 +32,6 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 * **[イベントの作成](/help/set-up-journeys/create-events.md)**
 
    *イベントの設定、ストリーミングエンドポイントとイベントペイロードの指定を行う方法を説明します。*
-
-* **[データソースの設定](/help/set-up-journeys/configure-data-sources.md)**
-
-   *ソースコネクタと、Journey Optimizer でソースコネクタを設定する方法について説明します*
 
 
 ## スタッフのおすすめ
@@ -65,7 +65,3 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
     <p>
   </td>
 </table>
-
-
-
-
