@@ -3,10 +3,10 @@ title: Journey Optimizer のビデオとチュートリアル
 description: このユーザーガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
+source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 86%
+source-wordcount: '210'
+ht-degree: 81%
 
 ---
 
@@ -21,6 +21,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ## 最新情報
 
+* **[購読とランディングページ](/help/subscriptions-and-landing-pages.md)**
+
+   *購読を設定し、ランディングページを作成する方法について説明します。*
+
 * **[パーソナライゼーションライブラリで保存済みの式を使用および管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
    *保存したパーソナライゼーションライブラリ項目をメッセージで使用する方法と、パーソナライゼーションライブラリ項目を作成および管理する方法について説明します。*
@@ -28,11 +32,6 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 * **[CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *CNAME を使用してサブドメインを作成しアドビ固有のレコードを指すようにする方法を説明します。*
-
-* **[イベントの作成](/help/set-up-journeys/create-events.md)**
-
-   *イベントの設定、ストリーミングエンドポイントとイベントペイロードの指定を行う方法を説明します。*
-
 
 ## スタッフのおすすめ
 
