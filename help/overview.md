@@ -6,7 +6,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 81%
+ht-degree: 95%
 
 ---
 
@@ -25,9 +25,9 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
    *購読を設定し、ランディングページを作成する方法について説明します。*
 
-* **[パーソナライゼーションライブラリで保存済みの式を使用および管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+* **[パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *保存したパーソナライゼーションライブラリ項目をメッセージで使用する方法と、パーソナライゼーションライブラリ項目を作成および管理する方法について説明します。*
+   *保存済みのパーソナライゼーションライブラリ項目をメッセージで使用する方法と、パーソナライゼーションライブラリ項目を作成および管理する方法について説明します。*
 
 * **[CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 

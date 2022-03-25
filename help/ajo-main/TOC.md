@@ -5,7 +5,7 @@ user-guide-description: これが Journey Optimizer 学習チュートリアル�
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -56,9 +56,9 @@ ht-degree: 95%
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [パーソナライゼーションに関するコンテキストイベント情報の使用](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
-   + [パーソナライゼーションライブラリで保存済みの式を使用および管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
+   + [パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + [購読とランディングページ](/help/subscriptions-and-landing-pages.md)
-+ ジャーニーの作成{#create-journeys}
++ ジャーニーの作成 {#create-journeys}
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
    + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
    + [ユースケース - セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
