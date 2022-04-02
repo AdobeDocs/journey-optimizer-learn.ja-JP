@@ -1,14 +1,14 @@
 ---
 title: マーケター向けMobile機能
-description: Adobe Journey Optimizerのモバイル機能について （60～160 文字）
+description: Adobe Journey Optimizerがマーケターに提供するモバイル機能を把握します。
 feature: SMS, In App, Push
 role: Leader, User
 level: Beginner
 kt: 10169
 thumbnail: 342102.jpeg
-source-git-commit: 84e9f93b3bc22a6ebbe2993df28a1efa9ff88b84
+source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # マーケター向けMobile機能
 
-Adobe Journey Optimizerのモバイル機能について
+Adobe Journey Optimizerがマーケターに提供するモバイル機能を把握します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342102?quality=12&learn=on)
