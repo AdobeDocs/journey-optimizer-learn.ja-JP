@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
+source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 92%
+source-wordcount: '236'
+ht-degree: 88%
 
 ---
 
@@ -46,7 +46,10 @@ ht-degree: 92%
    + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
    + [イベントの作成](/help/set-up-journeys/create-events.md)
    + [アクションの作成](/help/set-up-journeys/create-actions.md)
-+ [セグメントの作成](/help/set-up-resources/create-segments.md)
++ 顧客プロファイル、セグメント、サブスクリプション {profiles-segments-subscriptions}
+   + [統合プロファイルとセグメント化 — 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [セグメントの作成](/help/set-up-resources/create-segments.md)
+   + [購読とランディングページ](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + メッセージの作成 {#create-messages}
    + [マッサージデザイナーの概要](/help/create-messages/message-designer-overview.md)
@@ -61,7 +64,6 @@ ht-degree: 92%
    + [パーソナライゼーションに関するコンテキストイベント情報の使用](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ [購読とランディングページ](/help/subscriptions-and-landing-pages.md)
 + ジャーニーの作成 {#create-journeys}
    + [ジャーニーキャンバスの概要](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
