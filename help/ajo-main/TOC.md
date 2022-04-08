@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 3be357a7f91c08bf768d837f32c242ff8b181749
+source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 88%
+source-wordcount: '239'
+ht-degree: 86%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 88%
    + [CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 意思決定管理の設定 {#decision-management-configuration}
    + [ [!DNL Offer Decisioning] の概要](/help/decision-management/introduction-to-offer-decisioning.md)
-   + [ [!DNL Offer Decisioning] のデモ](/help/decision-management/demo-of-offer-decisioning.md)
+   + [意思決定管理機能のデモ](/help/decision-management/demo-of-offer-decisioning.md)
    + [プレースメントの作成](/help/decision-management/create-placements.md)
    + [ルールの作成](/help/decision-management/create-rules.md)
    + [タグの作成](/help/decision-management/create-tags.md)
