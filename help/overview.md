@@ -4,9 +4,9 @@ description: このユーザーガイドには、Adobe Journey Optimizer の特�
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '210'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ## 最新情報
 
-* **[購読とランディングページ](/help/subscriptions-and-landing-pages.md)**
+* **[サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)**
 
-   *購読を設定し、ランディングページを作成する方法について説明します。*
+   *サブスクリプションを設定し、ランディングページを作成する方法について説明します。*
 
 * **[パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
