@@ -5,7 +5,7 @@ user-guide-description: これが Journey Optimizer 学習チュートリアル�
 source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 86%
+ht-degree: 97%
 
 ---
 
@@ -47,17 +47,17 @@ ht-degree: 86%
    + [イベントの作成](/help/set-up-journeys/create-events.md)
    + [アクションの作成](/help/set-up-journeys/create-actions.md)
 + 顧客プロファイル、セグメントおよびサブスクリプション {#profiles-segments-subscriptions}
-   + [統合プロファイルとセグメント化 — 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
-   + [購読とランディングページ](/help/subscriptions-and-landing-pages.md)
+   + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + メッセージの作成 {#create-messages}
-   + [マッサージデザイナーの概要](/help/create-messages/message-designer-overview.md)
+   + [Message Designer の概要](/help/create-messages/message-designer-overview.md)
    + [メッセージエディターでの電子メールコンテンツの作成](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [HTML 電子メールコンテンツの読み込みと作成](/help/create-messages/import-and-author-html-email-content.md)
    + [プレビュー、配達確認、公開](/help/create-messages/preview-proof-and-publish.md)
-   + [マーケター向けMobile機能](/help/create-messages/mobile-capabilities.md)
-   + [デザイナー向けのMobile機能](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [マーケター向けモバイル機能](/help/create-messages/mobile-capabilities.md)
+   + [デザイナー向けモバイル機能](/help/create-messages/mobile-capabilities-for-developers.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [プロファイルとセグメントのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
