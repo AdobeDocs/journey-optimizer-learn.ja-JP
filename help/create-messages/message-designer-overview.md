@@ -1,21 +1,21 @@
 ---
-title: メッセージデザイナーの概要
-description: Adobe Journey Optimizer Message Designer の主な機能と機能を理解します。
+title: Message Designer の概要
+description: Adobe Journey Optimizer Message Designer の主な特長と機能を説明します。
 feature: Email Design
 role: User
 level: Beginner
 kt: 10167
 thumbnail: 342100.jpeg
-source-git-commit: 43d3e290d3e481fd8ae88813fedd48692a85f118
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: d1fc47f0-15f3-47d1-bbfd-b3a0c14aa22c
+source-git-commit: ee8069e78c255e9efdad5dc6a8765aa385c07114
+workflow-type: ht
+source-wordcount: '28'
+ht-degree: 100%
 
 ---
 
+# Message Designer の概要
 
-# メッセージデザイナーの概要
-
-Adobe Journey Optimizer Message Designer の主な機能と機能を理解します。
+Adobe Journey Optimizer Message Designer の主な特長と機能を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342100?quality=12&learn=on)
