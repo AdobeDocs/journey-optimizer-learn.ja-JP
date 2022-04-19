@@ -1,20 +1,20 @@
 ---
 title: プレースメントの作成
-description: Offer Decisioning でプレースメントを作成する方法を説明します。 プレースメントは、オファーに必須の構成要素の 1 つです。
+description: 決定管理用の配置を作成する方法を説明します。 プレースメントは、オファーに必須の構成要素の 1 つです。
 feature: Offers
 kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+source-git-commit: 2b1b6690604e0ce31eb2028c3ad6ad39cc8e820e
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 86%
 
 ---
 
 # プレースメントの作成
 
-[!DNL Offer Decisioning] で[プレースメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=ja)を作成する方法について説明します。プレースメントは、オファーの構成要素の 1 つです。 プレースメントは、コンテンツタイプとチャネルの組み合わせです。例えば、メール内の画像や web サイトの HTML コードなどです。
+作成方法を学ぶ [配置](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=ja) （決定管理）。 プレースメントは、オファーの構成要素の 1 つです。 プレースメントは、コンテンツタイプとチャネルの組み合わせです。例えば、メール内の画像や web サイトの HTML コードなどです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
