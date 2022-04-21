@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
+source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 97%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 97%
    + [パーソナライズされたオファーの作成](/help/decision-management/create-personalized-offers.md)
    + [フォールバックオファーの作成](/help/decision-management/create-fallback-offers.md)
    + [コレクションの作成](/help/decision-management/create-collections.md)
-   + [オファーアクティビティの作成](/help/decision-management/create-offer-activities.md)
+   + [決定の作成](/help/decision-management/create-decisions.md)
    + [決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + ジャーニーの設定{#journey-configuration}
    + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)

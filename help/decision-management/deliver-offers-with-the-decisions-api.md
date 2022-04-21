@@ -1,22 +1,22 @@
 ---
-title: 決定 API を使用したオファーの配信
+title: Decisions Hub API でオファーを配信する
 description: '決定 API を使用して Offer Decisioning のオファーを配信する方法を説明します。 '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 88%
 
 ---
 
 
 # 決定 API を使用したオファーの配信
 
-[意思決定 API を使用して [!DNL Offer Decisioning] オファーを配信](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=ja)する方法について説明します。[!DNL Postman] を使用して、API 呼び出しによるコンテナ ID の取得のデモを行います。次に、アクティビティ ID、プレースメント ID、ID 名前空間および顧客 ID でサンプルの決定 API 呼び出しをカスタマイズして、パーソナライズされたオファーを取得します。パーソナライズされたオファーを決定 API で取得したら、そのオファーコンテンツをマーケティングシステムに統合できます。
+オファーの配信方法を学ぶ [と Decisions Hub API の連携](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=ja). [!DNL Postman] を使用して、API 呼び出しによるコンテナ ID の取得のデモを行います。次に、アクティビティ ID、プレースメント ID、ID 名前空間および顧客 ID でサンプルの決定 API 呼び出しをカスタマイズして、パーソナライズされたオファーを取得します。パーソナライズされたオファーを決定 API で取得したら、そのオファーコンテンツをマーケティングシステムに統合できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 
