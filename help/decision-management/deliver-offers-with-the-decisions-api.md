@@ -6,15 +6,15 @@ feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
+source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 88%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# 決定 API を使用したオファーの配信
+# Decisions Hub API でオファーを配信する
 
 オファーの配信方法を学ぶ [と Decisions Hub API の連携](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=ja). [!DNL Postman] を使用して、API 呼び出しによるコンテナ ID の取得のデモを行います。次に、アクティビティ ID、プレースメント ID、ID 名前空間および顧客 ID でサンプルの決定 API 呼び出しをカスタマイズして、パーソナライズされたオファーを取得します。パーソナライズされたオファーを決定 API で取得したら、そのオファーコンテンツをマーケティングシステムに統合できます。
 
