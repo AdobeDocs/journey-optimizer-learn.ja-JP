@@ -1,24 +1,24 @@
 ---
-title: Offer Decisioning の概要
-description: Adobe Experience Platform 上に構築されたアプリケーションサービスである Offer Decisioning の概要を説明します。
+title: 判定管理機能の概要
+description: Journey Optimizerの意思決定管理機能の概要を説明します。
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+source-git-commit: 8762d5fa187e549df0a6ccda4e42192fda07ebf6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 33%
 
 ---
 
-# [!DNL Offer Decisioning] の概要
+# 判定管理機能の概要
 
-Adobe Experience Platform 上に構築されたアプリケーションサービスである [!DNL Offer Decisioning] の概要を説明します。このビデオでは、[!DNL Offer Decisioning] について、解決されるビジネス上の課題、主要な機能、基本的なアーキテクチャおよび主なユースケースを説明します。
+Journey Optimizerの意思決定管理機能の概要を説明します。 このビデオでは、意思決定管理機能が解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明します。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
 
 >[!INFO]
 >
-> このビデオは、「[マーケター向け Offer Decisioning の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=ja)」コースの一部であり、Experience League から無料で入手できます。
+> このビデオは「[マーケター向け Offer Decisioning の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=ja)」コースの一部であり、Experience League から無料で入手できます。
