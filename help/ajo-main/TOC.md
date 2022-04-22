@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: a2e8cc18c29df09ccd6ae6d0a54c28a04fe8d7bb
+source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 95%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 95%
 + チャネル設定 {#channel-configuration}
    + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
    + [CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)
-+ 意思決定管理の設定 {#decision-management-configuration}
++ 意志決定管理 {#decision-management}
    + [決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
    + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [プレースメントの作成](/help/decision-management/create-placements.md)
