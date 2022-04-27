@@ -1,5 +1,5 @@
 ---
-title: パーソナライゼーションとしてのオファーの追加
+title: メッセージにパーソナライゼーションとしてオファーを追加
 description: Journey Optimizer でメッセージに Offer Decisioning コンポーネントを追加する方法を説明します。
 kt: 8033
 thumbnail: 334088.jpg
@@ -9,14 +9,14 @@ team: PM
 role: User
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: ht
-source-wordcount: '34'
-ht-degree: 100%
+source-git-commit: b566e9cf754e7e0254fda4bee28451d916338b92
+workflow-type: tm+mt
+source-wordcount: '40'
+ht-degree: 65%
 
 ---
 
-# パーソナライゼーションとしてのオファーの追加
+# メッセージにパーソナライゼーションとしてオファーを追加
 
 Journey Optimizer でメッセージに Offer Decisioning コンポーネントを追加する方法を説明します。
 
