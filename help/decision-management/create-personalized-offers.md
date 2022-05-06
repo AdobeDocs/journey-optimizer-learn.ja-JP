@@ -1,21 +1,21 @@
 ---
 title: パーソナライズされたオファーの作成
 seo-title: Create personalized offers for decision management
-description: 意思決定管理用にパーソナライズされたオファーを作成する方法を説明します。 パーソナライズされたオファーには実施要件ルールが関連付けられているので、関係のある顧客にのみオファーを表示することができます。
+description: 意思決定管理のパーソナライズされたオファーを作成する方法を説明します。パーソナライズされたオファーには実施要件ルールが関連付けられているので、関係のある顧客にのみオファーを表示することができます。
 feature: Offers, Personalization
 kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # パーソナライズされたオファーの作成
 
-作成方法を学ぶ [パーソナライズされたオファー](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=ja) （決定管理）。 パーソナライズされたオファーには実施要件ルールが関連付けられているので、関係のある顧客にのみオファーを表示することができます。 例えば、降雪地域の顧客に冬期に限って雪かきショベルのオファーを表示するといったことができます。
+意思決定管理の[パーソナライズされたオファー](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=ja)を作成する方法を説明します。 パーソナライズされたオファーには実施要件ルールが関連付けられているので、関係のある顧客にのみオファーを表示することができます。 例えば、降雪地域の顧客に冬期に限って雪かきショベルのオファーを表示するといったことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 
@@ -23,4 +23,4 @@ ht-degree: 87%
 
 >[!INFO]
 >
-> このビデオは「[マーケター向け Offer Decisioning の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=ja)」コースの一部であり、Experience League から無料で入手できます。
+> このビデオは「[マーケター向け Offer Decisioning の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)」コースの一部であり、Experience League から無料で入手できます。
