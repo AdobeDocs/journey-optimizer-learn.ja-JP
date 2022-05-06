@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
 source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 95%
 + チャネル設定 {#channel-configuration}
    + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
    + [CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)
-+ 意志決定管理 {#decision-management}
-   + [決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
++ 意思決定管理 {#decision-management}
+   + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
    + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [プレースメントの作成](/help/decision-management/create-placements.md)
    + [ルールの作成](/help/decision-management/create-rules.md)
@@ -52,7 +52,7 @@ ht-degree: 95%
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + メッセージの作成 {#create-messages}
-   + [Message Designer の概要](/help/create-messages/message-designer-overview.md)
+   + [メッセージデザイナーの概要](/help/create-messages/message-designer-overview.md)
    + [メッセージエディターでの電子メールコンテンツの作成](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [HTML 電子メールコンテンツの読み込みと作成](/help/create-messages/import-and-author-html-email-content.md)
    + [プレビュー、配達確認、公開](/help/create-messages/preview-proof-and-publish.md)
