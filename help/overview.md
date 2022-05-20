@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer のビデオとチュートリアル
-description: このユーザーガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
+description: Journey Optimizerの利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
-workflow-type: ht
-source-wordcount: '210'
-ht-degree: 100%
+source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+workflow-type: tm+mt
+source-wordcount: '213'
+ht-degree: 91%
 
 ---
 
