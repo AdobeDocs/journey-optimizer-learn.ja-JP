@@ -3,10 +3,10 @@ title: Journey Optimizer のビデオとチュートリアル
 description: Journey Optimizerの利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 91%
+source-wordcount: '214'
+ht-degree: 78%
 
 ---
 
@@ -60,7 +60,7 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
     </a>
     </div>
     <p>
-    <em>このビデオでは、企業が Adobe Journey Optimization の Offer Decisioning、リアルタイムのセグメントの選定、ビジネスイベント管理を使用して、消費者のジャーニーを新たな高みに引き上げる方法を説明します。</em>
+    <em>このビデオでは、企業がAdobe Journey Optimizerの意思決定管理機能、リアルタイムのセグメント認定、ビジネスイベント管理を使用して、コンシューマージャーニーを新たな高みに導く方法を示します。</em>
     <p>
   </td>
 </table>

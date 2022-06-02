@@ -5,10 +5,10 @@ feature: Offers
 kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 08748dd508bfd50ca8a0818af45f9aa7711d4202
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -22,4 +22,4 @@ API を使用したフォールバックオファーの作成方法について�
 
 >[!INFO]
 >
-> このビデオは「[マーケター向け Offer Decisioning の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)」コースの一部であり、Experience League から無料で入手できます。
+> このビデオはコースの一部です。 [マーケター向け決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)(Experience League時に無料で利用可能 )
