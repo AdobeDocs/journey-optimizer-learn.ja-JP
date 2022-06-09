@@ -2,17 +2,17 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
-workflow-type: ht
-source-wordcount: '239'
-ht-degree: 100%
+source-git-commit: 9b05bea0b409ad8d1f9ed39e9261e1cdf5524310
+workflow-type: tm+mt
+source-wordcount: '241'
+ht-degree: 98%
 
 ---
 
 
 # Journey Optimizer 学習チュートリアル {#tutorials}
 
-+ [概要](/help/overview.md)
++ [Journey OptimizerTutorials](/help/overview.md)
 + Journey Optimizer の紹介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer の紹介](/help/introduction/introduction.md)
    + [Journey Optimizer 概要第 1 部](/help/introduction/journey-optimizer-overview-part-1.md)
