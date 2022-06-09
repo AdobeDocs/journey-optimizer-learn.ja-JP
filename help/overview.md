@@ -3,10 +3,10 @@ title: Journey Optimizer のビデオとチュートリアル
 description: Journey Optimizerの利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 78%
+source-wordcount: '394'
+ht-degree: 74%
 
 ---
 
@@ -21,6 +21,8 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ## 最新情報
 
+### チュートリアル
+
 * **[サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)**
 
    *サブスクリプションを設定し、ランディングページを作成する方法について説明します。*
@@ -32,6 +34,13 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 * **[CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *CNAME を使用してサブドメインを作成しアドビ固有のレコードを指すようにする方法を説明します。*
+
+### Experience League ライブイベント
+
+* **[Adobe Journey Optimizerでのプッシュ通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+
+   *このExperience Leagueライブエピソードでは、Adobe Journey Optimizerでのプッシュ通知の一般的な使用例について説明し、Adobe Experience Platformによるプッシュを使用するアプリの設定方法に関する技術的な詳細について説明します。*
+
 
 ## スタッフのおすすめ
 
@@ -63,4 +72,65 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
     <em>このビデオでは、企業がAdobe Journey Optimizerの意思決定管理機能、リアルタイムのセグメント認定、ビジネスイベント管理を使用して、コンシューマージャーニーを新たな高みに導く方法を示します。</em>
     <p>
   </td>
+  </td>
+    <td>
+    <a href="./decision-management/create-decisions.md">
+      <img alt="意思決定管理機能の概要" src="./assets/326961.jpg"/>
+    </a>
+    <div>
+      <a href="./decision-management/create-decisions.md">
+    <strong>意思決定管理機能の概要 </strong>
+    </a>
+    </div>
+    <p>
+    <em>このビデオでは、意思決定管理機能が解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主なユースケースについて説明します。
+
+</em>
+    <p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="./create-journeys/use-case-transactional-journey.md">
+      <img alt="ユースケース - トランザクションジャーニー " src="./assets/334202.jpeg"/>
+    </a>
+    <div>
+      <a href="./create-journeys/use-case-transactional-journey.md">
+    <strong>ユースケース - トランザクションジャーニー </strong>
+    </a>
+    </div>
+    <p>
+    <em>トランザクションジャーニーに適用できる使用例を理解します。 トランザクションジャーニーを構築する方法と適用するベストプラクティスについて説明します。</em>
+    <p>
+  </td>
+    <td>
+    <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
+      <img alt="パーソナライゼーションに関するコンテキストイベント情報の使用" src="./assets/334165.jpg"/>
+    </a>
+    <div>
+      <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
+    <strong>パーソナライゼーションに関するコンテキストイベント情報の使用 </strong>
+    </a>
+    </div>
+    <p>
+    <em>ジャーニーのコンテキストイベント情報を使用してメッセージをパーソナライズする方法を説明します。</em>
+    <p>
+  </td>
+  </td>
+    <td>
+    <a href="./report-and-monitor/live-and-global-reports.md">
+      <img alt="ライブレポートとグローバルレポート" src="./assets/334108.jpg"/>
+    </a>
+    <div>
+      <a href="./report-and-monitor/live-and-global-reports.md">
+    <strong>ライブレポートとグローバルレポート </strong>
+    </a>
+    </div>
+    <p>
+    <em>ライブレポートとグローバルレポートの違い、ジャーニーとメッセージ固有のレポートにアクセスして分析する方法およびレポートダッシュボードを変更する方法について説明します。
+
+</em>
+    <p>
+  </td>
+</tr>
 </table>
