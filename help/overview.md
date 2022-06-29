@@ -3,10 +3,10 @@ title: Journey Optimizer のビデオとチュートリアル
 description: Journey Optimizerの利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
+source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 74%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ### チュートリアル
 
+* **[メッセージ頻度ルールの設定](help/administration/configure-frequency-rules.md)**
+
+   *頻度ルールを作成、アクティブ化、テストおよびレポートする方法について説明します。 メッセージに継承する頻度ルールを決定する方法を説明します*
+
 * **[サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)**
 
    *サブスクリプションを設定し、ランディングページを作成する方法について説明します。*
@@ -31,16 +35,11 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
    *保存済みのパーソナライゼーションライブラリ項目をメッセージで使用する方法と、パーソナライゼーションライブラリ項目を作成および管理する方法について説明します。*
 
-* **[CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)**
-
-   *CNAME を使用してサブドメインを作成しアドビ固有のレコードを指すようにする方法を説明します。*
-
 ### Experience League ライブイベント
 
-* **[Adobe Journey Optimizerでのプッシュ通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+* **[Adobe Journey Optimizerでのプッシュ通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ja)**
 
    *このExperience Leagueライブエピソードでは、Adobe Journey Optimizerでのプッシュ通知の一般的な使用例について説明し、Adobe Experience Platformによるプッシュを使用するアプリの設定方法に関する技術的な詳細について説明します。*
-
 
 ## スタッフのおすすめ
 
