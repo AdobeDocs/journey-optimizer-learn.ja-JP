@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
+source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 94%
+source-wordcount: '256'
+ht-degree: 92%
 
 ---
 
@@ -60,6 +60,7 @@ ht-degree: 94%
    + [マーケター向けモバイル機能](/help/create-messages/mobile-capabilities.md)
    + [デザイナー向けモバイル機能](/help/create-messages/mobile-capabilities-for-developers.md)
    + [SMS メッセージの設定、作成および配信](/help/create-messages/configure-author-and-deliver-sms-messages.md)
+   + [SMS の受信キーワードのサポート](/help/create-messages/inbound-keyword-support-for-sms.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [プロファイルとセグメントのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
