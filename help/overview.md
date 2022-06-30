@@ -3,10 +3,10 @@ title: Journey Optimizer のビデオとチュートリアル
 description: Journey Optimizerの利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
+source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 62%
+source-wordcount: '400'
+ht-degree: 61%
 
 ---
 
@@ -34,10 +34,6 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 * **[メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)**
 
    *頻度ルールを作成、アクティブ化、テスト、およびレポートする方法について説明します。 メッセージに継承する頻度ルールを決定する方法を説明します。*
-
-* **[サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)**
-
-   *サブスクリプションを設定し、ランディングページを作成する方法について説明します。*
 
 ### Experience League ライブイベント
 
