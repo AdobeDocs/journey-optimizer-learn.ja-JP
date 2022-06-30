@@ -3,10 +3,10 @@ title: Journey Optimizer のビデオとチュートリアル
 description: Journey Optimizerの利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 70%
+source-wordcount: '396'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ### チュートリアル
 
+* **[SMS メッセージの設定、作成および配信](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *SMS メッセージを設定、作成、およびカスタマージャーニーに含める方法について説明します。*
+
 * **[メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)**
 
    *頻度ルールを作成、アクティブ化、テスト、およびレポートする方法について説明します。 メッセージに継承する頻度ルールを決定する方法を説明します。*
@@ -30,10 +34,6 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 * **[サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)**
 
    *サブスクリプションを設定し、ランディングページを作成する方法について説明します。*
-
-* **[パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *保存済みのパーソナライゼーションライブラリ項目をメッセージで使用する方法と、パーソナライゼーションライブラリ項目を作成および管理する方法について説明します。*
 
 ### Experience League ライブイベント
 
