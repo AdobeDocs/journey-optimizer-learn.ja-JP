@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer のビデオとチュートリアル
-description: Journey Optimizerの利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
+description: Journey Optimizer の利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '400'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -25,21 +25,21 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 * **[SMS メッセージの設定、作成および配信](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
-   *SMS メッセージを設定、作成、およびカスタマージャーニーに含める方法について説明します。*
+   *SMS メッセージを設定、作成およびカスタマージャーニーに含める方法について説明します。*
 
 * **[SMS の受信キーワードのサポート](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *SMS のネイティブ受信キーワードサポート（開始、停止、停止解除）の仕組みを理解します。*
+   *SMS のネイティブ受信キーワードサポート（開始、停止、停止解除）の仕組みについて説明します。*
 
 * **[メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)**
 
-   *頻度ルールを作成、アクティブ化、テスト、およびレポートする方法について説明します。 メッセージに継承する頻度ルールを決定する方法を説明します。*
+   *頻度ルールを作成、アクティブ化、テストおよびレポートする方法について説明します。メッセージに継承する頻度ルールを決定する方法について説明します。*
 
 ### Experience League ライブイベント
 
-* **[Adobe Journey Optimizerでのプッシュ通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ja)**
+* **[Adobe Journey Optimizer でのプッシュ通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ja)**
 
-   *このExperience Leagueライブエピソードでは、Adobe Journey Optimizerでのプッシュ通知の一般的な使用例について説明し、Adobe Experience Platformによるプッシュを使用するアプリの設定方法に関する技術的な詳細について説明します。*
+   *この Experience League ライブエピソードでは、Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform を使用したプッシュ通知のためのアプリを設定する方法について技術的な詳細を説明します。*
 
 ## スタッフのおすすめ
 
@@ -68,7 +68,7 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
     </a>
     </div>
     <p>
-    <em>このビデオでは、企業がAdobe Journey Optimizerの意思決定管理機能、リアルタイムのセグメント認定、ビジネスイベント管理を使用して、コンシューマージャーニーを新たな高みに導く方法を示します。</em>
+    <em>このビデオでは、企業が Adobe Journey Optimizer の意思決定管理機能、リアルタイムのセグメントの選定、ビジネスイベント管理を使用して、消費者のジャーニーを新たな高みに引き上げる方法を説明します。</em>
     <p>
   </td>
   </td>
