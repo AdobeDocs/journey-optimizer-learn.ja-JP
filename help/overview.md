@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer のビデオとチュートリアル
-description: Journey Optimizer の利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
+description: Journey Optimizerの利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: ht
-source-wordcount: '400'
-ht-degree: 100%
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,13 +15,18 @@ ht-degree: 100%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer は、企業が顧客に対して、連続性がありコンテキストに沿う、パーソナライズされたエクスペリエンスを提供するのに役立ちます。カスタマージャーニーとは、顧客がブランドと最初に接触してからサイトを離れるまでの間にブランドとやり取りする過程全体のことです。
+Journey Optimizer は、企業が顧客に対して、連続性がありコンテキストに沿う、パーソナライズされたエクスペリエンスを提供するのに役立ちます。カスタマージャーニーとは、顧客が最初にサイトを離れるまで、ブランドとのやり取りのプロセス全体を指します。
 
 このユーザーガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
 
 ## 最新情報
 
 ### チュートリアル
+
+* **[キャンペーンの作成](/help/create-champaigns/create-a-campaign.md)**
+
+   *アクションを直ちに実行するか、指定したスケジュールで実行することで、特定のユーザーセグメントに 1 回限りのコンテンツを配信する方法を説明します。*
+
 
 * **[SMS メッセージの設定、作成および配信](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
@@ -30,10 +35,6 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 * **[SMS の受信キーワードのサポート](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
    *SMS のネイティブ受信キーワードサポート（開始、停止、停止解除）の仕組みについて説明します。*
-
-* **[メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)**
-
-   *頻度ルールを作成、アクティブ化、テストおよびレポートする方法について説明します。メッセージに継承する頻度ルールを決定する方法について説明します。*
 
 ### Experience League ライブイベント
 
