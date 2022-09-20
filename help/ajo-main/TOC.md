@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: bd183ad89e6c1b13c28e1345e5130024fd788276
+source-git-commit: 4960b21053d6309cd64b5bb6a0a98e0d044d4afd
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 94%
+ht-degree: 92%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 94%
    + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
    + [イベントの作成](/help/set-up-journeys/create-events.md)
    + [アクションの作成](/help/set-up-journeys/create-actions.md)
-+ 顧客プロファイル、セグメントおよびサブスクリプション {#profiles-segments-subscriptions}
++ 顧客プロファイル、セグメント、サブスクリプション {#profiles-segments-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)

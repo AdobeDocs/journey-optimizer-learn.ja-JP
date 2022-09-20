@@ -3,10 +3,10 @@ title: Journey OptimizerTutorials — 概要
 description: Journey Optimizer の利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: e7b5e3dbf5ab9c4415320b5bd1ae6f1640a00687
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 92%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -126,7 +126,7 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
     </a>
     </div>
     <p>
-    <em>ライブレポートとグローバルレポートの違い、ジャーニーとメッセージ固有のレポートにアクセスして分析する方法およびレポートダッシュボードを変更する方法について説明します。
+    <em>ライブレポートとグローバルレポートの違い、ジャーニーとメッセージに固有のレポートにアクセスして分析する方法、およびレポートダッシュボードの変更方法について説明します。
 
 </em>
     <p>
