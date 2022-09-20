@@ -3,10 +3,10 @@ title: Journey OptimizerTutorials — 概要
 description: Journey Optimizer の利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: e7b5e3dbf5ab9c4415320b5bd1ae6f1640a00687
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 92%
 
 ---
 
@@ -23,18 +23,17 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ### チュートリアル
 
+* **[メッセージ内のデータのマスク](/help/privacy/mask-data-in-messages.md)**
+
+   *データのマスクとは何か、およびデータをマスクする理由を理解します。 Journey Optimizerメッセージのデータをマスクする方法を説明します。*
+
 * **[キャンペーンの作成](/help/create-champaigns/create-a-campaign.md)**
 
    *アクションを直ちに実行するか、指定したスケジュールで実行して、特定のオーディエンスに 1 回限りのコンテンツを配信する方法を説明します。*
 
-
 * **[SMS メッセージの設定、作成および配信](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *SMS メッセージを設定、作成およびカスタマージャーニーに含める方法について説明します。*
-
-* **[SMS の受信キーワードのサポート](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *SMS のネイティブ受信キーワードサポート（開始、停止、停止解除）の仕組みについて説明します。*
 
 ### Experience League ライブイベント
 
