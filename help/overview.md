@@ -1,17 +1,17 @@
 ---
-title: Journey Optimizer のビデオとチュートリアル
+title: Journey OptimizerTutorials — 概要
 description: Journey Optimizer の利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: ht
-source-wordcount: '394'
-ht-degree: 100%
+source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Journey Optimizer のビデオとチュートリアル
+# Journey OptimizerTutorials — 概要
 
 ![](./assets/ajo-banner.png)
 
