@@ -4,10 +4,10 @@ description: Journey Optimizer の利点を活かす方法を示す様々なビ�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 85%
+source-wordcount: '417'
+ht-degree: 82%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 ## 最新情報
 
 ### チュートリアル
+
+* **[別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)**
+
+   *ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法を説明します。*
 
 * **[メッセージ内のデータのマスク](/help/privacy/mask-data-in-messages.md)**
 
