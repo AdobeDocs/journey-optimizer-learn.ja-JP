@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 3159ae82b8b1ab8ab9d28834cc9c888a967c8722
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 92%
 
 ---
@@ -82,5 +82,6 @@ ht-degree: 92%
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
 + レポートと監視 {#report-and-monitor}
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
+   + [アラートを使用](/help/administration/alerts.md)
 + プライバシー {#privacy}
    + [メッセージ内のデータのマスク](/help/privacy/mask-data-in-messages.md)
