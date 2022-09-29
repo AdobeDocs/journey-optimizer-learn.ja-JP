@@ -8,9 +8,9 @@ doc-type: feature video
 team: PM
 role: Admin
 last-update-author: 20220928
-source-git-commit: 41dba791d44a5c6be46e48fa1871b5d9c98b6c11
+source-git-commit: 89df3aa5588c106ce3acde7fb08b03f4c56899e8
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ ht-degree: 0%
 >このビデオでは、Adobe Experience Platformユーザーインターフェイスのアラート機能を示します。 この機能には、左側のナビゲーション ADMINISTRATION / Alerts からJourney Optimizerでアクセスできます。
 >
 >
->Journey Optimizerからアラートにアクセスする場合は、デフォルトで、Journey Optimizerインスタンスに固有のアラートのみが表示されます。
+>Journey Optimizerからアラートにアクセスする場合、デフォルトでは、ライブジャーニーに固有のアラートのみが表示されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)
+
+詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=en) を参照してください。
