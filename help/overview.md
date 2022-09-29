@@ -4,10 +4,10 @@ description: Journey Optimizer の利点を活かす方法を示す様々なビ�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 82%
+source-wordcount: '464'
+ht-degree: 67%
 
 ---
 
@@ -24,6 +24,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ### チュートリアル
 
+* **[アラートを使用](/help/administration/alerts.md)**
+
+   *予期しないジャーニー動作に対して事前定義済みのアラートを購読し、E メール、Journey Optimizer内、または API を使用して通知を受け取る方法を説明します。*
+
 * **[別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)**
 
    *ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法を説明します。*
@@ -32,15 +36,12 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
    *データのマスクとは何か、およびデータをマスクする理由を理解します。 Journey Optimizerメッセージのデータをマスクする方法を説明します。*
 
-* **[キャンペーンの作成](/help/create-champaigns/create-a-campaign.md)**
-
-   *アクションを直ちに実行するか、指定したスケジュールで実行して、特定のオーディエンスに 1 回限りのコンテンツを配信する方法を説明します。*
-
-* **[SMS メッセージの設定、作成および配信](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
-
-   *SMS メッセージを設定、作成およびカスタマージャーニーに含める方法について説明します。*
 
 ### Experience League ライブイベント
+
+* **[Adobe Journey Optimizerでキャンペーンを実行](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ja)**
+
+   *2022 年 9 月 22 日に開催されたこのExperience Leagueライブエピソードでは、ホスト Sandra Hausmann と製品エキスパートの Bridgete Darling と Frederic Mary が、この新機能の使用例を説明し、Journey Optimizerで簡単にキャンペーンを設定して実行する方法を示します。*
 
 * **[Adobe Journey Optimizer でのプッシュ通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ja)**
 
