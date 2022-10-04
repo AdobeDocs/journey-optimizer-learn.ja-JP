@@ -4,10 +4,10 @@ description: Journey Optimizer の利点を活かす方法を示す様々なビ�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 67%
+source-wordcount: '492'
+ht-degree: 64%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 ## 最新情報
 
 ### チュートリアル
+
+* **[条件ルールビルダーでの動的コンテンツの作成](/help/personalize-content/create-dynamic-content.md)**
+
+   *条件ルールを作成および保存する方法と、それらの条件ルールをすべてのチャネルのコンテンツに適用する方法について説明します。*
 
 * **[アラートを使用](/help/administration/alerts.md)**
 
