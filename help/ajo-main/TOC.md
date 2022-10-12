@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 89%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 89%
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + メッセージの作成 {#create-messages}
-   + [Message Designer の概要](/help/create-messages/message-designer-overview.md)
    + [E メールデザイナーでコンテンツを作成](/help/create-messages/create-content-with-the-email-designer.md)
    + [HTML 電子メールコンテンツの読み込みと作成](/help/create-messages/import-and-author-html-email-content.md)
    + [プレビュー、配達確認、公開](/help/create-messages/preview-proof-and-publish.md)
@@ -77,7 +76,6 @@ ht-degree: 89%
    + [ユースケース - セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
    + [ユースケース - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
    + [ユースケース - セグメントの選定](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [ユースケース - バーストメッセージ](/help/create-journeys/use-case-burst-message.md)
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
