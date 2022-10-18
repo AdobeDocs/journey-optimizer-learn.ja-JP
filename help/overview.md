@@ -4,10 +4,10 @@ description: Journey Optimizer の利点を活かす方法を示す様々なビ�
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
 workflow-type: tm+mt
 source-wordcount: '492'
-ht-degree: 64%
+ht-degree: 72%
 
 ---
 
@@ -32,7 +32,7 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 * **[アラートを使用](/help/administration/alerts.md)**
 
-   *予期しないジャーニー動作に対して事前定義済みのアラートを購読し、E メール、Journey Optimizer内、または API を使用して通知を受け取る方法を説明します。*
+   *予期しないジャーニー動作に対して事前定義済みのアラートを購読し、メール、Journey Optimizer 内、または API を使用して通知を受け取る方法を説明します。*
 
 * **[別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)**
 
@@ -44,6 +44,9 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 </div>
 
+
+<div id="events-section">
+
 ### Experience League ライブイベント
 
 * **[Adobe Journey Optimizerでキャンペーンを実行](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ja)**
@@ -53,6 +56,15 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 * **[Adobe Journey Optimizer でのプッシュ通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ja)**
 
    *この Experience League ライブエピソードでは、Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform を使用したプッシュ通知のためのアプリを設定する方法について技術的な詳細を説明します。*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
