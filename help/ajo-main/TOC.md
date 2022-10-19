@@ -5,7 +5,7 @@ user-guide-description: これが Journey Optimizer 学習チュートリアル�
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 88%
+ht-degree: 98%
 
 ---
 
@@ -47,17 +47,17 @@ ht-degree: 88%
    + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
    + [イベントの作成](/help/set-up-journeys/create-events.md)
    + [アクションの作成](/help/set-up-journeys/create-actions.md)
-+ 顧客プロファイル、セグメント、サブスクリプション {#profiles-segments-subscriptions}
++ 顧客プロファイル、セグメントおよびサブスクリプション {#profiles-segments-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + メッセージの作成 {#create-messages}
-   + [E メールデザイナーでコンテンツを作成](/help/create-messages/create-content-with-the-email-designer.md)
+   + [電子メールデザイナーでコンテンツを作成](/help/create-messages/create-content-with-the-email-designer.md)
    + [HTML 電子メールコンテンツの読み込みと作成](/help/create-messages/import-and-author-html-email-content.md)
    + [プレビュー、配達確認、公開](/help/create-messages/preview-proof-and-publish.md)
    + [マーケター向けモバイル機能](/help/create-messages/mobile-capabilities.md)
-   + [開発者向けのモバイル機能](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [デベロッパー向けモバイル機能](/help/create-messages/mobile-capabilities-for-developers.md)
    + [SMS メッセージの設定、作成および配信](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [SMS の受信キーワードのサポート](/help/create-messages/inbound-keyword-support-for-sms.md)
    + アプリ内 {#in-app}
@@ -68,7 +68,7 @@ ht-degree: 88%
    + [パーソナライゼーションに関するコンテキストイベント情報の使用](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-   + [条件ルールビルダーでの動的コンテンツの作成](/help/personalize-content/create-dynamic-content.md)
+   + [条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)
 + キャンペーンの作成 {#create-campaigns}
    + [キャンペーンの作成](/help/create-champaigns/create-a-campaign.md)
 + ジャーニーの作成 {#create-journeys}
@@ -85,4 +85,4 @@ ht-degree: 88%
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
    + [アラートを使用](/help/administration/alerts.md)
 + プライバシー {#privacy}
-   + [メッセージ内のデータのマスク](/help/privacy/mask-data-in-messages.md)
+   + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
