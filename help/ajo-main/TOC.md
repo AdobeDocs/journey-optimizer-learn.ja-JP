@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
-source-git-commit: 66f4b0fabea40b5e8f2e5abd42ec89b945dd04e9
+source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,11 +38,11 @@ ht-degree: 93%
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + メッセージの作成 {#create-messages}
-   + [メールの作成] {#create-emails}
+   + メールの作成 {#create-emails}
       + [電子メールデザイナーでコンテンツを作成](/help/create-messages/create-content-with-the-email-designer.md)
       + [HTML 電子メールコンテンツの読み込みと作成](/help/create-messages/import-and-author-html-email-content.md)
       + [プレビュー、配達確認、公開](/help/create-messages/preview-proof-and-publish.md)
-   + SMS メッセージの作成 {#create-sms}
+   + SMS テキストメッセージの作成 {#create-sms}
       + [SMS メッセージの設定、作成および配信](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [SMS の受信キーワードのサポート](/help/create-messages/inbound-keyword-support-for-sms.md)
    + アプリ内メッセージの作成 {#create-in-app}
