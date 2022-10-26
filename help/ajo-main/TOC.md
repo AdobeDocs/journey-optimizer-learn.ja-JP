@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 学習チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これが Journey Optimizer 学習チュートリアルです。
 source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '292'
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 0%
       + [アプリ内メッセージの作成](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + コンテンツのパーソナライズ {#personalize-content}
-   + [プロファイルとセグメントのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [プロファイルとセグメントメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [パーソナライゼーションに関するコンテキストイベント情報の使用](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -66,7 +66,7 @@ ht-degree: 0%
    + [フォールバックオファーの作成](/help/decision-management/create-fallback-offers.md)
    + [コレクションの作成](/help/decision-management/create-collections.md)
    + [決定の作成](/help/decision-management/create-decisions.md)
-   + [決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+   + [意思決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + レポートと監視 {#report-and-monitor}
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
    + [アラートを使用](/help/administration/alerts.md)
