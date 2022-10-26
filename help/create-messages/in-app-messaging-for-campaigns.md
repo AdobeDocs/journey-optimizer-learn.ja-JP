@@ -1,6 +1,6 @@
 ---
 title: キャンペーンのアプリ内メッセージ
-description: アプリ内メッセージとは何かを理解します。 Campaign でアプリ内メッセージを作成、設定および公開する方法について説明します。
+description: アプリ内メッセージとは何かを理解します。Campaign でアプリ内メッセージを作成、設定および公開する方法について説明します。
 feature: In App
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ last-update-author: 20221018
 hidefromtoc: true
 hide: true
 source-git-commit: 7273138957300b45b6075a0164634f456556a5f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 >[!NOTE]
 > 
-> アプリ内メッセージはベータ版で、まだすべてのお客様が利用できるわけではありません。
+> アプリ内メッセージはベータ版で、一部のお客様のみがご利用いただけます。
 
-アプリ内メッセージとは何かを理解します。 Campaign でアプリ内メッセージを作成、設定および公開する方法について説明します。
+アプリ内メッセージとは何かを理解します。Campaign でアプリ内メッセージを作成、設定および公開する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on)
