@@ -10,9 +10,9 @@ last-update-author: 20221020
 hidefromtoc: true
 hide: true
 source-git-commit: 7273138957300b45b6075a0164634f456556a5f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 > 
-> アプリ内メッセージはベータ版で、まだすべてのお客様が利用できるわけではありません。
+> アプリ内メッセージはベータ版で、一部のお客様のみがご利用いただけます。
 
 アプリ内メッセージを作成およびテストする方法について説明します。
 
