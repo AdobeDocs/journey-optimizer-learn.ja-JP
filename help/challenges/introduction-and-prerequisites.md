@@ -5,7 +5,7 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: dd2832c1e99ed9b8407a0aa9356335d3bce40622
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 7%
@@ -67,8 +67,8 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
       <em>新しい Luma 夏コレクションを昇格します。 </em>
       <p>
       <b>必要なスキル：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html"> セグメントの作成</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html">HTML 電子メールコンテンツの読み込みと作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> セグメントの作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML 電子メールコンテンツの読み込みと作成</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">ユースケース - セグメントの読み取り</li>
   </td>
   </tr>
@@ -94,7 +94,7 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
     <td>
     <div>
     <a href="product-replenishment-challenge.md">
-      <img alt="Luma Web サイト" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
+      <img alt="Luma Web サイト" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>

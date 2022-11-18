@@ -6,7 +6,7 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
-source-git-commit: d1b4aa69e323d9a6112d2273ea5770c42b044d13
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 2%
@@ -132,7 +132,7 @@ loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or l
 ID 名前空間を使用して電子メールをプレビューします。 *電子メール* ID 値： *Jenna_Palmer9530@emailsim.io*
 
 * 件名は次のようになります。ジェナ新しい Luma コレクションが登場！
-* E メールの本文は、プレビューで確認した内容と一致します。 [新しい季節のコレクション発表](/help/challenges/assets/SeasonalCollectionEmail.html)
+* E メールの本文は、プレビューで確認した内容と一致します。 [新しい季節のコレクション発表](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **メールメッセージ#2 - Luma メンズコレクション**
