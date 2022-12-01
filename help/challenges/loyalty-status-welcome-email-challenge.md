@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 8%
@@ -46,18 +46,17 @@ Luma は、顧客を引き付け、保持する方法としてロイヤリティ
 ロイヤルティ顧客がダイヤモンド層に移り、新しいメリットを祝福し、通知を受けたら、E メールを送信します。 「
 
 1. Journey Optimizerで **あなたの名前 — Luma - Diamond Status**
-2. 顧客が Diamond の新しいロイヤルティ層に移行したとき（特に、新しい Diamond レベルのメンバーに対して定義されたセグメントを顧客が入力したとき）にトリガーされるジャーニーを作成して、「Luma - New Status - Diamond - Transactional」 E メールを送信します。
-1. 「 」というタイトルのトランザクション E メールメッセージを作成します `(your name)_Luma – New Status – Diamond – Transactional email message`.
-2. メールの件名を入力 `Welcome to Diamond Status, (recipient's first name)!`.
-3. 提供されたHTMLファイルを使用 **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** 電子メール本文の
-3. 完了したら、ジャーニーをテストモードにし、ジャーニーをトリガーして自分に送信する  
+1. 顧客が Diamond の新しいロイヤルティ層に移行したとき（特に、新しい Diamond レベルのメンバーに対して定義されたセグメントを顧客が入力したとき）にトリガーされるジャーニーを作成して、「Luma - New Status - Diamond - Transactional」 E メールを送信します。
 
+   1. 「 」というタイトルのトランザクション E メールメッセージを作成します `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   1. メールの件名を入力 `Welcome to Diamond Status, (recipient's first name)!`.
+   1. 提供されたHTMLファイルを使用 **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** 電子メール本文の
+
+1. 完了したら、ジャーニーをテストモードにし、ジャーニーをトリガーして自分に送信する  
 
 ### Luma — 新しいステータス — ダイヤモンド — トランザクション用電子メールメッセージの作成
 
 お知らせメールメッセージの作成
-
-1. 
 
 ### **ジャーニー#3 - Diamond ステータスアップグレードのお知らせメール**
 
@@ -67,10 +66,10 @@ Luma は、顧客を引き付け、保持する方法としてロイヤリティ
 ジャーニーのテスト:
 
 1. セグメントの選定イベントに名前空間= E メールが含まれていることを確認します。
-2. デフォルトの E メールパラメーターを上書きし、独自の E メールアドレスに設定
-3. ジャーニーをテストモードに設定
-4. トリガーとイベント
-5. 次の電子メールアドレスを「 Profile Identifier 」フィールドに追加します。Jenna_Palmer9530@emailsim.io
+1. デフォルトの E メールパラメーターを上書きし、独自の E メールアドレスに設定
+1. ジャーニーをテストモードに設定
+1. トリガーとイベント
+1. 次の電子メールアドレスを「 Profile Identifier 」フィールドに追加します。Jenna_Palmer9530@emailsim.io
 
 パーソナライズされた「Luma - New Status- Diamond-Transactional」E メールが届きます。
 
