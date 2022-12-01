@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 8%
+source-wordcount: '449'
+ht-degree: 12%
 
 ---
 
@@ -61,11 +61,10 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>夏物コレクションのお知らせの作成 </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">夏物コレクションのお知らせの作成 </strong>
     </a>
       <p>
-      <em>新しい Luma 夏コレクションを昇格します。 </em>
+      <em>既存の顧客のセグメントに夏物コレクションのお知らせメールを送信するジャーニーを作成します。 </em>
       <p>
       <b>必要なスキル：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> セグメントの作成</li>
@@ -82,26 +81,29 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>注文の確認を作成</strong>
+    <strong><a href="order-confirmation-challenge.md">注文の確認を作成</strong>
     </a>
     <div>
     <p>
-    <em>オンライン購入が完了したら、注文確認メールを送信する
+    <em>トランザクションメッセージの作成方法とパーソナライズ方法に関する知識をテストします
     </em>
     <p>
+    <b>必要なスキル：</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> メッセージエディターでの電子メールコンテンツの作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">パーソナライゼーションに関するコンテキストイベント情報の使用</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">パーソナライゼーションへのヘルパー関数の使用</li>
   </td>
   </tr>
   <tr>
     <td>
     <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Luma Web サイト" src="./assets/email-assets/luma-ProductReplenishment.png"/>
+    <a>
+      <img alt="Luma 製品補充" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>製品補充通知の作成 </strong>
+      <strong>製品補充通知の作成（近日公開）</strong>
     </a>
     </div>
     <p>
@@ -112,14 +114,14 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
   <tr>
     <td>
     <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
+    <a>
       <img alt="ようこそ" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>ロイヤルティステータスのお知らせメールの作成 </strong>
+      <a>
+    <strong>ロイヤルティステータスのお知らせメール（近日公開）を作成 </strong>
     </a>
     </div>
     <p>
