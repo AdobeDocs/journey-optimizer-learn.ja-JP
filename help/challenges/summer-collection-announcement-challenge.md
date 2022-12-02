@@ -7,10 +7,10 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
+source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
 workflow-type: tm+mt
-source-wordcount: '1138'
-ht-degree: 2%
+source-wordcount: '1118'
+ht-degree: 3%
 
 ---
 
@@ -30,8 +30,10 @@ ht-degree: 2%
 
 ## 課題
 
-Luma マーケティングチームから、Journey Optimizerで夏物コレクションのマーケティングキャンペーンを実装するように求められます。 課題は、Journey Optimizerでジャーニーを作成することです。 特に、必要なセグメントを作成し、4 つのメッセージを作成して、ジャーニーを構築する必要があります。
+Luma マーケティングチームから、Journey Optimizerで夏物コレクションのマーケティングキャンペーンを実装するように求められます。 課題は次のとおりです。
 
+* プロモーションを受け取る資格のあるプロファイルを定義するセグメントを作成します。
+* ジャーニーの構築
 
 ### 手順 1:セグメントの定義 — アクティブな顧客
 
@@ -39,15 +41,16 @@ Luma マーケティングチームから、Journey Optimizerで夏物コレク�
 
 >[!TAB タスク]
 
-Journey Optimizerで **アクティブな顧客**.
+#### Journey Optimizerでのセグメントの作成
 
+* Journey Optimizerで `Active Customers`.
 * セグメントには、アクティブな Luma の顧客のみを含める必要があります。
 * アクティブな顧客は、Luma のロイヤルティプログラム（シルバー、ゴールド、プラチナ、ダイヤモンド）の層を持つ顧客と定義されます。
 
 
 >[!TAB 達成基準]
 
-セグメントビルダーで、認定済みプロファイルの推定数を確認できます。
+セグメントビルダーで、認定済みプロファイルの推定数を確認できます。 トレーニングサンドボックスデータを使用する場合、1.29 KB 中 753 個の認定プロファイルがあります。
 
 >[!NOTE]
 >既存のプロファイルをバックフィルする必要があるので、既存のプロファイルに対してセグメントのメンバーシップが表示されるまでに最大 24 時間かかる場合があります。
@@ -87,31 +90,38 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 >[!TAB タスク]
 
-「新しい Luma の夏コレクションを宣伝する既存顧客の E メールのセグメントに夏コレクションのお知らせを送信します。」
+#### 夏物コレクションのお知らせを送信
 
-1 つの代理店が、E メールのデザインを含む 4 つのHTMLファイルを提供しました。 [季節ごとのコレクションの電子メールファイルをダウンロード](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)
+1 つの代理店が、E メールのデザインを含む 4 つのHTMLファイルを提供しました。
 
-という名前のジャーニーを作成します。 `(your name) - Summer collection announcement` 次のガイドラインに従います。
+* SeasonalCollectionEmail.html
+* Luma Men&#39;s Collection の E メール
+* Luma Women&#39;s Collection の E メール
+* Luma - 20%オフコレクション電子メール
 
-1. Luma — 新しい季節ごとのコレクションのお知らせメールを Luma-Active Customers セグメントに送信し、オーディエンスの 10%をコントロール母集団として保持します。
-   * メッセージタイトル `(your name)_Luma New Seasonal Collection Announcement`.
-   * 件名 `(recipient's first name), the new Luma collection is here!`.
-   * 提供されたHTMLファイルを使用 *SeasonalCollectionEmail.html* 電子メール本文の
-2. 2 日待ってから、よりターゲットを絞ったコンテンツを含むフォローアップメールメッセージを送信します。
-   * 男性の顧客が **Luma Men&#39;s Collection の E メール**
-      * メッセージタイトル： **（お名前）_Luma メンズコレクション**
-      * 件名： **（受信者の名），メンズニューアスレチックギアを探索！**
-      * メール本文： *MensCollectionEmail.html* 電子メール本文の
-   * 女性のお客様が **Luma Women&#39;s Collection の E メール**
-      * メッセージタイトル： **（お名前）_Luma Women&#39;s Collection**
-      * 件名： **（受信者の名）、Luma の Women Collection を参照してください。**
-      * メール本文： *WomensCollectionEmail.html*
-   * その他のお客様は、 **Luma - 20%オフコレクション電子メール**
-      * メッセージタイトル： **（お名前）_Luma - 20%引きのコレクション**
-      * 件名：**（受信者の名）、20%オフの販売をお楽しみください。**
-      * メール本文： *20OffCollectionEmail.html*
-3. 上記のターゲット E メールを送信した後、E メールが開かれるまで 2 日待ちます
-4. ターゲットとする E メールが 2 日以内に開封されない場合は、 **Luma - 20 %off コレクションのメール** 最終的なリターゲティングの試みとして
+1. [季節ごとのコレクションの電子メールファイルをダウンロード](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
+
+2. という名前のジャーニーを作成します。 `Luma - Summer collection announcement` 次のガイドラインに従います。
+
+   1. 送信 *Luma — 新しい季節物集の発表* 電子メールの送信先 *アクティブな顧客* セグメントに含まれ、10%のオーディエンスをコントロール母集団として含む
+      * メッセージタイトル `Luma New Seasonal Collection Announcement`.
+      * 件名 `(recipient's first name), the new Luma collection is here!`.
+      * 提供されたHTMLファイルを使用 *SeasonalCollectionEmail.html* 電子メール本文の
+   2. 2 日待ってから、よりターゲットを絞ったコンテンツを含むフォローアップメールメッセージを送信します。
+      * 男性の顧客が **Luma Men&#39;s Collection の E メール**
+         * メッセージタイトル： `Luma Men's Collection`
+         * 件名: `(recipient's first name), explore Men's New athletic gear!`
+         * メール本文： *MensCollectionEmail.html* 電子メール本文の
+      * 女性のお客様が **Luma Women&#39;s Collection の E メール**
+         * メッセージタイトル： `Luma Women's Collection`
+         * 件名: `(recipient's first name), explore Luma's Women Collection!`
+         * メール本文： *WomensCollectionEmail.html*
+      * その他のお客様は、 **Luma - 20%オフコレクション電子メール**
+         * メッセージタイトル： `Luma - 20 % off Collection`
+         * 件名: `(recipient's first name), enjoy 20% off sales!`
+         * メール本文： *20OffCollectionEmail.html*
+   3. 上記のターゲット E メールを送信した後、E メールが開かれるまで 2 日待ちます
+   4. ターゲットとする E メールが 2 日以内に開封されない場合は、 **Luma - 20 %off コレクションのメール** 最終的なリターゲティングの試みとして
 
 
 >[!TAB 達成基準]
