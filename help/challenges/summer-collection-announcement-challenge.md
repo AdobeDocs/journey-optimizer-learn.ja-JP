@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
+source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1161'
 ht-degree: 3%
 
 ---
@@ -103,20 +103,20 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 2. という名前のジャーニーを作成します。 `Luma - Summer collection announcement` 次のガイドラインに従います。
 
-   1. 送信 *Luma — 新しい季節物集の発表* 電子メールの送信先 *アクティブな顧客* セグメントに含まれ、10%のオーディエンスをコントロール母集団として含む
-      * メッセージタイトル `Luma New Seasonal Collection Announcement`.
-      * 件名 `(recipient's first name), the new Luma collection is here!`.
+   1. 送信 *Luma — 新しい夏物コレクションのお知らせ* 電子メールの送信先 *アクティブな顧客* セグメントに含まれ、10%のオーディエンスをコントロール母集団として含む
+      * メッセージタイトル `Luma - Summer Collection Announcement`.
+      * 件名 `(recipient's first name), the new Luma summer collection is here!`.
       * 提供されたHTMLファイルを使用 *SeasonalCollectionEmail.html* 電子メール本文の
    2. 2 日待ってから、よりターゲットを絞ったコンテンツを含むフォローアップメールメッセージを送信します。
-      * 男性の顧客が **Luma Men&#39;s Collection の E メール**
+      * 男性の顧客が **ルマメンズコレクション** 電子メール。
          * メッセージタイトル： `Luma Men's Collection`
          * 件名: `(recipient's first name), explore Men's New athletic gear!`
          * メール本文： *MensCollectionEmail.html* 電子メール本文の
-      * 女性のお客様が **Luma Women&#39;s Collection の E メール**
+      * 女性のお客様が **Luma Women&#39;s Collection** 電子メール。
          * メッセージタイトル： `Luma Women's Collection`
          * 件名: `(recipient's first name), explore Luma's Women Collection!`
          * メール本文： *WomensCollectionEmail.html*
-      * その他のお客様は、 **Luma - 20%オフコレクション電子メール**
+      * その他のお客様は、 **Luma - 20 %オフコレクション** 電子メール。
          * メッセージタイトル： `Luma - 20 % off Collection`
          * 件名: `(recipient's first name), enjoy 20% off sales!`
          * メール本文： *20OffCollectionEmail.html*
@@ -128,36 +128,48 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 #### E メールのプレビュー
 
-**メールメッセージ#1 — 新しい季節ごとのコレクションの発表**
+**電子メールメッセージ#1 - Luma — 夏コレクションのお知らせ**
 
-ID 名前空間を使用して電子メールをプレビューします。 *電子メール* ID 値： *Jenna_Palmer9530@emailsim.io*
+E メールのプレビュー：
 
-* 件名は次のようになります。ジェナ新しい Luma コレクションが登場！
+1. テストプロファイルを追加します。ルイーズ・ペッティ：
+   1. ID 名前空間： *Luma CRM ID*
+   2. ID 値： *d1f132f9f9502bba047a6ec86c4b61f9*
+
+結果:
+* 件名は次のようになります。ルイーズ新しいルマコレクションが登場！
 * E メールの本文は、プレビューで確認した内容と一致します。 [新しい季節のコレクション発表](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **メールメッセージ#2 - Luma メンズコレクション**
 
-自分に配達確認を送信
+自分に配達確認を送信する：
 
-* メールアドレスを入力
-* テストプロファイルを選択します。Chris_Scott1244@emailsim.io
+1. テストプロファイルを追加します。スタンレイ・ストーク：
+   1. ID 名前空間： *Luma CRM ID*
+   2. ID 値: `4f34057d9d9e792c28ba18ecae378e98`
+1. テストプロファイルを選択します。スタンレイストーク
+2. 自分に配達確認を送信
 
-E メールが届きます。 件名は「Chris, explore Men&#39;s New astletic gear!」と読む必要があります。 電子メールの本文は、プレビューで確認した内容と一致します。 [ルマメンズコレクション](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+結果:\
+E メールが届きます。 件名は「Stanleigh, explore Men&#39;s New astletic gear!」と読むべきです。 電子メールの本文は、プレビューで確認した内容と一致します。 [ルマメンズコレクション](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>配達確認を受け取るまでに数分かかる場合があります。
 
 **電子メールメッセージ#3 - Luma Women&#39;s Collection**
 
-ID 名前空間を使用して電子メールをプレビューします。 *電子メール* ID 値： *Jenna_Palmer9530@emailsim.io*
+テストプロファイル「Louise Petti」で E メールをプレビューします。
 
-* 件名は次のようになります。 *ジェナ、Luma の女性コレクションを探索！*
+* 件名は次のようになります。 *ルイーズ、ルマの女性コレクションを探索！*
 * E メールの本文は、プレビューで確認した内容と一致します。 [Luma Women&#39;s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **メールメッセージ#4 - Luma 20 %オフコレクション**
 
-ID 名前空間を使用して電子メールをプレビューします。 *電子メール* ID 値： *Benny_Steer4909@emailsim.io*
+テストプロファイル「Louise Petti」で E メールをプレビューします。
 
-* 件名は次のようになります。 *ベニー、20%の売り上げを楽しむ！*
+* 件名は次のようになります。 *ルイーズ、20%の売り上げを楽しむ！*
 * E メールの本文は、プレビューで確認した内容と一致します。 [Luma 20 %オフコレクション](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **忘れずにメールを公開してください。**
@@ -168,16 +180,16 @@ ID 名前空間を使用して電子メールをプレビューします。 *電
 >
 >ジャーニーをテストモードに設定する前に、次の手順を実行します。
 >
->1. 「セグメントを読み取り」アクティビティの名前空間が「電子メール」に設定されていることを確認します。
+>1. 「セグメントを読み取り」アクティビティの名前空間がに設定されていることを確認します。 **Luma CRM ID(lumaCrmId)**
 >1. 各電子メールで、電子メールが電子メールアドレスに送信されるように、電子メールのデフォルトの電子メールパラメーターを上書きします。
->1. 目の記号をクリックして、非表示の値を表示します。
->1. E メールパラメータで、T 記号をクリックします（パラメータの上書きを有効にする）。
+   >    * 目の記号をクリックして、非表示の値を表示します。
+   >    * E メールパラメータで、T 記号をクリックします（パラメータの上書きを有効にする）。
 
-   >
-   >      ![E メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->1. 「アドレス」フィールドをクリックします。
->1. 次の画面で、括弧内にメールアドレスを追加します。 *yourname@yourdomain* 式エディターで、「 ok 」をクリックします。
+      >
+      >      ![E メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 「アドレス」フィールドをクリックします。
+   >    * 次の画面で、括弧内にメールアドレスを追加します。 `"yourname@yourdomain"` 式エディターで、「 ok 」をクリックします。
 
 >
 
@@ -189,9 +201,9 @@ ID 名前空間を使用して電子メールをプレビューします。 *電
 3. 待機時間：タイマーを 120 秒に設定します（フィールドに入力します）。
 4. トリガープロファイルの入口
 5. 各分岐をテストするには、次のいずれかの電子メールアドレスをプロファイル識別子として使用します。
-   * 女性：ジェナ・パーマー：Jenna_Palmer9530@emailsim.io
-   * 男性：クリス・スコット：Chris_Scott1244@emailsim.io
-   * 性別が指定されていません：ベニー・ステア：Benny_Steer4909@emailsim.io
+   * 女性：Louise Petti、ID 値： *d1f132f9f9502bba047a6ec86c4b61f9*
+   * 男性：スタンレイ・ストーク、ID 値： `4f34057d9d9e792c28ba18ecae378e98`
+   * 性別が指定されていません：Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
 
 6. プロファイルの入口をトリガーすると、最初の E メールが届き、選択したプロファイルに応じてヘッダーがパーソナライズされます。
 7. ジャーニーは各分岐に続き、関連する E メールを受け取る必要があります（例えば、Jenna を選択した場合は、「Luma Women&#39;s Collection」という E メールを受け取る必要があります）。
