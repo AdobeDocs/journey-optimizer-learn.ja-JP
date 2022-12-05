@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 3%
 
 ---
@@ -172,7 +172,6 @@ E メールが届きます。 件名は「Stanleigh, explore Men&#39;s New astle
 * 件名は次のようになります。 *ルイーズ、20%の売り上げを楽しむ！*
 * E メールの本文は、プレビューで確認した内容と一致します。 [Luma 20 %オフコレクション](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**忘れずにメールを公開してください。**
 
 #### ジャーニーのテスト
 
@@ -200,10 +199,10 @@ E メールが届きます。 件名は「Stanleigh, explore Men&#39;s New astle
 2. 一度に 1 つのプロファイルを選択
 3. 待機時間：タイマーを 120 秒に設定します（フィールドに入力します）。
 4. トリガープロファイルの入口
-5. 各分岐をテストするには、次のいずれかの電子メールアドレスをプロファイル識別子として使用します。
-   * 女性：Louise Petti、ID 値： *d1f132f9f9502bba047a6ec86c4b61f9*
+5. 次のいずれかを使用して、各ブランチをテストできます *Luma CRM Id* プロファイル識別子として：
+   * 女性：Leora Dietsche、ID 値：`a8f14eab3b483c2b96171b575ecd90b1`
    * 男性：スタンレイ・ストーク、ID 値： `4f34057d9d9e792c28ba18ecae378e98`
-   * 性別が指定されていません：Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
+   * 性別が指定されていません：Louise Petti、ID 値：&#39;d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. プロファイルの入口をトリガーすると、最初の E メールが届き、選択したプロファイルに応じてヘッダーがパーソナライズされます。
 7. ジャーニーは各分岐に続き、関連する E メールを受け取る必要があります（例えば、Jenna を選択した場合は、「Luma Women&#39;s Collection」という E メールを受け取る必要があります）。
@@ -216,9 +215,9 @@ E メールが届きます。 件名は「Stanleigh, explore Men&#39;s New astle
 
 * Luma — 新しい季節物集の発表
 * 使用したテストプロファイルに応じて、次のいずれかの電子メールが届きます。
-   * ジェナ：Luma Women&#39;s Collection
-   * クリス：ルマメンズコレクション
-   * ベニー：Luma - 20%引きのコレクション
+   * レオラ：Luma Women&#39;s Collection
+   * スタンレイ：ルマメンズコレクション
+   * ルイーズ：Luma - 20%引きのコレクション
 * 2 通目の E メールを開いていない場合は、次の手順に従います。Luma - 20%引きのコレクション
 
 >[!TAB 作業内容を確認する]
