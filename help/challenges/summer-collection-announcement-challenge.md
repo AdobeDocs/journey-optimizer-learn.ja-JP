@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 3%
@@ -147,9 +147,9 @@ E メールのプレビュー：
 
 1. テストプロファイルを追加します。スタンレイ・ストーク：
    1. ID 名前空間： *Luma CRM ID*
-   2. ID 値: `4f34057d9d9e792c28ba18ecae378e98`
+   1. ID 値: `4f34057d9d9e792c28ba18ecae378e98`
 1. テストプロファイルを選択します。スタンレイストーク
-2. 自分に配達確認を送信
+1. 自分に配達確認を送信
 
 結果:\
 E メールが届きます。 件名は「Stanleigh, explore Men&#39;s New astletic gear!」と読むべきです。 電子メールの本文は、プレビューで確認した内容と一致します。 [ルマメンズコレクション](/help/challenges/assets/email-assets/MensCollectionEmail.html)
