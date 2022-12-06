@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 5%
 
 ---
@@ -40,7 +40,7 @@ Luma の顧客がオンラインでの注文を完了した際に注文確認 E 
 >[!TAB タスク]
 
 1. 「あなたの名前_注文の確認」という名前のジャーニーを作成します
-2. イベントの使用：トリガーとしての LumaOnlinePurchase
+2. イベントの使用： [!DNL LumaOnlinePurchase] トリガー
 
 3. 注文確認 E メールの作成：
 
