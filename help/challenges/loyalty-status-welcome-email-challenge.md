@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
+source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 4%
@@ -57,7 +57,7 @@ Luma は、顧客を引き付け、保持する方法としてロイヤリティ
 1. 必ず [!UICONTROL セグメントを読み取りアクティビティ] には [!UICONTROL 名前空間] に設定 **[!DNL Luma CRM id(lumaCrmId)]**
 2. デフォルトを上書き [!UICONTROL 電子メールパラメーター] を設定し、独自のメールアドレスに設定します。
 
-+++ 上書き方法の詳細については、ここをクリックしてください [!!UICONTROL 電子メールパラメーター].
++++ [!!UICONTROL 電子メールパラメーター].
 
 * 目の記号をクリックして、非表示の値を表示します。
 * 内 [!UICONTROL E メールパラメーター]、T 記号をクリックします（パラメータの上書きを有効にする）
