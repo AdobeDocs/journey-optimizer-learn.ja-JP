@@ -7,16 +7,16 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
 
 # ロイヤルティステータスのお知らせメールの作成 — チャレンジ
 
-![AJO Loyalty ステータスのお知らせメール — チャレンジバナー](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
+![ロイヤルティステータスのお知らせメール — チャレンジバナー](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
 
 | 課題 | ロイヤルティステータスのお知らせメールの作成 |
 |---|---|
@@ -40,37 +40,37 @@ Luma は、顧客を引き付け、保持する方法としてロイヤリティ
 
 ロイヤリティ顧客がプラチナ層の資格を得たら、新しい特典を受け取り、お祝いを申し上げるために E メールを送信します。 クリエイティブチームがHTMLファイルを提供しました **[Luma — ステータスアップグレード — ようこそ eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** 電子メール本文に置き換えます。
 
-1. Journey Optimizerで `Luma – status upgrade`.
-2. 「Luma - New Status - platinum」というジャーニーを作成します。
+1. の作成 [!UICONTROL セグメント] Journey Optimizerで `Luma – status upgrade`.
+2. という名前のジャーニーを作成します。 `Luma – New Status – platinum`.
    1. 顧客は、プラチナロイヤルティ層の資格を得ると、ジャーニーに進みます。
-   2. 顧客は、ラベル付きの E メールメッセージを受け取る `Luma – Platinum Status - Welcome`件名行 `Welcome to Platinum Status, (recipient's first name)!` クリエイティブチームが提供する本体と共に。
+   2. 顧客は、ラベル付きの E メールメッセージを受け取る `Luma – Platinum Status - Welcome`件名行 `Welcome to Platinum Status, (recipient's first name)!` クリエイティブチームが提供する e メール本文を含む。
    3. HTMLファイルをアップロードすると、E メールが「platinum」ではなく「diamond」ステータスを参照していることに気がつきます。 クリエイティブチームに新しいファイルを要求する代わりに、E メールデザイナーで E メールを更新します。
 
 >[チップ！]
-> Luma - Platinum Status - Welcome eMail がトランザクションであることを確認します。
+> Luma - Platinum Status - Welcome eMail が[!UICONTROL トランザクション].
 
 
 >[!TAB 達成基準]
 
 ジャーニーのテスト:
 
-1. 「セグメントを読み取り」アクティビティの名前空間がに設定されていることを確認します。 **Luma CRM ID(lumaCrmId)**
-2. デフォルトの E メールパラメーターを上書きし、独自の E メールアドレスに設定
+1. 必ず [!UICONTROL セグメントを読み取りアクティビティ] には [!UICONTROL 名前空間] に設定 **[!DNL Luma CRM id(lumaCrmId)]**
+2. デフォルトを上書き [!UICONTROL 電子メールパラメーター] を設定し、独自のメールアドレスに設定します。
 
-+++ 上書き方法の詳細については、ここをクリックしてください
++++ 上書き方法の詳細については、ここをクリックしてください [!!UICONTROL 電子メールパラメーター].
    * 目の記号をクリックして、非表示の値を表示します。
-   * E メールパラメータで、T 記号をクリックします（パラメータの上書きを有効にする）。
+   * 内 [!UICONTROL E メールパラメーター]、T 記号をクリックします（パラメータの上書きを有効にする）
 
    ![E メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
 
-   * 「アドレス」フィールドをクリックします。
+   * をクリックして、 [!UICONTROL 住所フィールド]
    * 次の画面で、括弧内にメールアドレスを追加します。 `"yourname@yourdomain"` 式エディターで、「 ok 」をクリックします。
 +++
 
 
 3. ジャーニーをテストモードに設定
 4. トリガーとイベント
-5. Stanleigh Stooke の次の CRM ID を「プロファイル識別子」フィールドに追加します。 `4f34057d9d9e792c28ba18ecae378e98`
+5. 以下を追加します。 [!DNL CRM ID] 対象 [!DNL Stanleigh Stooke] に [!UICONTROL プロファイル識別子] フィールド： `4f34057d9d9e792c28ba18ecae378e98`
 
 パーソナライズされた *Luma — プラチナステータス — ようこそ* 電子メール。
 

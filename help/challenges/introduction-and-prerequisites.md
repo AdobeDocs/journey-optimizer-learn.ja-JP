@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 13%
+source-wordcount: '447'
+ht-degree: 11%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 13%
 
 課題は、学習した内容を実行するために必要なシナリオと要件を提供します。 課題は、スキルレベルを評価し、知識のギャップを特定するのに役立ちます。
 
-この節で説明する各課題では、実装する固有の使用例について説明します。 各チャレンジの最初に、ターゲットオーディエンス（ペルソナ）と必要なスキルを記載します。
+この節の各課題では、実装する固有の使用例について説明します。 各チャレンジの最初に、ターゲットオーディエンス（ペルソナ）と必要なスキルを記載します。
 
 ## 前提条件
 
 ### 必要システム構成
 
-* Journey Optimizerサンドボックスへのアクセス — 専用のトレーニングサンドボックスで課題を完了することをお勧めします。
+* Journey Optimizerサンドボックスへのアクセス — 専用のトレーニングサンドボックスでチャレンジを完了することをお勧めします。
 * AEM Assets Essentials をインスタンス用にプロビジョニングする必要があります
 * E メールチャネルは、トランザクションメッセージとマーケティングメッセージに対して設定する必要があります
 
@@ -68,8 +68,8 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
       <p>
       <b>必要なスキル：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> セグメントの作成</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML 電子メールコンテンツの読み込みと作成</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">ユースケース - セグメントの読み取り</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">セグメントの読み取り</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTMLE メールコンテンツを読み込む</li>
   </td>
   </tr>
    <tr>
@@ -82,12 +82,16 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
     <td>
     <div >
       <a>
-    <strong>ロイヤルティステータスのお知らせメール（近日公開）を作成 </strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">ロイヤルティステータスのお知らせメールの作成 </strong>
     </a>
     </div>
     <p>
-    <em>ロイヤルティ顧客が新しい層に移り、新しいメリットを祝福し、通知を受け取ったら、E メールを送信します</em>
+    <em>ロイヤルティ顧客が新しい層に移り、新しいメリットを祝福し、通知したら、E メールを送信します。</em>
     <p>
+    <b>必要なスキル：</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> セグメントの作成</li>
+      <li><a [href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">セグメントの選定</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML 電子メールコンテンツの読み込みと作成</li>
   </td>
   </tr>
   <tr>
@@ -107,7 +111,7 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
     </em>
     <p>
     <b>必要なスキル：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> メッセージエディターでの電子メールコンテンツの作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html"> メッセージエディターでの電子メールコンテンツの作成</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">パーソナライゼーションに関するコンテキストイベント情報の使用</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">パーソナライゼーションへのヘルパー関数の使用</li>
   </td>
