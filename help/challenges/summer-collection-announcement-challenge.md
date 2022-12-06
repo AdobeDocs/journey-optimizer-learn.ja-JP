@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
+source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1138'
 ht-degree: 3%
 
 ---
@@ -50,7 +50,7 @@ Luma マーケティングチームから、Journey Optimizerで夏物コレク�
 
 >[!TAB 達成基準]
 
-セグメントビルダーで、認定済みプロファイルの推定数を確認できます。 トレーニングサンドボックスデータを使用する場合、1.29 KB 中 753 個の認定プロファイルがあります。
+セグメントビルダーで、認定済みプロファイルの推定数を確認できます。 トレーニングサンドボックスデータを使用する場合、1.29 KB 中 753 個の認定済みプロファイルがあります。
 
 >[!NOTE]
 >既存のプロファイルをバックフィルする必要があるので、既存のプロファイルに対してセグメントのメンバーシップが表示されるまでに最大 24 時間かかる場合があります。
@@ -202,7 +202,7 @@ E メールが届きます。 件名は「Stanleigh, explore Men&#39;s New astle
 5. 次のいずれかを使用して、各ブランチをテストできます *Luma CRM Id* プロファイル識別子として：
    * 女性：Leora Dietsche、ID 値：`a8f14eab3b483c2b96171b575ecd90b1`
    * 男性：スタンレイ・ストーク、ID 値： `4f34057d9d9e792c28ba18ecae378e98`
-   * 性別が指定されていません：Louise Petti、ID 値：&#39;d1f132f9f9502bba047a6ec86c4b61f9&#39;
+   * 性別が指定されていません：Louise Petti、ID 値： `d1f132f9f9502bba047a6ec86c4b61f9`
 
 6. プロファイルの入口をトリガーすると、最初の E メールが届き、選択したプロファイルに応じてヘッダーがパーソナライズされます。
 7. ジャーニーは各分岐に続き、関連する E メールを受け取る必要があります（例えば、Jenna を選択した場合は、「Luma Women&#39;s Collection」という E メールを受け取る必要があります）。
