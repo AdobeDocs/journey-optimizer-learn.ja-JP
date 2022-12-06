@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 4%
@@ -58,19 +58,19 @@ Luma は、顧客を引き付け、保持する方法としてロイヤリティ
 2. デフォルトを上書き [!UICONTROL 電子メールパラメーター] を設定し、独自のメールアドレスに設定します。
 
 +++ 上書き方法の詳細については、ここをクリックしてください [!!UICONTROL 電子メールパラメーター].
-   * 目の記号をクリックして、非表示の値を表示します。
-   * 内 [!UICONTROL E メールパラメーター]、T 記号をクリックします（パラメータの上書きを有効にする）
 
-   ![E メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
+* 目の記号をクリックして、非表示の値を表示します。
+* 内 [!UICONTROL E メールパラメーター]、T 記号をクリックします（パラメータの上書きを有効にする）
 
-   * をクリックして、 [!UICONTROL 住所フィールド]
-   * 次の画面で、括弧内にメールアドレスを追加します。 `"yourname@yourdomain"` 式エディターで、「 ok 」をクリックします。
+![E メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+* をクリックして、 [!UICONTROL 住所フィールド]
+* 次の画面で、括弧内にメールアドレスを追加します。 `"yourname@yourdomain"` 式エディターで、「 ok 」をクリックします。
 +++
 
-
-3. ジャーニーをテストモードに設定
-4. トリガーとイベント
-5. 以下を追加します。 [!DNL CRM ID] 対象 [!DNL Stanleigh Stooke] に [!UICONTROL プロファイル識別子] フィールド： `4f34057d9d9e792c28ba18ecae378e98`
+1. ジャーニーをテストモードに設定
+2. トリガーとイベント
+3. 以下を追加します。 [!DNL CRM ID] 対象 [!DNL Stanleigh Stooke] に [!UICONTROL プロファイル識別子] フィールド： `4f34057d9d9e792c28ba18ecae378e98`
 
 パーソナライズされた *Luma — プラチナステータス — ようこそ* 電子メール。
 
