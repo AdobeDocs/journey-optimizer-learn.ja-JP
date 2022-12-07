@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b358ede4a9855b290ce4efa8611173f44e689b61
+source-git-commit: f86140ed3d39462ec245303efecade64a610a938
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 7%
@@ -60,11 +60,11 @@ ht-degree: 7%
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
-* [[!DNL Luma CRM]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
@@ -224,7 +224,7 @@ ht-degree: 7%
 
    * 表示名： `Luma Product Catalog Field Group`
 
-2. 次のフィールドを **[!DNL Luma Product Catalog Field Group]**.
+1. 次のフィールドを **[!DNL Luma Product Catalog Field Group]**.
 
    * フィールド名: `product`
 
@@ -234,9 +234,9 @@ ht-degree: 7%
 
    * フィールドグループ: [!DNL Luma Product Catalog Field Group]
 
-3. 選択 **[!UICONTROL 適用]**.
+1. 選択 **[!UICONTROL 適用]**.
 
-4. 次のフィールドを **[!DNL Product]** オブジェクト：
+1. 次のフィールドを **[!DNL Product]** オブジェクト：
 
    | [!UICONTROL フィールド名] | [!UICONTROL 表示名] | [!UICONTROL タイプ] |
    |-------------|-----------|----------|
@@ -250,9 +250,9 @@ ht-degree: 7%
    | `ImageURL` | `Image URL` | [!UICONTROL 文字列] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 文字列] |
 
-5. を **[!UICONTROL 表示名]** `Luma Product Catalog Field Group` から [!UICONTROL フィールドグループ].
+1. を **[!UICONTROL 表示名]** `Luma Product Catalog Field Group` から [!UICONTROL フィールドグループ].
 
-6. 「**[!UICONTROL 保存]**」を選択します。
+1. 「**[!UICONTROL 保存]**」を選択します。
 
 
 ### 作成 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
