@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 2%
 
 ---
@@ -196,7 +196,7 @@ E メールが届きます。 件名は次のようになります。 *スタン
 ジャーニーをテストし、自分のアカウントにメールを送信します。
 
 1. ジャーニーをテストモードにします。
-1. 一度に 1 つのプロファイルを選択します。
+1. 選択 **[!UICONTROL 一度に 1 つのプロファイル]**.
 1. 待機時間：タイマーを 120 秒に設定します（フィールドに入力します）。
 1. トリガープロファイルの入口
 1. 次のいずれかを使用して、各ブランチをテストできます *Luma CRM Id* プロファイル識別子として：
