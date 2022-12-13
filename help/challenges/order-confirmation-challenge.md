@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 5%
 
 ---
@@ -41,13 +41,13 @@ Luma の顧客がオンラインでの注文を完了した際に注文確認 E 
 
 1. という名前のジャーニーを作成します。 `Luma - Order Confirmation`
 1. イベントの使用： [!DNL LumaOnlinePurchase] トリガー
-1. 次の名前の注文確認 E メールを作成 `Luma - Order Confirmation`
+1. 次の名前の注文確認 E メールを作成 `Luma - Order Confirmation`:
 
 * カテゴリトランザクション — 必ずトランザクション E メールの表面を選択してください。
 * 件名は、受信者の名でパーソナライズする必要があります。また、「ご購入ありがとうございました」というフレーズを含める必要があります。
 * 以下を使用： **Luma — 注文の概要** テンプレートを作成し、変更します。
 
-Luma ブランドのガイドラインに従い、E メールは次の構造にする必要があります。
+E メールは、次のような構造にする必要があります。
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ Luma ブランドのガイドラインに従い、E メールは次の構造に�
       </p><br>
       <p><b>ヒント:</b>
       <li>これはコンテキストイベント情報です。
-      <li>!UICONTROL ヘルパー関数を使用します。[!UICONTROL Each]
+      <li>[!UICONTROL ヘルパー関数 ] を使用します。[!UICONTROL Each]
       <li>コードエディターの形式に切り替えて、コンテキストデータを追加します。
       <li>DIV タグを使用して、コンテナに情報を配置します。
   </td>

@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
 source-wordcount: '1065'
 ht-degree: 7%
@@ -250,9 +250,9 @@ ht-degree: 7%
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 文字列] |
 
 1. を **[!DNL SKU]** プライマリ ID として
-2. を **[!UICONTROL 表示名]** `Luma Product Catalog Field Group` から [!UICONTROL フィールドグループ].
+1. を **[!UICONTROL 表示名]** `Luma Product Catalog Field Group` から [!UICONTROL フィールドグループ].
 
-3. 「**[!UICONTROL 保存]**」を選択します。
+1. 「**[!UICONTROL 保存]**」を選択します。
 
 
 ### 作成 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
