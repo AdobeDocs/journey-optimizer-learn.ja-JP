@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '432'
 ht-degree: 5%
 
 ---
@@ -43,12 +43,8 @@ Luma は、顧客を引き付け、保持する方法としてロイヤリティ
 1. の作成 [!UICONTROL セグメント] Journey Optimizerで `Luma – status upgrade`.
 2. という名前のジャーニーを作成します。 `Luma – New Status – platinum`.
    1. 顧客は、プラチナロイヤルティ層の資格を得ると、ジャーニーに進みます。
-   2. 顧客は、ラベル付きの E メールメッセージを受け取る `Luma – Platinum Status - Welcome`件名行 `Welcome to Platinum Status, (recipient's first name)!` クリエイティブチームが提供する e メール本文を含む。
+   2. 顧客は、ラベル付きの E メールメッセージを受け取る `Luma – Platinum Status - Welcome`件名行 `Welcome to Platinum Status, (recipient's first name)!` クリエイティブチームが提供する e メール本文を含む。 これは、 [!UICONTROL トランザクション] 電子メール。
    3. HTMLファイルをアップロードすると、E メールが「platinum」ではなく「diamond」ステータスを参照していることに気がつきます。 クリエイティブチームに新しいファイルを要求する代わりに、E メールデザイナーで E メールを更新します。
-
->[チップ！]
-> Luma - Platinum Status - Welcome eMail が[!UICONTROL トランザクション].
-
 
 >[!TAB 達成基準]
 
@@ -69,7 +65,7 @@ Luma は、顧客を引き付け、保持する方法としてロイヤリティ
 4. トリガーとイベント
 5. 以下を追加します。 [!DNL CRM ID] 対象 [!DNL Stanleigh Stooke] に [!UICONTROL プロファイル識別子] フィールド： `4f34057d9d9e792c28ba18ecae378e98`
 
-パーソナライズされた *Luma — プラチナステータス — ようこそ* 電子メール。
+**結果：** パーソナライズされた *Luma — プラチナステータス — ようこそ* 電子メール。
 
 >[!TAB 作業内容を確認する]
 
