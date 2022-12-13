@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 2f4f214100e13265d839e2466063e0546e6408b9
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1065'
 ht-degree: 7%
 
 ---
@@ -207,7 +207,6 @@ ht-degree: 7%
 
 ### 作成 [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
 
-
 1. に移動します。 [!UICONTROL データ管理] -> **[!UICONTROL スキーマ]** をクリックします。
 
 1. を選択します。 **[!UICONTROL スキーマを作成]** 」ボタンを右上にクリックします。
@@ -250,9 +249,10 @@ ht-degree: 7%
    | `ImageURL` | `Image URL` | [!UICONTROL 文字列] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 文字列] |
 
-1. を **[!UICONTROL 表示名]** `Luma Product Catalog Field Group` から [!UICONTROL フィールドグループ].
+1. を **[!DNL SKU]** プライマリ ID として
+2. を **[!UICONTROL 表示名]** `Luma Product Catalog Field Group` から [!UICONTROL フィールドグループ].
 
-1. 「**[!UICONTROL 保存]**」を選択します。
+3. 「**[!UICONTROL 保存]**」を選択します。
 
 
 ### 作成 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
@@ -266,7 +266,7 @@ ht-degree: 7%
 
 1. 選択 **[!UICONTROL 新しいクラスを作成]**.
 
-1. 表示名を追加します。 `Luma Business Event`.
+1. 表示名を追加します。 `Luma Business Event Class`.
 
 1. タイプを選択： *[!UICONTROL 時系列]*.
 
@@ -274,11 +274,11 @@ ht-degree: 7%
 
 1. の作成 [!UICONTROL フィールドグループ]:
 
-   * 表示名： `Product Inventory Event Details`
+   * 表示名： `Luma Product Inventory Event Details Field Group`
 
 1. を **[!UICONTROL 表示名]** `Luma Product Inventory Event Schema` をスキーマに追加します。
 
-1. 次のフィールドを「Luma Product Info」フィールドグループに追加します。
+1. 次のフィールドを **[!DNL Luma Product Inventory Event Details Field Group]**:
 
    * フィールド名: `inventoryEvent`
 
@@ -286,53 +286,52 @@ ht-degree: 7%
 
    * タイプ： [!UICONTROL オブジェクト]
 
-   * フィールドグループ: [!DNL Product Inventory Event Details]
+   * フィールドグループ： [!DNLLUma 製品在庫イベント詳細フィールドグループ]
 
 1. 次のフィールドを **[!DNL Product Inventory Event Details]** オブジェクト：
 
    | [!UICONTROL フィールド名] | [!UICONTROL 表示名] | [!UICONTROL タイプ] |
    |-------------|-----------|----------|
-   | `productId` | `Product ID` | [!UICONTROL 文字列] |
    | `sku` | `SKU` | [!UICONTROL 文字列] |
-   | `stockEventType` | `Stock Event Type` | **[!UICONTROL Enum]** と `restock` および `outOfStock` 値として |
+   | `stockEventType` | `Stock Event Type` | [!UICONTROL 文字列] |
 
    1. 設定する `stockEventType` 列挙に型を選択します。 `string`.
 
-   1. 下にスクロールして **[!UICONTROL フィールドプロパティ]**.
+   2. 下にスクロールして **[!UICONTROL フィールドプロパティ]**.
 
-   1. 有効にする **[!UICONTROL Enum]**.
+   3. 有効にする **[!UICONTROL Enum]**.
 
-   1. 入力 **[!UICONTROL 値] ([!UICONTROL ラベル )]**: `restock` (`restock`) をクリックします。
+   4. 入力 **[!UICONTROL 値] ([!UICONTROL ラベル )]**: `restock` (`restock`) をクリックします。
 
-   1. 選択 **[!UICONTROL 行を追加]**.
+   5. 選択 **[!UICONTROL 行を追加]**.
 
-   1. 入力 **[!UICONTROL 値] ([!UICONTROL ラベル )]**: `outOfStock` (`out of stock`) をクリックします。
+   6. 入力 **[!UICONTROL 値] ([!UICONTROL ラベル )]**: `outOfStock` (`out of stock`) をクリックします。
 
-   1. 選択 **[!UICONTROL 適用]**.
+   7. 選択 **[!UICONTROL 適用]**.
 
       ![enum](assets/enum.png)
 
-1. 設定 `productId` ～としてのフィールド **[!UICONTROL プライマリ ID]** using **[!DNL Luma Product namespace]**.
+2. 設定 `productId` ～としてのフィールド **[!UICONTROL プライマリ ID]** using **[!DNL Luma Product namespace]**.
 
-1. を選択します。 `sku` フィールドを開き、 `product.sku` フィールド **[!DNL Luma Product catalog Schema]** スキーマ：
+3. を選択します。 `sku` フィールドを開き、 `product.sku` フィールド **[!DNL Luma Product catalog Schema]** スキーマ：
 
    1. 下にスクロールして **[!UICONTROL フィールドプロパティ]**.
 
-   1. 有効にする **[!UICONTROL 関係]**.
+   2. 有効にする **[!UICONTROL 関係]**.
 
       1. **[!UICONTROL 参照スキーマ]**: [!DNL Luma Product catalog Schema].
 
-      1. **[!UICONTROL 参照 ID 名前空間]**: [!DNL Luma Product].
-   1. 選択 **[!UICONTROL 適用]**.
+      2. **[!UICONTROL 参照 ID 名前空間]**: [!DNL Luma Product].
+   3. 選択 **[!UICONTROL 適用]**.
 
       スキーマは次のようになります。
 
       ![SKU 関係](assets/sku_relationship.png)
 
 
-1. 有効にする対象 **プロファイル**.
+4. 有効にする対象 **プロファイル**.
 
-1. 選択 [!UICONTROL 保存] スキーマを保存します。
+5. 選択 [!UICONTROL 保存] スキーマを保存します。
 
 ### を作成します。 [!DNL Luma CRM] および [!DNL Luma Product Interactions] スキーマ {#create-luma-crm-and-luma-product-interactions-schemas}
 

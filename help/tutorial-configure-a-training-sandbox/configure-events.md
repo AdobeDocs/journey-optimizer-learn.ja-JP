@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '224'
 ht-degree: 10%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 10%
    | [!UICONTROL タイプ] | [!UICONTROL 単一] |
    | [!UICONTROL イベント ID タイプ] | [!UICONTROL ルールベース] |
    | [!UICONTROL スキーマ] | Luma 製品インタラクション |
-   | [!UICONTROL フィールド] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>製品リスト項目で、「Luma 製品」>「_」*[!DNL yourOrganizationID]* > 製品：</b> <br> 名前<br>価格<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL フィールド] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>「製品リスト品目」で、「Luma 製品カタログスキーマ」>「 _ 」を選択します。*[!DNL yourOrganizationID]* > 製品：</b> <br> 名前<br>価格<br>ProductImageURL<br>ProductURL |
 
 1. を [!UICONTROL イベント ID 条件]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
 
@@ -49,9 +49,9 @@ ht-degree: 10%
 
 ![イベント条件を追加](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. 選択 [!UICONTROL 名前空間]: `Email(Email)`
+1. 選択 [!UICONTROL 名前空間]: `Luma CRM ID (lumaCrmId)`
 
-1. 「**[!UICONTROL 保存]**」を選択します。
+2. 「**[!UICONTROL 保存]**」を選択します。
 
 ## 作成 *[!DNL Luma Wishlist Add]* イベント
 
