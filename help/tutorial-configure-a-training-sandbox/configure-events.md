@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 10%
+source-wordcount: '204'
+ht-degree: 11%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 10%
    | [!UICONTROL 名前] | `LumaOnlinePurchase` |
    | [!UICONTROL タイプ] | [!UICONTROL 単一] |
    | [!UICONTROL イベント ID タイプ] | [!UICONTROL ルールベース] |
-   | [!UICONTROL スキーマ] | Luma 製品インタラクション |
-   | [!UICONTROL フィールド] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>「製品リスト品目」で、「Luma 製品カタログスキーマ」>「 _ 」を選択します。*[!DNL yourOrganizationID]* > 製品：</b> <br> 名前<br>価格<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL スキーマ] | `Luma Web Events Schema` |
+   | [!UICONTROL フィールド] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. を [!UICONTROL イベント ID 条件]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
+2. を [!UICONTROL イベント ID 条件]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. 鉛筆アイコンを選択してフィールドを編集します
    2. の [!UICONTROL イベント ID 条件の追加] モーダルを表示し、ドラッグ&amp;ドロップします。 `eventType` キャンバスに

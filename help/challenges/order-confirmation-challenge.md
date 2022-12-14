@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 5%
 
 ---
@@ -33,19 +33,19 @@ Luma は、オンラインストアを立ち上げており、顧客が注文し
 
 ## 課題
 
-Luma の顧客がオンラインでの注文を完了した際に注文確認 E メールを送信するジャーニーを作成します。
+Luma の顧客がオンラインでの注文を完了した際に注文確認 E メールを送信するジャーニーを作成します。 ルマ
 
 >[!BEGINTABS]
 
 >[!TAB タスク]
 
 1. という名前のジャーニーを作成します。 `Luma - Order Confirmation`
-1. イベントの使用： [!DNL LumaOnlinePurchase] トリガー
-1. 次の名前の注文確認 E メールを作成 `Luma - Order Confirmation`:
+2. イベントの使用： `LumaOnlinePurchase` トリガー
+3. 次の名前の注文確認 E メールを作成 `Luma - Order Confirmation`:
 
 * カテゴリトランザクション — 必ずトランザクション E メールの表面を選択してください。
 * 件名は、受信者の名でパーソナライズする必要があります。また、「ご購入ありがとうございました」というフレーズを含める必要があります。
-* 以下を使用： **Luma — 注文の概要** テンプレートを作成し、変更します。
+* 以下を使用： `Luma - Order summary` テンプレートを作成し、変更します。
 
 E メールは、次のような構造にする必要があります。
 <table>
@@ -59,7 +59,6 @@ E メールは、次のような構造にする必要があります。
     <strong>Luma ロゴ</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>サイズ 35%、背景が白を中央に配置 </li>
     <li>Luma Web サイトへのリンクが必要です。https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ E メールは、次のような構造にする必要があります。
     </strong>
   </td>
   <td>
-    <strong>画像</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>利益：上、下 (10)<div>
     <p>
     <strong>テキスト</strong><p>
     <em>おい {first name}</em><p>
@@ -91,23 +87,15 @@ E メールは、次のような構造にする必要があります。
   <div>
      <strong> 出荷先セクション</strong>
       </div>
-      <p><li>テンプレートのハードコードされたアドレスを、プロファイルのアドレスペイロードで置き換えます
+      <p><li>テンプレートのハードコードされた住所を配送先住所に置き換えます 
+      <li>詳細は、イベント（番地、市区町村、郵便番号、都道府県）のコンテキスト属性です
+      <li>姓と名はプロファイルから取得されます
       <li> 割引、合計、到着済みを削除</p>
   </td>
   <td>
   <p> 送付先：</p>
       <em>姓<br>
-      番地<br>
-      市区町村、都道府県、郵便番号</em></p>
-
-    &lt;strong>ボタン：&lt;/strong>&lt;/p>
-<p><em>注文を表示</em></p>
-      <li>背景色：rgb(25, 121, 195)</li>
-      <li>テキストカラー：白</li>
-      <li>境界線なし</li>
-      <li>高さ：40</li>
-      <li>選択した Web サイトにリンクを追加します </li>
-      <li>上のテキストに合わせて左揃えにします ( ヒント：コンテナの余白を使用 )</li>
+      住所<br></em></p>
   </td>
  <tr>
 <td>
