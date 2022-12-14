@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1058'
 ht-degree: 7%
 
 ---
@@ -286,9 +286,9 @@ ht-degree: 7%
 
    * タイプ： [!UICONTROL オブジェクト]
 
-   * フィールドグループ： [!DNLLUma 製品在庫イベント詳細フィールドグループ]
+   * フィールドグループ: `Luma Product Inventory Event Details Field Group`
 
-1. 次のフィールドを **[!DNL Product Inventory Event Details]** オブジェクト：
+1. 次のフィールドを `Product Inventory Event Details` オブジェクト：
 
    | [!UICONTROL フィールド名] | [!UICONTROL 表示名] | [!UICONTROL タイプ] |
    |-------------|-----------|----------|
@@ -311,9 +311,9 @@ ht-degree: 7%
 
       ![enum](assets/enum.png)
 
-2. 設定 `productId` ～としてのフィールド **[!UICONTROL プライマリ ID]** using **[!DNL Luma Product namespace]**.
+1. 設定 `productId` ～としてのフィールド **[!UICONTROL プライマリ ID]** using **[!DNL Luma Product namespace]**.
 
-3. を選択します。 `sku` フィールドを開き、 `product.sku` フィールド **[!DNL Luma Product catalog Schema]** スキーマ：
+1. を選択します。 `sku` フィールドを開き、 `product.sku` フィールド **[!DNL Luma Product catalog Schema]** スキーマ：
 
    1. 下にスクロールして **[!UICONTROL フィールドプロパティ]**.
 
@@ -329,9 +329,9 @@ ht-degree: 7%
       ![SKU 関係](assets/sku_relationship.png)
 
 
-4. 有効にする対象 **プロファイル**.
+1. 有効にする対象 **プロファイル**.
 
-5. 選択 [!UICONTROL 保存] スキーマを保存します。
+1. 選択 [!UICONTROL 保存] スキーマを保存します。
 
 ### を作成します。 [!DNL Luma CRM] および [!DNL Luma Product Interactions] スキーマ {#create-luma-crm-and-luma-product-interactions-schemas}
 
