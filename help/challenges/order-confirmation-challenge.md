@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '692'
 ht-degree: 5%
 
 ---
@@ -113,7 +113,7 @@ E メールは、次のような構造にする必要があります。
   <td>
     <strong>ヘッダー</strong>
     <p>
-    <em>注文 { 発注書番号 }</em>
+    <em>注文：'purchaseOrderNumber'</em>
     </p>
     <strong>注文された製品のリスト：
   </strong>
@@ -164,7 +164,7 @@ E メールは、次のような構造にする必要があります。
    3. 次の画面で、括弧内にメールアドレスを追加します。 *yourname@yourdomain* 式エディターで、「 ok 」をクリックします。
 2. ジャーニーをテストモードにする
 3. 次のパラメーターを使用してイベントにトリガーを設定します。
-   * プロファイル識別子の設定：Jenna_Palmer9530@emailsim.io
+   * プロファイル識別子の設定：ID 値：`a8f14eab3b483c2b96171b575ecd90b1`
    * イベントタイプ：commerce.purchases
    * 名前：Sprite Yoga Companion Kit
    * 数量：1
@@ -172,12 +172,13 @@ E メールは、次のような構造にする必要があります。
    * 注文番号：6253728
    * SKU:24-WG080
    * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * 
 
 指定した製品と共に、パーソナライズされた購入確認 E メールが届きます。
 
-* 件名は、テストプロファイルの名で始まる必要があります。ジェナ
+* 件名行には、テストプロファイルの名が含まれている必要があります。レオラ
 * 注文の詳細セクションには、テスト中に入力した注文の詳細を入力する必要があります
-* 顧客情報には、テストプロファイルの市区町村と郵便番号が含まれます。
+* この *送付先* セクションには、テストプロファイルの市区町村と郵便番号を入力する必要があります。
 
    43913 Thierer Terrace, Washington DC 20099
 
@@ -185,17 +186,30 @@ E メールは、次のような構造にする必要があります。
 
 >[!TAB 作業内容を確認する]
 
-** ジャーニー
+**ジャーニー**
 
 ![ジャーニー](/help/challenges/assets/c2-journey.png)
 
 
-** メール
+**メール**
 
 **件名:**
 
 {{ profile.person.name.firstName }}、ご購入ありがとうございました。
 
+**出荷先セクション：**
+
+コードは次のようになります。
+
+```javascript
+{{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
+{{context.journey.events.454181416.commerce.shipping.address.street1}}
+{{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
+```
+
+*event.45481416* は別の数になります。
+
+ヒント：各行を個別にパーソナライズ
 
 **注文の詳細セクション：**
 

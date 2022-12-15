@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 5%
@@ -63,7 +63,7 @@ Luma は、顧客を引き付け、保持する方法としてロイヤリティ
 
 3. ジャーニーをテストモードに設定
 4. トリガーとイベント
-5. 以下を追加します。 [!DNL CRM ID] 対象 [!DNL Stanleigh Stooke] に [!UICONTROL プロファイル識別子] フィールド： `4f34057d9d9e792c28ba18ecae378e98`
+5. 以下を追加します。 [!DNL CRM ID] 対象 `Stanleigh Stooke` に [!UICONTROL プロファイル識別子] フィールド： `4f34057d9d9e792c28ba18ecae378e98`
 
 **結果：** パーソナライズされた *Luma — プラチナステータス — ようこそ* 電子メール。
 
