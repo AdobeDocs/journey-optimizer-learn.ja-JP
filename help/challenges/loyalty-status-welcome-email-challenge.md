@@ -1,5 +1,5 @@
 ---
-title: ロイヤルティステータスのお知らせメールの作成 — チャレンジ
+title: ロイヤルティステータス案内メールの作成 - 課題
 description: ジャーニーキャンバスでジャーニーを構築する基本を理解します。
 kt: 8109
 feature: Journeys
@@ -8,74 +8,74 @@ level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '430'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# ロイヤルティステータスのお知らせメールの作成 — チャレンジ
+# ロイヤルティステータス案内メールの作成 - 課題
 
-![ロイヤルティステータスのお知らせメール — チャレンジバナー](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
+![ロイヤルティステータス案内メール - 課題バナー](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
 
-| 課題 | ロイヤルティステータスのお知らせメールの作成 |
+| 課題 | ロイヤルティステータス案内メールの作成 |
 |---|---|
 | ペルソナ | ジャーニーマネージャー |
-| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[セグメントの選定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[インポートHTMLコンテンツ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
+| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja)</li> <li>[セグメントの選定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=ja)</li><li>[HTML コンテンツのインポート](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ja)</li></ul> |
 | ダウンロードするアセット | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
-## ザストーリー
+## ストーリー
 
-Luma は、顧客を引き付け、保持する方法としてロイヤリティープログラムを提供しています。 このプログラムには、次の 4 つの異なる層が用意されています。青銅、銀、金、プラチナ。 各ロイヤルティ層は、リピートビジネスの報酬として、様々な報酬、割引、その他の特別なインセンティブを受け取ります。
+Luma は、顧客を引き付け維持する手段としてロイヤルティプログラムを提供しています。このプログラムには、ブロンズ、シルバー、ゴールド、プラチナの 4 種類の層が用意されています。それぞれのロイヤルティ層では、リピート客への報酬として様々な特典や割引、その他の特別なインセンティブを受け取ります。
 
-特別なプラチナステータスに下線を引く。 Luma は、プラチナ層に到達した顧客に歓迎のメールを送信したいと考えています。
+特別なプラチナステータスに下線を引きます。Luma は、プラチナ層に到達した顧客に案内メールを送信したいと考えています。
 
 ## 課題
 
-プラチナロイヤルティ層に到達した顧客に歓迎のメールを自動的に送信するジャーニーを設定するように求められました。
+プラチナロイヤルティ層に到達した顧客に案内メールを自動的に送信するジャーニーを設定するよう求められました。
 
 >[!BEGINTABS]
 
 >[!TAB タスク]
 
-ロイヤリティ顧客がプラチナ層の資格を得たら、新しい特典を受け取り、お祝いを申し上げるために E メールを送信します。 クリエイティブチームがHTMLファイルを提供しました **[Luma — ステータスアップグレード — ようこそ eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** 電子メール本文に置き換えます。
+ロイヤルティ顧客がプラチナ層の資格を得たら、その顧客にお祝いのメールを送信し、新しい特典を通知します。メール本文を含んだ HTML ファイル「**[Luma - ステータスアップグレード - 案内メール](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)**」がクリエイティブチームから提供されました。
 
-1. の作成 [!UICONTROL セグメント] Journey Optimizerで `Luma – status upgrade`.
-2. という名前のジャーニーを作成します。 `Luma – New Status – platinum`.
-   1. 顧客は、プラチナロイヤルティ層の資格を得ると、ジャーニーに進みます。
-   2. 顧客は、ラベル付きの E メールメッセージを受け取る `Luma – Platinum Status - Welcome`件名行 `Welcome to Platinum Status, (recipient's first name)!` クリエイティブチームが提供する e メール本文を含む。 これは、 [!UICONTROL トランザクション] 電子メール。
-   3. HTMLファイルをアップロードすると、E メールが「platinum」ではなく「diamond」ステータスを参照していることに気がつきます。 クリエイティブチームに新しいファイルを要求する代わりに、E メールデザイナーで E メールを更新します。
+1. Journey Optimizer で `Luma – status upgrade` という名前の[!UICONTROL セグメント]を作成します。
+2. `Luma – New Status – platinum` という名前のジャーニーを作成します。
+   1. 顧客はプラチナロイヤルティ層の資格を得ると、ジャーニーに進みます。
+   2. 顧客は、`Luma – Platinum Status - Welcome` というラベル付きのメールメッセージを受信します。件名は「`Welcome to Platinum Status, (recipient's first name)!`」で、クリエイティブチームから提供されたメール本文を含んでいます。 これは、[!UICONTROL トランザクション]メールです。
+   3. HTML ファイルをアップロードすると、メールが「プラチナ」ではなく「ダイヤモンド」ステータスを参照していることがわかります。クリエイティブチームに新しいファイルを要求するのではなく、電子メールデザイナーでメールを更新します。
 
->[!TAB 達成基準]
+>[!TAB 成功基準]
 
-ジャーニーのテスト:
+ジャーニーをテストします。
 
-1. 必ず [!UICONTROL セグメントを読み取りアクティビティ] には [!UICONTROL 名前空間] に設定 **[!DNL Luma CRM id(lumaCrmId)]**
-2. デフォルトを上書き [!UICONTROL 電子メールパラメーター] を設定し、独自のメールアドレスに設定します。
+1. [!UICONTROL セグメントを読み取りアクティビティ]の[!UICONTROL 名前空間]が **[!DNL Luma CRM id(lumaCrmId)]** に設定されていることを確認します。
+2. デフォルトの[!UICONTROL メールパラメーター]を上書きして、独自のメールアドレスに設定します。
    * 目の記号をクリックして、非表示の値を表示します。
-   * 内 [!UICONTROL E メールパラメーター]、T 記号をクリックします（パラメータの上書きを有効にする）
+   * [!UICONTROL メールパラメーター]で、T 記号をクリックします（パラメータの上書きを有効にする）。
 
-       ![ 電子メールパラメーターを上書き ](/help/challenges/assets/c3-override-email-paramters.jpg)
+       ![メールパラメーターを上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
    
-   * をクリックして、 [!UICONTROL 住所フィールド]
-   * 次の画面で、括弧内にメールアドレスを追加します。 `"yourname@yourdomain"` 式エディターで、「 ok 」をクリックします。
+   * [!UICONTROL 住所フィールド]をクリックします。
+   * 次の画面で、括弧内にメールアドレスを追加します。`"yourname@yourdomain"` を式エディターに入力し、「OK」をクリックします。
 
 
 3. ジャーニーをテストモードに設定
-4. トリガーとイベント
-5. 以下を追加します。 [!DNL CRM ID] 対象 `Stanleigh Stooke` に [!UICONTROL プロファイル識別子] フィールド： `4f34057d9d9e792c28ba18ecae378e98`
+4. イベントのトリガー
+5. `Stanleigh Stooke` の次の [!DNL CRM ID] を「[!UICONTROL プロファイル識別子]」フィールド（`4f34057d9d9e792c28ba18ecae378e98`）に追加します
 
-**結果：** パーソナライズされた *Luma — プラチナステータス — ようこそ* 電子メール。
+**結果：**&#x200B;パーソナライズされた（*Luma - プラチナステータス - お知らせ*）メールを受信します。
 
->[!TAB 作業内容を確認する]
+>[!TAB 作業内容の確認]
 
 ジャーニーは次のようになります。
 
 ![platinum-status-upgrade-journey](/help/challenges/assets/journey-luma-status-upgrade.png)
 
 
-E メールは次のようになります。
+メールの内容は以下になります。
 
-![Luma — ステータスアップグレード — ようこそ eMail](/help/challenges/assets/status-upgrade-welcome-email.png)
+![Luma - ステータスアップグレード - お知らせメール](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]
