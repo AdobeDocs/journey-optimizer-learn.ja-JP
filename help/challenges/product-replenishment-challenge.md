@@ -1,6 +1,6 @@
 ---
 title: 製品補充の課題
-description: セグメントの作成とスキルのテストについて学んだことを適用します。
+description: セグメントの作成とスキルのテストについて学習した内容を適用します。
 kt: 8417
 feature: Segments
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '609'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -19,90 +19,90 @@ ht-degree: 3%
 | 課題 | 製品補充 |
 |---|---|
 | ペルソナ | ジャーニーマネージャー |
-| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en)</li><li> [HTML 電子メールコンテンツの読み込みと作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en)</li><li>[ユースケース - セグメントの読み取り](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
-| ダウンロードするアセット | [季節ごとのコレクションの電子メールファイル](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=ja)</li><li> [HTML メールコンテンツの読み込みと作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=ja)</li><li>[ユースケース - セグメントの読み取り](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ja)</li> |
+| ダウンロードするアセット | [季節ごとのコレクションのメールファイル](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
-## 物語
+## ストーリー
 
-Luma の Web サイトを参照する際、顧客は興味のある製品をウィッシュリストに追加できます。 これにより、Luma は、ターゲットを絞ったマーケティングメッセージと製品に関する情報を顧客に送信できます。
+Luma の web サイトを参照する際、顧客は興味のある製品をウィッシュリストに追加できます。これにより、Luma は、ターゲットを絞ったマーケティングメッセージと製品に関する情報を顧客に送信できます。
 
 ## 課題
 
-Luma は、以前に在庫切れだったアイテムを持つ顧客に、そのアイテムが在庫に戻ったときにその顧客に通知するジャーニーをJourney Optimizerで実装するように求めます。
+Luma は、Journey Optimizer でジャーニーを実装して、以前は在庫切れだったアイテムをウィッシュリストに持っている顧客に、このアイテムが再入荷したときに通知するように依頼します。
 
-## セグメントの定義 — 在庫切れのウィッシュリスト項目
+## セグメントの定義 - 在庫切れのウィッシュリストアイテム
 
-製品の再在庫時に潜在的な興味を持つ顧客をターゲットにするには、顧客で構成されるセグメントを作成します
+製品が再入荷されたときに潜在的な興味のある顧客をターゲットにするには、顧客で構成されるセグメントを作成します
 
-* 1 つ以上の項目をウィッシュリストに追加したユーザー ( イベントタイプを使用： [!UICONTROL コマース後のために保存])
-* それは **在庫切れ** 過去 3 か月間（在庫数= 0 を使用）
-* そして、その品目を購入してからではありません。
+* 1 つ以上のアイテムをウィッシュリストに追加した顧客（イベントタイプ：[!UICONTROL Commerce で後で購入するために保存]を使用）
+* 過去 3 か月以内に&#x200B;**在庫切れ**&#x200B;になったアイテム（使用在庫数 = 0）
+* および、それ以来アイテムを購入していない。
 
-このセグメントに名前を付ける： *お名前 — 在庫切れ — ウィッシュリスト*
+このセグメントに&#x200B;*名前 – 在庫切れ-ウィッシュリスト*&#x200B;という名前を付けます
 
-+++**作業内容を確認する**
++++**作業内容の確認**
 
-セグメントは次のようになります。
+セグメントは、次のようになります。
 
-![セグメント — 在庫切れのウィッシュリスト項目](/help/challenges/assets/C1-S2.png)
+![セグメント - 在庫切れのウィッシュリストアイテム](/help/challenges/assets/C1-S2.png)
 
-過去 3 か月間に在庫切れとなったウィッシュリストに品目を追加したお客様：
+過去 3 か月以内に在庫切れだったアイテムをウィッシュリストに追加した顧客：
 
-* イベント：後で使用するために保存
+* イベント：後で購入するために保存
    * 少なくとも 1 つを含める
-   * ここで、在庫数量は 0 です。
+   * 在庫数が 0 の場合
 
-およびは、次の品目を購入した後はありません。
+それ以来、アイテムを購入していない。
 
-* SKU が SKU と一致する購入イベントタイプをすべて **後で使用するために保存するイベント**.
+* SKU が&#x200B;**後で購入するために保存イベント**&#x200B;の SKU と一致するすべての購入イベントタイプを除外します。
 
 >[!TIP]
-> * 「後で使用するために保存」で SKU を選択します ( *変数を参照* セクション
-> * SKU を「後で保存するために保存」の下にイベントフィールドにドロップする場合は、比較オプションを使用します
+> * *変数を参照*&#x200B;セクションの「後で購入するために保存」の下にある SKU を選択します。
+> * 「後で購入するために保存」の下にある SKU をイベントフィールドにドロップする際に、比較オプションを使用します
 
 
-セグメントを編集画面の右下隅にある「イベント」で、コードを確認します。 コードは次のようになります。
+セグメントを編集画面の右下隅のイベントの下にあるコードを確認します。コードは、次のようになります。
 
-コード:
+コード：
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
 
 +++
 
-### 電子メールの作成 — Luma-Product 補充
+### メールの作成 - Luma 製品補充
 
-買い物を開始する呼び出しで在庫切れの品目を追加した顧客に、その品目が在庫に戻ったことを通知します。
+在庫切れのアイテムを追加した顧客に、そのアイテムが再入荷したので今すぐ買い物を開始するように通知します。
 
-### ジャーニーの作成 — 製品在庫通知
+### ジャーニーの作成 - 製品再入荷の通知
 
-以前に在庫切れになった品目が再び在庫に戻ったら、買い物を開始する呼び出しで在庫切れ品目を追加した顧客に、その品目が在庫に戻ったことを通知します。
+以前に在庫切れだったアイテムが再入荷したら、在庫切れのアイテムを追加した顧客に、アイテムが再入荷したので買い物を開始するように通知します。
 
-1. 「your name_Luma - Product Restock」という名前のジャーニーを作成します。
-1. 製品が在庫に戻ったら、ジャーニーをトリガーする必要があります
-1. を *Luma-Product 補充* 電子メール送信先
-1. 在庫切れの際にこの項目をウィッシュリストに追加したユーザー
+1. 「名前_Luma - 製品の再入荷」というジャーニーを作成します
+1. 製品が再入荷したときにジャーニーをトリガーする必要があります
+1. *Luma-製品補充*&#x200B;メールを送信します
+1. 在庫切れのアイテムをウィッシュリストに追加した顧客
 
 >[!TIP]
 >
-> 既存のビジネスイベントを使用します。 後で保存する際に、在庫 SKU が（任意の）イベントタイプに含まれていることを確認する条件を追加する必要があります。
+> 既存のビジネスイベントを使用している。再入荷 SKU が後で保存する（任意の）イベントタイプに含まれていることを確認する条件を追加する必要があります。
 
-+++**達成基準**
++++**成功基準**
 
-ジャーニーのテスト:
+ジャーニーをテストします。
 
-1. セグメントの選定イベントに名前空間= E メールが含まれていることを確認します。
-1. デフォルトの E メールパラメーターを上書きし、独自の E メールアドレスに設定します ( 手順については、 E メール#1を参照 )
+1. セグメントの選定イベントに名前空間 = メールがあることを確認してください
+1. デフォルトのメールパラメーターを上書きし、独自のメールアドレスに設定します（手順については、メール #1 を参照）
 1. ジャーニーをテストモードに設定
-1. トリガーとイベント — 次のデータを入力します。
+1. イベントのトリガー - 次のデータを入力します。
 
-   * 説明：ファンシーマシンと高価なメンバーシップを忘れる — ハーモニー Lumaflex Strength Band Kit は、素晴らしいトレーニングに必要なすべてです。 このキットは、強化と調色の練習の範囲に必要なすべてを備えています。
-   * 名前：ハーモニールマフレックス強度バンドキット
+   * 説明：高額なマシンや高価な会費は必要ありません - Harmony Lumaflex Strength Band Kit だけあれば、素晴らしいワークアウトを実現できます。このキットには、筋肉の強化や引き締めエクササイズに必要な機能がすべて揃っています。
+   * 名前：Harmony Lumaflex Strength Band Kit
    * 価格：22
-   * 製品 ID:24-UG03
-   * 製品画像 URL:https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpSKU:24-UG03
+   * 製品 ID：24-UG03
+   * 製品画像 URL：https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpSKU: 24-UG03
    * 在庫イベントタイプ：再在庫
    * プロファイル識別子：Jenna_Palmer9530@emailsim.io
 
-Jenna の製品詳細とパーソナライゼーションを記載した「Luma Email Product Replisation」E メールが届きます。
+Jenna の製品詳細とパーソナライゼーションを記載した「Luma メール製品補充」のメールが届きます。
 
 +++
 
@@ -114,7 +114,7 @@ Jenna の製品詳細とパーソナライゼーションを記載した「Luma 
 
 条件：ウィッシュリスト内
 
-![条件 — ウィッシュリスト内](/help/challenges/assets/c3-j3-condition.png)
+![条件 - ウィッシュリスト内](/help/challenges/assets/c3-j3-condition.png)
 
 条件コード：
 
