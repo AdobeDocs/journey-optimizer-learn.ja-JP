@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizerの課題 — 概要と前提条件
+title: Journey Optimizer の課題 - 概要と前提条件
 description: ジャーニーキャンバスでジャーニーを構築する基本を理解します。
 feature: Journeys
 role: Admin
@@ -7,47 +7,47 @@ level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '454'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# Journey Optimizerの課題 — 概要と前提条件
+# Journey Optimizer の課題 - 概要と前提条件
 
-![AJO チャレンジバナー](./assets/ajo-banner-challenges.png)
+![AJO 課題バナー](./assets/ajo-banner-challenges.png)
 
-課題は、学習した内容を実行するために必要なシナリオと要件を提供します。 課題は、スキルレベルを評価し、知識のギャップを特定するのに役立ちます。
+課題は、学習した内容を実践するために必要なシナリオと要件を提供します。課題は、スキルレベルを評価し、知識のギャップを特定するのに役立ちます。
 
-この節の各課題では、実装する固有の使用例について説明します。 各チャレンジの最初に、ターゲットオーディエンス（ペルソナ）と必要なスキルを記載します。
+この節の各課題は、実装する固有のユースケースに対応しています。ターゲットオーディエンス（ペルソナ）と必要なスキルは、各課題の冒頭に記載されています。
 
 ## 前提条件
 
 ### 必要システム構成
 
-* Journey Optimizerサンドボックスへのアクセス — 専用のトレーニングサンドボックスでチャレンジを完了することをお勧めします。
+* Journey Optimizer サンドボックスへのアクセス - 専用のトレーニングサンドボックスで課題を完了することをお勧めします。
 * AEM Assets Essentials をインスタンス用にプロビジョニングする必要があります
-* E メールチャネルは、トランザクションメッセージとマーケティングメッセージに対して設定する必要があります
+* メールチャネルは、トランザクションおよびマーケティングメッセージ用に設定する必要があります
 
-### アクセス権
+### アクセス権限
 
-次のアクセス権が必要です。
-* *ジャーニー管理* または *ジャーニー管理者*
+次のアクセス権限が必要です。
+* *ジャーニーマネージャー*&#x200B;または&#x200B;*ジャーニー管理者*
 * テストプロファイルとその属性の表示
 
 >[!NOTE]
-> 演習は Luma サンプルデータに基づいて開発されました。 サンプルデータを使用して設定されたトレーニングサンドボックスを設定することをお勧めします。 チュートリアルを参照してください [トレーニングサンドボックスの設定](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) 」を参照してください。
+> 演習は、Luma サンプルデータに基づいて作成されました。サンプルデータを使用してトレーニングサンドボックスを設定することをお勧めします。手順について詳しくは、[トレーニングサンドボックスの設定](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)のチュートリアルを参照してください。
 
 ### 必要なアクション
 
-* Adobe Journey Optimizerを初めて使用する場合は、コースを修了してください [Journey Optimizerを使い始める (ジャーニーマネージャーと管理者向け )](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=ja).
+* Adobe Journey Optimizer を初めて使用する場合は、[ジャーニーマネージャーおよび管理者向け Journey Optimizer の基本を学ぶ](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)のコースを完了してください。
 
 
-## ザストーリー
+## ストーリー
 
-Luma は架空のスポーツアパレル会社で、複数の国に店舗があり、Web サイトでのオンラインプレゼンス、モバイルアプリがあります。 Luma はAdobe Journey Optimizerを使用して、接続された、コンテキストに沿った、パーソナライズされたエクスペリエンスを顧客に提供します。
+Luma は架空のアスレチックアパレル会社で、複数の国に店舗があり、web サイトとモバイルアプリを備えたオンラインプレゼンスがあります。Luma は、Adobe Journey Optimizer を使用して、コネクテッドでコンテキストに応じた、パーソナライズされたエクスペリエンスを顧客に提供しています。
 
-Luma は、最新のアパレルとギアコレクションを宣伝し、既存のお客様への販売促進を目指しています。 Journey Optimizerで Luma のマーケティングキャンペーンとリテンションキャンペーンを実装するために雇われています。
+Luma は、最新のアパレルとギアのコレクションを宣伝し、既存の顧客の売り上げを伸ばしたいと考えています。Journey Optimizer で Luma のマーケティングおよびリテンションキャンペーンを実装するために雇われました。
 
 ## 課題
 
@@ -64,12 +64,12 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
    <strong><a href="summer-collection-announcement-challenge.md">夏物コレクションのお知らせの作成 </strong>
     </a>
       <p>
-      <em>既存の顧客のセグメントに夏物コレクションのお知らせメールを送信するジャーニーを作成します。 </em>
+      <em>既存の顧客のセグメントに夏物コレクションのお知らせメールを送信するジャーニーを作成します。</em>
       <p>
       <b>必要なスキル：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> セグメントの作成</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">セグメントの読み取り</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTMLE メールコンテンツを読み込む</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja"> セグメントの作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ja">セグメントの読み取り</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ja">HTML メールコンテンツのインポート</li>
   </td>
   </tr>
    <tr>
@@ -81,17 +81,15 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
     </div>
     <td>
     <div >
-      <a>
-    <strong><a href="loyalty-status-welcome-email-challenge.md">ロイヤルティステータスのお知らせメールの作成 </strong>
-    </a>
+      <a><strong><a href="loyalty-status-welcome-email-challenge.md">ロイヤルティステータスのようこそメールの作成</strong></a>
     </div>
     <p>
-    <em>ロイヤルティ顧客が新しい層に移り、新しいメリットを祝福し、通知したら、E メールを送信します。</em>
+    <em>ロイヤルティの高い顧客が新しい層に移行したときにメールを送信して、お祝いの言葉と新しい特典について通知します。</em>
     <p>
     <b>必要なスキル：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> セグメントの作成</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">セグメントの選定</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML 電子メールコンテンツの読み込みと作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja"> セグメントの作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=ja">セグメントの選定</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ja">HTML メールコンテンツの読み込みと作成</li>
   </td>
   </tr>
   <tr>
@@ -102,17 +100,14 @@ Luma は、最新のアパレルとギアコレクションを宣伝し、既存
     </a>
   </td>
   <td>
-      <a href="order-confirmation-challenge.md">
-    <strong><a href="order-confirmation-challenge.md">注文の確認を作成</strong>
-    </a>
+      <a href="order-confirmation-challenge.md"><strong><a href="order-confirmation-challenge.md">注文確認の作成</strong></a>
     <div>
     <p>
-    <em>トランザクションメッセージの作成方法とパーソナライズ方法に関する知識をテストします
-    </em>
+    <em>トランザクションメッセージの作成方法とパーソナライズ方法に関する知識をテストする</em>
     <p>
     <b>必要なスキル：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html"> メッセージエディターでの電子メールコンテンツの作成</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">パーソナライゼーションに関するコンテキストイベント情報の使用</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">パーソナライゼーションへのヘルパー関数の使用</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html?lang=ja"> メッセージエディターでのメールコンテンツの作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ja">パーソナライゼーションに関するコンテキストイベント情報の使用</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ja">パーソナライゼーションへのヘルパー関数の使用</li>
   </td>
 </table>
