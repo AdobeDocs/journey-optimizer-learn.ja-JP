@@ -1,21 +1,21 @@
 ---
-title: Assets Essentialsの概要
-description: Assets Essentialsの機能と、Adobe Journey Optimizerでの使用方法の概要を説明します。
+title: Assets Essentials の概要
+description: Assets Essentials の機能の概要と Adobe Journey Optimizer での使用方法を説明します。
 feature: Assets
 role: User
 level: Beginner
 kt: 10165
 thumbnail: 342098.jpeg
-source-git-commit: 43d3e290d3e481fd8ae88813fedd48692a85f118
+exl-id: 78b7582b-76bc-4919-9e17-34966b5032f5
+source-git-commit: ee8069e78c255e9efdad5dc6a8765aa385c07114
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '42'
+ht-degree: 100%
 
 ---
 
+# Assets Essentials の概要
 
-# Assets Essentialsの概要
-
-Assets Essentialsの機能と、Adobe Journey Optimizerでの使用方法の概要を説明します。
+Assets Essentials の機能の概要と Adobe Journey Optimizer での使用方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342098?quality=12&learn=on)

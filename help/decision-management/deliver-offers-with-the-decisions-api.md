@@ -1,6 +1,6 @@
 ---
 title: 決定ハブ API を使用したオファーの配信
-description: '決定 API で決定管理オファーを配信する方法を説明します。 '
+description: 決定 API で決定管理オファーを配信する方法を説明します。
 role: Developer
 feature: Offers
 kt: 6819
@@ -9,7 +9,7 @@ exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 80%
+ht-degree: 92%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 80%
 
 >[!INFO]
 >
-> このビデオはコースの一部です。 [マーケター向け決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、「[マーケター向け意思決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)」コースの一部です。
 
 ## その他のリソース
 

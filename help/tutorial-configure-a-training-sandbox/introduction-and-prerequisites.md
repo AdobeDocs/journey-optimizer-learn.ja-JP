@@ -10,7 +10,7 @@ exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 このチュートリアルは、Adobe Journey Optimizerのトレーニング環境を提供する管理者とデータエンジニアを対象としています。 スキーマの設定、サンプルデータの取り込み、イベントの作成に必要な手順を説明します。 また、3 つのテストプロファイルを作成して、学習者が自分の作業を確認できるようにします。
 
-提供されるサンプルデータは、という架空のスポーツアパレル会社に基づいています。 _[!DNL Luma]_. [!DNL Luma] には、複数の国に店舗があり、Web サイトやモバイルアプリを使用したオンラインプレゼンスがあります。 [!DNL Luma] はAdobe Journey Optimizerを使用して、接続された、コンテキストに応じた、パーソナライズされたエクスペリエンスを顧客に提供します。
+提供されるサンプルデータは、という架空のスポーツアパレル会社に基づいています。 _[!DNL Luma]_. [!DNL Luma] には、複数の国に店舗があり、Web サイトやモバイルアプリを使用したオンラインプレゼンスがあります。 [!DNL Luma] は、Adobe Journey Optimizer を使用して、コネクテッドでコンテキストに応じた、パーソナライズされたエクスペリエンスを顧客に提供しています。
 
 このチュートリアルの最後に、をサポートするサンドボックスがあります。 [!DNL Luma] の実践演習で扱われる使用例 [Journey Optimizerの課題](/help/challenges/introduction-and-prerequisites.md) 」セクションに入力します。
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
       これらのファイルは、サンドボックスに取り込むサンプルデータを保持します。
 
-   1. 各ファイルを開き、 **`yourOrganizationID`** を置き換え、 [組織 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. 各ファイルを開き、 **`yourOrganizationID`** を置き換え、 [組織 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ja).
 
    1. ファイルを保存します。
 

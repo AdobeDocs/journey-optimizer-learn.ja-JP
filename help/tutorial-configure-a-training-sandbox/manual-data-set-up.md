@@ -52,7 +52,7 @@ ht-degree: 7%
 
 ## 手順 2:スキーマを作成
 
-この手順では、6 つの [[!UICONTROL スキーマ]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+この手順では、6 つの [[!UICONTROL スキーマ]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ja):
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 

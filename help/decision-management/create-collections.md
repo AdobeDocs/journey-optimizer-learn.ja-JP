@@ -8,7 +8,7 @@ exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 79%
 
 >[!INFO]
 >
-> このビデオはコースの一部です。 [マーケター向け決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、「[マーケター向け意思決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)」コースの一部です。
