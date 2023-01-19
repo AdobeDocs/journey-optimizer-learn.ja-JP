@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
+source-git-commit: 8f2b7582a3d7bf4964d8780413b19e29f44b472b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 94%
 
 ---
 
@@ -78,13 +78,13 @@ ht-degree: 0%
       + [ソースコネクタの設定](/help/set-up-data/configure-source-connectors.md)
    + チャネルの設定 {#channel-configuration}
       + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
-      + [SMS API 資格情報とチャネルサーフェスを設定する](/help/set-up-channels/set-up-sms-channel.md)
       + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [SMS API 資格情報とチャネルサーフェスを設定する](/help/set-up-channels/set-up-sms-channel.md)
       + [メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)
    + ジャーニーの設定 {#journey-configuration}
-      + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
-      + [イベントの作成](/help/set-up-journeys/create-events.md)
-      + [アクションの作成](/help/set-up-journeys/create-actions.md)
+   + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
+   + [イベントの作成](/help/set-up-journeys/create-events.md)
+   + [アクションの作成](/help/set-up-journeys/create-actions.md)
 + アクセス制御 {#access-control}
    + [アクセス管理](/help/set-up-access/access-management.md)
    + [サンドボックスの作成と管理](/help/set-up-access/create-and-manage-sandboxes.md)
