@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 95%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
    + [アーキテクチャ](/help/introduction/architecture.md)
    + [マーケター向けモバイル機能](/help/create-messages/mobile-capabilities.md)
    + [デベロッパー向けモバイル機能](/help/create-messages/mobile-capabilities-for-developers.md)
-+ キャンペーンの作成 {#create-campaigns}
++ キャンペーン {#create-campaigns}
    + [キャンペーンの作成](/help/create-champaigns/create-a-campaign.md)
-+ ジャーニーの作成 {#create-journeys}
++ ジャーニー {#create-journeys}
    + [ジャーニーキャンバスの概要](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
    + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
@@ -33,6 +33,10 @@ ht-degree: 100%
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
++ SMS チャネル{#sms-channel}
+   + [SMS API 資格情報とチャネルサーフェスを設定する](/help/set-up-channels/set-up-sms-channel.md)
+   + [SMS メッセージの作成と配信](/help/channels/author-and-deliver-sms-messages.md)
+   + [SMS の受信キーワードのサポート](/help/channels/inbound-keyword-support-for-sms.md)
 + 顧客プロファイル、セグメントおよびサブスクリプション {#profiles-segments-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
@@ -42,9 +46,6 @@ ht-degree: 100%
       + [電子メールデザイナーでコンテンツを作成](/help/create-messages/create-content-with-the-email-designer.md)
       + [HTML 電子メールコンテンツの読み込みと作成](/help/create-messages/import-and-author-html-email-content.md)
       + [プレビュー、配達確認、公開](/help/create-messages/preview-proof-and-publish.md)
-   + SMS テキストメッセージの作成 {#create-sms}
-      + [SMS メッセージの設定、作成および配信](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-      + [SMS の受信キーワードのサポート](/help/create-messages/inbound-keyword-support-for-sms.md)
    + アプリ内メッセージの作成 {#create-in-app}
       + [キャンペーンのアプリ内メッセージ](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [アプリ内メッセージの作成](/help/create-messages/author-in-app-messages.md)
@@ -78,8 +79,8 @@ ht-degree: 100%
       + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [ソースコネクタの設定](/help/set-up-data/configure-source-connectors.md)
    + チャネルの設定 {#channel-configuration}
-      + [電子メールチャネルの設定](/help/set-up-email-channel/set-up-email-channel.md)
-      + [CName サブドメインのデリゲート](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
+      + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
       + [メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)
    + ジャーニーの設定 {#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
