@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 82%
+source-wordcount: '654'
+ht-degree: 61%
 
 ---
 
@@ -41,10 +41,9 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 
 1. 「`Luma - Order Confirmation`」というジャーニーの作成
 2. イベントの使用： `LumaOnlinePurchase`
-3. `Luma - Order Confirmation` という注文確認メールを作成します。
+3. の作成 **トランザクション**  電子メール `Luma - Order Confirmation`
 
-* カテゴリはトランザクション - 必ずトランザクションメールサーフェスを選択します。
-* 件名は、受信者の名前（名）でパーソナライズする必要があり、「ご購入いただきありがとうございます」というフレーズを含める必要があります。
+* 件名：「ご購入ありがとうございました。 `FirstName`&quot;
 * `Luma - Order summary` テンプレートを使用し、それを変更します。
    * を削除します。 `You may also like` セクション
    * E メールの下部に配信停止リンクを追加
@@ -60,7 +59,7 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>Luma の web サイト（https://publish1034.adobedemo.com/content/luma/us/en.html）へのリンクが必要です。</li>
+    <li>次のリンクが Luma Web サイトにリンクされます。https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -72,7 +71,7 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
   <td>
     <p>
     <strong>テキスト</strong><p>
-    <em>おい {firstName}</em><p>
+    <em>おい {firstName} さん</em><p>
    <div>
     <p>
      <em>注文が完了しました。
@@ -88,7 +87,7 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
       <li>姓と名はプロファイルから取得されます。
       <li>テンプレートのハードコードされたアドレスを <b>配送先住所</b>
       <li>住所の詳細は、イベント（番地 1、市区町村、郵便番号、都道府県）のコンテキスト属性です
-      <li> ディスカウント、合計、到着の削除</p>
+      <li> 削除 <i>割引、合計、到着</i></p>
   </td>
   <td>
   <p> 出荷先：</p>
@@ -104,7 +103,7 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
        <p><li>このセクションを <b>送付先</b> 」セクションに入力します。
       </p><br>
       <p><b>ヒント:</b>
-      <li>このセクションの構造コンポーネント「1:2 列左」を使用
+      <li>構造コンポーネントの使用 <b>1:2 列左</b> この節の
       <li>これは、コンテキストイベント情報です。
       <li>[!UICONTROL helper function] の [!UICONTROL Each] を使用します。
       <li>コードエディターの形式に切り替えて、コンテキストデータを追加します。
@@ -112,12 +111,15 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
   <td>
     <strong>ヘッダー</strong>
     <p>
-    <em>注文：`purchaseOrderNumber`</em>
+  注文： <em>{purchaseOrderNumber}</em>
     </p>
     <strong>注文された製品のリスト：</strong>
-  <p>各項目は、次のような形式にする必要があります：
+  <p>各製品を画像、価格、名前と共に順にリストします。
+  <p>各項目のレイアウトは次のようになります。
    <img alt="順序" src="./assets/c2-order.png"> 
-</p>
+<p><b>リンクを買い物かごに追加</b>
+<p>URL 内の注文 ID を発注書番号に置き換えます。
+   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
@@ -131,28 +133,31 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 
 テストモードで作成したジャーニーをトリガーし、自身にメールを送信します。
 
-1. 目のアイコンをクリックして、非表示の値を表示します。
-   1. メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にする）
-      ![メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
-   2. 「アドレス」フィールドをクリック
-   3. 次の画面で、式エディターの括弧内にメールアドレス *yourname@yourdomain* を入力し、「OK」をクリックします。
+1. テストモードに切り替える前に、テストメールに送信する電子メールパラメーターを上書きして、電子メールアドレスに送信します。
+   1. 電子メールの詳細ビューを開きます。
+   2. メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にする）
+   3. 「アドレス」フィールドをクリック
+   4. 次の画面で、括弧内にメールアドレスを追加します。 *&quot;yourname@yourdomain&quot;* 式エディターで、「 ok 」をクリックします。
 2. ジャーニーをテストモードにする
 3. 次のパラメーターを使用してイベントをトリガーします。
    * プロファイル識別子の設定：ID 値：`a8f14eab3b483c2b96171b575ecd90b1`
    * イベントタイプ：commerce.purchases
    * `Quantity`: 1
    * `Price Total:` 69
-   * `Purchase Order Number:` 6253728
+   * `Purchase Order Number:` 90845952-c2ea-4872-8466-5289183e4607
    * `SKU:` LLMH09
-   * `City:` ワシントン
-   * `Postal Code:` 20099
-   * `State`:DC
-   * `Street:` ティエラーテラス
+   * `City:`サンノゼ
+   * `Postal Code:` 95119
+   * `State`：CA
+   * `Street:` 245 パークアベニュー
 
-指定された製品が記載された、パーソナライズされた購入確認メールが届きます。
+パーソナライズされた購入確認 E メールが届きます。
 
 * 件名には、テストプロファイルの名の Leora が含まれている必要があります。
-* 注文詳細セクションには、テスト中に入力した注文詳細を入力する必要があります
+
+* 電子メールの本文は次のようになります。
+
+![メール](//help/challenges/assets/c2-email.png)
 
 >[!TAB 作業内容の確認]
 
@@ -166,10 +171,6 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 **件名：**
 
 ご購入ありがとうございました。 {{ profile.person.name.firstName }}!
-
-電子メールの本文は次のようになります。
-
-![メール](//help/challenges/assets/c2-email.png)
 
 **出荷先セクション：**
 
@@ -200,8 +201,12 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 ヘルパー関数「each」を使用して、製品のリストを作成します。テーブルに表示します。これは、コードが次のようになるものです（イベント ID などの特定の変数を使用した場合）。 `454181416` お客様の組織 ID が `techmarketingdemos` ):
 
 ```javascript
-{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
 ```
+
+**表示順ボタン：**
+
+`https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId={{context.journey.events.454181416.commerce.order.purchaseOrderNumber}}`
 
 **価格合計：**
 

@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
 source-wordcount: '454'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 * Journey Optimizer サンドボックスへのアクセス - 専用のトレーニングサンドボックスで課題を完了することをお勧めします。
 * AEM Assets Essentials をインスタンス用にプロビジョニングする必要があります
-* メールチャネルは、トランザクションおよびマーケティングメッセージ用に設定する必要があります
+* E メールチャネルは、トランザクションメッセージとマーケティングメッセージに対して設定する必要があります
 
 ### アクセス権限
 
