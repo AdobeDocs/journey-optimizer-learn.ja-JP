@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 61%
+source-wordcount: '653'
+ht-degree: 50%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 61%
 | 課題 | 注文確認トランザクションメールの作成 |
 |---|---|
 | ペルソナ | ジャーニーマネージャー |
-| 必要なスキル | <ul><li>[メッセージエディターでのメールコンテンツの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=ja)</li> <li>[パーソナライゼーションに関するコンテキストイベント情報の使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ja)</li><li>[パーソナライゼーションへのヘルパー関数の使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ja)</li></ul> |
+| 必要なスキル | <ul><li>[メッセージエディターでのメールコンテンツの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[パーソナライゼーションに関するコンテキストイベント情報の使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ja)</li><li>[パーソナライゼーションへのヘルパー関数の使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ja)</li></ul> |
 | ダウンロードするアセット | [注文確認アセット](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## ストーリー
@@ -127,15 +127,15 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 
 >[!TIP]
 >
->ジャーニーのトラブルシューティングを可能にするベストプラクティスは、タイムアウトやエラーの場合に、すべてのメッセージアクションに代替パスを追加することです。
+>ジャーニーのトラブルシューティングを可能にするためのベストプラクティスは、タイムアウトまたはエラーがある場合に、すべてのメッセージアクションに代替パスを追加することです。
 
 >[!TAB 成功基準]
 
-テストモードで作成したジャーニーをトリガーし、自身にメールを送信します。
+テストジャーニーで作成したトリガーを自分に送信します。
 
 1. テストモードに切り替える前に、テストメールに送信する電子メールパラメーターを上書きして、電子メールアドレスに送信します。
    1. 電子メールの詳細ビューを開きます。
-   2. メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にする）
+   2. [E メールパラメータ ] セクションで、T 記号をクリックします（パラメータの上書きを有効にする）。
    3. 「アドレス」フィールドをクリック
    4. 次の画面で、括弧内にメールアドレスを追加します。 *&quot;yourname@yourdomain&quot;* 式エディターで、「 ok 」をクリックします。
 2. ジャーニーをテストモードにする
@@ -157,7 +157,7 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 
 * 電子メールの本文は次のようになります。
 
-![メール](//help/challenges/assets/c2-email.png)
+![メール](/help/challenges/assets/c2-email.png)
 
 >[!TAB 作業内容の確認]
 
@@ -182,11 +182,11 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* は別の番号になります。
+*event.45481416* は別の数です。
 
 ヒント：各行を個別にパーソナライズする
 
-**注文詳細セクション：**
+**注文詳細セクション:**
 
 コードは、次のようになります。
 
@@ -198,7 +198,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **製品のリスト：**
 
-ヘルパー関数「each」を使用して、製品のリストを作成します。テーブルに表示します。これは、コードが次のようになるものです（イベント ID などの特定の変数を使用した場合）。 `454181416` お客様の組織 ID が `techmarketingdemos` ):
+ヘルパー関数「each」を使用して、製品のリストを作成します。テーブルに表示します。これは、コードが次のようになるものです（イベント ID などの特定の変数を使用した場合）。 `454181416` および組織 ID `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
