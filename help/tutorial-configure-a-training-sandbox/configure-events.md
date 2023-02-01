@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 11%
+source-wordcount: '198'
+ht-degree: 12%
 
 ---
 
@@ -23,13 +23,9 @@ ht-degree: 11%
 
 ## Luma オンライン購入イベントの作成
 
-1. 左側のナビゲーションから、に移動します。 [!UICONTROL 管理] を選択し、 *[!UICONTROL 設定]*
-1. 次の [!UICONTROL ダッシュボード]を選択します。 *[!UICONTROL 管理*]* イベント
+このイベントを使用すると、Journey Optimizerは、ユーザーが luma 製品をオンラインで購入すると情報を受け取ります。
 
-![イベントの管理](assets/create-events.png)
-
-1. クリック *[!UICONTROL イベントを作成]*
-1. イベントの詳細とパラメーターを入力します。
+1. 次のパラメーターを持つイベントを作成します。
 
    | [!UICONTROL パラメーター] | [!UICONTROL 値] |
    |-------------|-----------|
@@ -39,7 +35,7 @@ ht-degree: 11%
    | [!UICONTROL スキーマ] | `Luma Web Events Schema` |
    | [!UICONTROL フィールド] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. を [!UICONTROL イベント ID 条件]: `LumaOnlinePurchase.eventType is commerce.purchases`
+2. を [!UICONTROL イベント ID 条件]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. 鉛筆アイコンを選択してフィールドを編集します
    2. の [!UICONTROL イベント ID 条件の追加] モーダルを表示し、ドラッグ&amp;ドロップします。 `eventType` キャンバスに
