@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
+source-git-commit: a4fafe243435a9a52c6aa555c745f917a4e8663d
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 86%
 
 ---
 
@@ -38,13 +38,13 @@ Luma は、顧客を引き付け維持する手段としてロイヤルティプ
 
 >[!TAB タスク]
 
-ロイヤルティ顧客がプラチナ層の資格を得たら、その顧客にお祝いのメールを送信し、新しい特典を通知します。メール本文を含んだ HTML ファイル「**[Luma - ステータスアップグレード - 案内メール](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)**」がクリエイティブチームから提供されました。
+ロイヤルティ顧客がプラチナ層の資格を得たら、新しい特典を受け取り、お祝いのメールを受け取り、顧客に知らせる必要があります。 メール本文を含んだ HTML ファイル「**[Luma - ステータスアップグレード - 案内メール](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)**」がクリエイティブチームから提供されました。
 
-1. Journey Optimizer で `Luma – status upgrade` という名前の[!UICONTROL セグメント]を作成します。
+1. Journey Optimizer で `Luma – platinum status` という名前の[!UICONTROL セグメント]を作成します。
 2. `Luma – New Status – platinum` という名前のジャーニーを作成します。
    1. 顧客はプラチナロイヤルティ層の資格を得ると、ジャーニーに進みます。
-   2. 顧客は、`Luma – Platinum Status - Welcome` というラベル付きのメールメッセージを受信します。件名は「`Welcome to Platinum Status, (recipient's first name)!`」で、クリエイティブチームから提供されたメール本文を含んでいます。 これは、[!UICONTROL トランザクション]メールです。
-   3. HTML ファイルをアップロードすると、メールが「プラチナ」ではなく「ダイヤモンド」ステータスを参照していることがわかります。クリエイティブチームに新しいファイルを要求するのではなく、電子メールデザイナーでメールを更新します。
+   2. 顧客は、`Luma – Platinum Status - Welcome` というラベル付きのメールメッセージを受信します。件名は「`Welcome to Platinum Status, {firstName}!`」で、クリエイティブチームから提供されたメール本文を含んでいます。 これは、[!UICONTROL トランザクション]メールです。
+   3. HTML ファイルをアップロードすると、メールが「プラチナ」ではなく「ダイヤモンド」ステータスを参照していることがわかります。クリエイティブチームに新しいファイルをリクエストする代わりに、 [!UICONTROL 電子メールデザイナー].
 
 >[!TAB 成功基準]
 
@@ -52,30 +52,27 @@ Luma は、顧客を引き付け維持する手段としてロイヤルティプ
 
 1. [!UICONTROL セグメントを読み取りアクティビティ]の[!UICONTROL 名前空間]が **[!DNL Luma CRM id(lumaCrmId)]** に設定されていることを確認します。
 2. デフォルトの[!UICONTROL メールパラメーター]を上書きして、独自のメールアドレスに設定します。
-   * 目の記号をクリックして、非表示の値を表示します。
    * [!UICONTROL メールパラメーター]で、T 記号をクリックします（パラメータの上書きを有効にする）。
-
-       ![メールパラメーターを上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
-   
    * [!UICONTROL 住所フィールド]をクリックします。
-   * 次の画面で、括弧内にメールアドレスを追加します。`"yourname@yourdomain"` を式エディターに入力し、「OK」をクリックします。
-
-
+   * 次の画面で、括弧内にメールアドレスを追加します。式エディターで `"yourname@yourdomain"` を入力し、「OK」をクリックします。
 3. ジャーニーをテストモードに設定
-4. イベントのトリガー
+4. 選択 **トリガーとイベント**
 5. `Stanleigh Stooke` の次の [!DNL CRM ID] を「[!UICONTROL プロファイル識別子]」フィールド（`4f34057d9d9e792c28ba18ecae378e98`）に追加します
 
 **結果：**&#x200B;パーソナライズされた（*Luma - プラチナステータス - お知らせ*）メールを受信します。
 
+メールの内容は以下になります。
+
+![Luma - ステータスアップグレード - お知らせメール](/help/challenges/assets/status-upgrade-welcome-email.png)
+
 >[!TAB 作業内容の確認]
+
+セグメントは次のようになります。
+
+![Luma - platinum status- segment](/help/challenges/assets/c3-segment.png)
 
 ジャーニーは次のようになります。
 
 ![platinum-status-upgrade-journey](/help/challenges/assets/journey-luma-status-upgrade.png)
-
-
-メールの内容は以下になります。
-
-![Luma - ステータスアップグレード - お知らせメール](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]
