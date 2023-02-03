@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '195'
 ht-degree: 12%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 12%
 | [!UICONTROL 名前] | `LumaProductRestock` |
 | [!UICONTROL タイプ] | [!UICONTROL ビジネス] |
 | [!UICONTROL スキーマ] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL フィールド] | productID <br> stockEventType<br><b>製品/Luma 製品/ *[!DNL yourOrganizationID]* > 製品：</b> <br>名前<br>価格<br> ProductImageURL<br>説明 |
+| [!UICONTROL フィールド] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>名前<br>価格<br> 画像 URL<br>説明 |
 | [!UICONTROL 条件] | LumaProductRestock。_`your organization's ID`.inventoryEvent.stockEventType は restock です |
 
 ## これで完了です
