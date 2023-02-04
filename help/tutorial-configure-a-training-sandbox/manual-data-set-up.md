@@ -6,13 +6,13 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
-recommendations: noDisplay, noCatalog
 hide: true
+recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '1058'
-ht-degree: 7%
+source-wordcount: '1031'
+ht-degree: 8%
 
 ---
 
@@ -56,15 +56,17 @@ ht-degree: 7%
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
-* [[!DNL Luma Product catalog Schema]](#create-luma-product-catalog-schema)
+* [[!DNL Luma Product Catalog Schema]](#create-luma-product-catalog-schema)
 
-* [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
+* [[!DNL Luma Product Inventory Events] スキーマ](#create-luma-product-inventory-event-schema)
 
 * [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 * [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Offline Purchase Events Schema]](#create-additional-schemas)
+
+* [[!DNL Luma Test Profiles Schema]](#create-additional-schemas)
 
 >[!TIP]
 >
@@ -82,7 +84,6 @@ ht-degree: 7%
 
 1. ドロップダウンメニューで、「 」を選択します。 **[!UICONTROL XDM 個人プロファイル]**&#x200B;個々の顧客の属性（ポイント、ステータスなど）をモデリングするので、個別の顧客の属性をモデリングする場合に使用します。
 
-   ![スキーマを作成](assets/loyaltyCreateSchema.png)
 
 #### 既存のフィールドグループを追加
 
@@ -110,7 +111,7 @@ ht-degree: 7%
 
 1. 入力 `Luma Loyalty Schema` を [!UICONTROL 表示名].
 
-#### の作成 [!UICONTROL フィールドグループ]
+#### 新しい [!UICONTROL フィールドグループ]
 
 スキーマ間の一貫性を確保するため、Adobeでは、1 つのグループ内のすべてのシステム識別子を管理することをお勧めします。
 
@@ -138,7 +139,7 @@ ht-degree: 7%
 
    * **フィールド名:** `systemIdentifier`
 
-   * **[!UICONTROL 表示名]:** `System Identifier`
+   * **[!UICONTROL 表示名]：**`System Identifier`
 
    * **タイプ：** オブジェクト
 
@@ -152,7 +153,7 @@ ht-degree: 7%
 
    | [!UICONTROL フィールド名] | [!UICONTROL 表示名] | [!UICONTROL タイプ] |
    |-------------|-----------|----------|
-   | `loyaltyId` | `Loyalty ID` | [!UICONTROL 文字列] |
+   | `loyaltyId` | `Loyalty Id` | [!UICONTROL 文字列] |
    | `crmId` | `CRM Id` | [!UICONTROL 文字列] |
 
 ![フィールド](./assets/add_fields.png)
@@ -239,15 +240,16 @@ ht-degree: 7%
 
    | [!UICONTROL フィールド名] | [!UICONTROL 表示名] | [!UICONTROL タイプ] |
    |-------------|-----------|----------|
-   | `sku` | `SKU` | [!UICONTROL 文字列] |
-   | `name` | `Name` | [!UICONTROL 文字列] |
-   | `category` | `Category` | [!UICONTROL 文字列] |
-   | `color` | `Color` | [!UICONTROL 文字列] |
-   | `size` | `Size` | [!UICONTROL 文字列] |
-   | `price` | `Price` | [!UICONTROL Double] |
-   | `description` | `Description` | [!UICONTROL 文字列] |
-   | `ImageURL` | `Image URL` | [!UICONTROL 文字列] |
-   | `stockQuantity` | `Stock Quantity` | [!UICONTROL 文字列] |
+   | `sku` | `Product SKU` | [!UICONTROL 文字列] |
+   | `name` | `Product Name` | [!UICONTROL 文字列] |
+   | `category` | `Product Category` | [!UICONTROL 文字列] |
+   | `color` | `Product Color` | [!UICONTROL 文字列] |
+   | `size` | `Product Size` | [!UICONTROL 文字列] |
+   | `price` | `Product Price` | [!UICONTROL Double] |
+   | `description` | `Product Description` | [!UICONTROL 文字列] |
+   | `imageURL` | `Product Image URL` | [!UICONTROL 文字列] |
+   | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL 文字列] |
+   | `url` | `Product URL` | [!UICONTROL 文字列] |
 
 1. を **[!DNL SKU]** プライマリ ID として
 1. を **[!UICONTROL 表示名]** `Luma Product Catalog Field Group` から [!UICONTROL フィールドグループ].
@@ -301,17 +303,17 @@ ht-degree: 7%
 
    3. 有効にする **[!UICONTROL Enum]**.
 
-   4. 入力 **[!UICONTROL 値] ([!UICONTROL ラベル )]**: `restock` (`restock`) をクリックします。
+   4. 入力 **[!UICONTROL 値] ([!UICONTROL ラベル )]**: `restock` (`Restock`) をクリックします。
 
    5. 選択 **[!UICONTROL 行を追加]**.
 
-   6. 入力 **[!UICONTROL 値] ([!UICONTROL ラベル )]**: `outOfStock` (`out of stock`) をクリックします。
+   6. 入力 **[!UICONTROL 値] ([!UICONTROL ラベル )]**: `outOfStock` (`Out of Stock`) をクリックします。
 
    7. 選択 **[!UICONTROL 適用]**.
 
       ![enum](assets/enum.png)
 
-1. 設定 `productId` ～としてのフィールド **[!UICONTROL プライマリ ID]** using **[!DNL Luma Product namespace]**.
+1. 設定 `inventory.Event.sku` ～としてのフィールド **[!UICONTROL プライマリ ID]** の使用 **[!DNL LumaProductSKU namespace]**.
 
 1. を選択します。 `sku` フィールドを開き、 `product.sku` フィールド **[!DNL Luma Product catalog Schema]** スキーマ：
 
@@ -319,9 +321,9 @@ ht-degree: 7%
 
    2. 有効にする **[!UICONTROL 関係]**.
 
-      1. **[!UICONTROL 参照スキーマ]**: [!DNL Luma Product catalog Schema].
+      1. **[!UICONTROL 参照スキーマ]**: [!DNL Luma Product Catalog Schema].
 
-      2. **[!UICONTROL 参照 ID 名前空間]**: [!DNL Luma Product].
+      2. **[!UICONTROL 参照 ID 名前空間]**: [!DNL LumaProductSKU].
    3. 選択 **[!UICONTROL 適用]**.
 
       スキーマは次のようになります。
@@ -333,18 +335,17 @@ ht-degree: 7%
 
 1. 選択 [!UICONTROL 保存] スキーマを保存します。
 
-### を作成します。 [!DNL Luma CRM] および [!DNL Luma Product Interactions] スキーマ {#create-luma-crm-and-luma-product-interactions-schemas}
+### 追加スキーマの作成 {#create-additional-schemas}
 
 次の追加情報を作成します。 [!UICONTROL スキーマ]:
 
-| [!UICONTROL 表示名] | [!DNL Luma CRM] | [!DNL Luma Product Interactions] | [!DNL Luma Test Profiles] |
-|  ---| ------- | ---- |----|
-| **[!UICONTROL タイプ]** | [!UICONTROL XDM 個人プロファイル] | [!UICONTROL XDM エクスペリエンスイベント] | [!UICONTROL XDM 個人プロファイル] |
-| **[!UICONTROL 既存のフィールドグループを追加]** | Luma 識別子<br>人口統計の詳細<br>個人の連絡先の詳細 | ID マップ<br>コマースの詳細 | Luma 識別子<br>人口統計の詳細<br>個人の連絡先の詳細<br>プロファイルテストの詳細 |
-| **[!UICONTROL 関係]** |  | *[!DNL productListItems.SKU]*:<br> 参照スキーマ *[!DNL Luma Product catalog Schema]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* スキーマ |
-| **[!UICONTROL プライマリID] [!UICONTROL 名前空間])** | systemIdentifier.crmId<br>(Luma CRM Id) |  | personalEmail.address<br>(Email) |
-| **[!UICONTROL セカンダリID] [!UICONTROL 名前空間]** | personalEmail.address (Email)<br>mobilePhone.number (Phone) |  |
-| **[!UICONTROL プロファイルに対して有効にする]** | ○ | ○ | ○ |
+| [!UICONTROL 表示名] | [!DNL Luma CRM Schema] | [!DNL Luma Web Events Schema] | [!DNL Luma Test Profiles schema] | [!DNL Luma Offline Purchase Events Schema] |
+|  ---| ------- | ---- |----|----|
+| **[!UICONTROL クラス]** | [!UICONTROL XDM 個人プロファイル] | [!UICONTROL XDM エクスペリエンスイベント] | [!UICONTROL XDM 個人プロファイル] | [IUICONTROL XDM ExperienceEvent] |
+| **[!UICONTROL 既存のフィールドグループを追加]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`,br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
+| **[!UICONTROL 関係]** |  | `productListItems.SKU`:<br> 参照スキーマ `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> 参照スキーマ `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
+| **[!UICONTROL プライマリID] [!UICONTROL 名前空間])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL プロファイルに対して有効にする]** | ○ | ○ | ○ | ○ |
 
 ## 次の手順
 

@@ -7,10 +7,11 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '191'
 ht-degree: 12%
 
 ---
@@ -19,7 +20,9 @@ ht-degree: 12%
 
 このセクションでは、 [Journey Optimizerの課題](/help/challenges/introduction-and-prerequisites.md).
 
-ビデオを見る [イベントを作成](/help/set-up-journeys/create-events.md) イベントの作成方法に関するガイダンスが必要です。
+次のビデオでは、イベントの作成方法を説明しています。
+
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
 ## Luma オンライン購入イベントの作成
 
@@ -61,7 +64,7 @@ ht-degree: 12%
 | [!UICONTROL 条件] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
 | [!UICONTROL 名前空間] | 電子メール（電子メール） |
 
-## 作成*[!DNL Luma Product Restock] イベント
+## 作成 *[!DNL Luma Product Restock]* イベント
 
 | [!UICONTROL パラメーター] | [!UICONTROL 値] |
 |-------------|-----------|

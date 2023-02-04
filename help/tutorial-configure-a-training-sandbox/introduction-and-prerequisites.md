@@ -6,10 +6,11 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '341'
 ht-degree: 9%
 
 ---
@@ -35,17 +36,15 @@ ht-degree: 9%
 
 1. サンプルデータが含まれる JSON ファイルを、Journey Optimizerインスタンスに設定します。
 
-   1. をダウンロードします。 `luma-data.zip` ファイル [ここ](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip)：このチュートリアルで必要なすべての JSON ファイルを含みます。
+   1. をダウンロードします。 `luma-sample-data.zip` ファイル [ここ](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip)：このチュートリアルで必要なすべての JSON ファイルを含みます。
 
    1. ダウンロードフォルダーから、 `luma-data.zip` ファイルをコンピューター上の目的の場所に展開し、解凍します。
 
-      次の 3 つの JSON ファイルが存在するはずです。 `luma-crm.json`, `luma-loyalty.json`, `luma-products.json`.
+      これらのファイルには、トレーニングサンドボックスのサンプルデータが格納されます。
 
-      これらのファイルは、サンドボックスに取り込むサンプルデータを保持します。
+   2. 各ファイルを開き、 **`yourOrganizationID`** を置き換え、 [組織 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ja).
 
-   1. 各ファイルを開き、 **`yourOrganizationID`** を置き換え、 [組織 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ja).
-
-   1. ファイルを保存します。
+   3. ファイルを保存します。
 
 ## 始めましょう
 
