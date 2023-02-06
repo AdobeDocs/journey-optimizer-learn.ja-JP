@@ -9,9 +9,9 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1027'
 ht-degree: 8%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 8%
 
 #### 既存のフィールドグループを追加
 
-次に、スキーマにフィールドグループを追加するよう求められます。 グループを使用して、スキーマにすべてのフィールドを追加する必要があります。 既存のフィールドグループを追加しようとしているので、フィールドグループを作成する必要があります。
+次に、スキーマにフィールドグループを追加するよう求められます。 グループを使用して、スキーマにすべてのフィールドを追加します。 既存のフィールドグループを追加しようとしているので、フィールドグループを作成する必要があります。
 
 >[!NOTE]
 >
@@ -111,7 +111,7 @@ ht-degree: 8%
 
 1. 入力 `Luma Loyalty Schema` を [!UICONTROL 表示名].
 
-#### 新しい [!UICONTROL フィールドグループ]
+#### の作成 [!UICONTROL フィールドグループ]
 
 スキーマ間の一貫性を確保するため、Adobeでは、1 つのグループ内のすべてのシステム識別子を管理することをお勧めします。
 
@@ -184,7 +184,7 @@ ht-degree: 8%
 
    次の **[!DNL Luma Loyalty Schema]**:
 
-   1. を選択します。 **[!DNL Luma Identity Profile Field Group]**...
+   1. 「**[!DNL Luma Identity Profile Field Group]**」を選択します。
 
    2. を選択します。 `crmId` フィールドに入力します。
 
@@ -198,7 +198,7 @@ ht-degree: 8%
 
 1. スキーマの最上位のノードを選択します。
 
-1. 内 [!UICONTROL フィールドプロパティ] 有効 **[!UICONTROL プロファイル]**.
+1. 内 [!UICONTROL フィールドプロパティ]，有効 **[!UICONTROL プロファイル]**.
 
    スキーマは次のようになります。
 
@@ -342,7 +342,7 @@ ht-degree: 8%
 | [!UICONTROL 表示名] | [!DNL Luma CRM Schema] | [!DNL Luma Web Events Schema] | [!DNL Luma Test Profiles schema] | [!DNL Luma Offline Purchase Events Schema] |
 |  ---| ------- | ---- |----|----|
 | **[!UICONTROL クラス]** | [!UICONTROL XDM 個人プロファイル] | [!UICONTROL XDM エクスペリエンスイベント] | [!UICONTROL XDM 個人プロファイル] | [IUICONTROL XDM ExperienceEvent] |
-| **[!UICONTROL 既存のフィールドグループを追加]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`,br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
+| **[!UICONTROL 既存のフィールドグループを追加]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL 関係]** |  | `productListItems.SKU`:<br> 参照スキーマ `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> 参照スキーマ `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
 | **[!UICONTROL プライマリID] [!UICONTROL 名前空間])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL プロファイルに対して有効にする]** | ○ | ○ | ○ | ○ |

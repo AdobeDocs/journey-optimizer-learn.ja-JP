@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 86%
+source-wordcount: '580'
+ht-degree: 72%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 86%
 | 課題 | 製品補充 |
 |---|---|
 | ペルソナ | ジャーニーマネージャー |
-| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=ja)</li><li> [HTML メールコンテンツの読み込みと作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=ja)</li><li>[ユースケース - セグメントの読み取り](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ja)</li> |
+| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja)</li><li> [HTML メールコンテンツの読み込みと作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[ユースケース - セグメントの読み取り](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ja)</li> |
 | ダウンロードするアセット | [製品再在庫の電子メールファイル](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## ストーリー
 
-Luma の web サイトを参照する際、顧客は興味のある製品をウィッシュリストに追加できます。これにより、Luma は、ターゲットを絞ったマーケティングメッセージと製品に関する情報を顧客に送信できます。
+Luma の Web サイトを閲覧する際、顧客は興味のある製品をウィッシュリストに追加できます。これにより、Luma は、製品に関するマーケティングメッセージや情報をターゲットにした顧客を送信できます。
 
 ## 課題
 
@@ -39,7 +39,7 @@ Luma は、Journey Optimizer でジャーニーを実装して、以前は在庫
 製品が再入荷されたときに潜在的な興味のある顧客をターゲットにするには、顧客で構成されるセグメントを作成します:
 
 * 1 つ以上の項目をウィッシュリストに追加したユーザー ( イベントタイプを使用： [!UICONTROL コマース後のために保存])
-* 過去 3 か月以内に在庫切れになったアイテム（使用在庫数 = 0）
+* 過去 3 か月間に在庫切れになっていました（在庫数= 0 を使用）
 * および、それ以来アイテムを購入していない。
 
 >[!TIP]
@@ -54,7 +54,7 @@ Luma は、Journey Optimizer でジャーニーを実装して、以前は在庫
 
 1. ジャーニーを呼び出す： `Product Restock`
 2. 製品が再入荷したときにジャーニーをトリガーする必要があります
-3. を *製品再在庫 E メール* 電子メール送信先
+3. を *製品再在庫 E メール* から
 4. 在庫切れのアイテムをウィッシュリストに追加した顧客
 
 >[!TAB 成功基準]
@@ -101,7 +101,7 @@ Jenna の製品詳細とパーソナライゼーションを記載した「Luma 
 > * 「後で購入するために保存」の下にある SKU をイベントフィールドにドロップする際に、比較オプションを使用します
 
 
-セグメントを編集画面の右下隅のイベントの下にあるコードを確認します。コードは、次のようになります。
+セグメントを編集画面の右下隅にある「イベント」で、コードを確認します。 コードは、次のようになります。
 
 コード：
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
@@ -116,7 +116,7 @@ Jenna の製品詳細とパーソナライゼーションを記載した「Luma 
 
 >[!TIP]
 >
-> 既存のビジネスイベントを使用している。再入荷 SKU が後で保存する（任意の）イベントタイプに含まれていることを確認する条件を追加する必要があります。
+> 既存のビジネスイベントを使用している。後で保存する際に、在庫 SKU が（任意の）イベントタイプに含まれていることを確認する条件を追加します。
 
 
 

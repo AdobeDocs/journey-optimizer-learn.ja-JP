@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 8538fbc0a4e33991ce1f65aeb92d29cc4ac51a56
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 9%
@@ -30,12 +30,12 @@ ht-degree: 9%
 トレーニングサンドボックスの設定を開始する前に、以下の点を確認してください。
 
 1. 専門の開発 [サンドボックス](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en).
-1. [電子メールメッセージプリセット](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) マーケティングおよびトランザクションメッセージ用に設定されます。
+1. [電子メールメッセージプリセット](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=en) マーケティングおよびトランザクションメッセージ用に設定されます。
 1. **[!UICONTROL ジャーニー管理者]** および **[!UICONTROL データマネージャ]** トレーニングサンドボックスの権限
 1. お使いの [組織 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ja).
 1. サンプルデータが含まれる JSON ファイルを、Journey Optimizerインスタンスに設定します。
    1. をダウンロードします。 `luma-sample-data.zip` ファイル [ここ](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip)：このチュートリアルで必要なすべての JSON ファイルを含みます。
-   1. ダウンロードフォルダーから、 `luma-data.zip` ファイルをコンピューター上の目的の場所に展開し、解凍します。これらのファイルには、トレーニングサンドボックスのサンプルデータが格納されます。
+   1. ダウンロードフォルダーから、 `luma-data.zip` ファイルをコンピューター上の目的の場所に展開し、解凍します。 これらのファイルには、トレーニングサンドボックスのサンプルデータが格納されます。
    1. 各ファイルを開き、 **`yourOrganizationID`** を置き換え、 [組織 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ja).
    1. ファイルを保存します。
 
