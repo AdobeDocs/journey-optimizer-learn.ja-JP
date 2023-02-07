@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: a4f2d3e7f5cd4255d029315ffb21dd44609ebf38
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 85%
@@ -69,7 +69,7 @@ Luma は、顧客を引き付け維持する手段としてロイヤルティプ
 
 セグメントは次のようになります。
 
-![Luma - platinum status- segment](/)
+![Luma - platinum status- segment](/help/challenges/assets/segment-luma-platinum-status.png)
 
 ジャーニーは次のようになります。
 
