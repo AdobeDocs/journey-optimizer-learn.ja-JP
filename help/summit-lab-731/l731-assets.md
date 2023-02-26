@@ -8,13 +8,13 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
+source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 6%
 
 ---
-
 
 # Summit Lab L731
 
@@ -38,7 +38,12 @@ ht-degree: 6%
 
 ## レッスン 3 オムニチャネルジャーニーの作成
 
-| メッセージ | テキスト | リンク |
+| メッセージ | テキスト | リンク | 画像 |
 |----|----|----|
 | SMS | ベガスステイへようこそ。 次の行をスキップして、モバイルアプリでチェックインします。lab://checkin |  |
-| プッシュ | ベガスステイへようこそ。 モバイルアプリで行をスキップしてチェックインする | lab://checkin |
+| プッシュ | ベガスステイへようこそ。 モバイルアプリで行をスキップしてチェックインする | lab://checkin |  |
+
+
+SMS とプッシュ通知に使用する画像は次のとおりです。
+
+![オンラインチェックイン](/help/assets/vegas_online_check_in.jpeg)
