@@ -1,6 +1,6 @@
 ---
-title: SMS API 資格情報とチャネルサーフェスを設定する
-description: Journey Optimizerを SMS サービスプロバイダーに接続する方法と SMS チャネルサーフェスを作成する方法について説明します。
+title: SMS API 資格情報とチャネルサーフェスの設定
+description: Journey Optimizer を SMS サービスプロバイダーに接続する方法と SMS チャネルサーフェスを作成する方法について説明します。
 kt: 11734
 thumbnail: 3413355.jpg
 feature: Channel Configuration, SMS
@@ -11,14 +11,14 @@ level: Beginner
 last-substantial-update: 20230123
 exl-id: 923c0731-b172-44db-8a57-f7ac2101adde
 source-git-commit: 54866fbb3e8a122f10542de98a89da7c5809b5cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SMS API 資格情報とチャネルサーフェスを設定する
+# SMS API 資格情報とチャネルサーフェスの設定
 
-Journey Optimizerを SMS サービスプロバイダーに接続する方法と SMS チャネルサーフェスを作成する方法について説明します。
+Journey Optimizer を SMS サービスプロバイダーに接続する方法と SMS チャネルサーフェスを作成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12)
