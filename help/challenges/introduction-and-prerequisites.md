@@ -7,9 +7,9 @@ level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '456'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 87%
 
 ### 必要システム構成
 
-* Journey Optimizerサンドボックスへのアクセス — 専用のトレーニングサンドボックスでチャレンジを完了することをお勧めします。
+* Journey Optimizer サンドボックスへのアクセス - 専用のトレーニングサンドボックスで課題を完了することをお勧めします。
 * AEM Assets Essentials をインスタンス用にプロビジョニングする必要があります
-* E メールチャネルは、トランザクションメッセージとマーケティングメッセージに対して設定する必要があります
+* メールチャネルは、トランザクションおよびマーケティングメッセージ用に設定する必要があります
 
 ### アクセス権限
 
@@ -40,7 +40,7 @@ ht-degree: 87%
 
 ### 必要なアクション
 
-* Adobe Journey Optimizer を初めて使用する場合は、[ジャーニーマネージャーおよび管理者向け Journey Optimizer の基本を学ぶ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html)のコースを完了してください。
+* Adobe Journey Optimizer を初めて使用する場合は、[ジャーニーマネージャーおよび管理者向け Journey Optimizer の基本を学ぶ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ja)のコースを完了してください。
 
 
 ## ストーリー
@@ -69,7 +69,7 @@ Luma は、最新のアパレルとギアのコレクションを宣伝し、既
       <b>必要なスキル：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja"> セグメントの作成</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ja">セグメントの読み取り</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML メールコンテンツのインポート</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ja">HTML メールコンテンツのインポート</li>
   </td>
   </tr>
    <tr>
@@ -89,7 +89,7 @@ Luma は、最新のアパレルとギアのコレクションを宣伝し、既
     <b>必要なスキル：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja"> セグメントの作成</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=ja">セグメントの選定</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML メールコンテンツの読み込みと作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ja">HTML メールコンテンツの読み込みと作成</li>
   </td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@ Luma は、最新のアパレルとギアのコレクションを宣伝し、既
     <em>トランザクションメッセージの作成方法とパーソナライズ方法に関する知識をテストする</em>
     <p>
     <b>必要なスキル：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html"> メッセージエディターでのメールコンテンツの作成</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=ja"> メッセージエディターでのメールコンテンツの作成</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ja">パーソナライゼーションに関するコンテキストイベント情報の使用</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ja">パーソナライゼーションへのヘルパー関数の使用</li>
   </td>
