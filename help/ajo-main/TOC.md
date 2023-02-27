@@ -1,11 +1,11 @@
 ---
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: これらは、Journey Optimizer チュートリアルです。
+user-guide-description: Journey Optimizer チュートリアルです。
 source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 94%
    + [キャンペーンのアプリ内メッセージ](/help/channels/in-app-messaging-for-campaigns.md)
    + [アプリ内メッセージの作成](/help/channels/author-in-app-messages.md)
 + SMS チャネル{#sms-channel}
-   + [SMS メッセージの作成と配信](/help/channels/author-and-deliver-sms-messages.md)
+   + [SMS メッセージの作成および配信](/help/channels/author-and-deliver-sms-messages.md)
    + [SMS の受信キーワードのサポート](/help/channels/inbound-keyword-support-for-sms.md)
 + 顧客プロファイル、セグメントおよびサブスクリプション {#profiles-segments-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
@@ -80,7 +80,7 @@ ht-degree: 94%
    + チャネルの設定 {#channel-configuration}
       + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
       + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [SMS API 資格情報とチャネルサーフェスを設定する](/help/set-up-channels/set-up-sms-channel.md)
+      + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
       + [メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)
    + ジャーニーの設定 {#journey-configuration}
    + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
