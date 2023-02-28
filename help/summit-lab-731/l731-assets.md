@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
+source-git-commit: 01216aba7c23af67ad131aa24f017f95e6fa9025
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '214'
 ht-degree: 5%
 
 ---
@@ -20,13 +20,21 @@ ht-degree: 5%
 
 このページには、L731 Summit Lab で使用されているテキストとリンクが含まれています。 これにより、コンテンツをコピーしてJourney Optimizerメッセージに貼り付けることができます。
 
-## レッスン 1 — アプリケーションのダウンロードとインストール
+## 演習 1.1 — アプリケーションのダウンロードとインストール
 
-[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
+[アプリをインストールするには、ここをクリックしてください](https://testflight.apple.com/join/H0N5iWvW)
 
-## レッスン 2 — モバイルキャンペーンの作成
+## 演習 1.3:Adobe Journey Optimizerにログイン
 
-### 演習 2.1 アプリ内キャンペーンの作成
+[Journey Optimizerにログインするには、ここをクリックしてください](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+
+**ログインの詳細：**
+
+* ユーザー名: `L731+<your seat number>@summitlab.us`
+* パスワード：Adobe2023!
+
+
+## 演習 2.1 アプリ内キャンペーンの作成
 
 | フィールド | テキスト | リンク |
 |----|----|----|
@@ -34,6 +42,7 @@ ht-degree: 5%
 | タイトル | 実行中です。 |  |
 | 本文 | Adobe Summitがラスベガスに戻る 2023 年 3 月 21 日～23 日。 スピーカーやスキルを高めるセッション、新しい接続に備える |  |
 | ボタン | ホテルを予約して 10%節約 | lab://booking?suite=presidential&amp;discount=10 |
+
 
 
 ## レッスン 3 オムニチャネルジャーニーの作成
