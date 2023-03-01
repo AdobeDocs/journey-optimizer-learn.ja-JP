@@ -1,16 +1,16 @@
 ---
 title: 注文確認メールの作成
-description: トランザクションメッセージの作成およびパーソナライズ方法に関する知識をテストします
+description: トランザクションメッセージの作成およびパーソナライズ方法に関する知識をテストします。
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
+workflow-type: tm+mt
+source-wordcount: '657'
+ht-degree: 93%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 | 必要なスキル | <ul><li>[メッセージエディターでのメールコンテンツの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=ja)</li> <li>[パーソナライゼーションに関するコンテキストイベント情報の使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ja)</li><li>[パーソナライゼーションへのヘルパー関数の使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ja)</li></ul> |
 | ダウンロードするアセット | [注文確認アセット](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## ストーリー
 
-Luma は、オンラインストアを立ち上げようとしており、顧客が注文したら注文確認メールを送信して、優れたカスタマーエクスペリエンス（顧客体験）を実現したいと考えています。
-
-
+Luma はオンラインストアを立ち上げており、優れた顧客体験を実現したいと考えています。 顧客が注文した後、注文確認 E メールを送信します。
 
 ## 課題
 
@@ -39,13 +39,19 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 
 >[!TAB タスク]
 
-1. 「`Luma - Order Confirmation`」というジャーニーの作成
-2. イベント `LumaOnlinePurchase` の使用
-3. `Luma - Order Confirmation` という&#x200B;**トランザクション**&#x200B;メールの作成
-* 件名「`FirstName` 様、ご購入いただきありがとうございます。」
-* `Luma - Order summary` テンプレートを使用し、それを変更します。
-   * `You may also like` セクションの削除
-   * メールの下部への購読解除リンクの追加
+1. `Luma - Order Confirmation` という名前のジャーニーを作成します。
+
+1. イベントの使用： `LumaOnlinePurchase`.
+
+1. の作成 **トランザクション**  電子メール `Luma - Order Confirmation`.
+
+   * 件名「`FirstName` 様、ご購入いただきありがとうございます。」
+
+   * `Luma - Order summary` テンプレートを使用し、それを変更します。
+
+      * `You may also like` セクションの削除
+
+      * メールの下部への購読解除リンクの追加
 
 メールは次のような構造にしてください。
 <table>
@@ -65,7 +71,8 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
   <tr>
   <td>
   <div>
-    <strong>注文確認セクション</strong>
+    <strong>注文確認セクション
+    </strong>
   </td>
   <td>
     <p>
@@ -123,7 +130,6 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >ジャーニーのトラブルシューティングを可能にするベストプラクティスは、タイムアウトやエラーの場合に、すべてのメッセージアクションに代替パスを追加することです。
@@ -134,11 +140,11 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 
 1. テストモードに切り替える前に、テストメールに送信するメールパラメーターを上書きして、メールアドレスに送信します。
    1. メールの詳細表示を開きます。
-   2. メールパラメーターセクションで、T 記号をクリックします（パラメーターの上書きを有効にする）
-   3. 「アドレス」フィールドをクリック
-   4. 次の画面で、式エディターの括弧内にメールアドレス *&quot;yourname@yourdomain&quot;* を入力し、「OK」をクリックします。
-2. ジャーニーをテストモードにする
-3. 次のパラメーターを使用してイベントをトリガーします。
+   1. メールパラメーターセクションで、T 記号をクリックします（パラメーターの上書きを有効にする）
+   1. 「アドレス」フィールドをクリック
+   1. 次の画面で、式エディターの括弧内にメールアドレス *&quot;yourname@yourdomain&quot;* を入力し、「OK」をクリックします。
+1. ジャーニーをテストモードにする
+1. 次のパラメーターを使用してイベントをトリガーします。
    * プロファイル識別子の設定：ID 値：`a8f14eab3b483c2b96171b575ecd90b1`
    * イベントタイプ：commerce.purchases
    * `Quantity`: 1
