@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 4df1bdca81a585f728aa68519aa7ec7cd0c2f014
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 12%
@@ -38,19 +38,20 @@ ht-degree: 12%
    | [!UICONTROL スキーマ] | `Luma Web Events Schema` |
    | [!UICONTROL フィールド] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-2. を [!UICONTROL イベント ID 条件]: `LumaOnlinePurchase.eventType is commerce.purchases`
+1. を [!UICONTROL イベント ID 条件]: `LumaOnlinePurchase.eventType is commerce.purchases`:
 
-   1. 鉛筆アイコンを選択してフィールドを編集します
-   2. の [!UICONTROL イベント ID 条件の追加] モーダルを表示し、ドラッグ&amp;ドロップします。 `eventType` キャンバスに
-   3. 選択 `commerce.purchases`
-   4. キャンバスで「 ok 」を選択します。
-   5. モーダルで「 ok 」を選択します。
+   1. 鉛筆アイコンを選択して、フィールドを編集します。
 
-![イベント条件を追加](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
+   1. の **[!UICONTROL イベント ID 条件の追加]** モーダルを表示し、ドラッグ&amp;ドロップします。 `eventType` をキャンバスに貼り付けます。
+   1. `commerce.purchases` を選択します。
+   1. 選択 **[!UICONTROL Ok]** キャンバス上に表示されます。
+   1. 選択 **[!UICONTROL Ok]** をクリックします。
+
+   ![イベント条件を追加](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
 1. 選択 [!UICONTROL 名前空間]: `Luma CRM ID (lumaCrmId)`
 
-2. 「**[!UICONTROL 保存]**」を選択します。
+1. 「**[!UICONTROL 保存]**」を選択します。
 
 ## 作成 *[!DNL Luma Wishlist Add]* イベント
 
@@ -74,6 +75,4 @@ ht-degree: 12%
 | [!UICONTROL フィールド] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>名前<br>価格<br> 画像 URL<br>説明 |
 | [!UICONTROL 条件] | LumaProductRestock。_`your organization's ID`.inventoryEvent.stockEventType は restock です |
 
-## これで完了です
-
-サンドボックスを使用する準備が整いました。
+おめでとうございます。これで、サンドボックスを使用する準備が整いました。

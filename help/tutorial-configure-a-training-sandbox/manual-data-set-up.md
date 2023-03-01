@@ -9,10 +9,10 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 4df1bdca81a585f728aa68519aa7ec7cd0c2f014
 workflow-type: tm+mt
-source-wordcount: '1027'
-ht-degree: 8%
+source-wordcount: '1020'
+ht-degree: 10%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 8%
 
 最初に、 [!UICONTROL 名前空間] の [!DNL Luma Loyalty ID] schema:
 
-1. Journey Optimizerユーザーインターフェイスで、*に移動します。**[!UICONTROL 顧客]** > **[!UICONTROL ID]** をクリックします。
+1. Journey Optimizerユーザーインターフェイスで、に移動します。 **[!UICONTROL 顧客]** > **[!UICONTROL ID]** をクリックします。
 
 1. 選択 **[!UICONTROL ID 名前空間を作成]**.
 
@@ -72,28 +72,27 @@ ht-degree: 8%
 >
 >次のビデオチュートリアルをご覧ください。 [スキーマの作成](/help/set-up-data/create-schema.md) 始める前に
 
-### 作成 [!DNL Luma Loyalty] [!UICONTROL スキーマ] {#create-luma-loyalty-schema}
+### 作成 [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
+
+この節では、 [!DNL Luma Loyalty] スキーマを作成し、フィールドグループを設定します。
 
 #### スキーマの作成
-
-最初に、 [!DNL Luma Loyalty] schema:
 
 1. に移動します。 **[!UICONTROL データ管理]** > **[!UICONTROL スキーマ]** をクリックします。
 
 1. 選択 **[!UICONTROL スキーマを作成]** 右上に
 
-1. ドロップダウンメニューで、「 」を選択します。 **[!UICONTROL XDM 個人プロファイル]**&#x200B;個々の顧客の属性（ポイント、ステータスなど）をモデリングするので、個別の顧客の属性をモデリングする場合に使用します。
+1. ドロップダウンメニューから、 **[!UICONTROL XDM 個人プロファイル]**.
 
+   このオプションを選択するのは、個々の顧客の属性（ポイント、ステータスなど）をモデリングするためです。
 
 #### 既存のフィールドグループを追加
 
-次に、スキーマにフィールドグループを追加するよう求められます。 グループを使用して、スキーマにすべてのフィールドを追加します。 既存のフィールドグループを追加しようとしているので、フィールドグループを作成する必要があります。
+次に、グループを使用して、スキーマにフィールドグループを追加するよう求められます。 既存のフィールドグループを追加し、フィールドグループを作成する必要があります。
 
->[!NOTE]
->
->この [!UICONTROL フィールドグループ] モーダルは [!UICONTROL スキーマ] ページ、選択 **[!UICONTROL 追加]** （次の画像に示すように）
+1. の [!UICONTROL スキーマ] ページを開き、「フィールドグループ」モーダルが自動的に開かなかった場合は、「 **[!UICONTROL 追加]**.
 
-![フィールドグループを追加](assets/add_field_group.png)
+   ![フィールドグループを追加](assets/add_field_group.png)
 
 1. の **[!UICONTROL フィールドグループの追加]** ページで、次のフィールドグループを有効にします。
 
@@ -109,9 +108,9 @@ ht-degree: 8%
 
 1. スキーマの最上位のノードを選択します。
 
-1. 入力 `Luma Loyalty Schema` を [!UICONTROL 表示名].
+1. 入力 `Luma Loyalty Schema` を **[!UICONTROL 表示名]**.
 
-#### の作成 [!UICONTROL フィールドグループ]
+#### の作成 [!UICONTROL フィールドグループ] {#create-field-group}
 
 スキーマ間の一貫性を確保するため、Adobeでは、1 つのグループ内のすべてのシステム識別子を管理することをお勧めします。
 
@@ -123,7 +122,7 @@ ht-degree: 8%
 
 1. 追加 `system identifiers for XDM Individual Profile class` を **[!UICONTROL 説明]**.
 
-1. 選択 **[!UICONTROL フィールドグループを追加]**.
+1. 「**[!UICONTROL フィールドグループを追加]**」を選択します。
 
    ![新しいフィールドグループを作成](assets/addnewfieldgroup.png)
 
@@ -145,7 +144,7 @@ ht-degree: 8%
 
    * **[!UICONTROL フィールドグループを割り当て]:** [!DNL Luma identifiers]
 
-1. 選択 **[!UICONTROL 適用]**.
+1. 「**[!UICONTROL 適用]**」を選択します。
 
    ![システム識別子を追加](assets/addsysteidentifier.png)
 
@@ -174,9 +173,9 @@ ht-degree: 8%
 
    4. を有効にします。 **[!UICONTROL プライマリID]** ボックス
 
-   5. を選択します。 `Luma Loyalty Id` 名前空間 **[!UICONTROL ID 名前空間]** ドロップダウン。
+   5. を選択します。 `Luma Loyalty Id` 名前空間 **[!UICONTROL ID 名前空間]** ドロップダウンメニュー。
 
-   6. 選択 **[!UICONTROL 適用]**.
+   6. 「**[!UICONTROL 適用]**」を選択します。
 
       ![プライマリ ID](/help/tutorial-configure-a-training-sandbox/assets/primary_identity.png)
 
@@ -192,7 +191,7 @@ ht-degree: 8%
 
    4. を選択します。 `Luma CRM Id` 名前空間 **[!UICONTROL ID 名前空間]** ドロップダウン。
 
-   5. 選択 **[!UICONTROL 適用]**.
+   5. 「**[!UICONTROL 適用]**」を選択します。
 
 #### プロファイルを有効にしてスキーマを保存
 
@@ -206,15 +205,15 @@ ht-degree: 8%
 
 1. 「**[!UICONTROL 保存]**」を選択します。
 
-### 作成 [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
+### 作成 [!DNL Luma Product Catalog Schema] {#create-luma-product-catalog-schema}
 
-1. に移動します。 [!UICONTROL データ管理] -> **[!UICONTROL スキーマ]** をクリックします。
+1. に移動します。 **[!UICONTROL データ管理]** > **[!UICONTROL スキーマ]** をクリックします。
 
-1. を選択します。 **[!UICONTROL スキーマを作成]** 」ボタンを右上にクリックします。
+1. 選択 **[!UICONTROL スキーマを作成]** （右上）。
 
-1. ドロップダウンメニューで、「 」を選択します。 **[!UICONTROL すべてのスキーマタイプを参照]**：クラスを作成できます。
+1. クラスを作成するには、「 **[!UICONTROL すべてのスキーマタイプを参照]** を選択します。
 
-1. 選択**[!UICONTROL 新しいクラスを作成].
+1. 選択 **[!UICONTROL 新しいクラスを作成]**.
 
 1. 表示名を追加します。 `Luma Product Catalog Class`.
 
@@ -234,7 +233,7 @@ ht-degree: 8%
 
    * フィールドグループ: [!DNL Luma Product Catalog Field Group]
 
-1. 選択 **[!UICONTROL 適用]**.
+1. 「**[!UICONTROL 適用]**」を選択します。
 
 1. 次のフィールドを **[!DNL Product]** オブジェクト：
 
@@ -251,16 +250,14 @@ ht-degree: 8%
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL 文字列] |
    | `url` | `Product URL` | [!UICONTROL 文字列] |
 
-1. を **[!DNL SKU]** プライマリ ID として
+1. を **[!DNL SKU]** をプライマリ id として設定します。
 1. を **[!UICONTROL 表示名]** `Luma Product Catalog Field Group` から [!UICONTROL フィールドグループ].
 
 1. 「**[!UICONTROL 保存]**」を選択します。
 
-
 ### 作成 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
 
-
-1. に移動します。 **[!UICONTROL データ管理]** -> **[!UICONTROL スキーマ]** をクリックします。
+1. に移動します。 **[!UICONTROL データ管理]** > **[!UICONTROL スキーマ]** をクリックします。
 
 1. を選択します。 **[!UICONTROL スキーマを作成]** 」ボタンを右上にクリックします。
 
@@ -309,7 +306,7 @@ ht-degree: 8%
 
    6. 入力 **[!UICONTROL 値] ([!UICONTROL ラベル )]**: `outOfStock` (`Out of Stock`) をクリックします。
 
-   7. 選択 **[!UICONTROL 適用]**.
+   7. 「**[!UICONTROL 適用]**」を選択します。
 
       ![enum](assets/enum.png)
 
@@ -324,7 +321,7 @@ ht-degree: 8%
       1. **[!UICONTROL 参照スキーマ]**: [!DNL Luma Product Catalog Schema].
 
       2. **[!UICONTROL 参照 ID 名前空間]**: [!DNL LumaProductSKU].
-   3. 選択 **[!UICONTROL 適用]**.
+   3. 「**[!UICONTROL 適用]**」を選択します。
 
       スキーマは次のようになります。
 

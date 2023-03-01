@@ -1,5 +1,5 @@
 ---
-title: データの手動取り込み
+title: データセットの作成とデータの取り込み
 description: データセットを作成し、サンプルデータを手動で取り込みます。
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
@@ -9,19 +9,18 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: 2a671ad01f1cdb60c731a707b0584bf2f4262d9b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '88'
 ht-degree: 10%
 
 ---
 
 # データセットの作成とデータの取り込み
 
-次のビデオチュートリアルでは、データセットを手動で作成してデータを取り込む方法について説明します。
+次のビデオチュートリアルでは、データセットを作成し、データを手動で取り込む方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
-
 
 次のデータセットを作成します。
 
@@ -34,6 +33,6 @@ ht-degree: 10%
 * [luma-product-catalog-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog-data.json)
 * [luma-test-profile-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles-data.json)
 
-## 次のステップ
+## 次の手順
 
 必要なすべてのデータセットが正常に作成され、サンプルデータが取り込まれました。 最後に、 [イベントの設定](/help/tutorial-configure-a-training-sandbox/configure-events.md).
