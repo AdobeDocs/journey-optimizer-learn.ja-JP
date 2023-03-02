@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
+source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1178'
 ht-degree: 100%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 100%
 | ペルソナ | ジャーニーマネージャー |
 | 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja)</li><li> [HTML メールコンテンツの読み込みと作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ja)</li><li>[ユースケース - セグメントの読み取り](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ja)</li> |
 | ダウンロードするアセット | [季節ごとのコレクションのメールファイル](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## ストーリー
 
@@ -69,7 +71,7 @@ Luma マーケティングチームから、Journey Optimizer で夏物コレク
 
 >[!TAB 作業内容の確認]
 
-セグメントフィールド：[!UICONTROL 属性]／[!UICONTROL XDM 個人プロファイル]／[!UICONTROL ロイヤルティ]／[!UICONTROL 層]
+セグメントフィールド：**[!UICONTROL 属性]**／**[!UICONTROL XDM 個人プロファイル]**／**[!UICONTROL ロイヤルティ]**／**[!UICONTROL 層]**
 
 セグメントは、次のようになります。
 
@@ -101,13 +103,13 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 1. [季節ごとのコレクションのメールファイルをダウンロードします](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)。
 
-2. 次のガイドラインに基づいて、*Luma - 夏物コレクションのお知らせ*&#x200B;というジャーニーを作成します。
+1. 次のガイドラインに基づいて、*Luma - 夏物コレクションのお知らせ*&#x200B;というジャーニーを作成します。
 
    1. *Luma - 夏物コレクションのお知らせ*&#x200B;メールを&#x200B;*アクティブな顧客*&#x200B;セグメントに送信し、オーディエンスの 10％をコントロール母集団として保持します。
       * メッセージタイトル *Luma - 夏物コレクションのお知らせ*
       * 件名&#x200B;*（受信者の名）様、新しい Luma 夏物コレクションが登場します。*
       * メール本文には、提供された HTML ファイル `SeasonalCollectionEmail.html` を使用します。
-   2. 2 日待ってから、よりターゲットを絞った内容を含むフォローアップメールメッセージを送信します。
+   1. 2 日待ってから、よりターゲットを絞った内容を含むフォローアップメールメッセージを送信します。
       * 男性の顧客には、**Luma メンズコレクション**&#x200B;メールが届きます。
          * メッセージタイトル：*Luma メンズコレクション*
          * 件名：*（受信者の名）様、メンズの新しいアスレチックギアを探索してください。*
@@ -117,11 +119,11 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
          * 件名：*（受信者の名）様、Luma のレディースコレクションを探索してください。*
          * メール本文： `WomensCollectionEmail.html`
       * その他の顧客には、**Luma - 20％オフコレクション**&#x200B;メールが届きます。
-         * メッセージタイトル：*Luma - 20％オフコレクション*
-         * 件名：*（受信者の名）様、20％オフのセールをお楽しみください。*
-         * メール本文：`20OOffCollectionEmail.html`
-   3. 上記のターゲットメールを送信した後、メールが開封されるまで 2 日間待ちます
-   4. ターゲットメールが 2 日以内に開かれない場合は、最後のリターゲティング試行として **Luma - 20％オフコレクションのメール**&#x200B;を送信します
+      * メッセージタイトル：*Luma - 20％オフコレクション*
+      * 件名：*（受信者の名）様、20％オフのセールをお楽しみください。*
+      * メール本文：`20OOffCollectionEmail.html`
+   1. 上記のターゲットメールを送信した後、メールが開封されるまで 2 日間待ちます
+   1. ターゲットメールが 2 日以内に開かれない場合は、最後のリターゲティング試行として **Luma - 20％オフコレクションのメール**&#x200B;を送信します
 
 
 >[!TAB 成功基準]
@@ -133,21 +135,21 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 メールのプレビュー：
 
 1. テストプロファイルの追加：Louise Petti：
-   1. ID 名前空間：*Luma CRM ID*
-   2. ID 値：*d1f132f9f9502bba047a6ec86c4b61f9*
+   * ID 名前空間：*Luma CRM ID*
+   * ID 値：*d1f132f9f9502bba047a6ec86c4b61f9*
 
 結果：
+
 * 件名は、次のようになります。Louise 様、新しい Luma コレクションが登場します。
 * メール本文は、プレビューの[新しい季節ごとのコレクションのお知らせ](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)で確認した内容と一致している必要があります。
-
 
 **メールメッセージ #2 - Luma メンズコレクション**
 
 自分への配達確認の送信：
 
 1. テストプロファイルの追加：Stanleigh Stooke
-   1. ID 名前空間：*Luma CRM ID*
-   1. ID 値：`4f34057d9d9e792c28ba18ecae378e98`
+   * ID 名前空間：*Luma CRM ID*
+   * ID 値：`4f34057d9d9e792c28ba18ecae378e98`
 1. テストプロファイルの選択：Stanleigh Stooke。
 1. 自分に配達確認を送信します。
 
@@ -164,14 +166,12 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 * 件名は、次のようになります。*Louise 様、Luma のレディースコレクションを探索*
 * メール本文は、プレビューの[Luma レディースコレクション](/help/challenges/assets/email-assets/WomensCollectionEmail.html)で確認した内容と一致している必要があります。
 
-
 **メールメッセージ #4 - Luma 20％オフコレクション**
 
 テストプロファイル *Louise Petti* を含むメールをプレビューします。
 
 * 件名は、次のようになります。*Louise 様、20％オフのセールをお楽しみください*
 * メール本文は、プレビューの [Luma 20％オフコレクション](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)で確認した内容と一致している必要があります
-
 
 #### ジャーニーのテスト
 
@@ -181,13 +181,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. [!UICONTROL セグメントを読み取りアクティビティ]の名前空間が **Luma CRM id(lumaCrmId)** に設定されていることを確認します。
 >1. メールごとに、メールのデフォルトのメールパラメーターを上書きして、メールアドレスに送信されるようにします。
->    * 目の記号をクリックして、非表示の値を表示します。
->    * メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にします）。
->
->      ![メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * 「[!UICONTROL 住所]」フィールドをクリックします
->    * 次の画面で、括弧内にメールアドレスを追加します。式エディターで `"yourname@yourdomain"` を入力し、「OK」をクリックします。
+   >    * 目の記号をクリックして、非表示の値を表示します。
+   >    * メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にします）。
+
+      >
+      >      ![メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 「[!UICONTROL 住所]」フィールドをクリックします
+   >    * 次の画面で、括弧内にメールアドレスを追加します。式エディターで `"yourname@yourdomain"` を入力し、「OK」をクリックします。
+
 >
 
 
