@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: ht
-source-wordcount: '456'
-ht-degree: 100%
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 83%
 
 ---
 
@@ -23,15 +23,18 @@ ht-degree: 100%
 
 ## 前提条件
 
+次の前提条件が満たされていることを確認します。
+
 ### 必要システム構成
 
-* Journey Optimizer サンドボックスへのアクセス - 専用のトレーニングサンドボックスで課題を完了することをお勧めします。
-* AEM Assets Essentials をインスタンス用にプロビジョニングする必要があります
-* メールチャネルは、トランザクションおよびマーケティングメッセージ用に設定する必要があります
+* Journey Optimizerサンドボックスへのアクセス — 専用のトレーニングサンドボックスでチャレンジを完了することをお勧めします。
+* AEM Assets Essentials がインスタンス用にプロビジョニングされている必要があります。
+* メールチャネルは、トランザクションおよびマーケティングメッセージ用に設定する必要があります.
 
 ### アクセス権限
 
 次のアクセス権限が必要です。
+
 * *ジャーニーマネージャー*&#x200B;または&#x200B;*ジャーニー管理者*
 * テストプロファイルとその属性の表示
 
@@ -40,8 +43,7 @@ ht-degree: 100%
 
 ### 必要なアクション
 
-* Adobe Journey Optimizer を初めて使用する場合は、[ジャーニーマネージャーおよび管理者向け Journey Optimizer の基本を学ぶ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ja)のコースを完了してください。
-
+* Adobe Journey Optimizerを初めて使用する場合は、コースを修了してください [Journey Optimizerを使い始める (ジャーニーマネージャーと管理者向け )](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ja).
 
 ## ストーリー
 
@@ -84,7 +86,7 @@ Luma は、最新のアパレルとギアのコレクションを宣伝し、既
       <a><strong><a href="loyalty-status-welcome-email-challenge.md">ロイヤルティステータスのようこそメールの作成</strong></a>
     </div>
     <p>
-    <em>ロイヤルティの高い顧客が新しい層に移行したときにメールを送信して、お祝いの言葉と新しい特典について通知します。</em>
+    <em>ロイヤルティ顧客が新しい層に移り、新しいメリットを祝福し、通知したら、E メールを送信します。</em>
     <p>
     <b>必要なスキル：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja"> セグメントの作成</li>
