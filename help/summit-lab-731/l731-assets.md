@@ -1,6 +1,6 @@
 ---
 title: L731 アセット
-description: このページには、L731 Summit Lab で使用されているテキストとリンクが含まれています。
+description: このページには、L731 サミットラボで使用されているテキストとリンクが含まれています。
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -12,13 +12,13 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 6%
+ht-degree: 78%
 
 ---
 
-# Summit Lab L731
+# サミットラボ L731
 
-このページには、L731 Summit Lab で使用されているテキストとリンクが含まれています。 これにより、コンテンツをコピーしてJourney Optimizerメッセージに貼り付けることができます。
+このページには、L731 Summit Lab で使用されているテキストとリンクが含まれています。 これらを使用して、コンテンツをコピーし、Journey Optimizerメッセージに貼り付けることができます。
 
 ## 演習 1.1 — アプリケーションのダウンロードとインストール
 
@@ -34,27 +34,27 @@ ht-degree: 6%
 * パスワード：Adobe2023!
 
 
-## 演習 2.1 アプリ内キャンペーンの作成
+## 演習 2.1：アプリ内キャンペーンの作成
 
 | フィールド | テキスト | リンク |
 |----|----|----|
 | キャンペーン名 | `<your seat number> March Vegas Campaign` |  |
 | メディア URL オプション |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| タイトル | 実行中です。 |  |
-| 本文 | Adobe Summitがラスベガスに戻る 2023 年 3 月 21 日～23 日。 スピーカーやスキルを高めるセッション、新しい接続に備える |  |
-| ボタン | ホテルを予約して 10%節約 | lab://booking?suite=presidential&amp;discount=10 |
+| タイトル | ライブ開催決定！ |  |
+| 本文 | Adobe Summit が 2023年3月21日～23日 にラスベガスに戻ってきます。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。 |  |
+| ボタン | 今すぐホテルを予約すれば 10％割引 | lab://booking?suite=presidential&amp;discount=10 |
 | ベース URL |  | lab:// |
 
 
 
-## レッスン 3 オムニチャネルジャーニーの作成
+## レッスン 3：オムニチャネルジャーニーの作成
 
 | メッセージ | テキスト | ディープリンク | メディア |
 |----|----|----|----|
-| プッシュ | ベガスステイへようこそ。 モバイルアプリで行をスキップしてチェックインする | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| SMS | ベガスステイへようこそ。 次の行をスキップして、モバイルアプリでチェックインします。lab://checkin |  |
+| プッシュ | ベガスステイへようこそ。列に並ばずにモバイルアプリでチェックイン | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
+| SMS | ベガスステイへようこそ。列に並ばずにモバイルアプリでチェックイン：lab://checkin |  |
 
 
-SMS とプッシュ通知に使用する画像は次のとおりです。
+SMSとプッシュ通知に使用する画像：
 
 ![オンラインチェックイン](/help/assets/vegas_online_check_in.jpg)
