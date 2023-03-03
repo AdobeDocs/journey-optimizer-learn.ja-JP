@@ -1,19 +1,19 @@
 ---
-title: Journey Optimizer の課題 - 概要と前提条件
+title: Journey Optimizerの課題 — 概要と前提条件
 description: ジャーニーキャンバスでジャーニーを構築する基本を理解します。
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: f56ada2b4adeced3a77f2313a1a211f71260d0b7
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 83%
+ht-degree: 80%
 
 ---
 
-# Journey Optimizer の課題 - 概要と前提条件
+# Journey Optimizerの課題 — 概要と前提条件
 
 ![AJO 課題バナー](./assets/ajo-banner-challenges.png)
 
