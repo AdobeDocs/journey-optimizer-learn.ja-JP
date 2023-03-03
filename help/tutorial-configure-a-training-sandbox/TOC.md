@@ -4,10 +4,10 @@ user-guide-description: トレーニング用にサンドボックスを設定�
 breadcrumb-title: チュートリアル — トレーニングサンドボックスの設定
 breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html
 index: false
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: e0ec663ba23fe2c1f8cc5920c43a95b07dbf5b16
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 2%
+source-wordcount: '51'
+ht-degree: 13%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 2%
    + [データ構造の設定（手動）](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [データの取り込み（手動）](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [手順 2:イベントの設定](/help/tutorial-configure-a-training-sandbox/configure-events.md)
-+ [チュートリアル](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
++ [チュートリアル](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
