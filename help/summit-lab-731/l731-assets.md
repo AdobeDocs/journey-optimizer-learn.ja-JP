@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c7cd250f01610e7a882b2a58676a931e7991e51a
+source-git-commit: 28da398f6813b1926c79b5cd45f415e2cfa9f40f
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 79%
+source-wordcount: '229'
+ht-degree: 67%
 
 ---
 
@@ -33,29 +33,34 @@ ht-degree: 79%
 
 **ログインの詳細：**
 
-* ユーザー名: `L731+<your seat number>@summitlab.us`
+* ユーザー名： `L731+<your seat number>@summitlab.us` ( 例：L731+001@summitlab.us)
 * パスワード：Adobe2023!
 
 
 ## 演習 2.1：アプリ内キャンペーンの作成
 
+
+
 | フィールド | テキスト | リンク |
 |----|----|----|
 | キャンペーン名 | `<your seat number> March Vegas Campaign` |  |
+| Matcher | 本を読む |  |
 | メディア URL オプション |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | タイトル | ライブ開催決定！ |  |
 | 本文 | Adobe Summit が 2023年3月21日～23日 にラスベガスに戻ってきます。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。 |  |
 | ボタン | 今すぐホテルを予約すれば 10％割引 | lab://booking?suite=presidential&amp;discount=10 |
+| ボタン：インタラクティブイベント | アプリ内 CTA |  |
 | ベース URL |  | lab:// |
 
 
 
 ## レッスン 3：オムニチャネルジャーニーの作成
 
-| メッセージ | テキスト | ディープリンク | メディア |
-|----|----|----|----|
-| プッシュ | ベガスステイへようこそ。列に並ばずにモバイルアプリでチェックイン | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| SMS | ベガスステイへようこそ。列に並ばずにモバイルアプリでチェックイン：lab://checkin |  |
+| メッセージ | タイトル/件名行 | テキスト | リンク |
+|----|----|----|----|----|
+| プッシュ | ベガスステイへようこそ！ | 列に並ばずにモバイルアプリでチェックイン | lab://checkin |  |
+| SMS |  | ベガスステイへようこそ。列に並ばずにモバイルアプリでチェックイン：lab://checkin |  |
+| 電子メール | {{profile.person.name.firstName}}チェックイン済みです。今すぐ滞在のオファーを確認してください。 |  |  |
 
 
 SMSとプッシュ通知に使用する画像：
