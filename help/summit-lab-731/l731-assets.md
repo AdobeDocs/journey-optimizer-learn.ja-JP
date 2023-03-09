@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 28da398f6813b1926c79b5cd45f415e2cfa9f40f
+source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 67%
+source-wordcount: '239'
+ht-degree: 64%
 
 ---
 
@@ -26,6 +26,10 @@ ht-degree: 67%
 
 ![iOSの QR コード](/help/assets/lab731-ios-qr-code.png)
 
+### Android - Placeholder
+
+![Android 用の QR コード](/help/assets/lab731-ios-qr-code.png)
+
 
 ## 演習 1.3:Adobe Journey Optimizerにログイン
 
@@ -33,8 +37,8 @@ ht-degree: 67%
 
 **ログインの詳細：**
 
-* ユーザー名： `L731+<your seat number>@summitlab.us` ( 例：L731+001@summitlab.us)
-* パスワード：Adobe2023!
+* **ユーザー名：** `L731+<your seat number>@summitlab.us` ( 例：L731+001@summitlab.us)
+* **パスワード：** Adobe2023!
 
 
 ## 演習 2.1：アプリ内キャンペーンの作成
@@ -50,7 +54,7 @@ ht-degree: 67%
 | 本文 | Adobe Summit が 2023年3月21日～23日 にラスベガスに戻ってきます。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。 |  |
 | ボタン | 今すぐホテルを予約すれば 10％割引 | lab://booking?suite=presidential&amp;discount=10 |
 | ボタン：インタラクティブイベント | アプリ内 CTA |  |
-| ベース URL |  | lab:// |
+| ベース URL |  | iOS:lab:// <br>Android:https://lab |
 
 
 
