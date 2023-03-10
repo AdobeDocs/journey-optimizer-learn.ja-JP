@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
+source-git-commit: e68fc9ac728abe79936090c6fa1b0874e021f3b8
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 49%
@@ -32,7 +32,7 @@ QR コードをスキャンしてアプリをダウンロード
 
 >[!TAB Android]
 
-![Android 用の QR コード](/help/assets/lab731-ios-qr-code.png)
+![Android 用の QR コード](/help/assets/lab731-android-qr-code.png)
 
 >[!ENDTABS]
 
