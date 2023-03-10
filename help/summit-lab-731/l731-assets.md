@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e68fc9ac728abe79936090c6fa1b0874e021f3b8
+source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 49%
+source-wordcount: '258'
+ht-degree: 51%
 
 ---
 
@@ -82,8 +82,6 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 プッシュ通知に使用する画像は次のとおりです。
 
 ![オンラインチェックイン](/help/assets/vegas_online_check_in.jpg)
-
-|SMS| ||| |メール|{{profile.person.name.firstName}}、チェックインしました。今すぐ滞在のオファーを確認してください！||
 
 >[!TAB SMS メッセージ]
 
