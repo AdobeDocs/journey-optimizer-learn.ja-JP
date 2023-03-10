@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
+source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 64%
+source-wordcount: '271'
+ht-degree: 49%
 
 ---
 
@@ -22,14 +22,19 @@ ht-degree: 64%
 
 ## 演習 1.1 — アプリケーションのダウンロードとインストール
 
-### iOS
+QR コードをスキャンしてアプリをダウンロード
+
+>[!BEGINTABS]
+
+>[!TAB iOS]
 
 ![iOSの QR コード](/help/assets/lab731-ios-qr-code.png)
 
-### Android - Placeholder
+>[!TAB Android]
 
 ![Android 用の QR コード](/help/assets/lab731-ios-qr-code.png)
 
+>[!ENDTABS]
 
 ## 演習 1.3:Adobe Journey Optimizerにログイン
 
@@ -43,8 +48,6 @@ ht-degree: 64%
 
 ## 演習 2.1：アプリ内キャンペーンの作成
 
-
-
 | フィールド | テキスト | リンク |
 |----|----|----|
 | キャンペーン名 | `<your seat number> March Vegas Campaign` |  |
@@ -57,16 +60,39 @@ ht-degree: 64%
 | ベース URL |  | iOS:lab:// <br>Android:https://lab |
 
 
-
 ## レッスン 3：オムニチャネルジャーニーの作成
 
-| メッセージ | タイトル/件名行 | テキスト | リンク |
-|----|----|----|----|----|
-| プッシュ | ベガスステイへようこそ！ | 列に並ばずにモバイルアプリでチェックイン | lab://checkin |  |
-| SMS |  | ベガスステイへようこそ。列に並ばずにモバイルアプリでチェックイン：lab://checkin |  |
-| 電子メール | {{profile.person.name.firstName}}チェックイン済みです。今すぐ滞在のオファーを確認してください。 |  |  |
+>[!BEGINTABS]
+
+>[!TAB プッシュメッセージ]
+
+**タイトル:**\
+ベガスステイへようこそ！
+
+**本文:**\
+列に並ばずにモバイルアプリでチェックイン
+
+**ディープリンク：** lab://checkin
+
+**メディア:**
+
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-SMSとプッシュ通知に使用する画像：
+プッシュ通知に使用する画像は次のとおりです。
 
 ![オンラインチェックイン](/help/assets/vegas_online_check_in.jpg)
+
+|SMS| ||| |メール|{{profile.person.name.firstName}}、チェックインしました。今すぐ滞在のオファーを確認してください！||
+
+>[!TAB SMS メッセージ]
+
+**メッセージ：**
+ベガスステイへようこそ。 列に並ばずにモバイルアプリでチェックイン：lab://checkin
+
+>[!TAB 電子メールメッセージ]
+
+**件名：**
+{{profile.person.name.firstName}}チェックイン済みです。今すぐ滞在のオファーを確認してください。
+
+>[!ENDTABS]
