@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
+source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 40%
+source-wordcount: '327'
+ht-degree: 39%
 
 ---
 
@@ -65,7 +65,7 @@ Android シミュレーターを使用している場合は、次のリンクを
 | キャンペーン名 | `<your seat number> March Vegas Campaign` |  |
 | Matcher | 本を読む |  |
 | メディア URL オプション |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| タイトル | ライブ開催決定！ |  |
+| タイトル | それは起こっていて、それはライブです！ |  |
 | 本文 | Adobe Summit が 2023年3月21日～23日 にラスベガスに戻ってきます。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。 |  |
 | ボタン | 今すぐホテルを予約すれば 10％割引 | lab://booking?suite=presidential&amp;discount=10 |
 | ボタン：インタラクティブイベント | アプリ内 CTA |  |
