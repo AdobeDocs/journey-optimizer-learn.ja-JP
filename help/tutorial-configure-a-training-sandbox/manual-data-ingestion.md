@@ -9,15 +9,15 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 # データセットの作成とデータの取り込み
 
-次のビデオチュートリアルでは、データセットを作成し、データを手動で取り込む方法について説明します。
+次のビデオチュートリアルでは、データセットを作成しデータを手動で取り込む方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
 
@@ -25,7 +25,7 @@ ht-degree: 10%
 
 ![データセットの作成](/help/tutorial-configure-a-training-sandbox/assets/datasets.png)
 
-まだダウンロードしていない場合は、次の JSON ファイルとサンプルデータをダウンロードし、データを各データセットに取り込みます。
+まだ行っていない場合は、次の JSON ファイルとサンプルデータをダウンロードし、データをそれぞれのデータセットに取り込みます。
 
 * [luma-crm-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm-data.json)
 * [luma-loyalty-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty-data.json)
@@ -34,4 +34,4 @@ ht-degree: 10%
 
 ## 次の手順
 
-必要なすべてのデータセットが正常に作成され、サンプルデータが取り込まれました。 最後に、 [イベントの設定](/help/tutorial-configure-a-training-sandbox/configure-events.md).
+これで、必要なすべてのデータセットが正常に作成され、サンプルデータが取り込まれました。最後の手順は、[イベントを設定](/help/tutorial-configure-a-training-sandbox/configure-events.md)することです。
