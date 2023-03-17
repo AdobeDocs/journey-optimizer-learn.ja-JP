@@ -180,13 +180,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. [!UICONTROL セグメントを読み取りアクティビティ]の名前空間が **Luma CRM id(lumaCrmId)** に設定されていることを確認します。
 >1. メールごとに、メールのデフォルトのメールパラメーターを上書きして、メールアドレスに送信されるようにします。
->    * 目の記号をクリックして、非表示の値を表示します。
->    * メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にします）。
->
->      ![メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * 「[!UICONTROL 住所]」フィールドをクリックします
->    * 次の画面で、括弧内にメールアドレスを追加します。式エディターで `"yourname@yourdomain"` を入力し、「OK」をクリックします。
+   >    * 目の記号をクリックして、非表示の値を表示します。
+   >    * メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にします）。
+
+      >
+      >      ![メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 「[!UICONTROL 住所]」フィールドをクリックします
+   >    * 次の画面で、括弧内にメールアドレスを追加します。式エディターで `"yourname@yourdomain"` を入力し、「OK」をクリックします。
+
 >
 
 
