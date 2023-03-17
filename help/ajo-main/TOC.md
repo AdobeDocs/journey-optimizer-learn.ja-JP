@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 source-git-commit: 5e9829459bc3092e60375fca3e759a2aac88446f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '313'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -92,6 +92,6 @@ ht-degree: 93%
 + プライバシー {#privacy}
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
 + 演習と課題 {#exercises-and-challenges}
-   + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
-   + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
+   + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
+   + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)
