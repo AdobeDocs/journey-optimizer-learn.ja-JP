@@ -12,15 +12,15 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 39%
+ht-degree: 55%
 
 ---
 
-# サミットラボ L731  — チートシート
+# サミットラボ L731- チートシート
 
 このページには、L731 Summit Lab で使用されているテキストとリンクが含まれています。 これらを使用して、コンテンツをコピーし、Journey Optimizerメッセージに貼り付けることができます。
 
-## 演習 1.1 — アプリケーションのダウンロードとインストール
+## 演習 1.1 - アプリのダウンロードとインストール
 
 QR コードをスキャンしてアプリをダウンロード
 
@@ -28,7 +28,7 @@ QR コードをスキャンしてアプリをダウンロード
 
 >[!TAB iOS]
 
-![iOSの QR コード](/help/assets/lab731-ios-qr-code.png)
+![iOS 用の QR コード](/help/assets/lab731-ios-qr-code.png)
 
 Testflight をインストールするように求められます。 Testflight をインストールしたら、次の手順に従って Vegas Stay App をインストールします。
 
@@ -48,9 +48,9 @@ Android シミュレーターを使用している場合は、次のリンクを
 
 >[!ENDTABS]
 
-## 演習 1.3:Adobe Journey Optimizerにログイン
+## 演習 1.3：Adobe Journey Optimizer へのログイン
 
-[Journey Optimizerにログインするには、ここをクリックしてください](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Journey Optimizer にログインするには、こちらをクリックしてください](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
 **ログインの詳細：**
 
@@ -63,7 +63,7 @@ Android シミュレーターを使用している場合は、次のリンクを
 | フィールド | テキスト | リンク |
 |----|----|----|
 | キャンペーン名 | `<your seat number> March Vegas Campaign` |  |
-| Matcher | 本を読む |  |
+| マッチャー | 今すぐ予約 |  |
 | メディア URL オプション |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | タイトル | それは起こっていて、それはライブです！ |  |
 | 本文 | Adobe Summit が 2023年3月21日～23日 にラスベガスに戻ってきます。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。 |  |
@@ -79,7 +79,7 @@ Android シミュレーターを使用している場合は、次のリンクを
 >[!TAB プッシュメッセージ]
 
 **タイトル:**\
-ベガスステイへようこそ！
+ベガスステイへようこそ。
 
 **本文:**\
 列に並ばずにモバイルアプリでチェックイン
