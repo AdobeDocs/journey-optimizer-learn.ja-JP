@@ -1,19 +1,19 @@
 ---
-title: Journey Optimizerの課題 — 概要と前提条件
-description: 課題は、学習した内容を実践するために必要なシナリオと要件を提供します。各課題は、実装する固有のユースケースに対応します。
+title: Journey Optimizer の課題 - 概要と前提条件
+description: 課題は、学習した内容を実践するために必要なシナリオと要件を提供します。各課題では、実装する固有のユースケースに取り組みます。
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# Journey Optimizerの課題 — 概要と前提条件
+# Journey Optimizer の課題 - 概要と前提条件
 
 ![AJO 課題バナー](./assets/ajo-banner-challenges.png)
 
@@ -27,9 +27,9 @@ ht-degree: 79%
 
 ### 必要システム構成
 
-* Journey Optimizerサンドボックスへのアクセス — 専用のトレーニングサンドボックスでチャレンジを完了することをお勧めします。
-* AEM Assets Essentials がインスタンス用にプロビジョニングされている必要があります。
-* メールチャネルは、トランザクションおよびマーケティングメッセージ用に設定する必要があります.
+* Journey Optimizer サンドボックスへのアクセス - 専用のトレーニングサンドボックスで課題を完了することをお勧めします。
+* お使いのインスタンスに AEM Assets Essentials をプロビジョニングする必要があります。
+* トランザクションメッセージとマーケティングメッセージ用にメールチャネルを設定する必要があります.
 
 ### アクセス権限
 
@@ -43,7 +43,7 @@ ht-degree: 79%
 
 ### 必要なアクション
 
-* Adobe Journey Optimizerを初めて使用する場合は、コースを修了してください [Journey Optimizerを使い始める (ジャーニーマネージャーと管理者向け )](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ja).
+* Adobe Journey Optimizer を初めて使用する場合は、[Journey Optimizer の基本を学ぶ（ジャーニーマネージャーおよび管理者向け）](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ja)のコースを完了してください。
 
 ## ストーリー
 
@@ -86,7 +86,7 @@ Luma は、最新のアパレルとギアのコレクションを宣伝し、既
       <a><strong><a href="loyalty-status-welcome-email-challenge.md">ロイヤルティステータスのようこそメールの作成</strong></a>
     </div>
     <p>
-    <em>ロイヤルティ顧客が新しい層に移り、新しいメリットを祝福し、通知したら、E メールを送信します。</em>
+    <em>ロイヤルティ顧客が新しい層に移行したときにメールを送信して、お祝いの言葉と新しい特典について通知します。</em>
     <p>
     <b>必要なスキル：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja"> セグメントの作成</li>
