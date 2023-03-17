@@ -6,7 +6,7 @@ kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ API を使用して決定ルールを作成する方法について詳しくは�
 
 >[!INFO]
 >
-> このビデオは、Experience League で無償で利用できる、「[マーケター向け意思決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)」コースの一部です。
+> このビデオは、Experience League で無償で利用できる[意思決定管理の基本を学ぶ（マーケター向け）](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)コースの一部です。
