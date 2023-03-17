@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: '654'
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 93%
 | 必要なスキル | <ul><li>[メッセージエディターでのメールコンテンツの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=ja)</li> <li>[パーソナライゼーションに関するコンテキストイベント情報の使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ja)</li><li>[パーソナライゼーションへのヘルパー関数の使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ja)</li></ul> |
 | ダウンロードするアセット | [注文確認アセット](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ストーリー
 
-Luma はオンラインストアを立ち上げており、優れた顧客体験を実現したいと考えています。 顧客が注文した後、注文確認 E メールを送信します。
+Luma はオンラインストアを立ち上げようとしており、優れたカスタマーエクスペリエンス（顧客体験）を実現したいと考えています。顧客が注文したら、顧客に注文確認メールを送信します。
 
 ## 課題
 
@@ -41,9 +41,9 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 
 1. `Luma - Order Confirmation` という名前のジャーニーを作成します。
 
-1. イベントの使用： `LumaOnlinePurchase`.
+1. イベント `LumaOnlinePurchase` を使用します。
 
-1. の作成 **トランザクション**  電子メール `Luma - Order Confirmation`.
+1. `Luma - Order Confirmation` という&#x200B;**トランザクション**&#x200B;メールを作成します。
 
    * 件名「`FirstName` 様、ご購入いただきありがとうございます。」
 
@@ -58,7 +58,7 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
 <tr>
 <td>
   <div>
-     <strong> ヘッダーセクション</strong>
+     <strong>ヘッダーセクション</strong>
       </div>
   </td>
   <td>
@@ -72,7 +72,7 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
   <td>
   <div>
     <strong>注文確認セクション
-    </strong>
+ </strong>
   </td>
   <td>
     <p>
