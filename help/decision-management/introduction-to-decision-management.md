@@ -6,7 +6,7 @@ kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ Journey Optimizer の意思決定管理機能の概要を説明します。こ�
 
 >[!INFO]
 >
-> このビデオは、Experience League で無償で利用できる、「[マーケター向け意思決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)」コースの一部です。
+> このビデオは、Experience League で無償で利用できる[意思決定管理の基本を学ぶ（マーケター向け）](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)コースの一部です。
