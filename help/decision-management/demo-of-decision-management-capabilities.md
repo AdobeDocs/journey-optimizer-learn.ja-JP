@@ -6,7 +6,7 @@ kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> このビデオは、Experience League で無償で利用できる、「[マーケター向け意思決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)」コースの一部です。
+> このビデオは、Experience League で無償で利用できる[意思決定管理の基本を学ぶ（マーケター向け）](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)コースの一部です。
