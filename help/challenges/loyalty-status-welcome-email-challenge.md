@@ -1,6 +1,6 @@
 ---
-title: ロイヤルティステータス案内メールの作成 - 課題
-description: ロイヤルティ層に到達した顧客に歓迎のメールを自動的に送信するジャーニーを構築します。
+title: ロイヤルティステータスウェルカムメールの作成 - 課題
+description: ロイヤルティ層に到達した顧客にウェルカムメールを自動的に送信するジャーニーを作成します。
 kt: 8109
 feature: Journeys
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
-workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 57%
+workflow-type: ht
+source-wordcount: '427'
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 57%
 | 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja)</li> <li>[セグメントの選定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=ja)</li><li>[HTML コンテンツのインポート](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ja)</li></ul> |
 | ダウンロードするアセット | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ストーリー
 
 Luma は、顧客を引き付け維持する手段としてロイヤルティプログラムを提供しています。このプログラムには、ブロンズ、シルバー、ゴールド、プラチナの 4 種類の層が用意されています。それぞれのロイヤルティ層では、リピート客への報酬として様々な特典や割引、その他の特別なインセンティブを受け取ります。
 
-Luma は、特別なプラチナステータスに下線を引くために、プラチナ層に到達した顧客に歓迎のメールを送信したいと考えています。
+Luma は、特別なプラチナステータスを強調するために、プラチナ層に達した顧客にウェルカムメールを送信したいと考えています。
 
 ## 課題
 
@@ -40,42 +40,42 @@ Luma は、特別なプラチナステータスに下線を引くために、プ
 
 >[!TAB タスク]
 
-ロイヤルティ顧客がプラチナ層の資格を得たら、新しい特典を受け取り、お祝いのメールを受け取り、顧客に知らせる必要があります。 クリエイティブチームがHTMLファイルを提供しました **[Luma — ステータスアップグレード — ようこそ eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** 電子メール本文に置き換えます。
+ロイヤルティ顧客がプラチナ層の資格を得たら、その顧客にお祝いのメールを送信し、新しい特典を通知します。メール本文を含んだ HTML ファイル **[Luma - ステータスアップグレード - ウェルカムメール](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)**&#x200B;がクリエイティブチームから提供されました。
 
 1. Journey Optimizer で `Luma - platinum status` という名前の[!UICONTROL セグメント]を作成します。
 
 1. `Luma - New Status - platinum` という名前のジャーニーを作成します。
 
-   1. 顧客は、プラチナロイヤルティ層に認定されると、ジャーニーに進みます。
+   1. 顧客はプラチナロイヤルティ層の資格を得ると、このジャーニーに進みます。
 
-   1. 顧客は、`Luma - Platinum Status - Welcome` というラベル付きのメールメッセージを受信します。件名は「`Welcome to Platinum Status, {firstName}!`」で、クリエイティブチームから提供されたメール本文を含んでいます。 これは、 [!UICONTROL トランザクション] 電子メール。
+   1. `Luma - Platinum Status - Welcome` というラベルの付いたメールメッセージが顧客に届きます。メールの件名は「`Welcome to Platinum Status, {firstName}!`」で、メール本文はクリエイティブチームから提供されたものです。 これは、[!UICONTROL トランザクション]メールです。
 
-   1. HTML ファイルをアップロードすると、メールが「プラチナ」ではなく「ダイヤモンド」ステータスを参照していることがわかります。クリエイティブチームに新しいファイルを要求するのではなく、[!UICONTROL メールデザイナー]でメールを更新します。
+   1. この HTML ファイルをアップロードすると、メールが「プラチナ」ではなく「ダイヤモンド」ステータスを参照していることがわかります。クリエイティブチームに新しいファイルを要求するのではなく、[!UICONTROL メールデザイナー]でメールを更新します。
 
 >[!TAB 成功基準]
 
 ジャーニーをテストします。
 
-1. 次を確認します。 [!UICONTROL セグメントを読み取りアクティビティ] には [!UICONTROL 名前空間] に設定 **[!DNL Luma CRM id(lumaCrmId)]**.
+1. [!UICONTROL セグメントを読み取りアクティビティ]の[!UICONTROL 名前空間]が **[!DNL Luma CRM id(lumaCrmId)]** に設定されていることを確認します。
 
-1. デフォルトを上書き [!UICONTROL 電子メールパラメーター] を設定し、独自の電子メールアドレスに設定します。
-   * 内 **[!UICONTROL E メールパラメーター]**、T 記号をクリックします（パラメータの上書きを有効にする）。
+1. デフォルトの[!UICONTROL メールパラメーター]を上書きして、独自のメールアドレスに設定します。
+   * **[!UICONTROL メールパラメーター]**&#x200B;で、T 記号をクリックします（パラメーターの上書きを有効にします）。
 
-   * 次をクリック： **[!UICONTROL 住所]** フィールドに入力します。
+   * 「**[!UICONTROL 住所]**」フィールドをクリックします。
 
-   * 次の画面で、電子メールアドレスを括弧で囲んで追加します。 `"yourname@yourdomain"` 式エディターで、「 **[!UICONTROL OK]**.
+   * 次の画面で、括弧内にメールアドレスを追加します。式エディターで `"yourname@yourdomain"` を入力し、「**[!UICONTROL OK]**」をクリックします。
 
-1. ジャーニーをテストモードに設定.
+1. ジャーニーをテストモードに設定します。
 
-1. 選択 **[!UICONTROL トリガーとイベント]**.
+1. 「**[!UICONTROL イベントをトリガー]**」を選択します。
 
-1. 以下を追加します。 `CRM ID` 対象 `Stanleigh Stooke` 内 **[!UICONTROL プロファイル識別子]** フィールド： `4f34057d9d9e792c28ba18ecae378e98`
+1. `Stanleigh Stooke` の `CRM ID`（`4f34057d9d9e792c28ba18ecae378e98`）を「**[!UICONTROL プロファイル識別子]**」フィールドに追加します。
 
-**結果：** パーソナライズされた *Luma — プラチナステータス — ようこそ* 電子メール。
+**結果：**&#x200B;パーソナライズされた *Luma - プラチナステータス - ウェルカム*&#x200B;メールが届きます。
 
-メールの内容は以下になります。
+メールは次のような内容になります。
 
-![Luma — ステータスアップグレード — ようこそ eMail](/help/challenges/assets/status-upgrade-welcome-email.png)
+![Luma - ステータスアップグレード - ウェルカムメール](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!TAB 作業内容の確認]
 
