@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer の概要
-description: Adobe Journey Optimizer の概要と、業界をまたいだブランドが ROI を向上させ、マーケティングにおける重要な課題点を解決する方法を説明します。
+description: Adobe Journey Optimizer の概要と、様々な業種のブランドが ROI を向上させ、マーケティング上の重要な課題を克服するうえで Adobe Journey Optimizer がどのように役立ってきたかを説明します。
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
 
