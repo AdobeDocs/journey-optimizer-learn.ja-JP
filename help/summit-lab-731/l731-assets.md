@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
+source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 55%
+source-wordcount: '355'
+ht-degree: 53%
 
 ---
 
@@ -30,11 +30,97 @@ QR コードをスキャンしてアプリをダウンロード
 
 ![iOS 用の QR コード](/help/assets/lab731-ios-qr-code.png)
 
-Testflight をインストールするように求められます。 Testflight をインストールしたら、次の手順に従って Vegas Stay App をインストールします。
+Testflight のインストールを求められます（手順 1 ～ 4）。 Testflight をインストールしたら、手順 5～8 に従って Vegas Stay App をインストールします。
 
-![iOSのインストール手順](/help/assets/lab731-install-ios.png)
-
->[!TAB Android™]
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+ <div>
+      <p>
+      <b>手順 1 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>手順 2 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>手順 3 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>手順 4 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+  <tr>
+<td>
+ <div>
+      <p>
+      <b>手順 5 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>手順 6 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>手順 7 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>手順 8 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+</table>
+&gt;[!TAB Android™]
 
 ![Android 用の QR コード](/help/assets/lab731-android-qr-code.png)
 
@@ -74,9 +160,15 @@ Android シミュレーターを使用している場合は、次のリンクを
 
 ## レッスン 3：オムニチャネルジャーニーの作成
 
+**ジャーニーラベル：**
+<your seat number>  — ようこそジャーニー
+
 >[!BEGINTABS]
 
 >[!TAB プッシュメッセージ]
+
+**ラベル：**
+お知らせメッセージ
 
 **タイトル:**\
 ベガスステイへようこそ。
@@ -97,10 +189,16 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 
 >[!TAB SMS メッセージ]
 
+**ラベル：**
+お知らせメッセージ
+
 **メッセージ：**
 ベガスステイへようこそ。 列に並ばずにモバイルアプリでチェックイン：lab://checkin
 
 >[!TAB 電子メールメッセージ]
+
+**ラベル：**
+確認メッセージ
 
 **件名：**
 {{profile.person.name.firstName}}チェックイン済みです。今すぐ滞在のオファーを確認してください。
