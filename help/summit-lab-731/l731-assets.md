@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 53%
@@ -120,7 +120,7 @@ Testflight のインストールを求められます（手順 1 ～ 4）。 Tes
   </td>
   </tr>
 </table>
-&gt;[!TAB Android™]
+&gt;[!TAB Android]
 
 ![Android 用の QR コード](/help/assets/lab731-android-qr-code.png)
 
@@ -155,13 +155,13 @@ Android シミュレーターを使用している場合は、次のリンクを
 | 本文 | Adobe Summit が 2023年3月21日～23日 にラスベガスに戻ってきます。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。 |  |
 | ボタン | 今すぐホテルを予約すれば 10％割引 | lab://booking?suite=presidential&amp;discount=10 |
 | ボタン：インタラクティブイベント | アプリ内 CTA |  |
-| ベース URL |  | iOS:lab:// <br>Android™:https://lab |
+| ベース URL |  | iOS:lab:// <br>Android&amp;:https://lab |
 
 
 ## レッスン 3：オムニチャネルジャーニーの作成
 
 **ジャーニーラベル：**
-<your seat number>  — ようこそジャーニー
+`<your seat number>`  — ようこそジャーニー
 
 >[!BEGINTABS]
 
