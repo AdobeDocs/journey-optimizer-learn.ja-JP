@@ -1,12 +1,12 @@
 ---
-title: 演習 1.1
+title: 演習 1.2
 description: モバイルアプリのダウンロードとインストール
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
 recommendations: noDisplay, noCatalog
 hide: true
-source-git-commit: c3f1e87ad556d630d03a359408edb7c23f1cf3e9
+source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
