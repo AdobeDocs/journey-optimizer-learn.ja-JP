@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ QR コードをスキャンしてアプリをダウンロード
 
 ![iOS 用の QR コード](/help/assets/lab731-ios-qr-code.png)
 
-Testflight のインストールを求められます（手順 1 ～ 4）。 Testflight をインストールしたら、手順 5～8 に従って Vegas Stay App をインストールします。
+Testflight のインストールを求められます（手順 1～4）。 Testflight をインストールしたら、手順 5～8 に従って Vegas Stay アプリをインストールします。
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ Testflight のインストールを求められます（手順 1 ～ 4）。 Tes
  <div>
       <p>
       <a>
-      <b>手順 6 </b>
+      <b>手順 6</b>
       <p>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
@@ -125,13 +125,13 @@ Testflight のインストールを求められます（手順 1 ～ 4）。 Tes
 
 ![Android 用の QR コード](/help/assets/lab731-android-qr-code.png)
 
-Android シミュレーターを使用している場合は、次のリンクを使用します。 [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+Android シミュレーターを使用している場合は、[https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk) のリンクを使用します
 
-アプリがGoogle Play Store に登録されていないので、次の警告メッセージが表示されます。
+アプリが Google Play ストアに登録されていないので、次の警告メッセージが表示されます。
 
 ![Android の警告画面](/help/assets/lab731-install-android.png)
 
-クリック **インストール**
+「**とにかくインストールする**」をクリックします
 
 >[!ENDTABS]
 
@@ -141,7 +141,7 @@ Android シミュレーターを使用している場合は、次のリンクを
 
 **ログインの詳細：**
 
-* **ユーザー名：** `L731+<your seat number>@summitlab.us` ( 例：L731+001@summitlab.us)
+* **ユーザー名：** `L731+<your seat number>@summitlab.us`（例：L731+001@summitlab.us）
 * **パスワード：** Adobe2023!
 
 
@@ -152,36 +152,36 @@ Android シミュレーターを使用している場合は、次のリンクを
 | キャンペーン名 | `<your seat number> March Vegas Campaign` |  |
 | マッチャー | 今すぐ予約 |  |
 | メディア URL オプション |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| タイトル | それは起こっていて、それはライブです！ |  |
+| タイトル | ライブ開催決定 |  |
 | 本文 | Adobe Summit が 2023年3月21日～23日 にラスベガスに戻ってきます。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。 |  |
 | ボタン | 今すぐホテルを予約すれば 10％割引 | lab://booking?suite=presidential&amp;discount=10 |
 | ボタン：インタラクティブイベント | アプリ内 CTA |  |
-| ベース URL |  | iOS:lab:// <br>Android&amp;:https://lab |
+| ベース URL |  | iOS：lab:// <br>Android&amp;: https://lab |
 
 
 ## レッスン 3：オムニチャネルジャーニーの作成
 
 **ジャーニーラベル：**
-`<your seat number>`  — ようこそジャーニー
+`<your seat number>` - ようこそジャーニー
 
 >[!BEGINTABS]
 
 >[!TAB プッシュメッセージ]
 
 **ラベル：**
-お知らせメッセージ
+ようこそメッセージ
 
-**タイトル:**\
-ベガスステイへようこそ。
+**タイトル；**\
+Vegas Stay へようこそ。
 
-**本文:**\
+**本文：**\
 列に並ばずにモバイルアプリでチェックイン
 
-**ディープリンク：** iOS:lab://, Android&amp;:https://lab
+**ディープリンク：** iOS：lab://、Android&amp;：https://lab
 
-**メディア:**
+**メディア：**
 
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=ja
 
 
 プッシュ通知に使用する画像は次のとおりです。
@@ -191,17 +191,17 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 >[!TAB SMS メッセージ]
 
 **ラベル：**
-お知らせメッセージ
+ようこそメッセージ
 
 **メッセージ：**
-ベガスステイへようこそ。 列に並ばずにモバイルアプリでチェックイン：lab://checkin
+Vegas Stay へようこそ。列に並ばずにモバイルアプリでチェックイン：lab://checkin
 
->[!TAB 電子メールメッセージ]
+>[!TAB メールメッセージ]
 
 **ラベル：**
 確認メッセージ
 
 **件名：**
-{{profile.person.name.firstName}}チェックイン済みです。今すぐ滞在のオファーを確認してください。
+{{profile.person.name.firstName}} 様、チェックインが完了しました。ご滞在に対するオファーを今すぐご確認ください。
 
 >[!ENDTABS]
