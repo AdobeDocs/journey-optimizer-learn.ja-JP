@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 100%
+source-wordcount: '1021'
+ht-degree: 98%
 
 ---
 
@@ -245,7 +245,7 @@ ht-degree: 100%
    | `size` | `Product Size` | [!UICONTROL 文字列] |
    | `price` | `Product Price` | [!UICONTROL 倍精度浮動小数点] |
    | `description` | `Product Description` | [!UICONTROL 文字列] |
-   | `imageURL` | `Product Image URL` | [!UICONTROL 文字列] |
+   | `imageUrl` | `Product Image URL` | [!UICONTROL 文字列] |
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL 文字列] |
    | `url` | `Product URL` | [!UICONTROL 文字列] |
 
@@ -345,4 +345,4 @@ ht-degree: 100%
 
 ## 次の手順
 
-これで、データ構造を作成したので、次は[データセットを作成してサンプルデータを取り込みます](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)。
+これで、データ構造を作成したので、次の操作を実行できます。 [データセットの作成とサンプルデータの取り込み](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
