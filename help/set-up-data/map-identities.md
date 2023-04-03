@@ -9,7 +9,7 @@ team: PM
 role: Developer
 level: Beginner
 exl-id: 05264e3e-7ed1-422e-8cde-f09c6d7e590b
-source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法、ID をプライマリにするタイミング、ID データの取得と検証方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on)

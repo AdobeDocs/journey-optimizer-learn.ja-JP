@@ -9,7 +9,7 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 042d94dc-2906-4745-8375-02ff888165a8
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 データソースの概要と、Experience Platform と外部データソースを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12&learn=on)
