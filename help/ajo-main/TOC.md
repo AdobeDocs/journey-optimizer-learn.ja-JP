@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: e8f4f8bd1428bf6e4a9af88b2b7d11ca962db581
+source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 98%
+source-wordcount: '321'
+ht-degree: 100%
 
 ---
 
@@ -68,16 +68,17 @@ ht-degree: 98%
    + [決定の作成](/help/decision-management/create-decisions.md)
    + [意思決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [フリークエンシーキャップ](/help/decision-management/frequency-capping.md)
++ データ管理 {#data-management}
+   + [概要](/help/set-up-data/set-up-data-overview.md)
+   + [スキーマの作成](/help/set-up-data/create-schema.md)
+   + [ID のマッピング](/help/set-up-data/map-identities.md)
+   + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [ソースコネクタの設定](/help/set-up-data/configure-source-connectors.md)
+   + [クラウドストレージの場所へのデータセットの書き出し](/help/set-up-data/export-datasets.md)
 + レポートと監視 {#report-and-monitor}
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
    + [アラートを使用](/help/administration/alerts.md)
 + 設定 {#configuration}
-   + データの設定 {#data-configuration}
-      + [概要](/help/set-up-data/set-up-data-overview.md)
-      + [スキーマの作成](/help/set-up-data/create-schema.md)
-      + [ID のマッピング](/help/set-up-data/map-identities.md)
-      + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [ソースコネクタの設定](/help/set-up-data/configure-source-connectors.md)
    + チャネルの設定 {#channel-configuration}
       + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
       + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
