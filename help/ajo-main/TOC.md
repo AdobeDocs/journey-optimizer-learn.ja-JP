@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
+source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -44,6 +44,9 @@ ht-degree: 100%
 + SMS チャネル{#sms-channel}
    + [SMS メッセージの作成および配信](/help/channels/author-and-deliver-sms-messages.md)
    + [SMS の受信キーワードのサポート](/help/channels/inbound-keyword-support-for-sms.md)
++ Web チャネル {#web-channel}
+   + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
+   + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
 + 顧客プロファイル、セグメントおよびサブスクリプション {#profiles-segments-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
