@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 8e86fdfe2a9e8c7cc37eeb95af23d32a5c1d83a7
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 100%
+source-wordcount: '1166'
+ht-degree: 96%
 
 ---
 
@@ -153,7 +153,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 自分に配達確認を送信します。
 
 結果：\
-メールが届きます。件名は、次のようになります。*Stanleigh 様、メンズの新しいアスレチックギアを探索してください。* メール本文は、プレビューの [Luma メンズコレクション](/help/challenges/assets/email-assets/MensCollectionEmail.html)で確認した内容と一致している必要があります。
+メールが届きます。件名は、次のようになります。*Stanleigh 様、メンズの新しいアスレチックギアを探索してください。* 電子メールの本文は、プレビューで確認した内容と一致します。
 
 >[!NOTE]
 >配達確認を受け取るまでに数分かかる場合があります。
@@ -163,14 +163,14 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 テストプロファイル *Louise Petti* を含むメールをプレビューします。
 
 * 件名は、次のようになります。*Louise 様、Luma のレディースコレクションを探索*
-* メール本文は、プレビューの[Luma レディースコレクション](/help/challenges/assets/email-assets/WomensCollectionEmail.html)で確認した内容と一致している必要があります。
+* E メールの本文は、プレビューで確認した内容と一致します。
 
 **メールメッセージ #4 - Luma 20％オフコレクション**
 
 テストプロファイル *Louise Petti* を含むメールをプレビューします。
 
 * 件名は、次のようになります。*Louise 様、20％オフのセールをお楽しみください*
-* メール本文は、プレビューの [Luma 20％オフコレクション](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)で確認した内容と一致している必要があります
+* E メールの本文は、プレビューで確認した内容と一致します。
 
 #### ジャーニーのテスト
 
@@ -180,13 +180,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. [!UICONTROL セグメントを読み取りアクティビティ]の名前空間が **Luma CRM id(lumaCrmId)** に設定されていることを確認します。
 >1. メールごとに、メールのデフォルトのメールパラメーターを上書きして、メールアドレスに送信されるようにします。
->    * 目の記号をクリックして、非表示の値を表示します。
->    * メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にします）。
->
->      ![メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * 「[!UICONTROL 住所]」フィールドをクリックします
->    * 次の画面で、括弧内にメールアドレスを追加します。式エディターで `"yourname@yourdomain"` を入力し、「OK」をクリックします。
+   >    * 目の記号をクリックして、非表示の値を表示します。
+   >    * メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にします）。
+
+      >
+      >      ![メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 「[!UICONTROL 住所]」フィールドをクリックします
+   >    * 次の画面で、括弧内にメールアドレスを追加します。式エディターで `"yourname@yourdomain"` を入力し、「OK」をクリックします。
+
 >
 
 
