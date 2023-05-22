@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e86fdfe2a9e8c7cc37eeb95af23d32a5c1d83a7
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 96%
+source-wordcount: '1126'
+ht-degree: 98%
 
 ---
 
@@ -140,7 +140,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 結果：
 
 * 件名は、次のようになります。Louise 様、新しい Luma コレクションが登場します。
-* メール本文は、プレビューの[新しい季節ごとのコレクションのお知らせ](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)で確認した内容と一致している必要があります。
 
 **メールメッセージ #2 - Luma メンズコレクション**
 
@@ -149,8 +148,8 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. テストプロファイルの追加：Stanleigh Stooke
    * ID 名前空間：*Luma CRM ID*
    * ID 値：`4f34057d9d9e792c28ba18ecae378e98`
-1. テストプロファイルの選択：Stanleigh Stooke。
-1. 自分に配達確認を送信します。
+2. テストプロファイルの選択：Stanleigh Stooke。
+3. 自分に配達確認を送信します。
 
 結果：\
 メールが届きます。件名は、次のようになります。*Stanleigh 様、メンズの新しいアスレチックギアを探索してください。* 電子メールの本文は、プレビューで確認した内容と一致します。
@@ -163,14 +162,12 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 テストプロファイル *Louise Petti* を含むメールをプレビューします。
 
 * 件名は、次のようになります。*Louise 様、Luma のレディースコレクションを探索*
-* E メールの本文は、プレビューで確認した内容と一致します。
 
 **メールメッセージ #4 - Luma 20％オフコレクション**
 
 テストプロファイル *Louise Petti* を含むメールをプレビューします。
 
 * 件名は、次のようになります。*Louise 様、20％オフのセールをお楽しみください*
-* E メールの本文は、プレビューで確認した内容と一致します。
 
 #### ジャーニーのテスト
 
