@@ -9,8 +9,8 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 6275786c-d407-4d46-95f0-e366acad1054
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: ht
+source-git-commit: a434eaa285ba8e752505166a0d578c6fc90b36c9
+workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 100%
 
@@ -21,3 +21,5 @@ ht-degree: 100%
 イベントの設定、ストリーミングエンドポイントとイベントペイロードの指定を行う方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on)
+
+{{journeyoptimizer-a-1-2021-1}}
