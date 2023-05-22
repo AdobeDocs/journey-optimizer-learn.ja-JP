@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
+source-git-commit: 89d88e2d6de5d23e1c4072c23c79ed7f74acfa34
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 100%
 
 ---
 
@@ -21,3 +21,5 @@ ht-degree: 0%
 Adobe Journey Optimizer のアクセス制御システムと 8 つの[カスタム製品プロファイル](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html?lang=ja)について理解します。製品プロファイルと権限を管理する方法と、ユーザーを追加および管理する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on)
+
+{{journeyoptimizer-a-1-2021-1}}
