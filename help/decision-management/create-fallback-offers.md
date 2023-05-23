@@ -5,9 +5,9 @@ feature: Offers
 kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,4 @@ ht-degree: 100%
 
 API を使用したフォールバックオファーの作成方法について詳しくは、[製品ガイド](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=ja)を参照してください。
 
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる[意思決定管理の基本を学ぶ（マーケター向け）](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)コースの一部です。
+{{experienceplatform-u-1-2020-1-offerdecisioning}}
