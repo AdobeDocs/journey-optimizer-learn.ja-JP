@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: 1eeaf36b58ec5a363f6f1823e3088dcbe1bc66cc
-workflow-type: ht
-source-wordcount: '331'
-ht-degree: 100%
+source-git-commit: 5d7f2e530af5f1aa3c756c2f10bcc3488a71a7fc
+workflow-type: tm+mt
+source-wordcount: '336'
+ht-degree: 98%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 100%
    + [HTML 電子メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
    + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
    + [コンテンツテンプレート](/help/channels/content-templates.md)
+   + [E メールのコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
 + アプリ内チャネル{#in-app-channel}
    + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
    + [アプリ内メッセージの作成](/help/channels/author-in-app-messages.md)
