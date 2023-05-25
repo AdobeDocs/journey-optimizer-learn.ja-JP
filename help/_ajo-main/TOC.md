@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: 6a490db336065781dea510d25c3bf9fc8e0b3181
+source-git-commit: 992125e5fa03cbe03da36e1224407929aeb94001
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 96%
+source-wordcount: '347'
+ht-degree: 95%
 
 ---
 
@@ -43,6 +43,7 @@ ht-degree: 96%
 + アプリ内チャネル{#in-app-channel}
    + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
    + [アプリ内メッセージの作成](/help/channels/author-in-app-messages.md)
+   + [アプリ内メッセージの実験を作成する](/help/experimentation/create-experiments-for-in-app-messages.md)
 + SMS チャネル{#sms-channel}
    + [SMS メッセージの作成および配信](/help/channels/author-and-deliver-sms-messages.md)
    + [SMS の受信キーワードのサポート](/help/channels/inbound-keyword-support-for-sms.md)
