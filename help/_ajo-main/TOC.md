@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: a14657c5dcc25588849daf988648526e7c3e7572
+source-git-commit: 1d7c1b264769d55a80755da9d9a15aaa5cb45a92
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 95%
+source-wordcount: '370'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,8 @@ ht-degree: 95%
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
 + キャンペーン {#create-campaigns}
    + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
+   + [アプリ内キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html?lang=ja)
+   + [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
    + [E メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
    + [ジャーニーキャンバスの概要](/help/create-journeys/overview-over-the-journey-canvas.md)
