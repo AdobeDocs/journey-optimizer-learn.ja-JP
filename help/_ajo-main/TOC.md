@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: 88c1c616fe8f7de8356358a8fe5cc73153c35afb
+source-git-commit: 13ee94169f1e9c31bdf4394aa132dd4b2700a411
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '378'
 ht-degree: 92%
 
 ---
@@ -72,6 +72,7 @@ ht-degree: 92%
    + [ルールの作成](/help/decision-management/create-rules.md)
    + [タグの作成](/help/decision-management/create-tags.md)
    + [パーソナライズされたオファーの作成](/help/decision-management/create-personalized-offers.md)
+   + [AI モデルの作成](/help/decision-management/create-ai-models.md)
    + [フォールバックオファーの作成](/help/decision-management/create-fallback-offers.md)
    + [コレクションの作成](/help/decision-management/create-collections.md)
    + [決定の作成](/help/decision-management/create-decisions.md)
