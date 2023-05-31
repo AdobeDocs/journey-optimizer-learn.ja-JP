@@ -5,7 +5,7 @@ user-guide-description: Journey Optimizer チュートリアルです。
 source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
 workflow-type: tm+mt
 source-wordcount: '371'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 92%
 + キャンペーン {#create-campaigns}
    + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
    + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
-   + [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
-   + [E メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
+   + [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=ja)
+   + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
    + [ジャーニーキャンバスの概要](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -42,7 +42,7 @@ ht-degree: 92%
    + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
    + [コンテンツテンプレート](/help/channels/content-templates.md)
    + [フラグメントの管理、作成、使用](/help/content-management/manage-author-use-fragments.md)
-   + [E メールのコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
+   + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
 + アプリ内チャネル{#in-app-channel}
    + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
    + [アプリ内メッセージの作成](/help/channels/author-in-app-messages.md)
