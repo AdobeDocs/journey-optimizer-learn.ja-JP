@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -202,6 +202,6 @@ Vegas Stay へようこそ。列に並ばずにモバイルアプリでチェッ
 確認メッセージ
 
 **件名：**
-`{{profile.person.name.firstName}},` チェックインしました。今すぐ滞在のオファーを確認してください。
+`{{profile.person.name.firstName}},` 様、チェックインが完了しました。ご滞在に対するオファーを今すぐご確認ください。
 
 >[!ENDTABS]
