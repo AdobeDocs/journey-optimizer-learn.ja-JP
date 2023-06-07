@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
+source-git-commit: f999fc9a893f88b0d1ed7a65c3dc4aebc483a843
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 100%
+source-wordcount: '382'
+ht-degree: 97%
 
 ---
 
@@ -100,6 +100,7 @@ ht-degree: 100%
    + [アクションの作成](/help/set-up-journeys/create-actions.md)
 + アクセス制御 {#access-control}
    + [アクセス管理](/help/set-up-access/access-management.md)
+   + [属性ベースのアクセス制御の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
    + [サンドボックスの作成と管理](/help/set-up-access/create-and-manage-sandboxes.md)
 + プライバシー {#privacy}
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
