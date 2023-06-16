@@ -1,6 +1,6 @@
 ---
 title: ユースケース - トランザクションジャーニー
-description: トランザクションジャーニーに適用できる使用例を理解します。 トランザクションジャーニーを構築する方法と適用するベストプラクティスについて説明します。
+description: トランザクションジャーニーに適した使用例を理解し、トランザクションジャーニーの作成方法を学びます。
 kt: 8030
 thumbnail: 334202.jpg
 feature: Journeys
@@ -9,17 +9,18 @@ team: PM
 role: User
 level: Beginner
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
-hidefromtoc: true
-hide: true
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: ht
-source-wordcount: '48'
-ht-degree: 100%
+last-substantial-update: 2023-06-15T00:00:00Z
+hidefromtoc: false
+hide: false
+source-git-commit: 7cd1d1ce68f58251c1041d4a76a58eb8b407e824
+workflow-type: tm+mt
+source-wordcount: '38'
+ht-degree: 21%
 
 ---
 
 # ユースケース - トランザクションジャーニー
 
-トランザクションジャーニーに適用できる使用例を理解します。 トランザクションジャーニーを構築する方法と適用するベストプラクティスについて説明します。
+トランザクションジャーニーに適した使用例を理解し、トランザクションジャーニーの作成方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on)
