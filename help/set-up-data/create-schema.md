@@ -1,23 +1,25 @@
 ---
 title: スキーマの作成
-description: スキーマの作成、フィールドグループの追加、カスタムフィールドグループの作成および設定の方法について説明します。
+description: XDM Individual Profile クラスと様々なフィールドグループを使用して、Adobe Experience Platformでスキーマを作成する方法を説明します。
 kt: 7565
-thumbnail: 334461.jpg
+thumbnail: 27012.jpg
 feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
 exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: ht
-source-wordcount: '36'
-ht-degree: 100%
+source-git-commit: 89a324312afc2f28aa63754ce8213d792ec705db
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 21%
 
 ---
 
 # スキーマの作成
 
-スキーマの作成、フィールドグループの追加、カスタムフィールドグループの作成および設定の方法について説明します。
+XDM Individual Profile クラスと様々なフィールドグループを使用して、Adobe Experience Platformでスキーマを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334461?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on)
+
+製品ドキュメントについて詳しくは、 [スキーマの概要](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html), [UI でのスキーマの作成](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ja) および [API を使用してスキーマを作成する](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html?lang=ja).
