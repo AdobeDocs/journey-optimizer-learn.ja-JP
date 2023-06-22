@@ -1,7 +1,7 @@
 ---
 title: ソースコネクタの設定
 description: ソースコネクタと、Journey Optimizer でのソースコネクタの設定方法について説明します。
-kt: 7561
+jira: KT-7561
 thumbnail: 335919.jpg
 feature: Data Sources
 doc-type: feature video
@@ -9,9 +9,9 @@ team: PM
 role: Developer
 level: Beginner
 exl-id: dd557040-248f-4e52-b8d7-67b684c6e18b
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
-source-wordcount: '30'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
