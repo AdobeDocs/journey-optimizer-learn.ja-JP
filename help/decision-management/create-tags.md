@@ -2,10 +2,10 @@
 title: タグの作成
 description: 意思決定管理でタグを作成する方法を説明します。タグは、オファーのオプションの構成要素です。
 feature: Offers
-kt: 6753
+jira: KT-6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
