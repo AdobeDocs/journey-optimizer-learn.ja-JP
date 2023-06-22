@@ -1,16 +1,16 @@
 ---
 title: 製品補充の課題
 description: セグメントの作成とスキルのテストについて学習した内容を適用します。
-kt: 8417
+jira: KT-8417
 feature: Segments
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
-workflow-type: tm+mt
-source-wordcount: '580'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -101,7 +101,6 @@ Jenna の製品詳細とパーソナライゼーションを記載した「Luma 
 > * *変数を参照*&#x200B;セクションの「後で購入するために保存」の下にある SKU を選択します。
 > * 「後で購入するために保存」の下にある SKU をイベントフィールドにドロップする際に、比較オプションを使用します
 
-
 セグメントを編集画面の右下隅のイベントの下にあるコードを確認します。コードは、次のようになります。
 
 コード：
@@ -118,6 +117,7 @@ Jenna の製品詳細とパーソナライゼーションを記載した「Luma 
 >[!TIP]
 >
 > 既存のビジネスイベントを使用します。再入荷 SKU が後で保存する（任意の）イベントタイプに含まれていることを確認する条件を追加します。
+>
 
 
 
