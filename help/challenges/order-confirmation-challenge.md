@@ -1,14 +1,14 @@
 ---
 title: 注文確認メールの作成
 description: トランザクションメッセージの作成およびパーソナライズ方法に関する知識をテストします。
-kt: 7531
+jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '654'
 ht-degree: 100%
 
