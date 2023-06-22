@@ -4,11 +4,11 @@ description: カスタマージャーニーをパーソナライズするため�
 feature: Profiles, Segments
 role: User
 level: Beginner
-kt: 10183
+jira: KT-10183
 thumbnail: 342114.jpg
 exl-id: 53c853d7-c12e-4e77-aed3-c34039a13c5c
-source-git-commit: cc48b8c080cdda9381696a0a55939829bdc6a80b
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '52'
 ht-degree: 100%
 
