@@ -1,7 +1,7 @@
 ---
 title: サンドボックスの作成と管理
 description: サンドボックスの概要と、開発用サンドボックスと実稼動用サンドボックスを区別する方法について説明します。サンドボックスの作成、リセット、削除方法について説明します。
-kt: 7568
+jira: KT-7568
 thumbnail: 334355.jpg
 feature: Access Management
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
-source-git-commit: e801ea853c84c1bfd95d5b5648682fff49d317b7
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
