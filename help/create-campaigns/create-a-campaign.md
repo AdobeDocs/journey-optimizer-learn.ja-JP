@@ -1,7 +1,7 @@
 ---
 title: キャンペーンの作成
 description: アクションを直ちに実行するか、指定したスケジュールで実行して、特定のオーディエンスに 1 回限りのコンテンツを配信する方法を説明します。
-kt: 10590
+jira: KT-10590
 thumbnail: 346680.jpg
 feature: Journeys
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: 1ba4f4603e9d52a1712530f311ebe31c473b3b1a
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
