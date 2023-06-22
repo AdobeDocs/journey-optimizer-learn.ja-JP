@@ -3,12 +3,12 @@ title: データ構造の手動設定
 description: 必要な ID 名前空間を作成し、Luma サンプルデータ構造を定義します。
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '1021'
 ht-degree: 100%
@@ -320,12 +320,12 @@ ht-degree: 100%
       1. **[!UICONTROL 参照スキーマ]**：[!DNL Luma Product Catalog Schema]。
 
       2. **[!UICONTROL 参照 ID 名前空間]**：[!DNL LumaProductSKU]。
+
    3. 「**[!UICONTROL 適用]**」を選択します。
 
       スキーマは次のようになります。
 
       ![SKU 関係](assets/sku_relationship.png)
-
 
 1. **プロファイル**&#x200B;に対して有効にします。
 
@@ -340,7 +340,7 @@ ht-degree: 100%
 | **[!UICONTROL クラス]** | [!UICONTROL XDM 個人プロファイル] | [!UICONTROL XDM エクスペリエンスイベント] | [!UICONTROL XDM 個人プロファイル] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL 既存のフィールドグループの追加]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL 関係]** |  | `productListItems.SKU`：<br> 参照スキーマ `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`：<br> 参照スキーマ `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-| **[!UICONTROL プライマリ ID] [!UICONTROL 名前空間]）** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL プライマリ ID] [!UICONTROL 名前空間]）** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL プロファイルへの有効化]** | ○ | ○ | ○ | ○ |
 
 ## 次の手順
