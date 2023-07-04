@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 source-git-commit: d755729d2a426e291f6b417546346cbd78900898
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 97%
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
 + キャンペーン {#create-campaigns}
    + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
-   + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
+   + [アプリ内キャンペーンを作成](/help/create-campaigns/in-app.md)
    + [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=ja)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
@@ -44,7 +44,7 @@ ht-degree: 97%
    + [フラグメントの管理、作成、使用](/help/content-management/manage-author-use-fragments.md)
    + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
 + アプリ内チャネル{#in-app-channel}
-   + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
+   + [アプリ内キャンペーンを作成](/help/channels/create-an-in-app-campaign.md)
    + [アプリ内メッセージの作成](/help/channels/author-in-app-messages.md)
    + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
 + SMS チャネル{#sms-channel}
@@ -72,7 +72,7 @@ ht-degree: 97%
    + [ルールの作成](/help/decision-management/create-rules.md)
    + [タグの作成](/help/decision-management/create-tags.md)
    + [パーソナライズされたオファーの作成](/help/decision-management/create-personalized-offers.md)
-   + [AI モデルの作成](/help/decision-management/create-ai-models.md)
+   + [AI モデルを作成](/help/decision-management/create-ai-models.md)
    + [フォールバックオファーの作成](/help/decision-management/create-fallback-offers.md)
    + [コレクションの作成](/help/decision-management/create-collections.md)
    + [決定の作成](/help/decision-management/create-decisions.md)
@@ -100,7 +100,7 @@ ht-degree: 97%
    + [アクションの作成](/help/set-up-journeys/create-actions.md)
 + アクセス制御 {#access-control}
    + [アクセス管理](/help/set-up-access/access-management.md)
-   + [属性ベースのアクセス制御の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
+   + [属性ベースのアクセス制御を設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=ja)
    + [サンドボックスの作成と管理](/help/set-up-access/create-and-manage-sandboxes.md)
 + プライバシー {#privacy}
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
