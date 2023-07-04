@@ -1,6 +1,6 @@
 ---
 title: ユースケース - トランザクションジャーニー
-description: トランザクションジャーニーに適した使用例を理解し、トランザクションジャーニーの作成方法を学びます。
+description: トランザクションジャーニーに適したユースケースと、トランザクションジャーニーの作成方法を説明します。
 jira: KT-8030
 thumbnail: 334202.jpg
 feature: Journeys
@@ -13,14 +13,14 @@ last-substantial-update: 2023-06-15T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
 # ユースケース - トランザクションジャーニー
 
-トランザクションジャーニーに適した使用例を理解し、トランザクションジャーニーの作成方法を学びます。
+トランザクションジャーニーに適したユースケースと、トランザクションジャーニーの作成方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on)
