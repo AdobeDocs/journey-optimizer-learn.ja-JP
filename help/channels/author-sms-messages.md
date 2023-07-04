@@ -1,6 +1,6 @@
 ---
-title: SMS メッセージの設定、作成および配信
-description: Journey Optimizerのキャンペーンとジャーニーで SMS メッセージを設定、作成、配信する方法について説明します。
+title: SMS メッセージを設定、作成および配信
+description: Journey Optimizer のキャンペーンとジャーニーで SMS メッセージを設定、作成および配信する方法を説明します。
 feature: SMS
 role: User
 level: Beginner
@@ -11,14 +11,14 @@ hidefromtoc: false
 last-substantial-update: 2023-06-13T00:00:00Z
 exl-id: 5d4b6896-0cf2-470d-bcc6-695caa852072
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
-# SMS メッセージの設定、作成および配信
+# SMS メッセージを設定、作成および配信
 
-Journey Optimizerのキャンペーンとジャーニーで SMS メッセージを設定、作成、配信する方法について説明します。
+Journey Optimizer のキャンペーンとジャーニーで SMS メッセージを設定、作成および配信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420509?quality=12&learn=on)
