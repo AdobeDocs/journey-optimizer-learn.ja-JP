@@ -4,10 +4,12 @@ description: 意思決定管理でタグを作成する方法を説明します�
 feature: Offers
 jira: KT-6753
 thumbnail: 329374.jpg
+role: User
+level: Beginner
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
-source-wordcount: '80'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
