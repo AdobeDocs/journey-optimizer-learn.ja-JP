@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 92%
 
 ---
 
@@ -125,8 +125,6 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 
 ![Android 用の QR コード](/help/assets/lab731-android-qr-code.png)
 
-Android シミュレーターを使用している場合は、[https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk) のリンクを使用します
-
 アプリが Google Play ストアに登録されていないので、次の警告メッセージが表示されます。
 
 ![Android の警告画面](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ Android シミュレーターを使用している場合は、[https://ajolab.s3
 
 | フィールド | テキスト | リンク |
 |----|----|----|
-| キャンペーン名 | `<your seat number> March Vegas Campaign` |  |
+| キャンペーン名 | `<your seat number> Vegas Stay Campaign` |  |
 | マッチャー | 今すぐ予約 |  |
 | メディア URL オプション |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| タイトル | ライブ開催決定 |  |
-| 本文 | Adobe Summit が 2023年3月21日～23日 にラスベガスに戻ってきます。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。 |  |
-| ボタン | 今すぐホテルを予約すれば 10％割引 | lab://booking?suite=presidential&amp;discount=10 |
+| タイトル | 早めの鳥割引を！ |  |
+| 本文 | Adobe Summitは 2024 年にラスベガスに戻る。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約して、10%引きです。 |  |
+| ボタン | 今すぐ予約 | lab://booking?suite=presidential&amp;discount=10 |
 | ボタン：インタラクティブイベント | アプリ内 CTA |  |
-| ベース URL |  | iOS：lab:// <br>Android&amp;: https://lab |
+| ベース URL |  | **iOS:** lab:// <br>**Android**:https://lab |
 
 
 ## レッスン 3：オムニチャネルジャーニーの作成
