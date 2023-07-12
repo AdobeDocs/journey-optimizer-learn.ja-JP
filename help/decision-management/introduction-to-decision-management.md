@@ -3,12 +3,12 @@ title: 意思決定管理機能の概要
 description: Journey Optimizer の意思決定管理機能の概要を説明します。
 feature: Offers
 jira: KT-6417
-role: Administrator, Developer, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
-workflow-type: tm+mt
+source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
+workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
 
