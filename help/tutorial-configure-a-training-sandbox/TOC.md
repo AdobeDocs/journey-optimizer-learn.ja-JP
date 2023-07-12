@@ -4,9 +4,11 @@ user-guide-description: トレーニング用のサンドボックスの設定
 breadcrumb-title: チュートリアル - トレーニングサンドボックスの設定
 breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html
 index: false
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+role: Admin
+level: Beginner
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
