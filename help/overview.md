@@ -2,11 +2,14 @@
 title: Journey Optimizer チュートリアル - 概要
 description: Journey Optimizer の利点を活かす方法を示す様々なビデオチュートリアルが用意されています。
 recommendations: noDisplay, noCatalog
+feature: Get Started
+role: User, Developer, Admin, Leader
+level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
-source-wordcount: '490'
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -25,20 +28,16 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 ## 最新情報
 
 * **[条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)**
-
-   *条件ルールを作成および保存する方法と、それらの条件ルールをすべてのチャネルのコンテンツに適用する方法について説明します。*
+  *条件ルールを作成および保存する方法と、それらの条件ルールをすべてのチャネルのコンテンツに適用する方法について説明します。*
 
 * **[アラートを使用](/help/administration/alerts.md)**
-
-   *予期しないジャーニー動作に対して事前定義済みのアラートを購読し、Journey Optimizer 内または API を使用して、メールで通知を受け取る方法について説明します。*
+  *予期しないジャーニー動作に対して事前定義済みのアラートを購読し、Journey Optimizer 内または API を使用して、メールで通知を受け取る方法について説明します。*
 
 * **[別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)**
-
-   *ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法について説明します。*
+  *ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法について説明します。*
 
 * **[メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)**
-
-   *データマスキングとは何か、なぜデータマスクを行うのかを理解します。Journey Optimizer メッセージのデータマスクを行う方法を説明します。*
+  *データマスキングとは何か、なぜデータマスクを行うのかを理解します。Journey Optimizer メッセージのデータマスクを行う方法を説明します。*
 
 </div>
 
@@ -48,12 +47,10 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 ## Experience League ライブイベント
 
 * **[Adobe Journey Optimizer でキャンペーンを実行](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ja)**
-
-   *2022年9月22日（PT）に開催されたこの Experience League ライブエピソードでは、ホストの Sandra Hausmann および製品エキスパートの Bridgete Darling と Frederic Mary が、新機能がカバーする使用例について話し合い、Journey Optimizer で簡単にキャンペーンを設定して実行する方法を示します。*
+  *2022年9月22日（PT）に開催されたこの Experience League ライブエピソードでは、ホストの Sandra Hausmann および製品エキスパートの Bridgete Darling と Frederic Mary が、新機能がカバーする使用例について話し合い、Journey Optimizer で簡単にキャンペーンを設定して実行する方法を示します。*
 
 * **[Adobe Journey Optimizer でのプッシュ通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ja)**
-
-   *この Experience League ライブエピソードでは、Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform を使用したプッシュ通知のためのアプリを設定する方法について技術的な詳細を説明します。*
+  *この Experience League ライブエピソードでは、Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform を使用したプッシュ通知のためのアプリを設定する方法について技術的な詳細を説明します。*
 
 </div>
 
