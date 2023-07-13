@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
+source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 76%
 
 ---
@@ -149,10 +149,10 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 |----|----|----|
 | キャンペーン名 | `<your seat number> Vegas Stay Campaign` |  |
 | マッチャー | 今すぐ予約 |  |
-| メディア URL オプション |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| メディア URL オプション |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | タイトル | 早めの鳥割引を！ |  |
 | 本文 | Adobe・マックスはラスベガスに戻る。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約して、10%引きです。 |  |
-| ボタン | 今すぐ予約 | lab://booking?suite=presidential&amp;discount=10 |
+| ボタン | 10%割引を！ | lab://booking?suite=presidential&amp;discount=10 |
 | ボタン：インタラクティブイベント | アプリ内 CTA |  |
 | ベース URL デバイスでのプレビューに使用する |  | **iOS:** lab:// <br>**Android**:https://lab |
 
@@ -162,6 +162,6 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 | フィールド | テキスト | リンク |
 |----|----|----|
 | キャンペーン名 | `<your seat number> Max Push Campaign` |  |
-| メディア URL オプション |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| メディア URL オプション |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | タイトル | おい！ |  |
 | 本文 | Adobe・マックスがベガスに戻るのを知っていたか。 部屋を予約して、10%割引を受けます。 |  |
