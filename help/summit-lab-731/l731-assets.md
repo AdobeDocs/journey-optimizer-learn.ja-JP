@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 92%
+source-wordcount: '286'
+ht-degree: 76%
 
 ---
 
@@ -133,7 +133,7 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 
 >[!ENDTABS]
 
-## 演習 1.3：Adobe Journey Optimizer へのログイン
+## 演習 1：Adobe Journey Optimizer へのログイン
 
 [Journey Optimizer にログインするには、こちらをクリックしてください](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
@@ -143,63 +143,25 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 * **パスワード：** Adobe2023!
 
 
-## 演習 2.1：アプリ内キャンペーンの作成
+## 演習 2：アプリ内キャンペーンの作成
 
 | フィールド | テキスト | リンク |
 |----|----|----|
 | キャンペーン名 | `<your seat number> Vegas Stay Campaign` |  |
 | マッチャー | 今すぐ予約 |  |
-| メディア URL オプション |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| メディア URL オプション |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
 | タイトル | 早めの鳥割引を！ |  |
-| 本文 | Adobe Summitは 2024 年にラスベガスに戻る。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約して、10%引きです。 |  |
+| 本文 | Adobe・マックスはラスベガスに戻る。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約して、10%引きです。 |  |
 | ボタン | 今すぐ予約 | lab://booking?suite=presidential&amp;discount=10 |
 | ボタン：インタラクティブイベント | アプリ内 CTA |  |
-| ベース URL |  | **iOS:** lab:// <br>**Android**:https://lab |
+| ベース URL デバイスでのプレビューに使用する |  | **iOS:** lab:// <br>**Android**:https://lab |
 
 
-## レッスン 3：オムニチャネルジャーニーの作成
+## 演習 3:プッシュ通知の作成
 
-**ジャーニーラベル：**
-`<your seat number>` - ようこそジャーニー
-
->[!BEGINTABS]
-
->[!TAB プッシュメッセージ]
-
-**ラベル：**
-ようこそメッセージ
-
-**タイトル；**\
-Vegas Stay へようこそ。
-
-**本文：**\
-列に並ばずにモバイルアプリでチェックイン
-
-**ディープリンク：** iOS：lab://、Android&amp;：https://lab
-
-**メディア：**
-
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=ja
-
-
-プッシュ通知に使用する画像は次のとおりです。
-
-![オンラインチェックイン](/help/assets/vegas_online_check_in.jpg)
-
->[!TAB SMS メッセージ]
-
-**ラベル：**
-ようこそメッセージ
-
-**メッセージ：**
-Vegas Stay へようこそ。列に並ばずにモバイルアプリでチェックイン：lab://checkin
-
->[!TAB メールメッセージ]
-
-**ラベル：**
-確認メッセージ
-
-**件名：**
-`{{profile.person.name.firstName}},` 様、チェックインが完了しました。ご滞在に対するオファーを今すぐご確認ください。
-
->[!ENDTABS]
+| フィールド | テキスト | リンク |
+|----|----|----|
+| キャンペーン名 | `<your seat number> Max Push Campaign` |  |
+| メディア URL オプション |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| タイトル | おい！ |  |
+| 本文 | Adobe・マックスがベガスに戻るのを知っていたか。 部屋を予約して、10%割引を受けます。 |  |
