@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: d755729d2a426e291f6b417546346cbd78900898
-workflow-type: ht
-source-wordcount: '383'
-ht-degree: 100%
+source-git-commit: 7dd39b0bc8b2aa17522310d38140afff9bb1e727
+workflow-type: tm+mt
+source-wordcount: '382'
+ht-degree: 98%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 100%
 + Web チャネル {#web-channel}
    + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
    + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
-+ 顧客プロファイル、セグメントおよびサブスクリプション {#profiles-segments-subscriptions}
++ プロファイル、オーディエンス、購読 {#profiles-segments-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
