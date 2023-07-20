@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
-source-git-commit: 7dd39b0bc8b2aa17522310d38140afff9bb1e727
+source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
 workflow-type: tm+mt
 source-wordcount: '382'
-ht-degree: 98%
+ht-degree: 95%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 98%
    + [ジャーニーキャンバスの概要](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
    + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
-   + [ユースケース - セグメントの読み取り](/help/create-journeys/use-case-read-segment.md)
    + [ユースケース - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
-   + [ユースケース - セグメントの選定](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [使用例 — オーディエンスの閲覧](/help/create-journeys/use-case-read-audience.md)
+   + [使用例 — オーディエンスの選定](/help/create-journeys/use-case-audience-qualification.md)
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
@@ -59,7 +59,7 @@ ht-degree: 98%
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + コンテンツのパーソナライズ {#personalize-content}
-   + [プロファイルとセグメントメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [パーソナライゼーションに関するコンテキストイベント情報の使用](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -95,9 +95,9 @@ ht-degree: 98%
       + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
       + [メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)
    + ジャーニーの設定 {#journey-configuration}
-   + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
-   + [イベントの作成](/help/set-up-journeys/create-events.md)
-   + [アクションの作成](/help/set-up-journeys/create-actions.md)
+      + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
+      + [イベントの作成](/help/set-up-journeys/create-events.md)
+      + [アクションの作成](/help/set-up-journeys/create-actions.md)
 + アクセス制御 {#access-control}
    + [アクセス管理](/help/set-up-access/access-management.md)
    + [属性ベースのアクセス制御を設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=ja)
