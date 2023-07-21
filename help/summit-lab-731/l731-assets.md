@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
+source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 71%
+source-wordcount: '326'
+ht-degree: 67%
 
 ---
 
@@ -142,7 +142,7 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 
 ## 演習 1：Adobe Journey Optimizer へのログイン
 
-[Journey Optimizer にログインするには、こちらをクリックしてください](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Journey Optimizer にログインするには、こちらをクリックしてください](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **ログインの詳細：**
 
@@ -152,16 +152,16 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 
 ## 演習 2：アプリ内キャンペーンの作成
 
-| フィールド | テキスト | リンク |
-|----|----|----|
-| キャンペーン名 | `<your seat number> Vegas Stay Campaign` |  |
-| マッチャー | 今すぐ予約 |  |
-| メディア URL オプション |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| タイトル | 早めの鳥割引を！ |  |
-| 本文 | Adobe・マックスはラスベガスに戻る。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約して、10%引きです。 |  |
-| ボタン | 10%割引を！ | lab://booking?suite=presidential&amp;discount=10 |
-| ボタン：インタラクティブイベント | アプリ内 CTA |  |
-| ベース URL デバイスでのプレビューに使用する |  | **iOS:** lab:// <br>**Android**:https://lab |
+| セクション | フィールド | テキスト | リンク |
+|----|----|----|----|
+| **プロパティ** |  | キャンペーン名 | `<your seat number> Vegas Stay Campaign` |  |
+| **Triggers** | 都道府県 | 今すぐ予約 |  |
+| **コンテンツを編集：** メディア | メディア URL オプション |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **コンテンツを編集：** コンテンツ | タイトル | 早めの鳥割引を！ |  |
+| **コンテンツを編集：** コンテンツ | 本文 | Adobe・マックスはラスベガスに戻る。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約して、10%引きです。 |  |
+| **コンテンツを編集：** ボタン | ボタン | 10%割引を！ | lab://booking?suite=presidential&amp;discount=10 |
+| **コンテンツを編集：** コンテンツ |  | ボタン：Interact イベント | アプリ内 CTA |  |
+| **デバイスでのプレビュー** |  | デバイスでのプレビューに使用するベース URL |  | **iOS:** lab:// <br>**Android**:https://lab |
 
 
 ## 演習 3:プッシュ通知の作成
