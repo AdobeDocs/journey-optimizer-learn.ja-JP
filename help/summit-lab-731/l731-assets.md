@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c72d6d4d88811ac4d40bfc512585e0ebe64741d2
+source-git-commit: 2f0412400db4d5bdddbb84d41e8bde17ea2533b2
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 67%
@@ -168,6 +168,6 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 | フィールド | テキスト | リンク |
 |----|----|----|
 | キャンペーン名 | `<your seat number> Max Push Campaign` |  |
-| メディア URL オプション |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
 | タイトル | おい！ |  |
 | 本文 | Adobe・マックスがベガスに戻るのを知っていたか。 部屋を予約して、10%割引を受けます。 |  |
+| メディア URL オプション |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
