@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
+source-git-commit: 0932b5cd3ad318b0094e859cbc64c5de4f8ba747
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '325'
 ht-degree: 67%
 
 ---
@@ -160,9 +160,8 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 | **コンテンツを編集：** コンテンツ | タイトル | 早めの鳥割引を！ |  |
 | **コンテンツを編集：** コンテンツ | 本文 | Adobe・マックスはラスベガスに戻る。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約して、10%引きです。 |  |
 | **コンテンツを編集：** ボタン | ボタン | 10%割引を！ | lab://booking?suite=presidential&amp;discount=10 |
-| **コンテンツを編集：** コンテンツ |  | ボタン：Interact イベント | アプリ内 CTA |  |
+| **コンテンツを編集：** ボタン | Interact イベント | アプリ内 CTA |  |
 | **デバイスでのプレビュー** |  | デバイスでのプレビューに使用するベース URL |  | **iOS:** lab:// <br>**Android**:https://lab |
-
 
 ## 演習 3:プッシュ通知の作成
 
