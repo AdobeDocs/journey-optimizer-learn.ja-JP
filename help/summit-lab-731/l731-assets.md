@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 2f0412400db4d5bdddbb84d41e8bde17ea2533b2
+source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 67%
@@ -144,7 +144,7 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 
 [Journey Optimizer にログインするには、こちらをクリックしてください](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
-**ログインの詳細：**
+**ログインの詳細**
 
 * **ユーザー名：** `L731+<your seat number>@summitlab.us`（例：L731+001@summitlab.us）
 * **パスワード：** Adobe2023!
@@ -161,7 +161,7 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 | **コンテンツを編集：** コンテンツ | 本文 | Adobe・マックスはラスベガスに戻る。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約して、10%引きです。 |  |
 | **コンテンツを編集：** ボタン | ボタン | 10%割引を！ | lab://booking?suite=presidential&amp;discount=10 |
 | **コンテンツを編集：** ボタン | Interact イベント | アプリ内 CTA |  |
-| **デバイスでのプレビュー** |  | デバイスでのプレビューに使用するベース URL |  | **iOS:** lab:// <br>**Android**:https://lab |
+| **デバイスでのプレビュー** | デバイスでのプレビューに使用するベース URL |  | **iOS:** lab:// <br>**Android**:https://lab |
 
 ## 演習 3:プッシュ通知の作成
 
