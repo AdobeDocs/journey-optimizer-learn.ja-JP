@@ -1,6 +1,6 @@
 ---
 title: L731 チートシート
-description: このページには、L731 サミットラボで使用されているテキストとリンクが含まれています。
+description: このページには、L731 Summit Lab で使用されているテキストとリンクが含まれています。
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -12,7 +12,7 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 67%
+ht-degree: 91%
 
 ---
 
@@ -32,7 +32,7 @@ QR コードをスキャンしてアプリをダウンロード
 
 >[!IMPORTANT]
 >
->使用コードを要求された場合は、TestFlight アプリを閉じて、QR コードをもう一度スキャンしてください。
+>引き換えコードを求められた場合は、TestFlight アプリを閉じて、もう一度 QR コードをスキャンしてください。
 >
 >通知を許可してください。
 >
@@ -157,17 +157,17 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 | **プロパティ** | キャンペーン名 | `<your seat number> Vegas Stay Campaign` |  |
 | **Triggers** | 都道府県 | 今すぐ予約 |  |
 | **コンテンツを編集：** メディア | メディア URL オプション |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| **コンテンツを編集：** コンテンツ | タイトル | 早めの鳥割引を！ |  |
-| **コンテンツを編集：** コンテンツ | 本文 | Adobe・マックスはラスベガスに戻る。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約して、10%引きです。 |  |
-| **コンテンツを編集：** ボタン | ボタン | 10%割引を！ | lab://booking?suite=presidential&amp;discount=10 |
+| **コンテンツを編集：** コンテンツ | タイトル | 早期ディスカウントを入手 |  |
+| **コンテンツを編集：** コンテンツ | 本文 | Adobe Max がラスベガスに戻ってきます。刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約すると 10％オフになります。 |  |
+| **コンテンツを編集：** ボタン | ボタン | 10％ディスカウントを入手 | lab://booking?suite=presidential&amp;discount=10 |
 | **コンテンツを編集：** ボタン | Interact イベント | アプリ内 CTA |  |
-| **デバイスでのプレビュー** | デバイスでのプレビューに使用するベース URL |  | **iOS:** lab:// <br>**Android**:https://lab |
+| **デバイスでのプレビュー** | デバイスでのプレビューに使用するベース URL |  | **iOS：** lab:// <br>**Android**：https://lab |
 
-## 演習 3:プッシュ通知の作成
+## 演習 3：プッシュ通知の作成
 
 | フィールド | テキスト | リンク |
 |----|----|----|
 | キャンペーン名 | `<your seat number> Max Push Campaign` |  |
-| タイトル | おい！ |  |
-| 本文 | Adobe・マックスがベガスに戻るのを知っていたか。 部屋を予約して、10%割引を受けます。 |  |
+| タイトル | こんにちは |  |
+| 本文 | Adobe Max がラスベガスに戻ってくることをご存知ですか。今すぐ部屋を予約すると 10％ディスカウントになります。 |  |
 | メディア URL オプション |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |

@@ -5,7 +5,7 @@ user-guide-description: Journey Optimizer チュートリアルです。
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 94%
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
    + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
    + [ユースケース - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
-   + [使用例 — オーディエンスの閲覧](/help/create-journeys/use-case-read-audience.md)
-   + [使用例 — オーディエンスの選定](/help/create-journeys/use-case-audience-qualification.md)
+   + [ユースケース - オーディエンスを読み取り](/help/create-journeys/use-case-read-audience.md)
+   + [ユースケース - オーディエンスの選定](/help/create-journeys/use-case-audience-qualification.md)
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
@@ -57,7 +57,7 @@ ht-degree: 94%
 + Web チャネル {#web-channel}
    + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
    + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
-+ プロファイル、オーディエンス、購読 {#profiles-segments-subscriptions}
++ プロファイル、オーディエンス、および購読 {#profiles-segments-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
