@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '190'
-ht-degree: 100%
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 97%
 
 ---
 
@@ -52,26 +52,14 @@ ht-degree: 100%
 
 1. 「**[!UICONTROL 保存]**」を選択します。
 
-## *[!DNL Luma Wishlist Add]* イベントの作成
-
-| [!UICONTROL パラメーター] | [!UICONTROL 値] |
-|-------------|-----------|
-| [!UICONTROL 名前] | `LumaWishlistAdd` |
-| [!UICONTROL タイプ] | [!UICONTROL 単一] |
-| [!UICONTROL イベント ID のタイプ] | [!UICONTROL ルールベース] |
-| [!UICONTROL スキーマ] | `Luma Product Interactions` |
-| [!UICONTROL フィールド] | EventType<br>productListItem.quantity<br><b>製品リスト項目／Luma 製品／_*[!DNL yourOrganizationID]*／製品：</b> <br>名前<br>価格<br> ProductImageURL<br>ProductURL |
-| [!UICONTROL 条件] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL 名前空間] | メール |
-
 ## *[!DNL Luma Product Restock]* イベントの作成
 
 | [!UICONTROL パラメーター] | [!UICONTROL 値] |
 |-------------|-----------|
 | [!UICONTROL 名前] | `LumaProductRestock` |
 | [!UICONTROL タイプ] | [!UICONTROL ビジネス] |
-| [!UICONTROL スキーマ] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL フィールド] | SKU <br> stockEventType<br><b> yourOrganizationID／製品：</b> <br>名前<br>価格<br> ImageURL<br>説明 |
+| [!UICONTROL スキーマ] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL フィールド] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>名前<br>価格<br> ImageURL<br>説明 |
 | [!UICONTROL 条件] | LumaProductRestock。_`your organization's ID`.inventoryEvent.stockEventType は restock です |
 
 おめでとうございます。これで、サンドボックスを使用する準備が整いました。
