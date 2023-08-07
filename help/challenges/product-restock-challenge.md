@@ -9,9 +9,9 @@ hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '580'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Luma は、Journey Optimizer でジャーニーを実装して、以前は在庫
 
 ## 1. セグメントの定義 - 在庫切れのウィッシュリストアイテム
 
-製品が再入荷された際に、興味を持つ可能性のある顧客をターゲットにするには、次のような顧客で構成されるオーディエンスを作成します。
+製品が再入荷されたときに、興味のある潜在顧客をターゲットにするには、顧客で構成されるオーディエンスを作成します。
 
 * 1 つ以上のアイテムをウィッシュリストに追加した顧客（イベントタイプ：[!UICONTROL Commerce で後で購入するために保存]を使用）
 * 過去 3 か月以内に在庫切れになったアイテム（使用在庫数 = 0）
