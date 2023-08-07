@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -66,7 +66,7 @@ Luma は、最新のアパレルとギアのコレクションを宣伝し、既
    <strong><a href="summer-collection-announcement-challenge.md">夏物コレクションのお知らせの作成 </strong>
     </a>
       <p>
-      <em>既存の顧客のオーディエンスに夏物コレクションのお知らせメールを送信するジャーニーを作成します。 </em>
+      <em>既存の顧客のオーディエンスに夏物コレクションのお知らせメールを送信するジャーニーを作成します。</em>
       <p>
       <b>必要なスキル：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja"> セグメントの作成</li>
