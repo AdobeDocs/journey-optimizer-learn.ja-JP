@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '594'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -49,8 +49,8 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 * **[Adobe Journey Optimizer でモバイルアプリの可能性を最大化](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja)**
   *リアルタイムのエンゲージメントチャネルとしてのアプリ内メッセージのメリットと、Adobe Journey Optimizer でパーソナライズされたモバイルアプリエクスペリエンスを設定および作成する方法について説明します。*
 
-* **[Web チャネルとコンテンツ実験を使用したAdobe Journey Optimizerの将来の展望](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=ja)**
-  *新しい Web チャネルを使用すると、マーケターは WYSIWYG のビジュアルデザイナーで Web キャンペーンを作成できます。 さらに、Journey Optimizerでは、E メール、Web、プッシュ、アプリ内、SMS など、任意のチャネルのコンテンツを試すことができるようになりました。*
+* **[Web チャネルとコンテンツ実験を使用した Adobe Journey Optimizer の将来の展望](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=ja)**
+  *新しい web チャネルを使用すると、マーケターは WYSIWYG のビジュアルデザイナーで web キャンペーンを作成できます。さらに、Journey Optimizer では、メール、web、プッシュ、アプリ内、SMS など、任意のチャネルのコンテンツを実験できるようになりました。*
 
 * **[Adobe Journey Optimizer でキャンペーンを実行](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ja)**
   *2022年9月22日（PT）に開催されたこの Experience League ライブエピソードでは、ホストの Sandra Hausmann および製品エキスパートの Bridgete Darling と Frederic Mary が、新機能がカバーする使用例について話し合い、Journey Optimizer で簡単にキャンペーンを設定して実行する方法を示します。*
