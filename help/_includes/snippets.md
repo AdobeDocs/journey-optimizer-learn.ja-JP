@@ -1,6 +1,6 @@
 ---
 source-git-commit: f42f117b47a16536a045688a472f95afff46ecec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,5 +25,5 @@ Experience League ライブ：
 
 * [Adobe Journey Optimizer でモバイルアプリの可能性を最大化](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja)
 
-   *リアルタイムのエンゲージメントチャネルとしてのアプリ内メッセージのメリットと、Adobe Journey Optimizer でパーソナライズされたモバイルアプリエクスペリエンスを設定および作成する方法について説明します。*
+  *リアルタイムのエンゲージメントチャネルとしてのアプリ内メッセージのメリットと、Adobe Journey Optimizer でパーソナライズされたモバイルアプリエクスペリエンスを設定および作成する方法について説明します。*
 

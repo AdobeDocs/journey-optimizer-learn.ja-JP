@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-26T00:00:00Z
 jira: KT-13222
 thumbnail: 3419932.jpeg
-source-git-commit: 88c1c616fe8f7de8356358a8fe5cc73153c35afb
-workflow-type: ht
+exl-id: d63ed027-087e-4a34-8b29-5d63576107e9
+source-git-commit: d7012722aa70350ad830cbec18768c179b88c891
+workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 100%
 
 ---
-
 
 # フラグメントの管理、作成、使用
 

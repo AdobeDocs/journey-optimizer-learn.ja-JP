@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Feature Video
 jira: KT-11129
 thumbnail: 3419893.jpeg
-source-git-commit: ff61b570060bb04a9b17cd9e7e0062015363dce2
-workflow-type: ht
+exl-id: 17251f5b-ed4e-4d5f-a68f-07059557ce75
+source-git-commit: d7012722aa70350ad830cbec18768c179b88c891
+workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 100%
 
 ---
-
 
 # メールキャンペーン用のコンテンツ実験の設定
 

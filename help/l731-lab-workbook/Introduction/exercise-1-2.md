@@ -56,3 +56,4 @@ ht-degree: 100%
 >[!SUCCESS]
 >
 >アプリユーザーを作成し、このユーザーのプロファイルを Adobe Journey Optimizer で作成しました。
+>
