@@ -6,7 +6,8 @@ type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.ja-JP
 index: true
-source-git-commit: a68e7eae1c38d7484e449de5cccb78ea8b892308
+auto-video-transcripts: true
+source-git-commit: bd0b08ead432093a44a689c11859bb87be0ac1b5
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
