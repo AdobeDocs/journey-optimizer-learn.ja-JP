@@ -8,7 +8,7 @@ git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.ja-JP
 index: true
 auto-video-transcripts: true
 source-git-commit: bd0b08ead432093a44a689c11859bb87be0ac1b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
 ht-degree: 100%
 
