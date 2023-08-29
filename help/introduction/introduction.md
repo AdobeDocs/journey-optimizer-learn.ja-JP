@@ -9,8 +9,8 @@ team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: bd0b08ead432093a44a689c11859bb87be0ac1b5
-workflow-type: ht
+source-git-commit: 1309356c5626d54c70ddb07d31f2f53fe05c6793
+workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
 
@@ -22,3 +22,4 @@ Adobe Journey Optimizer とは何か、このアプリケーションでビジ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on)
 
+  <br>
