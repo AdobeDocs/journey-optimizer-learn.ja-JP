@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '627'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -53,8 +53,8 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ## Experience League ライブイベント
 
-* **[Adobe Journey Optimizerで API トリガーメッセージ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja)**
-  *コンテキストに応じてパーソナライズされたリアルタイムのトランザクションおよびマーケティングコミュニケーションで REST API を使用する方法を説明します。*
+* **[Adobe Journey Optimizer での API トリガーによるメッセージ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja)**
+  *REST API を使用して、コンテキストに応じてパーソナライズされたリアルタイムのトランザクションおよびマーケティングコミュニケーションを行う方法について説明します。*
 
 * **[Adobe Journey Optimizer でモバイルアプリの可能性を最大化](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja)**
   *リアルタイムのエンゲージメントチャネルとしてのアプリ内メッセージのメリットと、Adobe Journey Optimizer でパーソナライズされたモバイルアプリエクスペリエンスを設定および作成する方法について説明します。*
