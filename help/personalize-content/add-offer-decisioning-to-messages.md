@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 100%
+source-wordcount: '42'
+ht-degree: 95%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Journey Optimizer で意思決定管理コンポーネントをメッセージに追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on){transcript=true}

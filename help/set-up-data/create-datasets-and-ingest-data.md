@@ -9,10 +9,10 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 55161113-3a69-4ba1-89a4-48cbaeef13f7
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 96%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 データセットの作成、スキーマへのマッピング、データの追加、データの取り込みの確認の方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}

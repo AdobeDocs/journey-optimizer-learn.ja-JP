@@ -10,10 +10,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 last-substantial-update: 2022-09-21T00:00:00Z
 exl-id: 17c56468-0fad-4717-bde7-78c12639c67a
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 96%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 データマスキングとは何か、またデータをマスクする必要がある場合と理由について理解します。 Journey Optimizer メッセージのデータマスクを行う方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){transcript=true}

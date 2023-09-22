@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 76d4cb7e-a9ac-470b-bc9c-5792bf5d7482
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 96%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 頻度ルールを作成、アクティブ化、テストおよびレポートする方法について説明します。メッセージに継承する頻度ルールを決定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12&learn=on){transcript=true}

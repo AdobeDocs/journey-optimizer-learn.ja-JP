@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 97%
 
 ---
 
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 意思決定管理の[プレースメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=ja)を作成する方法を説明します。プレースメントは、オファーの構成要素の 1 つです。プレースメントは、コンテンツタイプとチャネルの組み合わせです。例えば、メール内の画像や web サイトの HTML コードなどです。
 
->[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on){transcript=true}
 
 API を使用してプレースメントを作成する方法について詳しくは、[製品ガイド](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=ja)を参照してください。

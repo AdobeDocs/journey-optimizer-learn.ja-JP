@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: e7626542-1399-4fcd-966a-cd9b3c7cd454
-source-git-commit: b1572b918a1d5dffa3cb8618d8efedeb1b9bec72
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 97%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 オーディエンスの選定ジャーニーに適用できるユースケースを理解します。オーディエンスの選定と適用するベストプラクティスを使用して、ジャーニーを構築する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334231?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334231?quality=12&learn=on){transcript=true}

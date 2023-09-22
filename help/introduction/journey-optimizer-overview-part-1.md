@@ -9,10 +9,10 @@ team: Evangelism
 role: User
 level: Beginner
 exl-id: 6977cc53-9dad-4dee-9cbf-90f7b11ea9c8
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 100%
+source-wordcount: '52'
+ht-degree: 96%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 このビデオでは、Adobe Journey Optimizer を使用して、パーソナライズされたオムニチャネルジャーニーをブランド企業が消費者に提供する方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334174?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334174?quality=12&learn=on){transcript=true}
