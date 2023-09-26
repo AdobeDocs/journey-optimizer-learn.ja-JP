@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: eb4bbc4cd8eb511dbadc87cb9b7bc6c9838a8394
+source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 100%
+source-wordcount: '412'
+ht-degree: 97%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 100%
 + Web チャネル {#web-channel}
    + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
    + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
+   + [Web エディターでのSPAのサポート](/help/channels/singel-page-application-support.md)
 + プロファイル、オーディエンス、および購読 {#profiles-segments-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
@@ -93,6 +94,7 @@ ht-degree: 100%
    + [クラウドストレージの場所へのデータセットの書き出し](/help/set-up-data/export-datasets.md)
 + レポートと監視 {#report-and-monitor}
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
+   + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
    + [アラートを使用](/help/administration/alerts.md)
 + 設定 {#configuration}
    + チャネルの設定 {#channel-configuration}
