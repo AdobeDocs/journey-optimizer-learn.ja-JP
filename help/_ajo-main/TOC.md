@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
+source-git-commit: 3b0b830bb1d5e813df49625c8125924a0bca9364
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 97%
+source-wordcount: '417'
+ht-degree: 96%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 97%
    + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
    + [コンテンツテンプレート](/help/channels/content-templates.md)
    + [フラグメントの管理、作成、使用](/help/content-management/manage-author-use-fragments.md)
+   + [式フラグメントを作成して使用する](/help/content-management/expression-fragments.md)
    + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
 + アプリ内チャネル{#in-app-channel}
    + [アプリ内キャンペーンを作成](/help/channels/create-an-in-app-campaign.md)
