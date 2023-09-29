@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 100%
@@ -20,7 +20,7 @@ ht-degree: 100%
 この節では、必要な ID 名前空間を作成し、[[!UICONTROL スキーマ]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ja)を作成して [!DNL Luma] サンプルデータ構造を定義します。
 
 >[!TIP]
->開始する前に、[ID のマッピング](/help/set-up-data/map-identities.md)のビデオチュートリアルをご覧ください。
+>開始する前に、[ID のマッピング](/help/data-management/map-identities.md)のビデオチュートリアルをご覧ください。
 
 ## 手順 1：ID 名前空間の作成
 
@@ -69,7 +69,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->開始する前に、[スキーマの作成](/help/set-up-data/create-schema.md)のビデオチュートリアルをご覧ください。
+>開始する前に、[スキーマの作成](/help/data-management/create-schema.md)のビデオチュートリアルをご覧ください。
 
 ### [!DNL Luma Loyalty Schema] の作成 {#create-luma-loyalty-schema}
 

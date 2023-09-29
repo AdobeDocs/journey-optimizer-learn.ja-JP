@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 95%
+source-wordcount: '427'
+ht-degree: 94%
 
 ---
 
@@ -87,12 +87,13 @@ ht-degree: 95%
    + [意思決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [フリークエンシーキャップ](/help/decision-management/frequency-capping.md)
 + データ管理 {#data-management}
-   + [概要](/help/set-up-data/set-up-data-overview.md)
-   + [スキーマの作成](/help/set-up-data/create-schema.md)
-   + [ID のマッピング](/help/set-up-data/map-identities.md)
-   + [データセットの作成とデータの取り込み](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [ソースコネクタの設定](/help/set-up-data/configure-source-connectors.md)
-   + [クラウドストレージの場所へのデータセットの書き出し](/help/set-up-data/export-datasets.md)
+   + [概要](/help/data-management/set-up-data-overview.md)
+   + [スキーマの作成](/help/data-management/create-schema.md)
+   + [ID のマッピング](/help/data-management/map-identities.md)
+   + [データセットの作成とデータの取り込み](/help/data-management/create-datasets-and-ingest-data.md)
+   + [ソースコネクタの設定](/help/data-management/configure-source-connectors.md)
+   + [データセットの書き出し先の設定](/help/data-management/configure-dataset-export-destination.md)
+   + [クラウドストレージの場所へのデータセットの書き出し](/help/data-management/export-datasets.md)
 + レポートと監視 {#report-and-monitor}
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
