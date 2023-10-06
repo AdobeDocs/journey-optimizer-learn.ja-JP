@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: f08f646c2317cc17356594052d3174065ef00384
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 94%
    + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
    + [コンテンツテンプレート](/help/channels/content-templates.md)
    + [フラグメントの管理、作成、使用](/help/content-management/manage-author-use-fragments.md)
-   + [式フラグメントを作成して使用する](/help/content-management/expression-fragments.md)
+   + [式フラグメントの作成と使用](/help/content-management/expression-fragments.md)
    + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
 + アプリ内チャネル{#in-app-channel}
    + [アプリ内キャンペーンを作成](/help/channels/create-an-in-app-campaign.md)
@@ -60,7 +60,7 @@ ht-degree: 94%
 + Web チャネル {#web-channel}
    + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
    + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
-   + [Web エディターでのSPAのサポート](/help/channels/singel-page-application-support.md)
+   + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
 + プロファイル、オーディエンス、および購読 {#profiles-segments-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [セグメントの作成](/help/set-up-resources/create-segments.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
    + [ID のマッピング](/help/data-management/map-identities.md)
    + [データセットの作成とデータの取り込み](/help/data-management/create-datasets-and-ingest-data.md)
    + [ソースコネクタの設定](/help/data-management/configure-source-connectors.md)
-   + [データセットの書き出し先の設定](/help/data-management/configure-dataset-export-destination.md)
+   + [データセットの書き出し先を設定](/help/data-management/configure-dataset-export-destination.md)
    + [クラウドストレージの場所へのデータセットの書き出し](/help/data-management/export-datasets.md)
 + レポートと監視 {#report-and-monitor}
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
