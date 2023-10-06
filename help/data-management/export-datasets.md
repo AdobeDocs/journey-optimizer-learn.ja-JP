@@ -9,11 +9,11 @@ last-substantial-update: 2023-04-21T00:00:00Z
 jira: KT-13113
 thumbnail: 3418688.jpeg
 badge: label="ベータ版" type="Informative"
-exl-id: 17e1d65c-2548-4d50-bc9f-4e30d729fb5b
-source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
-workflow-type: tm+mt
+exl-id: 66a616da-d917-40f6-b315-76b061e9ddfd
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
