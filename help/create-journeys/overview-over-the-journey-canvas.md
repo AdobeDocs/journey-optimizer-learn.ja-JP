@@ -8,9 +8,9 @@ jira: KT-10166
 thumbnail: 342099.jpeg
 exl-id: fb262c8d-7865-4a85-b620-a134e4cca7f8
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '28'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
