@@ -8,11 +8,11 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-21T00:00:00Z
 jira: KT-10283
 thumbnail: 3418800.jpeg
-exl-id: 5b625240-5f55-457c-8ea6-2a3f61af7047
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
+exl-id: ba093540-8a4a-43f2-9742-6144d0e8aa71
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
