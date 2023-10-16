@@ -7,7 +7,7 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: ht
 source-wordcount: '627'
 ht-degree: 100%
@@ -16,8 +16,6 @@ ht-degree: 100%
 
 
 # Journey Optimizer チュートリアル
-
-![](./assets/ajo-banner.png)
 
 Journey Optimizer は、企業が顧客に対して、連続性がありコンテキストに沿う、パーソナライズされたエクスペリエンスを提供するのに役立ちます。カスタマージャーニーとは、顧客がブランドと最初に接触してからサイトを離れるまでの間にブランドとやり取りする過程全体のことです。
 
