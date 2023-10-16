@@ -1,5 +1,5 @@
 ---
-title: ロイヤルティステータスウェルカムメールの作成 - 課題
+title: ロイヤルティステータスのウェルカムメールの作成 - 課題
 description: ロイヤルティ層に到達した顧客にウェルカムメールを自動的に送信するジャーニーを作成します。
 jira: KT-8109
 feature: Journeys
@@ -7,18 +7,16 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '421'
 ht-degree: 100%
 
 ---
 
-# ロイヤルティステータス案内メールの作成 - 課題
+# ロイヤルティステータスのウェルカムメールの作成 - 課題
 
-![ロイヤルティステータス案内メール - 課題バナー](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
-
-| 課題 | ロイヤルティステータス案内メールの作成 |
+| 課題 | ロイヤルティステータスのウェルカムメールの作成 |
 |---|---|
 | ペルソナ | ジャーニーマネージャー |
 | 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja)</li> <li>[セグメントの選定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=ja)</li><li>[HTML コンテンツのインポート](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ja)</li></ul> |
@@ -34,7 +32,7 @@ Luma は、特別なプラチナステータスを強調するために、プラ
 
 ## 課題
 
-プラチナロイヤルティ層に到達した顧客に案内メールを自動的に送信するジャーニーを設定するよう求められました。
+プラチナロイヤルティ層に到達した顧客にウェルカムメールを自動的に送信するジャーニーを設定するよう求められました。
 
 >[!BEGINTABS]
 
@@ -50,7 +48,7 @@ Luma は、特別なプラチナステータスを強調するために、プラ
 
    1. `Luma - Platinum Status - Welcome` というラベルの付いたメールメッセージが顧客に届きます。メールの件名は「`Welcome to Platinum Status, {firstName}!`」で、メール本文はクリエイティブチームから提供されたものです。 これは、[!UICONTROL トランザクション]メールです。
 
-   1. この HTML ファイルをアップロードすると、メールが「プラチナ」ではなく「ダイヤモンド」ステータスを参照していることがわかります。クリエイティブチームに新しいファイルを要求するのではなく、[!UICONTROL メールデザイナー]でメールを更新します。
+   1. この HTML ファイルをアップロードすると、メールが「プラチナ」ではなく「ダイヤモンド」ステータスを参照していることがわかります。クリエイティブチームに新しいファイルを要求するのではなく、[!UICONTROL E メールデザイナー]でメールを更新します。
 
 >[!TAB 成功基準]
 
