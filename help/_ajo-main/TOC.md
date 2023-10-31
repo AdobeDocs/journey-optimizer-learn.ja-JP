@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: f08f646c2317cc17356594052d3174065ef00384
-workflow-type: ht
-source-wordcount: '420'
+source-git-commit: e775fc958c65a001d3ca1e09b0b43b3c69084310
+workflow-type: tm+mt
+source-wordcount: '424'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 100%
    + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
    + [アプリ内キャンペーンを作成](/help/create-campaigns/in-app.md)
    + [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=ja)
+   + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
    + [ジャーニーキャンバスの概要](/help/create-journeys/overview-over-the-journey-canvas.md)
@@ -81,7 +82,7 @@ ht-degree: 100%
    + [タグの作成](/help/decision-management/create-tags.md)
    + [パーソナライズされたオファーの作成](/help/decision-management/create-personalized-offers.md)
    + [AI モデルを作成](/help/decision-management/create-ai-models.md)
-   + [フォールバックオファーの作成](/help/decision-management/create-fallback-offers.md)
+   + [フォールバックオファーを作成](/help/decision-management/create-fallback-offers.md)
    + [コレクションの作成](/help/decision-management/create-collections.md)
    + [決定の作成](/help/decision-management/create-decisions.md)
    + [意思決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
