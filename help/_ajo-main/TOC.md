@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 98%
@@ -38,8 +38,10 @@ ht-degree: 98%
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
-+ ダイレクトメールチャネル{#direct-mail-channel}
-   + [ダイレクトメールチャネル](/help/channels/direct-mail.md)
++ プロファイル、オーディエンス、および購読 {#profiles-audiences-subscriptions}
+   + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + メールチャネル{#email-channel}
    + [E メールデザイナーでコンテンツを作成](/help/channels/create-content-with-the-email-designer.md)
    + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
@@ -48,6 +50,8 @@ ht-degree: 98%
    + [フラグメントの管理、作成、使用](/help/content-management/manage-author-use-fragments.md)
    + [式フラグメントの作成と使用](/help/content-management/expression-fragments.md)
    + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
++ ダイレクトメールチャネル{#direct-mail-channel}
+   + [ダイレクトメールチャネル](/help/channels/direct-mail.md)
 + アプリ内チャネル{#in-app-channel}
    + [アプリ内キャンペーンを作成](/help/channels/create-an-in-app-campaign.md)
    + [ジャーニーでアプリ内メッセージを作成](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -62,10 +66,6 @@ ht-degree: 98%
    + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
    + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
    + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
-+ プロファイル、オーディエンス、および購読 {#profiles-segments-subscriptions}
-   + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
