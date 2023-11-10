@@ -1,6 +1,6 @@
 ---
 title: アプリ内キャンペーンの作成
-description: アプリ内メッセージとは何かを理解します。Campaign でアプリ内メッセージを作成、設定および公開する方法について説明します。
+description: アプリ内メッセージとは何かを理解します。キャンペーンでアプリ内メッセージを作成、設定および公開する方法について説明します。
 feature: In App, Campaigns
 role: User
 level: Beginner
