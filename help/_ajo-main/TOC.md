@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '428'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 98%
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
 + キャンペーン {#create-campaigns}
    + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
-   + [アプリ内キャンペーンを作成](/help/create-campaigns/in-app.md)
-   + [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=ja)
+   + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
+   + [Web キャンペーンを作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=ja)
    + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
@@ -53,7 +53,7 @@ ht-degree: 98%
 + ダイレクトメールチャネル{#direct-mail-channel}
    + [ダイレクトメールチャネル](/help/channels/direct-mail.md)
 + アプリ内チャネル{#in-app-channel}
-   + [アプリ内キャンペーンを作成](/help/channels/create-an-in-app-campaign.md)
+   + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
    + [ジャーニーでアプリ内メッセージを作成](/help/channels/create-an-in-app-message-in-a-journey.md)
    + [アプリ内メッセージを作成](/help/channels/author-in-app-messages.md)
    + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
