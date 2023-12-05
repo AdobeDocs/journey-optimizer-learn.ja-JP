@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
-workflow-type: ht
-source-wordcount: '428'
-ht-degree: 100%
+source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 96%
 
 ---
 
@@ -120,3 +120,9 @@ ht-degree: 100%
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
    + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)
++ Experience Leagueのライブ録画{#experience-league-live-recordings}
+   + [Adobe Journey Optimizer での API トリガーによるメッセージ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja){target="_blank"}
+   + [Adobe Journey Optimizer でモバイルアプリの可能性を最大化](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja){target="_blank"}
+   + [適切なオファーを適切なタイミングで決定管理で提供](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en){target="_blank"}
+   + [Adobe Journey Optimizer でキャンペーンを実行](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
+   + [Adobe Journey Optimizer でのプッシュ通知](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en){target="_blank"}
