@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
+source-git-commit: 6997e1257b0194fce07fc4ee4e1017e333e7f697
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 96%
+source-wordcount: '470'
+ht-degree: 94%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 96%
       + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
       + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
       + [メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)
+      + [IP ウォームアッププランの作成と実行](/help/administration/create-and-execute-an-ip-warmup-plan.md)
    + ジャーニーの設定 {#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
       + [イベントの作成](/help/set-up-journeys/create-events.md)
