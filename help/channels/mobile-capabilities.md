@@ -5,10 +5,10 @@ feature: SMS, In App, Push
 role: Leader, User
 level: Beginner
 jira: KT-10169
-thumbnail: 342102.jpeg
+thumbnail: 3426021.jpeg
 exl-id: d5e04656-c99e-490e-872e-ea153a81dd98
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
+source-git-commit: ff20a4cb1f6b8549c982d81c3cd2c01f33ec653d
+workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 100%
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer が提供するマーケター向けのモバイル機能について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342102?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
