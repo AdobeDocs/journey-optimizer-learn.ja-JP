@@ -4,14 +4,14 @@ description: ジャーニーキャンバスでジャーニーを構築する基�
 landing-page-description: ジャーニーキャンバスでジャーニーを作成するための基本を理解します。
 short-description: ジャーニーキャンバスでジャーニーを作成するための基本を理解します。
 jira: KT-7530
-thumbnail: 334522.jpg
+thumbnail: 3424996.jpg
 feature: Journeys
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: dc510572-96c8-42bd-b213-e8738510bb0c
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 86962bb87d5b1b454259c9d6b60a639f67808c0d
 workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 ジャーニーキャンバスでジャーニーを構築する基本を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334522?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
