@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
-workflow-type: ht
-source-wordcount: '588'
+source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+workflow-type: tm+mt
+source-wordcount: '490'
 ht-degree: 100%
 
 ---
@@ -20,25 +20,6 @@ ht-degree: 100%
 Journey Optimizer は、企業が顧客に対して、連続性がありコンテキストに沿う、パーソナライズされたエクスペリエンスを提供するのに役立ちます。カスタマージャーニーとは、顧客がブランドと最初に接触してからサイトを離れるまでの間にブランドとやり取りする過程全体のことです。
 
 このユーザーガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。
-
-<div id="whats-new-section">
-
-## 最新情報
-
-* **[条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)**
-  *条件ルールを作成および保存する方法と、それらの条件ルールをすべてのチャネルのコンテンツに適用する方法について説明します。*
-
-* **[アラートを使用](/help/administration/alerts.md)**
-  *予期しないジャーニー動作に対して事前定義済みのアラートを購読し、Journey Optimizer 内または API を使用して、メールで通知を受け取る方法について説明します。*
-
-* **[別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)**
-  *ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法について説明します。*
-
-* **[メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)**
-  *データマスキングとは何か、なぜデータマスクを行うのかを理解します。Journey Optimizer メッセージのデータマスクを行う方法を説明します。*
-
-</div>
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
