@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
+source-git-commit: ec5d79920c305ad77f042db845932a8b1671e65b
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 100%
+source-wordcount: '334'
+ht-degree: 98%
 
 ---
 
-# サミットラボ L731- チートシート
+# Summit Lab L731 — チートシート
 
 このページには、L731 Summit Lab で使用されているテキストとリンクが含まれています。 これらを使用して、コンテンツをコピーし、Journey Optimizerメッセージに貼り付けることができます。
 
@@ -167,7 +167,7 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 
 | フィールド | テキスト | リンク |
 |----|----|----|
-| キャンペーン名 | `<your seat number> Max Push Campaign` |  |
+| キャンペーン名 | **`<your seat number> Max Push Campaign`** |  |
 | タイトル | こんにちは |  |
 | 本文 | Adobe Max がラスベガスに戻ってくることをご存知ですか。今すぐ部屋を予約すると 10％ディスカウントになります。 |  |
 | メディア URL オプション |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
