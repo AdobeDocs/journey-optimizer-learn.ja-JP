@@ -9,9 +9,9 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: a447bd23478c2735642548ef573b627889becdf9
+source-git-commit: d53c2218ee69c81881b12dedc435826034a710e3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,17 @@ ht-degree: 0%
 
 ![Adobe Summit — 代替テキスト](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
+>[!IMPORTANT]
+>
+>セッションからソーシャルメディアに写真やスクリーンショットを投稿するのはお控えください。
+>
+>**Adobeの機密性**
+>本研究室で今日共有されている情報と製品開示は、Adobeの機密情報です。
+>参加者は、個人または団体に対し、秘密情報を複製、使用、普及、開示することはできません。
+>製品の開示は、情報提供のみを目的とし、将来の機能を保証するものではなく、いつでも変更される可能性があります。 したがって、このような製品の機能は、Adobeとの間での契約の一部ではなく、あるいは何らかの方法でお客様に約束されたものでもありません。
+>
+>**免責事項**
+>Adobeは、生成 AI テクノロジーを利用した機能への早期アクセスを提供します。 これらの機能はまだ開発中で、予期しない、または不正確な応答が発生する可能性があることに注意してください。 この機能を市場に投入する際に、皆様のご意見をお待ちしております。
 
 ## L820 - Adobe Journey Optimizerでパーソナライズされたモバイルモーメントを構築
 
