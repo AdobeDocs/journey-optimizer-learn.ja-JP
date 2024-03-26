@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
-source-git-commit: df3355648178bf049df2f672528e207b53c90f28
+exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
+source-git-commit: 5f1527824e63dc1c43cb0540b685160a8e71d66e
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 1%
 
 ---
-
 
 # レッスン 1 — エクスペリエンスフレスコパ
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 
 ## 演習 1.1 — アカウントを作成する
 
-1. 次に移動： [Fréscopa の Web サイト](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA5NjAyMzQzLCJleHAiOjE3MTE0MTY3NDN9.V3zEKnVL3vGpPqr_34XjnJ5PSYKApYviBE02zyBalsY){target="_blank"}
+1. 次に移動： [Fréscopa の Web サイト](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 1. Fréscopa のホームページで、 **[!UICONTROL ログイン]**.
 
@@ -117,7 +117,7 @@ Android で、次に示すアラート手順に従って、APK をダウンロ�
 
 ## 演習 1.3 - Web サイトとアプリを参照する
 
-の使用に慣れてください。 [Fréscopa の Web サイト](https://dsn.adobe.com/web/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA4NjQyNTU4LCJleHAiOjE3MTA0NTY5NTh9.m4N8Bs5ZB1jYbUSdl1B6MaYJvUiolIYI_T_TcR-xMfU){target="_blank"} およびモバイルアプリ。 AJO に実装され、インタラクションを通じてトリガーされる様々なアプリ内メッセージ、プッシュメッセージ、SMS メッセージを体験してください。
+の使用に慣れてください。 [Fréscopa の Web サイト](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}  およびモバイルアプリ。 AJO に実装され、インタラクションを通じてトリガーされる様々なアプリ内メッセージ、プッシュメッセージ、SMS メッセージを体験してください。
 
 以下に、試す必要がある点を示します。
 
