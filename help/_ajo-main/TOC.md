@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 1de848b430f61e93d6073d2db4cccca3dbe7676f
+source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 98%
+source-wordcount: '487'
+ht-degree: 96%
 
 ---
 
@@ -121,10 +121,11 @@ ht-degree: 98%
 + 演習と課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
    + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
-+ [Summit Lab](/help/summit-lab-731/l731-assets.md)
 + Experience League ライブ録画{#experience-league-live-recordings}
    + [Adobe Journey Optimizer での API トリガーによるメッセージ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja){target="_blank"}
    + [Adobe Journey Optimizer でモバイルアプリの可能性を最大化](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja){target="_blank"}
    + [意思決定管理で適切なオファーを適切なタイミングで提供](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ja){target="_blank"}
    + [Adobe Journey Optimizer でキャンペーンを実行](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ja){target="_blank"}
    + [Adobe Journey Optimizer でのプッシュ通知](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja){target="_blank"}
++ サミットラボ {#summit-labs}
+   + [Adobe Journey Optimizer(2024) でパーソナライズされたモバイルモーメントを構築](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
