@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
+last-substantial-update: 2024-03-26T00:00:00Z
+exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
-
 
 # LAB ワークブック
 
@@ -67,4 +67,3 @@ Fréscopa のビジネスの中心は、コーヒーのサブスクリプショ�
 Fréscopa のウェブサイトとモバイルアプリは、サブスクリプションサービスを補完し、コーヒー関連の製品の包括的な範囲を提供し、顧客がコーヒーの儀式を探索し、強化することができます。 醸造設備から職人用アクセサリーまで、フレスコパは品質と利便性を追求したコーヒー愛好家向けのワンストップショップを提供しています。
 
 Fréscopa の卓越性に対する取り組みは、シームレスで楽しいカスタマージャーニーの構築に尽力しているため、製品を超えて拡大しています。 革新的な技術と顧客中心のアプローチの組み合わせにより、Fréscopa は進化するコーヒー業界の最前線に位置しています。 要するに、Fréscopa は情熱と技術の融合を体現し、個人の経験やコーヒーの楽しみ方を再定義します。 品質、利便性、パーソナライズされたサービスに焦点を当てた Fréscopa は、コーヒー愛好家を招き、彼らの目の前に届く、味の旅に着手する。
-
