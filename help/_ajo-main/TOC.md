@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '487'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 96%
 + SMS チャネル{#sms-channel}
    + [SMS メッセージの設定、作成および配信](/help/channels/author-sms-messages.md)
    + [SMS の受信キーワードのサポート](/help/channels/inbound-keyword-support-for-sms.md)
-   + [SMS - Sinch および Infobip 用のダブルオプトイン](/help/channels/sms-double-opt-in.md)
+   + [SMS - Sinch と Infobip のダブルオプトイン](/help/channels/sms-double-opt-in.md)
 + Web チャネル {#web-channel}
    + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
    + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
@@ -128,4 +128,4 @@ ht-degree: 96%
    + [Adobe Journey Optimizer でキャンペーンを実行](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ja){target="_blank"}
    + [Adobe Journey Optimizer でのプッシュ通知](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja){target="_blank"}
 + サミットラボ {#summit-labs}
-   + [Adobe Journey Optimizer(2024) でパーソナライズされたモバイルモーメントを構築](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
