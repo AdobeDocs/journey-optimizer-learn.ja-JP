@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
-workflow-type: ht
-source-wordcount: '487'
+source-git-commit: e6b93c32b25c2976828d714ab7230c5cce14da51
+workflow-type: tm+mt
+source-wordcount: '482'
 ht-degree: 100%
 
 ---
@@ -60,8 +60,7 @@ ht-degree: 100%
 + プッシュチャネル{#push-channel}
    + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
 + SMS チャネル{#sms-channel}
-   + [SMS メッセージの設定、作成および配信](/help/channels/author-sms-messages.md)
-   + [SMS の受信キーワードのサポート](/help/channels/inbound-keyword-support-for-sms.md)
+   + [SMS メッセージを設定、作成および配信](/help/channels/author-sms-messages.md)
    + [SMS - Sinch と Infobip のダブルオプトイン](/help/channels/sms-double-opt-in.md)
 + Web チャネル {#web-channel}
    + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
