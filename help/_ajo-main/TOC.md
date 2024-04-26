@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: e6b93c32b25c2976828d714ab7230c5cce14da51
+source-git-commit: e1b7bd76b1f496b5f43f39004d393739f3e1e0c2
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 100%
+source-wordcount: '487'
+ht-degree: 98%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
+   + [新しいジャーニーデザイナーを見つける](/help/create-journeys/new-journey-designer.md)
    + [ジャーニーキャンバスの概要](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
    + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
