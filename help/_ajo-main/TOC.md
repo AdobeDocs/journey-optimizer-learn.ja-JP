@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 42e7d88fa169980445d537a85681858675023620
+source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 96%
+source-wordcount: '517'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 96%
 + キャンペーン {#create-campaigns}
    + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
    + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
-   + [Web キャンペーンを作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=ja)
+   + [プッシュキャンペーンの設定と送信](/help/create-campaigns/push-campaign.md)
+   + [Web キャンペーンの作成](/help/create-campaigns/web-campaign.md)
+   + [コードベースのエクスペリエンスキャンペーンを作成](/help/create-campaigns/code-based-experience.md)
    + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
@@ -51,6 +53,8 @@ ht-degree: 96%
    + [フラグメントの管理、作成、使用](/help/content-management/manage-author-use-fragments.md)
    + [式フラグメントの作成と使用](/help/content-management/expression-fragments.md)
    + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
++ コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
+   + [コードベースのエクスペリエンスキャンペーンを作成](/help/channels/create-a-code-based-experience-campaign.md)
 + ダイレクトメールチャネル{#direct-mail-channel}
    + [ダイレクトメールチャネル](/help/channels/direct-mail.md)
 + アプリ内チャネル{#in-app-channel}
@@ -62,7 +66,7 @@ ht-degree: 96%
    + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
 + SMS チャネル{#sms-channel}
    + [SMS メッセージを設定、作成および配信](/help/channels/author-sms-messages.md)
-   + [MMS のオーサリング](/help/channels/author-mms.md)
+   + [MMS メッセージの作成](/help/channels/author-mms.md)
    + [SMS - Sinch と Infobip のダブルオプトイン](/help/channels/sms-double-opt-in.md)
 + Web チャネル {#web-channel}
    + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
