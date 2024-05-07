@@ -1,6 +1,6 @@
 ---
-title: 新しいジャーニーデザイナーを見つける
-description: 新しく設計し直されたジャーニーキャンバスと、ジャーニーでライブレポートを活用する方法を確認します。
+title: 新しいジャーニーデザイナーについて
+description: 新しく再設計されたジャーニーキャンバスと、ジャーニーでライブレポートを活用する方法について説明します。
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -12,14 +12,14 @@ hidefromtoc: false
 hide: false
 exl-id: e481336c-eaf2-4fbc-8803-9ba109559dd4
 source-git-commit: 017a2cf5b4ec44f1adfe3d1f7c970e673c216ec9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# 新しいジャーニーデザイナーを見つける
+# 新しいジャーニーデザイナーについて
 
-新しく設計し直されたジャーニーキャンバスと、ジャーニーでライブレポートを活用する方法を確認します。
+新しく再設計されたジャーニーキャンバスと、ジャーニーでライブレポートを活用する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
