@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 94%
    + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
    + [プッシュキャンペーンの設定と送信](/help/create-campaigns/push-campaign.md)
    + [Web キャンペーンの作成](/help/create-campaigns/web-campaign.md)
-   + [コードベースのエクスペリエンスキャンペーンを作成](/help/create-campaigns/code-based-experience.md)
+   + [コードベースエクスペリエンスキャンペーンの作成](/help/create-campaigns/code-based-experience.md)
    + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
@@ -54,7 +54,7 @@ ht-degree: 94%
    + [式フラグメントの作成と使用](/help/content-management/expression-fragments.md)
    + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
 + コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
-   + [コードベースのエクスペリエンスキャンペーンを作成](/help/channels/create-a-code-based-experience-campaign.md)
+   + [コードベースエクスペリエンスキャンペーンの作成](/help/channels/create-a-code-based-experience-campaign.md)
 + ダイレクトメールチャネル{#direct-mail-channel}
    + [ダイレクトメールチャネル](/help/channels/direct-mail.md)
 + アプリ内チャネル{#in-app-channel}
