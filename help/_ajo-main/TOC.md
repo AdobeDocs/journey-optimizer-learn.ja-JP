@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
+source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 100%
+source-wordcount: '525'
+ht-degree: 99%
 
 ---
 
@@ -45,33 +45,34 @@ ht-degree: 100%
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
-+ メールチャネル{#email-channel}
-   + [E メールデザイナーでコンテンツを作成](/help/channels/create-content-with-the-email-designer.md)
-   + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
-   + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
-   + [コンテンツテンプレート](/help/channels/content-templates.md)
-   + [フラグメントの管理、作成、使用](/help/content-management/manage-author-use-fragments.md)
-   + [式フラグメントの作成と使用](/help/content-management/expression-fragments.md)
-   + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
-+ コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
-   + [コードベースエクスペリエンスキャンペーンの作成](/help/channels/create-a-code-based-experience-campaign.md)
-+ ダイレクトメールチャネル{#direct-mail-channel}
-   + [ダイレクトメールチャネル](/help/channels/direct-mail.md)
-+ アプリ内チャネル{#in-app-channel}
-   + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
-   + [ジャーニーでアプリ内メッセージを作成](/help/channels/create-an-in-app-message-in-a-journey.md)
-   + [アプリ内メッセージを作成](/help/channels/author-in-app-messages.md)
-   + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ プッシュチャネル{#push-channel}
-   + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
-+ SMS チャネル{#sms-channel}
-   + [SMS メッセージを設定、作成および配信](/help/channels/author-sms-messages.md)
-   + [MMS メッセージの作成](/help/channels/author-mms.md)
-   + [SMS - Sinch と Infobip のダブルオプトイン](/help/channels/sms-double-opt-in.md)
-+ Web チャネル {#web-channel}
-   + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
-   + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
-   + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
++ チャネル {#channels}
+   + コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
+      + [コードベースエクスペリエンスキャンペーンの作成](/help/channels/create-a-code-based-experience-campaign.md)
+   + ダイレクトメールチャネル{#direct-mail-channel}
+      + [ダイレクトメールチャネル](/help/channels/direct-mail.md)
+   + メールチャネル{#email}
+      + [E メールデザイナーでコンテンツを作成](/help/channels/create-content-with-the-email-designer.md)
+      + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
+      + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
+      + [コンテンツテンプレート](/help/channels/content-templates.md)
+      + [フラグメントの管理、作成、使用](/help/content-management/manage-author-use-fragments.md)
+      + [式フラグメントの作成と使用](/help/content-management/expression-fragments.md)
+      + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
+   + アプリ内チャネル{#in-app-channel}
+      + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
+      + [ジャーニーでアプリ内メッセージを作成](/help/channels/create-an-in-app-message-in-a-journey.md)
+      + [アプリ内メッセージを作成](/help/channels/author-in-app-messages.md)
+      + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + プッシュチャネル{#push-channel}
+      + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
+   + SMS チャネル{#sms-channel}
+      + [SMS メッセージを設定、作成および配信](/help/channels/author-sms-messages.md)
+      + [MMS メッセージの作成](/help/channels/author-mms.md)
+      + [SMS - Sinch と Infobip のダブルオプトイン](/help/channels/sms-double-opt-in.md)
+   + Web チャネル {#web-channel}
+      + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
+      + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
+      + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
