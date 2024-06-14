@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: b48fa701b3291e0d6347d5e86110801a0a9aa1ff
+source-git-commit: 93feb322403ee343686d901576a6c70b1a08287a
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 99%
+source-wordcount: '532'
+ht-degree: 98%
 
 ---
 
@@ -40,7 +40,8 @@ ht-degree: 99%
    + [ユースケース - オーディエンスの選定](/help/create-journeys/use-case-audience-qualification.md)
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
-   + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
+   + [ライブジャーニーのコンテンツを更新](/help/create-journeys/update-content-in-live-journey.md)
+   + [別のサンドボックスへジャーニーをコピー](/help/create-journeys/copy-a-journey.md)
 + プロファイル、オーディエンス、および購読 {#profiles-audiences-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
