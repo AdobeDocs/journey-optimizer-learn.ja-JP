@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
-workflow-type: ht
-source-wordcount: '533'
-ht-degree: 100%
+source-git-commit: 3c32d6ade8353c7533d6d84f5c64325b9a2d778e
+workflow-type: tm+mt
+source-wordcount: '539'
+ht-degree: 98%
 
 ---
 
@@ -108,6 +108,7 @@ ht-degree: 100%
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
    + [CSV 形式でのレポートの書き出し](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [アラートを使用](/help/administration/alerts.md)
+   + [Customer Journey Analyticsによるレポート機能の強化](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
    + チャネルの設定 {#channel-configuration}
       + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
