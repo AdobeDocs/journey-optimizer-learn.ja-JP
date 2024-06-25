@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '533'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 98%
    + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
    + [プッシュキャンペーンの設定と送信](/help/create-campaigns/push-campaign.md)
    + [Web キャンペーンの作成](/help/create-campaigns/web-campaign.md)
-   + [コードベースのエクスペリエンスキャンペーンの作成](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+   + [コードベースのエクスペリエンスキャンペーンの作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
@@ -40,8 +40,8 @@ ht-degree: 98%
    + [ユースケース - オーディエンスの選定](/help/create-journeys/use-case-audience-qualification.md)
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
-   + [ライブジャーニーのコンテンツを更新](/help/create-journeys/update-content-in-live-journey.md)
-   + [別のサンドボックスへジャーニーをコピー](/help/create-journeys/copy-a-journey.md)
+   + [ライブジャーニーのコンテンツの更新](/help/create-journeys/update-content-in-live-journey.md)
+   + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
 + プロファイル、オーディエンス、および購読 {#profiles-audiences-subscriptions}
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
