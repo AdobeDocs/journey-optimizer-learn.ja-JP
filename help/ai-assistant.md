@@ -1,17 +1,16 @@
 ---
 title: AI アシスタント
 description: Real-time Customer Data Platform、Journey Optimizer、Customer Journey AnalyticsなどのAdobe Experience Platform ベースのアプリケーションで AI アシスタントを使用して実行できることを説明します。
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature: Overview
 role: Admin, Developer, User
 level: Beginner
 doc-type: Feature Video
 duration: 143
-last-substantial-update: 2024-06-27
+last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15789
-source-git-commit: 823ba83b03a2886a755f0e475c39931f08c76fb2
+source-git-commit: cc8e8c48a35f86585dea99a5f991517f41b4a43b
 workflow-type: tm+mt
-source-wordcount: 83
+source-wordcount: '83'
 ht-degree: 6%
 
 ---
