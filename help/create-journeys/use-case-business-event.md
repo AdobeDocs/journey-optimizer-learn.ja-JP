@@ -1,23 +1,24 @@
 ---
-title: 使用例 - ビジネスイベント
-description: ビジネスイベントに適用できる使用例を理解します。ビジネスイベントを使用したジャーニーの構築方法と、適用するベストプラクティスについて説明します。
-jira: KT-7702
-thumbnail: 334234.jpg
+title: ユースケース：ビジネスイベント
+description: Journey Optimizerでビジネスイベントを使用する方法について説明します。 ジャーニーでビジネスイベントのデータを使用して、パーソナライズされたメッセージングで利用する方法を説明します。
 feature: Journeys
-doc-type: feature video
-team: PM
 role: User
 level: Beginner
+doc-type: Feature Video
+duration: 250
+last-substantial-update: 2024-06-28T00:00:00Z
+jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 6eba4838f70e8f7b8b2192eeb6255ac2b50ce1e2
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
-# 使用例 - ビジネスイベント
 
-ビジネスイベントに適用できる使用例を理解します。ビジネスイベントを使用したジャーニーの構築方法と、適用するベストプラクティスについて説明します。
+# ユースケース：ビジネスイベント
 
->[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12&learn=on){transcript=true}
+Journey Optimizerでビジネスイベントを使用する方法について説明します。 ビジネスイベントを使用すると、ブランドは、ニュース記事に新しいコンテンツが含まれたときに購読者に通知したり、スポーツイベント中にコミュニケーションを送信したりするなど、人物以外に関連するイベントに基づいてジャーニーをトリガーに設定できます。 ジャーニーでビジネスイベントのデータを使用して、パーソナライズされたメッセージングで利用する方法を説明します。
+
+>[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
