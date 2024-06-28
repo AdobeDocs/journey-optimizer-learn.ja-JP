@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 823ba83b03a2886a755f0e475c39931f08c76fb2
+source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 97%
+source-wordcount: '562'
+ht-degree: 95%
 
 ---
 
@@ -75,7 +75,11 @@ ht-degree: 97%
       + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
-+ [Assets Essentials](/help/assets-essentials-overview.md)
++ コンテンツ管理{#content-management}
+   + [Assetsの管理](/help/assets-essentials-overview.md)
+   + [式フラグメントの作成と使用](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [メール用のコンテンツ実験の設定](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
+   + [多言語メッセージの設定](/help/content-management/set-up-multilingual-messages.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
