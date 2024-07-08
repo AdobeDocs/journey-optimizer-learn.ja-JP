@@ -1,8 +1,8 @@
 ---
 source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 # AJO スニペット
@@ -31,5 +31,5 @@ Experience League ライブ：
 
 >[!NOTE]
 >
->この機能は現在、一連の組織でのみ使用できます（使用制限あり）。 アクセスするには、アドビ担当者にお問い合わせください。
+>この機能は現在、一連の組織でのみ使用できます（限定提供）。アクセスするには、アドビ担当者にお問い合わせください。
 

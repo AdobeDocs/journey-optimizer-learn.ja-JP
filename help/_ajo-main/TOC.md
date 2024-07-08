@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '556'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
    + [アーキテクチャ](/help/introduction/architecture.md)
    + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
-   + [AI アシスタントのヘルプ](/help/ai-assistant.md)
+   + [AI アシスタントに関するお問い合わせ](/help/ai-assistant.md)
 + キャンペーン {#create-campaigns}
    + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
    + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
@@ -76,8 +76,8 @@ ht-degree: 95%
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
 + コンテンツ管理{#content-management}
-   + [Assetsの管理](/help/assets-essentials-overview.md)
-   + [式フラグメントの作成と使用](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [アセットの管理](/help/assets-essentials-overview.md)
+   + [式フラグメントの作成と使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
    + [多言語メッセージの設定](/help/content-management/set-up-multilingual-messages.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -112,7 +112,7 @@ ht-degree: 95%
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
    + [CSV 形式でのレポートの書き出し](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [アラートを使用](/help/administration/alerts.md)
-   + [Customer Journey Analyticsによるレポート機能の強化](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [Customer Journey Analytics によるレポートの強化](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
    + チャネルの設定 {#channel-configuration}
       + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)

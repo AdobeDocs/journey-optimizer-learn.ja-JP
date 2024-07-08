@@ -1,6 +1,6 @@
 ---
-title: Customer Journey Analyticsによるレポート機能の強化
-description: Customer Journey Analyticsを活用したレポートおよびオーケストレーション測定機能は、Adobe Journey Optimizerで利用できます。 Journey Optimizerのこれらの機能強化には、追加のデータソース、高度なカスタマイズ、データ操作、分析などを通じて、相互運用性の向上やCustomer Journey Analyticsによる価値の拡張も含まれています。
+title: Customer Journey Analytics によるレポートの強化
+description: Adobe Journey Optimizer では、Customer Journey Analytics を活用したレポートとオーケストレーション測定機能が使用できます。Journey Optimizer のこれらの機能強化には、追加のデータソース、高度なカスタマイズ、データ操作、分析などを通じて、Customer Journey Analytics との相互運用性が向上し、価値が拡張されることも含まれます。
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -9,16 +9,16 @@ duration: 22500
 last-substantial-update: 2024-06-24T00:00:00Z
 jira: KT-15774
 source-git-commit: 579850b26c710520765d9cc3341da7194d112ec4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Customer Journey Analyticsによるレポート機能の強化
+# Customer Journey Analytics によるレポートの強化
 
-Customer Journey Analyticsを活用したレポートおよびオーケストレーション測定機能は、Adobe Journey Optimizerで利用できます。 Journey Optimizerのこれらの機能強化には、追加のデータソース、高度なカスタマイズ、データ操作、分析などを通じて、相互運用性の向上やCustomer Journey Analyticsによる価値の拡張も含まれています。
-詳細なドキュメントについては、 [新しいレポートインターフェイスの概要](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channel-report/report-gs-cja).
+Adobe Journey Optimizer では、Customer Journey Analytics を活用したレポートとオーケストレーション測定機能が使用できます。Journey Optimizer のこれらの機能強化には、追加のデータソース、高度なカスタマイズ、データ操作、分析などを通じて、Customer Journey Analytics との相互運用性が向上し、価値が拡張されることも含まれます。
+ドキュメントについて詳しくは、[新しいレポートインターフェイスの基本を学ぶ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channel-report/report-gs-cja)を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
