@@ -1,6 +1,6 @@
 ---
 title: 多言語メッセージの設定
-description: Adobe Journey Optimizer で手動翻訳と自動翻訳用の多言語メッセージを設定する方法について説明します。  
+description: 自動翻訳の翻訳プロジェクトを設定する方法と、多言語メッセージの手動翻訳および自動翻訳プロジェクトに必要な言語設定について説明します。
 feature: Multilingual Content
 role: Admin
 level: Beginner
@@ -9,10 +9,10 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 2233210765082361d33be8d01317ebf0afcd27dd
+source-git-commit: 28cdf4939f12b981e2c3953814ca3ca612cdbe9d
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 68%
 
 ---
 
