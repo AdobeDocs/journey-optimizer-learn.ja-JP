@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
+source-git-commit: 45a973fa9700abbf254573906d5778ded9483316
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 98%
+source-wordcount: '550'
+ht-degree: 97%
 
 ---
 
@@ -56,9 +56,6 @@ ht-degree: 98%
       + [E メールデザイナーでコンテンツを作成](/help/channels/create-content-with-the-email-designer.md)
       + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
       + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
-      + [コンテンツテンプレート](/help/channels/content-templates.md)
-      + [フラグメントの管理、作成、使用](/help/content-management/manage-author-use-fragments.md)
-      + [式フラグメントの作成と使用](/help/content-management/expression-fragments.md)
       + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
    + アプリ内チャネル{#in-app-channel}
       + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
@@ -77,7 +74,9 @@ ht-degree: 98%
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
 + コンテンツ管理{#content-management}
    + [アセットの管理](/help/assets-essentials-overview.md)
-   + [式フラグメントの作成と使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [コンテンツテンプレートの管理](/help/content-management/content-templates.md)
+   + [フラグメントを管理](/help/content-management/manage-fragments.md)
+   + [式フラグメントの作成](/help/content-management/expression-fragments.md)
    + [多言語メッセージの設定](/help/content-management/set-up-multilingual-messages.md)
    + [多言語メッセージの作成](/help/content-management/create-multilingual-messages.md)
 + コンテンツのパーソナライズ {#personalize-content}
