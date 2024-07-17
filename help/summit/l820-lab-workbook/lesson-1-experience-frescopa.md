@@ -1,5 +1,5 @@
 ---
-title: レッスン 1 — エクスペリエンスフレスコパ
+title: レッスン 1:Fréscopa の使用
 description: Fréscopa の Web サイトで様々なシナリオを体験してください。
 feature: Push, In App
 role: User
@@ -17,61 +17,61 @@ ht-degree: 1%
 
 ---
 
-# レッスン 1 — エクスペリエンスフレスコパ
+# レッスン 1:Fréscopa の使用
 
-このレッスンでは、次のレッスンでモバイルエクスペリエンスをマーケターとして設定する前に、消費者としてブランドとのインタラクションを体験します。
+このレッスンでは、以下のレッスンでマーケターとしてのモバイルエクスペリエンスを設定する前に、消費者としてのブランドとのインタラクションを体験します。
 
-## 学習内容
+## 学習目標
 
 * Fréscopa でアカウントを作成します。
 * モバイルアプリをダウンロードしてインストールします。
 * Fréscopa の Web サイトで様々なシナリオを体験してください。
-* Fréscopa アプリで様々なシナリオを体験してください。
+* Fréscopa アプリでさまざまなシナリオを体験してください。
 
-## 演習 1.1 — アカウントを作成する
+## 演習 1.1 - アカウントの作成
 
-1. 次に移動： [Fréscopa の Web サイト](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+1. [Fréscopa web サイト ](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"} に移動します。
 
-1. Fréscopa のホームページで、 **[!UICONTROL ログイン]**.
+1. Fréscopa ホームページで、「**[!UICONTROL ログイン]**」をクリックします。
 
-   ![Fréscopa ホームページ](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa ホームページ")
+   ![Fréscopa homepage](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
 
-1. ログインページで、「 」を選択します。 **[!UICONTROL アカウントの作成]**.
+1. ログインページで、「**[!UICONTROL アカウントを作成]**」を選択します。
 
-   ![Fréscopa のログインページ](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "フレスコーパのログイン")
+   ![Fréscopa サインイン ページ ](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa サインイン ")
 
-1. 次のページで、次の内容を入力します。
+1. 次のページで、詳細を入力します。
 
-   1. を追加します。 **名** および **姓**.
+   1. **名** と **姓** を追加します。
 
-   1. を入力します。 **電子メールアドレス** ラボ内でアクセスできる
+   1. ラボ中にアクセスできる **メールアドレス** を入力します。
 
       >[!IMPORTANT]
-      > 登録した電子メールアドレスと、ラボで電子メールアカウントにアクセスできることを忘れないでください。 Web サイトとアプリにログインするには、これが必要です。
+      > 登録したメールアドレスと、ラボ中にメールアカウントにアクセスできることを忘れないでください。 これは、web サイトとアプリにログインするために必要です。
 
-   1. ラボで作成した SMS メッセージを受信するには、 **携帯電話番号**（国コードを含む）
+   1. ラボで作成した SMS メッセージを受信するには、国コードを含めて **携帯電話番号** を入力します。
 
       例：`+14502741234`
 
-   1. を入力します。 **住所** および **市区町村**.
+   1. **番地** および **市区町村** を入力します。
 
-   1. を入力します。 **座席番号**. （ラボマシンのデスクトップで見つけることができます）。
+   1. **シート番号** を入力します。 （ラボマシンのデスクトップで見つけることができます）。
 
-      ![Lab Machine Desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+      ![ ラボマシンデスクトップ ](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 
-   1. Fréscopa マシンを使用しているかどうかを指定するには、次のいずれかを選択します。 **はい** または **いいえ**.
+   1. Fréscopa マシンを使用するかどうかを指定するには、[ はい ] または **いいえ** を選択 **ま**。
 
-1. クリック **登録**.
+1. **登録** をクリックします。
 
-   ![フレスコーパ登録ページ](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
+   ![Fréscopa 登録ページ ](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
-## 演習 1.2 - Fréscopa アプリをダウンロードしてインストールする
+## 演習 1.2 - Fréscopa アプリのダウンロードとインストール
 
-登録時に受け取ったメッセージまたは以下のページから QR コードをスキャンして、iOSまたは Android™デバイスにモバイルアプリをインストールします。
+登録時に表示されるメッセージまたは以下から QR コードをスキャンして、iOSまたはAndroid™ デバイスにモバイルアプリをインストールします。
 
-![Fréscopa モバイルアプリの QR コード](/help/summit/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa モバイルアプリの QR コード")
+![Fréscopa モバイルアプリ QR コード ](/help/summit/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa モバイルアプリ QR コード ")
 
-デバイス固有のインストール：
+デバイス固有インストール：
 
 >[!BEGINTABS]
 
@@ -79,77 +79,77 @@ ht-degree: 1%
 
 ### iOS：
 
-アプリをインストールした後は、エンタープライズAdobeの開発者を信頼する必要があります。
+アプリケーションをインストールした後、Adobeの Enterprise Developer を信頼する必要があります。
 
-1. に移動します。 **設定** > **一般** > **VPN とデバイスの管理**.
+1. **設定**/**一般**/**VPN とデバイスの管理** に移動します。
 
-   ![デバイス管理設定画面](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "デバイス管理設定画面"){width="250" align="center" zoomable="yes"}
+   ![ デバイス管理設定画面 ](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG " デバイス管理設定画面 "){width="250" align="center" zoomable="yes"}
 
-1. 選択 **Adobe Systems Inc** および **Trust Adobe Systems Inc**.
+1. **Adobe Systems Inc** および **Trust Adobe Systems Inc** を選択します。
 
-   ![Adobe Systems選択画面](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems選択画面"){width="250" align="center" zoomable="yes"}
+   ![Adobe Systems選択画面 ](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems選択画面 "){width="250" align="center" zoomable="yes"}
    <br>
 
-   ![Trust Adobe Systems画面](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+   ![Adobe Systemsを信頼する画面 ](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * これで、 **Fréscopa アプリ** IPHONE: ![Fréscopa アプリアイコン](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   * これで、iPhoneで **Fréscopa アプリ** を起動できるようになります。![Fréscopa アプリアイコン ](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
 1. アプリを開きます。
 
-1. ポップアップで、 **許可**:DX Demo アプリから通知を送信できるようにします。
+1. ポップアップで「**許可**」をクリックし、DX デモアプリから通知を送信できるようにします。
 
-   ![通知ポップアップ](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
+   ![ 通知ポップアップ ](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
 ### Android
 
-Android で、次に示すアラート手順に従って、APK をダウンロードしてインストールします。
+Androidで、次に示す警告手順に従って、APK をダウンロードしてインストールします。
 
-![Android ダウンロード画面](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android ダウンロード画面"){width="250" align="center" zoomable="yes"}
+![Androidのダウンロード画面 ](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Androidのダウンロード画面 "){width="250" align="center" zoomable="yes"}
 <br>
-![Android のインストール画面](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Androidのインストール画面 ](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* これで、 **Fréscopa アプリ** お使いの Android デバイスで、以下の手順を実行します。 ![Fréscopa アプリアイコン](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+* これで、Android デバイスで **Fréscopa アプリ** を起動できるようになります。![Fréscopa アプリアイコン ](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
-## 演習 1.3 - Web サイトとアプリを参照する
+## 演習 1.3 - Web サイトとアプリを探索する
 
-の使用に慣れてください。 [Fréscopa の Web サイト](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}  およびモバイルアプリ。 AJO に実装され、インタラクションを通じてトリガーされる様々なアプリ内メッセージ、プッシュメッセージ、SMS メッセージを体験してください。
+[Fréscopa web サイト ](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"} およびモバイルアプリについて確認します。 AJOに実装され、インタラクションを通じてトリガーされる、様々なアプリ内、プッシュおよび SMS メッセージを体験します。
 
-以下に、試す必要がある点を示します。
+試してみる必要があるものは次のとおりです。
 
-Web サイト上：
+Web サイトで：
 
-* ログイン。
-* Web サイトを参照して、Web のアプリ内メッセージをトリガーします。
-* 買い物かごに品目を追加します。
-* 買い物かごを確認します。
+* ログインします。
+* Web サイトを参照して、web のアプリ内メッセージをトリガーします。
+* 買い物かごにアイテムを追加します。
+* 買い物かごをチェックアウトします。
 
-モバイルアプリケーションでは、次の操作をおこないます。
+モバイルアプリケーションで：
 
-* ログイン。
-* アプリを参照して、モバイルのトリガー内エクスペリエンスを設定します。
-   * コーヒーのアンケートを完了します。
-   * コーヒーのサブスクリプションに登録します。
-   * 買い物かごに品目を追加します。
-   * 買い物かごを確認します。
+* ログインします。
+* アプリを参照して、モバイルのアプリ内エクスペリエンスをトリガーにします。
+   * コーヒー調査を完了します。
+   * コーヒーのサブスクリプションにサインアップします。
+   * 買い物かごにアイテムを追加します。
+   * 買い物かごをチェックアウトします。
 
-これらの各アクティビティに対してバッジを受け取ります。
+これらの各アクティビティのバッジを受け取ります。
 
 >[!SUCCESS]
->ステータスの確認：
+>ステータスを確認します。
 >
->Frescopa のホームページで、 **Adobe Summitラボの課題の進行状況** （ページの下部）をクリックします。
+>Frescopa ホームページで、**Adobe Summitラボチャレンジの進捗状況** （ページ下部）をクリックします。
 > 
->  ![チャレンジの進行状況ボタン](/help/summit/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
+>  ![ チャレンジ進行状況ボタン ](/help/summit/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
 >
 > 獲得したバッジを確認できます。
 > 
 > ![バッジ](/help/summit/l820-lab-workbook/assets/1-3-badges.png)
 
-次のレッスンでは、Adobe Journey Optimizerでモバイルエクスペリエンスと Web エクスペリエンスを作成する方法を学びます。
+次のレッスンでは、Adobe Journey Optimizerでモバイルと web エクスペリエンスを作成する方法を学びます。
 
 [def]: /help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG

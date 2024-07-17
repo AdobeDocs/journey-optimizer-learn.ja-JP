@@ -16,7 +16,7 @@ ht-degree: 98%
 
 ---
 
-# Summit Lab L731 — チートシート
+# Summit Lab L731 - チートシート
 
 このページには、L731 Summit Lab で使用されているテキストとリンクが含まれています。 これらを使用して、コンテンツをコピーし、Journey Optimizerメッセージに貼り付けることができます。
 

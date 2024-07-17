@@ -14,7 +14,7 @@ hide: true
 badgeBeta: label="ベータ版" type="Informative"
 exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
 source-git-commit: 7e8c682b4c7163e659e2cdee62ea05d14d4db7d9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 

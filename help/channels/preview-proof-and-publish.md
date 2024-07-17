@@ -1,6 +1,6 @@
 ---
 title: プレビュー、配達確認、公開
-description: Litmus を使用して受信ボックス間の E メールのレンダリングをテストする方法、テストプロファイルに対してパーソナライズされた E メールをプレビューする方法、配達確認を送信する方法、E メールを公開する方法を説明します。
+description: Litmus を使用してインボックスをまたぐメールのレンダリングをテストする方法や、テストプロファイルに合わせてパーソナライズされたメールをプレビューし、配達確認を送信し、メールを公開する方法について説明します。
 jira: KT-7533
 thumbnail: 3425026.jpeg
 feature: Email Design, Email Rendering
@@ -13,12 +13,12 @@ exl-id: 01c15f13-a804-45c3-94b0-ecd46586cc4f
 source-git-commit: 16bc4b8153ba55183f7ef5bda112b636e95632ca
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 # プレビュー、配達確認、公開
 
-Litmus を使用して受信ボックス間の E メールのレンダリングをテストする方法、テストプロファイルに対してパーソナライズされた E メールをプレビューする方法、配達確認を送信する方法、E メールを公開する方法を説明します。
+Litmus を使用してインボックスをまたぐメールのレンダリングをテストする方法や、テストプロファイルに合わせてパーソナライズされたメールをプレビューし、配達確認を送信し、メールを公開する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}

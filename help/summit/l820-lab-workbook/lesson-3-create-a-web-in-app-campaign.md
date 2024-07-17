@@ -30,19 +30,19 @@ ht-degree: 2%
 
 この演習では、キャンペーンを作成し、アプリ内メッセージを表示する web ページを定義します。
 
-1. Journey Optimizerの左側のナビゲーションの下の **ジャーニー管理** 選択 **キャンペーン**.
+1. Journey Optimizerの左側のナビゲーションの「**ジャーニー管理」で** 「**キャンペーン**」を選択します。
 
-1. クリック **キャンペーンを作成**.
+1. **キャンペーンを作成** をクリックします。
 
-   ![キャンペーンを作成](/help/summit/l820-lab-workbook/assets/4-1-create-campaign.png)
+   ![ キャンペーンを作成 ](/help/summit/l820-lab-workbook/assets/4-1-create-campaign.png)
 
-1. 日 **キャンペーンを作成** ページ （内） **アクション** セクションで、 **アプリ内メッセージ** チェックボックスをオンにします。
+1. **キャンペーンを作成** ページの「**アクション**」セクションで、「**アプリ内メッセージ**」チェックボックスを選択します。
 
-1. から **送信先** ドロップダウン、選択 **Web。**
+1. **送信先** ドロップダウンから「**Web**」を選択します。
 
-1. 次の URL を入力します。 **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *これは、メッセージが表示される web ページです。*
+1. 次の URL を入力してください：**https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *メッセージが表示される Web ページです。*
 
-   ![アプリ内 URL](/help/summit/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![ アプリ内 URL](/help/summit/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
 
@@ -50,9 +50,9 @@ ht-degree: 2%
 
 このページでは、キャンペーンのプロパティと、アプリ内メッセージをトリガーして web ページに表示するイベントを定義します。 その他の設定はすべてデフォルトのままにします。 この演習では、特定のオーディエンスを定義する必要はありません。
 
-### 3.2.1 [!UICONTROL プロパティセクション]
+### 3.2.1 [!UICONTROL  プロパティセクション ]
 
-1. が含まれる **プロパティ** セクションで、キャンペーンに一意を指定する **名前**:
+1. 「**プロパティ**」セクションで、キャンペーンに一意の **名前** を付けます。
 
    >[!NOTE]
    > 簡単に行えるように、シート番号から名前を始めてください
@@ -60,30 +60,30 @@ ht-degree: 2%
    > 
    > 例えば、シート番号が 99 の場合： 
    >
-   > ![プロパティ名](/help/summit/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![ プロパティ名 ](/help/summit/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 カスタムトリガールールの設定
 
 このセクションでは、Web サイトに表示するメッセージのトリガーを定義します。 メッセージを自分専用に送信できる一意のトリガーを定義します。
 
-1. にスクロール ダウンします。 **[!UICONTROL トリガーセクション]**&#x200B;を選択し、 **[!UICONTROL トリガーを編集]**.
+1. 「**[!UICONTROL トリガー」セクションまでスクロールし]** 「**[!UICONTROL トリガーを編集]** をクリックします。
 
-   ![変更](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![ 変更 ](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
-1. ルールビルダーで、 **[!UICONTROL アプリケーションの起動]** およびドロップダウンから  *Platform にデータを送信済み*.
-   ![トリガーイベントドロップダウン](/help/summit/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+1. ルールビルダーで「**[!UICONTROL アプリケーションの起動]**」をクリックし、ドロップダウンから「*Platform にデータを送信*」を選択します。
+   ![トリガーイベントドロップダウン ](/help/summit/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
-1. 「」をクリックして条件を追加 **[!UICONTROL +条件を追加]**.
+1. 「**[!UICONTROL +条件を追加]**」をクリックして条件を追加します。
 
-   ![「条件を追加」ボタン](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![ 条件を追加ボタン ](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
-1. から **[!UICONTROL 特性を選択]** ドロップダウンで次を選択 **[!UICONTROL XDM イベントタイプ]**.
+1. **[!UICONTROL 特性を選択]** ドロップダウンから、「**[!UICONTROL XDM イベントタイプ]**」を選択します。
 
-   ![XDM イベントタイプ](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM イベントタイプ ](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
-1. 次のテキストフィールドに、 *`<custom string value>`* あなたが覚えていること、そして押す **[!UICONTROL 追加]** `<custom string value>` 値を保存します。
+1. 次のテキストフィールドに、覚えやすい *`<custom string value>`* を追加し、**[!UICONTROL 追加]** `<custom string value>` キーを押して値を保存します。
 
    このカスタム文字列値は、後でメッセージを発生させるために使用されます。
 
@@ -93,48 +93,48 @@ ht-degree: 2%
    > 例：`99web`
    > 
 
-   ![カスタムトリガー文字列値を追加](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![ カスタムトリガー文字列値を追加 ](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
-1. を押します。 **[!UICONTROL 完了]** 右上の「」ボタン。
+1. 右上の **[!UICONTROL 完了]** ボタンを押します。
 
 >[!SUCCESS]
 >
 >これで、カスタムのトリガーイベントを使用して web アプリ内メッセージを定義しました。
 >
->![カスタムトリガーが定義された web キャンペーン](/help/summit/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>![ カスタムトリガーが定義された web キャンペーン ](/help/summit/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3 アプリ内メッセージのコンテンツの編集
 
 この節では、メッセージのコンテンツ、デザイン、レイアウトを定義します。
 
-1. 「」をクリックします **コンテンツを編集** のボタン **アクション** オーサリング構造にアクセスするには、「」セクションをクリックします。
+1. 「**アクション**」セクションの「**コンテンツを編集**」ボタンをクリックして、オーサリング構造にアクセスします。
 
-   ![コンテンツを編集ボタン](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+   ![ コンテンツを編集ボタン ](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. オーサリングプロセスは、上記のモバイルのアプリ内演習で完了したプロセスと同じです。 自分のタイトル、本文、メディアコンテンツを使用して、メッセージを自由に編集する時間を取ります。
 
-   モーダルまたはフルスクリーンレイアウトを使用する場合は、ボタンを追加できます。 この URL を使用して製品ページを開くことができます。 **https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_**
+   モーダルまたはフルスクリーンレイアウトを使用する場合は、ボタンを追加できます。 この URL を使用して製品ページを開くことができます：**https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_**
 
-1. メッセージの編集が完了したら、 **[!UICONTROL アクティブ化するレビュー]**.
+1. メッセージの編集が完了したら、「**[!UICONTROL アクティブ化するレビュー]**」をクリックします。
 
-1. レビュー画面の表示がすべてうまくいったら、 **[!UICONTROL Activate]** をクリックしてアプリ内メッセージを公開します。
+1. レビュー画面で問題がなければ、「**[!UICONTROL アクティベート]**」をクリックして、web アプリ内メッセージを公開します。
 
 1. キャンペーンダッシュボードに戻ります。
 
-   キャンペーンのステータスが次のように変更される待機ユニット **ライブ** 4.1.4 に移行する前に以下のことを行います。
+   待機ユニット キャンペーンのステータスが **ライブ** に変更されてから、4.1.4 に移行します。
 
 ## 演習 3.3:web アプリ内メッセージのトリガー
 
-1. Fréscopa の web サイトに移動し、 **演習** ブラウザーのページ。
+1. Fréscopa の Web サイトに移動し、ブラウザーで **演習** ページに移動します。
 
-   ![Web 演習リンク](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![Web 演習リンク ](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. Web ページを必ず更新してください。
 
 1. キャンペーンで定義した一意の文字列値を入力します。
 
-   ![演習ページ](/help/summit/l820-lab-workbook/assets/4-2-exercise-page.png)
+   ![ 演習ページ ](/help/summit/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. 「**[!UICONTROL 送信]**」をクリックします。
 
@@ -147,14 +147,14 @@ ht-degree: 2%
 
 ## その他のリソース
 
-**ハウツービデオ：**
+**ビデオガイド：**
 
 * [アプリ内キャンペーンを作成](/help/channels/create-an-in-app-campaign.md)
 * [アプリ内メッセージの作成](/help/channels/author-in-app-messages.md)
 
 **製品ドキュメント：**
 
-* [アプリ内チャネルの基本を学ぶ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Web アプリ内メッセージの作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [ アプリ内チャネルの概要 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Web アプリ内メッセージの作成 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
 * [アプリ内コンテンツのデザイン](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [アプリ内通知の確認および送信](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [ アプリ内通知の確認と送信 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

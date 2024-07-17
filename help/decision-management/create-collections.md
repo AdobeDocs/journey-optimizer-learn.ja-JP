@@ -8,7 +8,7 @@ jira: KT-6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 
