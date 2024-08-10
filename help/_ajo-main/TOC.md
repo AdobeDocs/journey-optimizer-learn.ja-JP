@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 208c3a57053d2a83961e84b8d7941e3a34b612a3
+source-git-commit: d45d00e8d2ae83322f32fc458af1ce4f0c576bab
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 96%
+source-wordcount: '557'
+ht-degree: 94%
 
 ---
 
@@ -120,7 +120,7 @@ ht-degree: 96%
       + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
       + [独自の SMS プロバイダーの使用（Beta）](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)
-      + [IP ウォームアッププランの作成および実行](/help/administration/create-and-execute-an-ip-warmup-plan.md)
+      + [IP ウォームアッププランの設定と実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [MMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + ジャーニーの設定 {#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
