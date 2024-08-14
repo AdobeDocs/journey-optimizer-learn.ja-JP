@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 94%
 + コンテンツ管理{#content-management}
    + [アセットの管理](/help/assets-essentials-overview.md)
    + [コンテンツテンプレートの管理](/help/content-management/content-templates.md)
-   + [フラグメントを管理](/help/content-management/manage-fragments.md)
+   + [フラグメントの管理](/help/content-management/manage-fragments.md)
    + [式フラグメントの作成](/help/content-management/expression-fragments.md)
    + [多言語メッセージの設定](/help/content-management/set-up-multilingual-messages.md)
    + [多言語メッセージの作成](/help/content-management/create-multilingual-messages.md)
@@ -117,9 +117,9 @@ ht-degree: 94%
    + チャネルの設定 {#channel-configuration}
       + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
       + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [IP ウォームアッププランの設定と実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + [IP ウォームアッププランの設定および実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
-      + [独自の SMS プロバイダーの使用（Beta）](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [独自の SMS プロバイダーの取り込み（ベータ版）](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)
       + [MMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + ジャーニーの設定 {#journey-configuration}

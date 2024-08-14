@@ -1,6 +1,6 @@
 ---
-title: IP ウォームアッププランの設定と実行
-description: IP ウォーミングとは何かを理解し、Adobe Journey Optimizerで IP ウォームアッププランを設定して実行する方法を学びます。
+title: IP ウォームアッププランの設定および実行
+description: IP ウォーミングの概要と、Adobe Journey Optimizer で IP ウォームアッププランを設定および実行する方法について説明します。
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -13,14 +13,14 @@ jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
 
-# IP ウォームアッププランの設定と実行
+# IP ウォームアッププランの設定および実行
 
-IP ウォーミングとは何かを理解し、Adobe Journey Optimizerで IP ウォームアッププランを設定して実行する方法を学びます。
+IP ウォーミングの概要と、Adobe Journey Optimizer で IP ウォームアッププランを設定および実行する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
