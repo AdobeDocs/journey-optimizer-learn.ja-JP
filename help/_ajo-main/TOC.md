@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: d45d00e8d2ae83322f32fc458af1ce4f0c576bab
+source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
 ht-degree: 94%
@@ -117,10 +117,10 @@ ht-degree: 94%
    + チャネルの設定 {#channel-configuration}
       + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
       + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [IP ウォームアッププランの設定と実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
       + [独自の SMS プロバイダーの使用（Beta）](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [メッセージ頻度ルールの設定](/help/administration/configure-frequency-rules.md)
-      + [IP ウォームアッププランの設定と実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [MMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + ジャーニーの設定 {#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
