@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
+source-git-commit: e0abc58d1356044d1dae64f112eec22f4ed2b99d
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 100%
+source-wordcount: '560'
+ht-degree: 99%
 
 ---
 
@@ -115,6 +115,7 @@ ht-degree: 100%
    + [Customer Journey Analytics によるレポートの強化](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
    + チャネルの設定 {#channel-configuration}
+      + [ガイド付きチャネル設定](/help/set-up-channels/guided-channel-setup.md)
       + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
       + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
       + [IP ウォームアッププランの設定および実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
