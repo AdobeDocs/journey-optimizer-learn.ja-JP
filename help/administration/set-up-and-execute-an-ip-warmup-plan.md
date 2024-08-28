@@ -11,9 +11,9 @@ duration: 741
 last-substantial-update: 2024-08-14T00:00:00Z
 jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ IP ウォーミングの概要と、Adobe Journey Optimizer で IP ウォーム�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
-[ ターゲティング条件 ](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/introduction)、[IP ウォーミング中の ISP 固有の考慮事項 ](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria)、および [IP ウォーミング中の [ 量 ](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) に関するベストプラクティスについては、配信品質のベストプラクティスガイド ](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) を参照してください。
+[ターゲティング条件](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria)、[IP ウォーミング時の ISP 固有の考慮事項](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming)、IP ウォーミング時の[ボリューム](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume)に関するベストプラクティスについては、[配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/introduction)を参照してください。
 
-この機能について詳しくは、[IP ウォームアッププランの概要 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs) を参照してください。
+この機能について詳しくは、[IP ウォームアッププランの基本を学ぶ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs)を参照してください。
