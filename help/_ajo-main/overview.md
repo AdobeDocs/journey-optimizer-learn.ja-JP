@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
+source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 100%
+source-wordcount: '343'
+ht-degree: 89%
 
 ---
 
@@ -30,26 +30,12 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 <div id="events-section">
 
-## Experience League ライブイベント
+## 最新のExperience Leagueライブイベント
 
+* **[サマースポットライト - Adobe Journey Optimizerの機能を試してみる 3 つの方法 ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
+  *ジャーニーの実験、フリークエンシーキャップ、多言語メッセージという 3 つの機能をAdobe Journey Optimizerと共に活用して、この夏のカスタマーエンゲージメントを強化しましょう。*
 * **[Journey Optimizer での新しいコードベースのエクスペリエンスチャネル](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *開発者中心のアクションによるインバウンドサーフェスと詳細なパーソナライゼーションコントロールをアクティブ化する方法について説明します。*
-
-* **[Adobe Journey Optimizer での API トリガーによるメッセージ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja){target="_blank"}**
-  *REST API を使用して、コンテキストに応じてパーソナライズされたリアルタイムのトランザクションおよびマーケティングコミュニケーションを行う方法について説明します。*
-
-* **[Adobe Journey Optimizer でモバイルアプリの可能性を最大化](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja){target="_blank"}**
-  *リアルタイムのエンゲージメントチャネルとしてのアプリ内メッセージのメリットと、Adobe Journey Optimizer でパーソナライズされたモバイルアプリエクスペリエンスを設定および作成する方法について説明します。*
-
-* **[Web チャネルとコンテンツ実験を使用した Adobe Journey Optimizer の将来の展望](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=ja){target="_blank"}**
-  *新しい web チャネルを使用すると、マーケターは WYSIWYG のビジュアルデザイナーで web キャンペーンを作成できます。さらに、Journey Optimizer では、メール、web、プッシュ、アプリ内、SMS など、任意のチャネルのコンテンツを実験できるようになりました。*
-
-* **[Adobe Journey Optimizer でキャンペーンを実行](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ja){target="_blank"}**
-  *2022年9月22日（PT）に開催されたこの Experience League ライブエピソードでは、ホストの Sandra Hausmann および製品エキスパートの Bridgete Darling と Frederic Mary が、新機能がカバーする使用例について話し合い、Journey Optimizer で簡単にキャンペーンを設定して実行する方法を示します。*
-
-* **[Adobe Journey Optimizer でのプッシュ通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ja)**
-  *この Experience League ライブエピソードでは、Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform を使用したプッシュ通知のためのアプリを設定する方法について技術的な詳細を説明します。*
-
 </div>
 
 <div id="staff-picks-section">
