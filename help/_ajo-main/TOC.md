@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 406d57307ca700d0cf4e95a39d55665654c3de93
+source-git-commit: 25c9704ad0a1080d6796a6b1ec1557f986c2a786
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '579'
 ht-degree: 96%
 
 ---
@@ -128,7 +128,7 @@ ht-degree: 96%
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
       + [イベントの作成](/help/set-up-journeys/create-events.md)
       + [アクションの作成](/help/set-up-journeys/create-actions.md)
-   + ビジネスルール {business-rules}
+   + ビジネス ルール {#business-rules}
       + [フリークエンシーキャッピングルールの設定](/help/configuration/configure-frequency-capping-rules.md)
 + アクセス制御 {#access-control}
    + [アクセス管理](/help/set-up-access/access-management.md)
