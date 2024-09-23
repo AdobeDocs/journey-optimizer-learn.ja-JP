@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: d0c3d37dc6c3e28cab4ecd6cc8b03cfe65ef51c3
+source-git-commit: 108dfe961f0bc7078e65e2d036734460a95de09f
 workflow-type: tm+mt
-source-wordcount: '592'
-ht-degree: 93%
+source-wordcount: '603'
+ht-degree: 92%
 
 ---
 
@@ -73,7 +73,9 @@ ht-degree: 93%
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
 + コンテンツ管理{#content-management}
-   + [Journey Optimizerの AI アシスタントを使用したコンテンツ作成 – コンテンツアクセラレーター](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + AI アシスタント コンテンツ アクセラレータ {#content-accelerator}
+      + [AI アシスタント コンテンツ アクセラレータの概要](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+      + [Journey Optimizerの AI アシスタントを使用したコンテンツ作成 – コンテンツアクセラレーター](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [アセットの管理](/help/assets-essentials-overview.md)
    + [コンテンツテンプレートの管理](/help/content-management/content-templates.md)
    + [フラグメントの管理](/help/content-management/manage-fragments.md)
