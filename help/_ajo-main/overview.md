@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
+source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 89%
+source-wordcount: '377'
+ht-degree: 81%
 
 ---
 
@@ -32,10 +32,13 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 ## 最新のExperience Leagueライブイベント
 
+* **[AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントのパワーを解き放つ ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *AI アシスタントがAdobe Experience Cloud アプリケーションとAdobe Campaignで、お客様とのやり取りを変革し、生産性を向上させる方法について説明します。*
 * **[サマースポットライト - Adobe Journey Optimizerの機能を試してみる 3 つの方法 ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
   *ジャーニーの実験、フリークエンシーキャップ、多言語メッセージという 3 つの機能をAdobe Journey Optimizerと共に活用して、この夏のカスタマーエンゲージメントを強化しましょう。*
 * **[Journey Optimizer での新しいコードベースのエクスペリエンスチャネル](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *開発者中心のアクションによるインバウンドサーフェスと詳細なパーソナライゼーションコントロールをアクティブ化する方法について説明します。*
+
 </div>
 
 <div id="staff-picks-section">
