@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 4261e738c5c539b387a5f05c48c581954fe11510
+source-git-commit: 0f286412ace011859fc5f1f79ef4baf61d83ac50
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 88%
+source-wordcount: '631'
+ht-degree: 87%
 
 ---
 
@@ -57,12 +57,13 @@ ht-degree: 88%
       + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
       + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
       + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
+   + コンテンツカード（#content-cards）
+      + [コンテンツカードの作成](/help/channels/create-content-cards.md)
    + アプリ内チャネル{#in-app-channel}
       + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
       + [ジャーニーでアプリ内メッセージを作成](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [アプリ内メッセージを作成](/help/channels/author-in-app-messages.md)
       + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
-      + [コンテンツカードの作成](/help/channels/create-content-cards.md)
    + プッシュチャネル{#push-channel}
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
    + SMS チャネル{#sms-channel}
