@@ -1,8 +1,8 @@
 ---
-source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 80%
 
 ---
 # AJO スニペット
@@ -38,3 +38,9 @@ Experience League ライブ：
 >[!AVAILABILITY]
 >
 >この機能は現在ベータ版で、ベータ版のお客様のみご利用いただけます。ベータ版プログラムに参加するには、アドビカスタマーケアにお問い合わせください。
+
+## Platform ビデオ – ポリシー（#platform-video）
+
+>>[!NOTE]
+>>
+このビデオでは、Adobe Experience Platform ユーザーインターフェイスでのこの機能のデモを行います。 Journey Optimizerの左側のナビゲーションの「データ管理」セクションと「プライバシー」セクションでも、同じ機能が利用可能です。

@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 0f8cacf3676b4d14f11264fbd691fa73ef01f6ed
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 88%
+source-wordcount: '642'
+ht-degree: 86%
 
 ---
 
@@ -141,6 +141,8 @@ ht-degree: 88%
    + [サンドボックスの作成と管理](/help/set-up-access/create-and-manage-sandboxes.md)
 + データガバナンスとプライバシー {#data-governance-and-privacy}
    + [データガバナンスフレームワーク](/help/privacy/data-governance-framework.md)
+   + [ラベルを使用したデータの分類](/help/privacy/classify-data-using-lables.md)
+   + [Journey Optimizer チャネルでデータ使用ポリシーを適用する](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
 + 演習と課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
