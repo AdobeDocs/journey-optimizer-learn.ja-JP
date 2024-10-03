@@ -5,14 +5,14 @@ feature: Governance, Privacy
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 0
-last-substantial-update: 2024-10-02T00:00:00Z
+duration: 209
+last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: true
 hidefromtoc: true
-source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >このビデオでは、Adobe Experience Platform ユーザーインターフェイスでのこの機能のデモを行います。 Journey Optimizer ユーザーインターフェイスの左側のナビゲーションの「プライバシー」セクションでも、同じ機能を使用できます。
+>
+>Journey Optimizer チャネルでポリシーが適用される方法については、この [ チュートリアル ](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 

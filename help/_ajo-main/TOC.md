@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '646'
 ht-degree: 86%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 86%
 + データガバナンスとプライバシー {#data-governance-and-privacy}
    + [データガバナンスフレームワーク](/help/privacy/data-governance-framework.md)
    + [ラベルを使用したデータの分類](/help/privacy/classify-data-using-lables.md)
+   + [データ使用ポリシーの作成](/help/privacy/create-data-usage-policies.md)
    + [Journey Optimizer チャネルでデータ使用ポリシーを適用する](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
 + 演習と課題 {#exercises-and-challenges}
