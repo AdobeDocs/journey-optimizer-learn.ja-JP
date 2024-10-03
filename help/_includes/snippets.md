@@ -1,5 +1,5 @@
 ---
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 80%
@@ -41,6 +41,6 @@ Experience League ライブ：
 
 ## Platform ビデオ – ポリシー（#platform-video）
 
->>[!NOTE]
->>
-このビデオでは、Adobe Experience Platform ユーザーインターフェイスでのこの機能のデモを行います。 Journey Optimizerの左側のナビゲーションの「データ管理」セクションと「プライバシー」セクションでも、同じ機能が利用可能です。
+>[!NOTE]
+>
+>このビデオでは、Adobe Experience Platform ユーザーインターフェイスでのこの機能のデモを行います。 Journey Optimizerの左側のナビゲーションの「データ管理」セクションと「プライバシー」セクションでも、同じ機能が利用可能です。
