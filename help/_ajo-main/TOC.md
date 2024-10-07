@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 86%
+ht-degree: 98%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 86%
       + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
       + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
       + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
-   + コンテンツカード {#content-cards}
+   + コンテンツカード{#content-cards}
       + [コンテンツカードの作成](/help/channels/create-content-cards.md)
    + アプリ内チャネル{#in-app-channel}
       + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
@@ -75,9 +75,9 @@ ht-degree: 86%
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
 + コンテンツ管理{#content-management}
-   + AI アシスタント コンテンツ アクセラレータ {#content-accelerator}
-      + [AI アシスタント コンテンツ アクセラレータの概要](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [Journey Optimizerの AI アシスタントを使用したコンテンツ作成 – コンテンツアクセラレーター](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + AI アシスタントコンテンツアクセラレータ{#content-accelerator}
+      + [AI アシスタントコンテンツアクセラレータの概要](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+      + [Journey Optimizer の AI アシスタントによるコンテンツの作成 - コンテンツアクセラレータ](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [アセットの管理](/help/assets-essentials-overview.md)
    + [コンテンツテンプレートの管理](/help/content-management/content-templates.md)
    + [フラグメントの管理](/help/content-management/manage-fragments.md)
@@ -132,8 +132,8 @@ ht-degree: 86%
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
       + [イベントの作成](/help/set-up-journeys/create-events.md)
       + [アクションの作成](/help/set-up-journeys/create-actions.md)
-   + ビジネス ルール {#business-rules}
-      + [フリークエンシーキャッピングルールの設定](/help/configuration/configure-frequency-capping-rules.md)
+   + ビジネスルール {#business-rules}
+      + [フリークエンシーキャップルールの設定](/help/configuration/configure-frequency-capping-rules.md)
       + [頻度ルールのテストとレポート](/help/configuration/test-and-report-on-frequency-rules.md)
 + アクセス制御 {#access-control}
    + [アクセス管理](/help/set-up-access/access-management.md)
@@ -149,8 +149,8 @@ ht-degree: 86%
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
    + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
 + Experience League ライブ録画{#experience-league-live-recordings}
-   + [AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントのパワーを解き放つ ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-   + [ サマースポットライト - Adobe Journey Optimizerの機能を試してみる 3 つの方法 ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
+   + [AI Bash - Adobe Experience Platform アプリケーションおよび Campaign での AI アシスタントの機能のロック解除](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [夏のスポットライト - Adobe Journey Optimizer で試すべき 3 つの機能](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
    + [Journey Optimizer での新しいコードベースのエクスペリエンスチャネル](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Adobe Journey Optimizer での API トリガーによるメッセージ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja){target="_blank"}
    + [意思決定管理で適切なオファーを適切なタイミングで提供](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ja){target="_blank"}
