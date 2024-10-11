@@ -11,7 +11,7 @@ jira: KT-16190
 hidefromtoc: false
 hide: false
 source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
