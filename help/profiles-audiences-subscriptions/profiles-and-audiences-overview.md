@@ -1,6 +1,6 @@
 ---
-title: プロファイルとオーディエンス – 概要
-description: Journey Optimizerの統合顧客プロファイルおよびオーディエンスについて説明します。
+title: プロファイルとオーディエンス - 概要
+description: Journey Optimizer の統合顧客プロファイルおよびオーディエンスについて説明します。
 feature: Profiles, Audiences
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 98
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16291
 source-git-commit: 30b2099c678b9d455383c6328513d362df4ec5fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '28'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# プロファイルとオーディエンス – 概要
+# プロファイルとオーディエンス - 概要
 
-Journey Optimizerの統合顧客プロファイルおよびオーディエンスについて説明します。
+Journey Optimizer の統合顧客プロファイルおよびオーディエンスについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432671/?learn=on)

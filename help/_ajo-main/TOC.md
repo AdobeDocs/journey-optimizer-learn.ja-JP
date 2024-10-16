@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 89%
    + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
-   + [ジャーニーDesigner – 概要](/help/create-journeys/journey-designer-overview.md)
+   + [ジャーニーデザイナー - 概要](/help/create-journeys/journey-designer-overview.md)
    + [新しいジャーニーデザイナーについて](/help/create-journeys/new-journey-designer.md)
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
    + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
@@ -43,20 +43,20 @@ ht-degree: 89%
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [ライブジャーニーのコンテンツの更新](/help/create-journeys/update-content-in-live-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
-+ プロファイル、オーディエンス、および購読 {#profiles-audiences-subscriptions}
-   + [プロファイルとオーディエンス – 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
++ プロファイル、オーディエンスおよびサブスクリプション{#profiles-audiences-subscriptions}
+   + [プロファイルとオーディエンス - 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
-   + [モバイルアプリの最適化 – 概要](/help/channels/mobile-app-optimization-overview.md)
+   + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
    + コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
       + [コードベースエクスペリエンスキャンペーンの作成](/help/channels/create-a-code-based-experience-campaign.md)
    + ダイレクトメールチャネル{#direct-mail-channel}
       + [ダイレクトメールの作成](/help/channels/direct-mail.md)
    + メールチャネル{#email-channel}
-      + [メールチャネル – 概要](/help/channels/email-channel-overview.md)
-      + [メールデザインとパーソナライゼーション – 概要](/help/channels/email-design-and-personalization-overview.md)
+      + [メールチャネル - 概要](/help/channels/email-channel-overview.md)
+      + [メールデザインとパーソナライゼーション - 概要](/help/channels/email-design-and-personalization-overview.md)
       + [E メールデザイナーでコンテンツを作成](/help/channels/create-content-with-the-email-designer.md)
       + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
       + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
@@ -64,40 +64,40 @@ ht-degree: 89%
    + コンテンツカード{#content-cards}
       + [コンテンツカードの作成](/help/channels/create-content-cards.md)
    + アプリ内チャネル{#in-app-channel}
-      + [アプリ内メッセージ – 概要](/help/channels/in-app-messages-overview.md)
+      + [アプリ内メッセージ - 概要](/help/channels/in-app-messages-overview.md)
       + [アプリ内キャンペーンの作成](/help/channels/create-an-in-app-campaign.md)
       + [ジャーニーでアプリ内メッセージを作成](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [アプリ内メッセージを作成](/help/channels/author-in-app-messages.md)
       + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
    + プッシュチャネル{#push-channel}
-      + [プッシュ通知 – 概要](/help/channels/push-notifications-overview.md)
+      + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
    + SMS チャネル{#sms-channel}
-      + [SMS/MMS メッセージ – 概要](/help/channels/sms-mms-messages-overview.md)
+      + [SMS/MMS メッセージ - 概要](/help/channels/sms-mms-messages-overview.md)
       + [SMS メッセージを設定、作成および配信](/help/channels/author-sms-messages.md)
       + [MMS メッセージの作成](/help/channels/author-mms.md)
       + [SMS - Sinch と Infobip のダブルオプトイン](/help/channels/sms-double-opt-in.md)
    + Web チャネル {#web-channel}
-      + [Web パーソナライゼーション – 概要](/help/channels/web-personalization-overview.md)
+      + [Web パーソナライゼーション - 概要](/help/channels/web-personalization-overview.md)
       + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
 + コンテンツ管理{#content-management}
-   + [メッセージオーサリング – 概要](/help/content-management/message-authoring-overview.md)
-   + [デジタルアセット管理 – 概要](/help/content-management/digital-asset-management-overview.md)
+   + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
+   + [デジタルアセット管理 - 概要](/help/content-management/digital-asset-management-overview.md)
    + [アセットの管理](/help/assets-essentials-overview.md)
    + [コンテンツテンプレートの管理](/help/content-management/content-templates.md)
    + [フラグメントの管理](/help/content-management/manage-fragments.md)
    + [式フラグメントの作成](/help/content-management/expression-fragments.md)
-   + [実験 – 概要](/help/content-management/experimentation-overview.md)
-   + 多言語メッセージ {#multilingual-messaging}
+   + [実験 - 概要](/help/content-management/experimentation-overview.md)
+   + 多言語メッセージ{#multilingual-messaging}
       + [多言語メッセージの設定](/help/content-management/set-up-multilingual-messages.md)
       + [多言語メッセージの作成](/help/content-management/create-multilingual-messages.md)
-   + AI アシスタントコンテンツアクセラレータ{#content-accelerator}
-      + [AI アシスタント コンテンツ アクセラレータ – 概要](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [AI Assistant コンテンツアクセラレーターを使用してコンテンツを作成](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + AI アシスタントコンテンツアクセラレーター{#content-accelerator}
+      + [AI アシスタントコンテンツアクセラレーター - 概要](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [AI アシスタントコンテンツアクセラレーターを使用したコンテンツの作成](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + コンテンツのパーソナライズ {#personalize-content}
-   + [Personalization エディター – 概要](/help/personalize-content/personalization-editor-overview.md)
+   + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [パーソナライゼーションとしてのオファーの追加](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [パーソナライゼーションに関するコンテキストイベント情報の使用](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -126,7 +126,7 @@ ht-degree: 89%
    + [データセットの書き出し先を設定](/help/data-management/configure-dataset-export-destination.md)
    + [クラウドストレージの場所へのデータセットの書き出し](/help/data-management/export-datasets.md)
 + レポートと監視 {#report-and-monitor}
-   + [測定とレポート – 概要](/help/report-and-monitor/measurement-and-reporting-overview.md)
+   + [測定とレポート - 概要](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
    + [CSV 形式でのレポートの書き出し](/help/report-and-monitor/export-reports-in-csv-format.md)
@@ -157,7 +157,7 @@ ht-degree: 89%
    + [データガバナンスフレームワーク](/help/privacy/data-governance-framework.md)
    + [ラベルを使用したデータの分類](/help/privacy/classify-data-using-lables.md)
    + [データ使用ポリシーの作成](/help/privacy/create-data-usage-policies.md)
-   + [Journey Optimizer チャネルでデータ使用ポリシーを適用する](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
+   + [Journey Optimizer チャネルでのデータ使用ポリシーの適用](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
 + 演習と課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)

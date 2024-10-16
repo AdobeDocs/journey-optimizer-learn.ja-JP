@@ -1,6 +1,6 @@
 ---
-title: Journey Optimizer チャネルでデータ使用ポリシーを適用する
-description: Journey Optimizer チャネルでデータ使用ラベルが適用される方法を説明します。
+title: Journey Optimizer チャネルでのデータ使用ポリシーの適用
+description: Journey Optimizer チャネルでデータ使用ラベルを適用する方法について説明します。
 feature: Governance, Privacy
 role: Data Architect, Admin, User
 level: Beginner
@@ -12,17 +12,17 @@ hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Journey Optimizer チャネルでデータ使用ポリシーを適用する
+# Journey Optimizer チャネルでのデータ使用ポリシーの適用
 
-Journey Optimizer チャネルでデータ使用ポリシーが適用される方法について説明します。
+Journey Optimizer チャネルでデータ使用ポリシーを適用する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-[ データガバナンス ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) およびJourney Optimizerでの [ 同意ポリシーの使用 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) 方法について詳しくは、製品ドキュメントを参照してください。
+Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)と[同意ポリシーの使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/consent/consent-restricted)方法について詳しくは、製品ドキュメントを参照してください。

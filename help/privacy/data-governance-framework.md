@@ -11,9 +11,9 @@ jira: KT-16263
 hide: false
 hidefromtoc: false
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,10 @@ Adobe Experience Platform のデータガバナンスフレームワークにつ
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
-Journey Optimizerでの [ データガバナンス ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) について詳しくは、製品ドキュメントを参照してください。
+Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)について詳しくは、製品ドキュメントを参照してください。
 
-## Additional learning
+## 追加の学習
 
-* [ プレイリスト：Adobe Experience Platformのデータガバナンスの概要 ](https://experienceleague.adobe.com/ja/playlists/experience-platform-get-started-with-data-governance)
+* [プレイリスト：Adobe Experience Platform のデータガバナンスの基本を学ぶ](https://experienceleague.adobe.com/ja/playlists/experience-platform-get-started-with-data-governance)
 
-  *Adobe Experience Platformでのデータガバナンス、ラベルを使用したデータの分類方法、データ使用ポリシーの作成方法、Experience Platformに対するデータ使用ポリシーの適用方法について詳しく説明します。*
+  *Adobe Experience Platform でのデータガバナンス、ラベルを使用したデータの分類方法、データ使用ポリシーの作成方法、Experience Platform に対するデータ使用ポリシーの適用方法について説明します。*
