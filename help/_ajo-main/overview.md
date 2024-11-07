@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2d0a573812fbcbce347821532d5ab254b3a4c98c
+source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 98%
+ht-degree: 81%
 
 ---
 
@@ -47,30 +47,31 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 
 <table>
 <tr>
-  <td>
-    <a href="../introduction/journey-optimizer-overview.md">
-      <img alt="Journey Optimizerの概要（ビデオ）" src="../assets/334174.jpg"/>
+    <td>
+    <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+      <img alt="AI Assistant コンテンツアクセラレーターを使用してコンテンツを作成（ビデオ）" src="../assets/3434635.jpg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-1.md">
-    <strong>Journey Optimizer 概要 第 1 部 </strong>
+      <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+    <strong>AI Assistant コンテンツアクセラレーターを使用したコンテンツの作成 </strong>
     </a>
     </div>
     <p>
-    <em>このビデオでは、企業が Adobe Journey Optimization を使用して、パーソナライズされたオムニチャネルジャーニーを消費者に提供する方法を示します。</em>
+    <em>AI アシスタントコンテンツアクセラレーターを使用して、テキストと画像の両方にプロアクティブなコンテンツバリエーション提案を生成する方法を説明します。
+</em>
     <p>
   </td>
     <td>
-    <a href="../introduction/journey-optimizer-overview-part-2.md">
-      <img alt="Journey Optimizer 概要第 2 部 - オムニチャネルジャーニーの配信（ビデオ）" src="../assets/334175.jpg"/>
+    <a href="../experimentation/content-experiments-for-emails.md">
+      <img alt="メールキャンペーン用のコンテンツ実験の設定（ビデオ）" src="../assets/3419893.jpeg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-2.md">
-    <strong>Journey Optimizer 概要第 2 部  </strong>
+      <a href="../experimentation/content-experiments-for-emails.md">
+    <strong> メールキャンペーン用のコンテンツ実験の設定 </strong>
     </a>
     </div>
     <p>
-    <em>このビデオでは、企業が Adobe Journey Optimizer の意思決定管理機能、リアルタイムのセグメントの選定、ビジネスイベント管理を使用して、消費者のジャーニーを新たな高みに引き上げる方法を説明します。</em>
+    <em>A/B テストを行うようにコンテンツ実験を設定し、ビジネス目標を最大限に推進するメールコンテンツを探索する方法について説明します。</em>
     <p>
   </td>
   </td>
