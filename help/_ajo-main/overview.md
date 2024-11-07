@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
-workflow-type: ht
-source-wordcount: '377'
-ht-degree: 100%
+source-git-commit: 2d0a573812fbcbce347821532d5ab254b3a4c98c
+workflow-type: tm+mt
+source-wordcount: '372'
+ht-degree: 98%
 
 ---
 
@@ -48,8 +48,8 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 <table>
 <tr>
   <td>
-    <a href="../introduction/journey-optimizer-overview-part-1.md">
-      <img alt="Journey Optimizer 概要第 1 部 - オムニチャネルジャーニーの配信（ビデオ）" src="../assets/334174.jpg"/>
+    <a href="../introduction/journey-optimizer-overview.md">
+      <img alt="Journey Optimizerの概要（ビデオ）" src="../assets/334174.jpg"/>
     </a>
     <div>
       <a href="../introduction/journey-optimizer-overview-part-1.md">
