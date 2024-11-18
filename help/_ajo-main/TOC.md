@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: fb7f9c22ab23392da00f1d7770f33534748de8ea
+source-git-commit: a42991e258dd5f9964d7859003b1cc479bc79c21
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 99%
+source-wordcount: '599'
+ht-degree: 98%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 99%
 # Journey Optimizer チュートリアル {#tutorials}
 
 + [Journey Optimizer チュートリアル](/help/_ajo-main/overview.md)
++ [Experience Leagueのライブ録画 ](/help/experience-league-live-show-recordings.md)
 + Journey Optimizer の紹介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の紹介](/help/introduction/introduction.md)
@@ -161,14 +162,5 @@ ht-degree: 99%
 + 演習と課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
    + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
-+ Experience League ライブ録画{#experience-league-live-recordings}
-   + [AI Bash - Adobe Experience Platform アプリケーションおよび Campaign での AI アシスタントの機能のロック解除](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-   + [夏のスポットライト - Adobe Journey Optimizer で試すべき 3 つの機能](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
-   + [Journey Optimizer での新しいコードベースのエクスペリエンスチャネル](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
-   + [Adobe Journey Optimizer での API トリガーによるメッセージ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja){target="_blank"}
-   + [意思決定管理で適切なオファーを適切なタイミングで提供](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ja){target="_blank"}
-   + [Adobe Journey Optimizer でモバイルアプリの可能性を最大化](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja){target="_blank"}
-   + [Adobe Journey Optimizer でキャンペーンを実行](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ja){target="_blank"}
-   + [Adobe Journey Optimizer でのプッシュ通知](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja){target="_blank"}
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
