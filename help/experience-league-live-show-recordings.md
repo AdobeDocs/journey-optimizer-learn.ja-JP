@@ -4,10 +4,10 @@ description: Experience Leagueライブは、Experience Leagueチームが制作
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: f50cf10fe0b051ef158be29a7048cfcc8cc83e20
+source-git-commit: 14dd8013baf67b65b77875735ba9a5b11d3e7f6f
 workflow-type: tm+mt
-source-wordcount: '787'
-ht-degree: 10%
+source-wordcount: '794'
+ht-degree: 11%
 
 ---
 
@@ -161,11 +161,11 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 
+<br>
+&lt;!— カード
 
-<!-- CARDS
-
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -219,8 +219,8 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-
-<!-- CARDS
+<br>
+&lt;!— カード
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
