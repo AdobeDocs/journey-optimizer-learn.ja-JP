@@ -10,17 +10,17 @@ last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
 hidefromtoc: false
-source-git-commit: da924ae1f11f87ef6d940d7ccfc0ac3b9cf3b896
-workflow-type: tm+mt
+exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
+source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-
 # データ使用ポリシーの作成
 
-データ使用ポリシーを作成および管理する方法について説明します。データ使用ポリシーを使用すると、データのラベル付けに基づく特定の目的に対するデータ使用を制限できます。API ベースのアプローチについては、[API を使用したデータ使用ポリシーの作成 ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create) を参照してください。
+データ使用ポリシーを作成および管理する方法について説明します。データ使用ポリシーを使用すると、データのラベル付けに基づく特定の目的に対するデータ使用を制限できます。API ベースのアプローチについて詳しくは、[API を使用したデータ使用ポリシーの作成](https://experienceleague.adobe.com/ja/docs/experience-platform/data-governance/policies/create)を参照してください。
 
 >[!NOTE]
 >

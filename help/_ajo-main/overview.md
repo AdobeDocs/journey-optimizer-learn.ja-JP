@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="AI Assistant コンテンツアクセラレーターを使用してコンテンツを作成（ビデオ）" src="../assets/3434635.jpg"/>
+      <img alt="AI アシスタントコンテンツアクセラレーターを使用したコンテンツの作成（ビデオ）" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>AI Assistant コンテンツアクセラレーターを使用したコンテンツの作成 </strong>
+    <strong>AI アシスタントコンテンツアクセラレーターを使用したコンテンツの作成</strong>
     </a>
     </div>
     <p>
-    <em>AI アシスタントコンテンツアクセラレーターを使用して、テキストと画像の両方にプロアクティブなコンテンツバリエーション提案を生成する方法を説明します。
+    <em>AI アシスタントコンテンツアクセラレーターを使用して、テキストと画像の両方にプロアクティブなコンテンツバリエーション提案を生成する方法について説明します。
 </em>
     <p>
   </td>
@@ -67,8 +67,8 @@ Journey Optimizer は、企業が顧客に対して、連続性がありコン�
     </a>
     <div>
       <a href="../experimentation/content-experiments-for-emails.md">
-    <strong> メールキャンペーン用のコンテンツ実験の設定 </strong>
-    </a>
+    <strong>メールキャンペーン用のコンテンツ実験の設定 </strong>
+    </a>
     </div>
     <p>
     <em>A/B テストを行うようにコンテンツ実験を設定し、ビジネス目標を最大限に推進するメールコンテンツを探索する方法について説明します。</em>
