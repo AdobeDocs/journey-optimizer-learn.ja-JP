@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: a42991e258dd5f9964d7859003b1cc479bc79c21
+source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 98%
@@ -14,7 +14,6 @@ ht-degree: 98%
 # Journey Optimizer チュートリアル {#tutorials}
 
 + [Journey Optimizer チュートリアル](/help/_ajo-main/overview.md)
-+ [Experience Leagueのライブ録画 ](/help/experience-league-live-show-recordings.md)
 + Journey Optimizer の紹介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の紹介](/help/introduction/introduction.md)
@@ -162,5 +161,6 @@ ht-degree: 98%
 + 演習と課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
    + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
++ [Experience Leagueのライブ録画 ](/help/experience-league-live-show-recordings.md)
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
