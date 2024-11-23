@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
+source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 98%
+source-wordcount: '597'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 98%
 
 + [Journey Optimizer チュートリアル](/help/_ajo-main/overview.md)
 + Journey Optimizer の紹介 {#introduction-to-journey-optimizer}
-   + [Journey Optimizer – 概要](/help/introduction/journey-optimizer-overview.md)
+   + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の紹介](/help/introduction/introduction.md)
    + [主な機能とユーザーインターフェイス](/help/introduction/key-capabilities-and-user-interface.md)
    + [アーキテクチャ](/help/introduction/architecture.md)
@@ -151,7 +151,7 @@ ht-degree: 98%
 + アクセス制御 {#access-control}
    + [アクセス管理](/help/set-up-access/access-management.md)
    + [属性ベースのアクセス制御を設定](/help/administration/attribute-based-access-control.md)
-   + [サンドボックスの作成と管理](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [サンドボックスの使用](/help/set-up-access/create-and-manage-sandboxes.md)
 + データガバナンスとプライバシー {#data-governance-and-privacy}
    + [データガバナンスフレームワーク](/help/privacy/data-governance-framework.md)
    + [ラベルを使用したデータの分類](/help/privacy/classify-data-using-lables.md)
@@ -161,6 +161,6 @@ ht-degree: 98%
 + 演習と課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
    + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
-+ [Experience Leagueのライブ録画 ](/help/experience-league-live-show-recordings.md)
++ [Experience League ライブ番組録画](/help/experience-league-live-show-recordings.md)
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
