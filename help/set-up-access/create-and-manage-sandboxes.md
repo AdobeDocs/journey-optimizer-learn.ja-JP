@@ -1,23 +1,23 @@
 ---
 title: サンドボックスの作成と管理
-description: サンドボックスの概要と、開発用サンドボックスと実稼動用サンドボックスを区別する方法について説明します。サンドボックスの作成、リセット、削除方法について説明します。
+description: Experience Platformサンドボックスが新しい機能や既存の機能を試し、迅速なフェイルアプローチで動作する独立した環境を提供する仕組みについて説明します。 開発環境をリセットおよび再起動し、API 呼び出しでサンドボックスを使用する方法を説明します。
 jira: KT-7568
-thumbnail: 334355.jpg
 feature: Sandboxes
 doc-type: feature video
-team: PM
+team: TM
 role: Admin
 level: Beginner
+last-substantial-update: 2024-11-22T00:00:00Z
 exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 4f98d810be92a943a4cbfbbb6cf2c6414d9e2694
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '90'
+ht-degree: 7%
 
 ---
 
-# サンドボックスの作成と管理
+# サンドボックスの使用
 
-サンドボックスの概要と、開発用サンドボックスと実稼動用サンドボックスを区別する方法について説明します。サンドボックスの作成、リセット、削除方法について説明します。
+Experience Platformサンドボックスが、新規または既存の機能を試し、「フェイルファースト」アプローチで動作する独立した環境を提供する仕組みについて説明します。 開発環境をリセットおよび再起動し、API 呼び出しでサンドボックスを使用する方法を説明します。 詳しくは、[ サンドボックスユーザーガイド ](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ja) を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/334355?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29838/?learn=on)
