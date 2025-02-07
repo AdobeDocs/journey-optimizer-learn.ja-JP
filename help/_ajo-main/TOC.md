@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 43b18180cd08d14c2c42cb3417df0b8eb5ceba8f
+source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 100%
+source-wordcount: '605'
+ht-degree: 99%
 
 ---
 
@@ -167,3 +167,4 @@ ht-degree: 100%
 + [Experience League ライブ番組録画](/help/experience-league-live-show-recordings.md)
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [チートシート](/help/summit-lab-assets/l535-assets.md)
