@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: a7b449f1c8f31f2f13ceca2107624f026f46d5e6
+source-git-commit: fce89856e1fb8459af493f3b722b9a098a3f1b03
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 100%
+source-wordcount: '611'
+ht-degree: 98%
 
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 100%
    + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
    + コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
       + [コードベースエクスペリエンスキャンペーンの作成](/help/channels/create-a-code-based-experience-campaign.md)
+      + [ コードベースチャネルでの意思決定の使用 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + ダイレクトメールチャネル{#direct-mail-channel}
       + [ダイレクトメールの作成](/help/channels/direct-mail.md)
    + メールチャネル{#email-channel}
