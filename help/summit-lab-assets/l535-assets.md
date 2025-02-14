@@ -8,13 +8,18 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
+exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
+source-git-commit: 7262b5ab14612f2851ab694279146fc5ef2f26f5
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 26%
+source-wordcount: '55'
+ht-degree: 25%
 
 ---
 
 # Summit Lab L535 - チートシート
 
 このページには、L535 サミットラボで使用されているテキストとリンクが含まれています。 これらを使用して、コンテンツをコピーし、Journey Optimizerメッセージに貼り付けることができます。
+
+画像：
+
+![ 携帯電話 ](/help/summit-lab-assets/assets/Online%20banking%20app-01.png)
