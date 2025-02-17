@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 2e871d0866b2dc5f4c46a664aa62ca69e4ec4e4a
 workflow-type: tm+mt
 source-wordcount: '621'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 97%
 + [Journey Optimizer チュートリアル](/help/_ajo-main/overview.md)
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
-   + [放棄された買い物かご](/help/use-cases/abandoned-cart.md)
+   + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
 + Journey Optimizer の紹介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の紹介](/help/introduction/introduction.md)
@@ -49,13 +49,13 @@ ht-degree: 97%
    + [プロファイルとオーディエンス - 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [CSV ファイルをアップロードしてオーディエンスを作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
    + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
    + コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
       + [コードベースエクスペリエンスキャンペーンの作成](/help/channels/create-a-code-based-experience-campaign.md)
-      + [ コードベースチャネルでの意思決定の使用 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [コードベースチャネルでの決定の使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + ダイレクトメールチャネル{#direct-mail-channel}
       + [ダイレクトメールの作成](/help/channels/direct-mail.md)
    + メールチャネル{#email-channel}
