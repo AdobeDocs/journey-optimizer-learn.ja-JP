@@ -8,16 +8,16 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 
 # Journey Optimizer チュートリアル
 
-Journey Optimizerを使用すると、企業は、包括的でコンテキストに応じた、パーソナライズされたカスタマーエクスペリエンスを作成できます。 最初のコンタクト時点からサイトを離れた瞬間まで、ブランドとのジャーニー全体をシームレスにガイドし、すべてのタッチポイントで接続された満足のいくエクスペリエンスを確保します。
+Journey Optimizer を使用すると、会社は一貫性がありコンテキストに沿う、パーソナライズされた顧客体験を作成できます。最初の連絡窓口からサイトを離れる瞬間まで、ブランドとのジャーニー全体を通じて顧客をシームレスにガイドし、すべてのタッチポイントでつながりのある満足のいくエクスペリエンスを確保します。
 
 このユーザーガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。[Journey Optimizer の課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)に移動して、学習した内容を実践してみましょう。
 
