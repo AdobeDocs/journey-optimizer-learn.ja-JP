@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 2e871d0866b2dc5f4c46a664aa62ca69e4ec4e4a
-workflow-type: ht
-source-wordcount: '621'
+source-git-commit: fbced616531cc24465e6fcc0baa18f37cf6de88c
+workflow-type: tm+mt
+source-wordcount: '625'
 ht-degree: 100%
 
 ---
@@ -151,8 +151,9 @@ ht-degree: 100%
       + [イベントの作成](/help/set-up-journeys/create-events.md)
       + [アクションの作成](/help/set-up-journeys/create-actions.md)
    + ビジネスルール {#business-rules}
-      + [フリークエンシーキャップルールの設定](/help/configuration/configure-frequency-capping-rules.md)
-      + [頻度ルールのテストとレポート](/help/configuration/test-and-report-on-frequency-rules.md)
+      + [フリークエンシーキャップルールの設定](/help/business-rules/configure-frequency-capping-rules.md)
+      + [ルールセットの操作](/help/business-rules/work-with-rule-sets.md)
+      + [頻度ルールのテストとレポート](/help/business-rules/test-and-report-on-frequency-rules.md)
 + アクセス制御 {#access-control}
    + [アクセス管理](/help/set-up-access/access-management.md)
    + [属性ベースのアクセス制御を設定](/help/administration/attribute-based-access-control.md)
