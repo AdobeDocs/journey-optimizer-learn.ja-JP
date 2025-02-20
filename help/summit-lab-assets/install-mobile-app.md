@@ -8,10 +8,10 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
+source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 3%
 
 >[!TAB iOS]
 
-### iOS：
+## iOS：
 
 アプリケーションをインストールした後、Adobe Enterprise Developer を信頼する必要があります。
 
@@ -43,18 +43,17 @@ ht-degree: 3%
 
    ![ アドビシステムを信頼する画面 ](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * これで、iPhoneで* SecureFinancial アプリ**を起動できるようになります。 SecureFinancial App Icon] （/help/summit/l820-lab-workbook/assets/1-2-app-icon.png） {width="50" align="center" zoomable="yes"}
+   これで、iPhoneで* SecureFinancial アプリ**を起動できるようになります。
 
+2. アプリを開きます。
 
-1. アプリを開きます。
-
-1. ポップアップで「**許可**」をクリックし、DX デモアプリから通知を送信できるようにします。
+3. ポップアップで「**許可**」をクリックし、DX デモアプリから通知を送信できるようにします。
 
    ![ 通知ポップアップ ](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
-### Android
+## Android
 
 Androidで、次に示す警告手順に従って、APK をダウンロードしてインストールします。
 
@@ -62,6 +61,6 @@ Androidで、次に示す警告手順に従って、APK をダウンロードし
 <br>
 ![Androidのインストール画面 ](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* これで、Android デバイスで* SecureFinancial アプリ**を起動できるようになります。 SecureFinancial App Icon] （/help/summit/l820-lab-workbook/assets/1-2-app-icon.png） {width="50" align="center" zoomable="yes"}
+これで、Android デバイスで* SecureFinancial アプリ**を起動できるようになります。
 
 >[!ENDTABS]
