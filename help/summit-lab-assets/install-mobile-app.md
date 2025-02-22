@@ -8,19 +8,21 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
+source-git-commit: 9e0de40d26aa53dca190d469e51c9cf3345abcbb
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 4%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
 
 # SecureFinancial アプリをダウンロードしてインストールする
 
-以下の QR コードをスキャンして、iOSまたはAndroid™ デバイスにモバイルアプリをインストールします。
+モバイルアプリをiOSまたはAndroid&amp;trade にインストールします。
 
-![ecureFinancial モバイルアプリの QR コード ](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
+**手順 1:** 以下からデバイスの QR コードをスキャンします。
+
+![SecureFinancial モバイルアプリの QR コード ](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
 
 デバイス固有インストール：
 
@@ -28,7 +30,18 @@ ht-degree: 4%
 
 >[!TAB iOS]
 
-## iOS：
+## 手順 2:iOS デバイスへのアプリのインストール：
+
+1. カメラアプリにポップアップ表示されるモーダルで **インストール** をクリックします。
+
+   ![ インストールポップアップ ](/help/summit-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
+
+2. **カメラ** アプリを閉じ、画面に表示される DX デモアプリを探します
+
+   ![DX デモアプリ ](/help/summit-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
+
+
+## 手順 3:Trust Adobe Enterprise Developer
 
 アプリケーションをインストールした後、Adobe Enterprise Developer を信頼する必要があります。
 
@@ -45,16 +58,12 @@ ht-degree: 4%
 
    これで、iPhoneで* SecureFinancial アプリ**を起動できるようになります。
 
-1. アプリを開きます。
-
-1. ポップアップで「**許可**」をクリックし、DX デモアプリから通知を送信できるようにします。
-
 
 >[!TAB Android]
 
-## Android
+## Android デバイスにアプリをインストールします。
 
-Androidで、次に示す警告手順に従って、APK をダウンロードしてインストールします。
+Androidで、次に示すアラート手順に従って、アプリをダウンロードしてインストールします。
 
 ![Androidのダウンロード画面 ](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Androidのダウンロード画面 "){width="250" align="center" zoomable="yes"}
 <br>
@@ -63,3 +72,5 @@ Androidで、次に示す警告手順に従って、APK をダウンロードし
 これで、Android デバイスで* SecureFinancial アプリ**を起動できるようになります。
 
 >[!ENDTABS]
+
+
