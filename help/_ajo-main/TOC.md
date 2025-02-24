@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 3e27236efac68961a2bd0a12d1b6e78431de0655
+source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 99%
+source-wordcount: '632'
+ht-degree: 96%
 
 ---
 
@@ -97,9 +97,9 @@ ht-degree: 99%
    + 多言語メッセージ{#multilingual-messaging}
       + [多言語メッセージの設定](/help/content-management/set-up-multilingual-messages.md)
       + [多言語メッセージの作成](/help/content-management/create-multilingual-messages.md)
-   + AI アシスタントコンテンツアクセラレーター{#content-accelerator}
-      + [AI アシスタントコンテンツアクセラレーター - 概要](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [AI アシスタントコンテンツアクセラレーターを使用したコンテンツの作成](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + コンテンツ生成 {#content-accelerator} ークフロー用 AI アシスタント
+      + [コンテンツ生成用 AI アシスタント – 概要](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [AI アシスタントを使用したコンテンツ生成の作成](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
