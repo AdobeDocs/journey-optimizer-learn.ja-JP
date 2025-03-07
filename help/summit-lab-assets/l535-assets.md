@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: c1a77892652df0a91a6add1ad0dc5a4bd0770d8b
+source-git-commit: c25ebab9fedd0218d087fc679a8da05b06e71227
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 29%
+source-wordcount: '133'
+ht-degree: 24%
 
 ---
 
@@ -27,6 +27,15 @@ ht-degree: 29%
 * [ アプリのダウンロード ](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html)
 
 ## 演習用にコピー&amp;ペースト
+
+### 演習 2.1 - Journey Optimizerへのログイン
+
+次の詳細を使用してログインします。
+
+E メール アドレス：    L535+*シート番号*@adobeeventlab.com
+
+パスワード：       Adobe4Summit!
+
 
 ### 演習 2.3 - メールメッセージの作成
 
@@ -94,7 +103,7 @@ Thank you for downloading the app. You can find ATMs, track your spending and mo
 #### メディア URL
 
 ```
-https://demo-systemnext.s3.amazonaws.com/assets/securfinancial/homeloan.jpg
+https://demo-system-next.s3.amazonaws.com/assets/securfinancial/home-loan.jpg
 ```
 
 #### ボタンタイトル
