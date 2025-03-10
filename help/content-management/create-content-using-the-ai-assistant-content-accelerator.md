@@ -1,6 +1,6 @@
 ---
-title: AI アシスタントを使用したコンテンツ生成の作成
-description: AI Assistant を使用してコンテンツ生成を行い、テキストと画像の両方に対してプロアクティブなコンテンツバリエーションの提案を生成する方法を説明します。
+title: コンテンツ生成用 AI アシスタントを使用したコンテンツの作成
+description: コンテンツ生成用 AI アシスタントを使用して、テキストと画像の両方にプロアクティブなコンテンツバリエーション提案を生成する方法について説明します。
 feature: Content Assistant
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,14 +10,14 @@ last-substantial-update: 2024-09-23T00:00:00Z
 jira: KT-16226
 exl-id: cd14c201-58a4-4459-a368-4024dc337798
 source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# AI アシスタントを使用したコンテンツ生成の作成
+# コンテンツ生成用 AI アシスタントを使用したコンテンツの作成
 
-AI Assistant を使用してコンテンツ生成を行い、テキストと画像の両方に対してプロアクティブなコンテンツバリエーションの提案を生成する方法を説明します。
+コンテンツ生成用 AI アシスタントを使用して、テキストと画像の両方にプロアクティブなコンテンツバリエーション提案を生成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
