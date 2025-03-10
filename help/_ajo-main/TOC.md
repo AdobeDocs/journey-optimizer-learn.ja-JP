@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
-workflow-type: ht
-source-wordcount: '632'
-ht-degree: 100%
+source-git-commit: b24aa3dab4ac86cf6b7e381b7c72326c24c03dbb
+workflow-type: tm+mt
+source-wordcount: '641'
+ht-degree: 99%
 
 ---
 
@@ -100,6 +100,9 @@ ht-degree: 100%
    + コンテンツ生成用 AI アシスタント {#content-accelerator}
       + [コンテンツ生成用 AI アシスタント - 概要](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [コンテンツ生成用 AI アシスタントを使用したコンテンツの作成](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + コンテンツテンプレート {#content-templates}
+      + [コンテンツテンプレートの作成](/help/content-management/templates/create-content-templates.md)
+      + [テンプレート内のコンテンツのロック](/help/content-management/templates/content-locking.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
