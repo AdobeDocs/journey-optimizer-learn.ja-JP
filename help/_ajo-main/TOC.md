@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: b24aa3dab4ac86cf6b7e381b7c72326c24c03dbb
+source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '638'
 ht-degree: 99%
 
 ---
@@ -90,7 +90,6 @@ ht-degree: 99%
    + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
    + [デジタルアセット管理 - 概要](/help/content-management/digital-asset-management-overview.md)
    + [アセットの管理](/help/assets-essentials-overview.md)
-   + [コンテンツテンプレートの管理](/help/content-management/content-templates.md)
    + [フラグメントの管理](/help/content-management/manage-fragments.md)
    + [式フラグメントの作成](/help/content-management/expression-fragments.md)
    + [実験 - 概要](/help/content-management/experimentation-overview.md)
