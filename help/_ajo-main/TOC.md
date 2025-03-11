@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
+source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 99%
+source-wordcount: '635'
+ht-degree: 97%
 
 ---
 
@@ -110,9 +110,9 @@ ht-degree: 99%
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)
-+ 意思決定管理 {#decision-management}
-   + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
-   + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
++ 決定 {#decisioning}
+   + [決定の概要](/help/decision-management/introduction-to-decisioning.md)
+   + [意思決定機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [プレースメントの作成](/help/decision-management/create-placements.md)
    + [ルールの作成](/help/decision-management/create-rules.md)
    + [タグの作成](/help/decision-management/create-tags.md)
