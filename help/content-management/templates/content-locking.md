@@ -1,6 +1,6 @@
 ---
-title: テンプレート内のコンテンツのロック
-description: Adobe Journey Optimizer（AJO）のテンプレートでコンテンツをロックする方法を説明します。 このチュートリアルでは、テンプレートの完全または一部のロック、読み取り専用およびコンテンツロックモードの使用、ロックされたテンプレート内の編集可能な領域の管理方法について説明します。
+title: テンプレートのコンテンツのロック
+description: Adobe Journey Optimizer（AJO）でテンプレートのコンテンツをロックする方法について説明します。このチュートリアルでは、テンプレートの全部または一部をロックする方法、読み取り専用モードとコンテンツロックモードを使用する方法、ロックされたテンプレート内の編集可能な領域を管理する方法について説明します。
 feature: Templates
 topic: Content Management
 role: User
@@ -9,18 +9,18 @@ doc-type: Feature Video
 duration: 279
 last-substantial-update: 2025-03-10T00:00:00Z
 jira: KT-17512
-source-git-commit: 91c629cb549a210a626ef4d9a7fdb851cae64041
-workflow-type: tm+mt
+exl-id: b2da5ddb-8d17-43a0-aea5-bfc5bf7cd444
+source-git-commit: 70f8e11e468fefde74114e10b3d62e302718cdfb
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# テンプレートのコンテンツのロック
 
-# テンプレート内のコンテンツのロック
-
-テンプレートのコンテンツをロックする方法を説明します。 このチュートリアルでは、テンプレートの完全または一部のロック、読み取り専用およびコンテンツロックモードの使用、ロックされたテンプレート内の編集可能な領域の管理方法について説明します。
+テンプレートのコンテンツをロックする方法について説明します。このチュートリアルでは、テンプレートの全部または一部をロックする方法、読み取り専用モードとコンテンツロックモードを使用する方法、ロックされたテンプレート内の編集可能な領域を管理する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
 
-詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/content-locking) を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-templates/content-locking)を参照してください。

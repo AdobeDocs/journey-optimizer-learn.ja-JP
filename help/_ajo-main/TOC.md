@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '635'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -99,9 +99,9 @@ ht-degree: 97%
    + コンテンツ生成用 AI アシスタント {#content-accelerator}
       + [コンテンツ生成用 AI アシスタント - 概要](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [コンテンツ生成用 AI アシスタントを使用したコンテンツの作成](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + コンテンツテンプレート {#content-templates}
+   + コンテンツテンプレート{#content-templates}
       + [コンテンツテンプレートの作成](/help/content-management/templates/create-content-templates.md)
-      + [テンプレート内のコンテンツのロック](/help/content-management/templates/content-locking.md)
+      + [テンプレートのコンテンツのロック](/help/content-management/templates/content-locking.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -112,7 +112,7 @@ ht-degree: 97%
    + [条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)
 + 決定 {#decisioning}
    + [決定の概要](/help/decision-management/introduction-to-decisioning.md)
-   + [意思決定機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
+   + [決定機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [プレースメントの作成](/help/decision-management/create-placements.md)
    + [ルールの作成](/help/decision-management/create-rules.md)
    + [タグの作成](/help/decision-management/create-tags.md)
