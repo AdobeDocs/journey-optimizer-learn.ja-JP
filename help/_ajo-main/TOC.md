@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: fc1d1eeb472e4f9f5230425c16220df86db9dbb7
+source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '662'
 ht-degree: 95%
 
 ---
@@ -95,6 +95,7 @@ ht-degree: 95%
    + [フラグメントの管理](/help/content-management/manage-fragments.md)
    + [式フラグメントの作成](/help/content-management/expression-fragments.md)
    + [実験 - 概要](/help/content-management/experimentation-overview.md)
+   + [GenStudioを使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
    + 多言語メッセージ{#multilingual-messaging}
       + [多言語メッセージの設定](/help/content-management/set-up-multilingual-messages.md)
       + [多言語メッセージの作成](/help/content-management/create-multilingual-messages.md)
