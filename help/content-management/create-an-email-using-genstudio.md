@@ -9,10 +9,10 @@ doc-type: Feature Video
 duration: 324
 last-substantial-update: 2025-03-28T00:00:00Z
 jira: KT-17531
-source-git-commit: 4c3ab10c177c1e314fa09dcc2be356d2ca6d47e8
+source-git-commit: 7d6dfc4ab8e4d8bdfcb51c7512dcafce390d006e
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 8%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 8%
 >
 >この機能は、メールチャネルでのみ使用できます。
 
-メールテンプレートをJourney OptimizerからGenStudio for Performance Marketingに書き出し、GenStudioのテンプレートを使用してブランドに準拠したメールを作成し、Journey Optimizerにシームレスに読み込むプロセスを説明します。
+メールテンプレートを [!DNL Journey Optimizer] から [!DNL GenStudio for Performance Marketing] に書き出し、[!DNL GenStudio] のテンプレートを使用してブランドに準拠したメールを作成し、[!DNL Journey Optimizer] にシームレスに読み込むプロセスを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
