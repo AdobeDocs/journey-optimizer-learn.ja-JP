@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
 source-wordcount: '662'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 95%
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [ オーディエンスをオンデマンドで評価 ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [オンデマンドでのオーディエンスの評価](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
    + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
@@ -91,7 +91,7 @@ ht-degree: 95%
    + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
    + [デジタルアセット管理 - 概要](/help/content-management/digital-asset-management-overview.md)
    + [アセットの管理](/help/assets-essentials-overview.md)
-   + [Adobe Expressでのアセットの編集](/help/content-management/edit-assets-with-adobe-express.md)
+   + [Adobe Express を使用したアセットの編集](/help/content-management/edit-assets-with-adobe-express.md)
    + [フラグメントの管理](/help/content-management/manage-fragments.md)
    + [式フラグメントの作成](/help/content-management/expression-fragments.md)
    + [実験 - 概要](/help/content-management/experimentation-overview.md)
@@ -113,11 +113,11 @@ ht-degree: 95%
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)
-+ 決定機能 {#decision-capabilities}
++ 決定機能{#decision-capabilities}
    + 決定 {#decisioning}
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
-      + [エンドツーエンドの意思決定のチュートリアル](/help/decisioning/decisioning-end-to-end.md)
-   + 決定管理 {#decision-management}
+      + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
+   + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
       + [プレースメントの作成](/help/decision-management/create-placements.md)
