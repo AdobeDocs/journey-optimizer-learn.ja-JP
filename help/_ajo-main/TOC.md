@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 99%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-+ Journey Optimizer の紹介 {#introduction-to-journey-optimizer}
++ Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
-   + [Journey Optimizer の紹介](/help/introduction/introduction.md)
+   + [Journey Optimizer の概要](/help/introduction/introduction.md)
    + [主な機能とユーザーインターフェイス](/help/introduction/key-capabilities-and-user-interface.md)
    + [アーキテクチャ](/help/introduction/architecture.md)
    + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
@@ -45,7 +45,7 @@ ht-degree: 99%
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [ライブジャーニーのコンテンツの更新](/help/create-journeys/update-content-in-live-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
-+ プロファイル、オーディエンスおよびサブスクリプション{#profiles-audiences-subscriptions}
++ プロファイル、オーディエンスおよび購読 {#profiles-audiences-subscriptions}
    + [プロファイルとオーディエンス - 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
@@ -95,8 +95,8 @@ ht-degree: 99%
    + [フラグメントの管理](/help/content-management/manage-fragments.md)
    + [式フラグメントの作成](/help/content-management/expression-fragments.md)
    + [実験 - 概要](/help/content-management/experimentation-overview.md)
-   + [GenStudioを使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
-   + 多言語メッセージ{#multilingual-messaging}
+   + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
+   + 多言語メッセージ {#multilingual-messaging}
       + [多言語メッセージの設定](/help/content-management/set-up-multilingual-messages.md)
       + [多言語メッセージの作成](/help/content-management/create-multilingual-messages.md)
    + コンテンツ生成用 AI アシスタント {#content-accelerator}
