@@ -8,13 +8,13 @@ doc-type: Tutorial
 duration: 505
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16344
-source-git-commit: e9475f732cd4bc5b32bf6b0ebcc01cdd102ca353
+exl-id: 9237122b-cd98-4ad0-bd64-7a3407116f86
+source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # ユースケース – 顧客のオンボーディング（チュートリアル）
 
