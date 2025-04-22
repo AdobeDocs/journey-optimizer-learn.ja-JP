@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 4c7d047593ce5c8be7b8120ce65a9363a4e088fe
+source-git-commit: bc284bc408bb05e9454b3de4193b05c95643797b
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 99%
@@ -96,7 +96,7 @@ ht-degree: 99%
    + フラグメントの操作 {#fragments}
       + [フラグメントの管理](/help/content-management/manage-fragments.md)
       + [式フラグメントの作成](/help/content-management/expression-fragments.md)
-      + [AEM コンテンツフラグメントの使用](/help/content-management/aem_content_fragments.md)
+      + [AEM コンテンツフラグメントの使用](/help/content-management/aem-content-fragments.md)
    + コンテンツテンプレート{#content-templates}
       + [コンテンツテンプレートの作成](/help/content-management/templates/create-content-templates.md)
       + [テンプレートのコンテンツのロック](/help/content-management/templates/content-locking.md)
