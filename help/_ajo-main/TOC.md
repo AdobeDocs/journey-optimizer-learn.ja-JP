@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: ht
-source-wordcount: '662'
-ht-degree: 100%
+source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
+workflow-type: tm+mt
+source-wordcount: '671'
+ht-degree: 99%
 
 ---
 
@@ -89,22 +89,25 @@ ht-degree: 100%
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
 + コンテンツ管理{#content-management}
    + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
-   + [デジタルアセット管理 - 概要](/help/content-management/digital-asset-management-overview.md)
-   + [アセットの管理](/help/assets-essentials-overview.md)
-   + [Adobe Express を使用したアセットの編集](/help/content-management/edit-assets-with-adobe-express.md)
-   + [フラグメントの管理](/help/content-management/manage-fragments.md)
-   + [式フラグメントの作成](/help/content-management/expression-fragments.md)
-   + [実験 - 概要](/help/content-management/experimentation-overview.md)
-   + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
+   + [ アセットの管理 ]{#assets}
+      + [デジタルアセット管理 - 概要](/help/content-management/digital-asset-management-overview.md)
+      + [アセットの管理](/help/assets-essentials-overview.md)
+      + [Adobe Express を使用したアセットの編集](/help/content-management/edit-assets-with-adobe-express.md)
+   + フラグメントの操作 {#fragments}
+      + [フラグメントの管理](/help/content-management/manage-fragments.md)
+      + [式フラグメントの作成](/help/content-management/expression-fragments.md)
+      + [AEM コンテンツフラグメントの使用](/help/content-management/aem_content_fragments.md)
+   + コンテンツテンプレート{#content-templates}
+      + [コンテンツテンプレートの作成](/help/content-management/templates/create-content-templates.md)
+      + [テンプレートのコンテンツのロック](/help/content-management/templates/content-locking.md)
    + 多言語メッセージ {#multilingual-messaging}
       + [多言語メッセージの設定](/help/content-management/set-up-multilingual-messages.md)
       + [多言語メッセージの作成](/help/content-management/create-multilingual-messages.md)
    + コンテンツ生成用 AI アシスタント {#content-accelerator}
       + [コンテンツ生成用 AI アシスタント - 概要](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [コンテンツ生成用 AI アシスタントを使用したコンテンツの作成](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + コンテンツテンプレート{#content-templates}
-      + [コンテンツテンプレートの作成](/help/content-management/templates/create-content-templates.md)
-      + [テンプレートのコンテンツのロック](/help/content-management/templates/content-locking.md)
+   + [実験 - 概要](/help/content-management/experimentation-overview.md)
+   + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
