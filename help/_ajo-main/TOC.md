@@ -5,8 +5,8 @@ user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
