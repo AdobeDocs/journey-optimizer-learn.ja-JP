@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: b85a915543769e5af2e873bc7c1cb57286d78fe8
+source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '678'
 ht-degree: 98%
 
 ---
@@ -117,6 +117,7 @@ ht-degree: 98%
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)
+   + [Personalization エディタープレイグラウンド](/help/personalize-content/personalization-editor-playground.md)
 + 決定機能{#decision-capabilities}
    + 決定 {#decisioning}
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
