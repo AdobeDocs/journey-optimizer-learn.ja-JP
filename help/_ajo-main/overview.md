@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '375'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="AI アシスタントコンテンツアクセラレーターを使用してコンテンツを作成（ビデオ）" src="../assets/3434635.jpg"/>
+      <img alt="AI アシスタントコンテンツアクセラレーターを使用したコンテンツの作成（ビデオ）" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>AI Assistant コンテンツ アクセラレータを使用してコンテンツを作成する </strong>
+    <strong>AI アシスタントコンテンツアクセラレーターを使用したコンテンツの作成</strong>
     </a>
     </div>
     <p>
-    <em>AI アシスタントコンテンツアクセラレーターを使用して、テキストと画像の両方にプロアクティブなコンテンツバリエーション提案を生成する方法を説明します。
+    <em>AI アシスタントコンテンツアクセラレーターを使用して、テキストと画像の両方に対してプロアクティブなコンテンツバリエーションの提案を生成する方法について説明します。
 </em>
     <p>
   </td>
