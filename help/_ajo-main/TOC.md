@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
+source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '696'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 0%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
+
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の概要](/help/introduction/introduction.md)
@@ -181,7 +182,13 @@ ht-degree: 0%
 + 演習と課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
    + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
-+ [Experience League ライブ番組録画](/help/experience-league-live-show-recordings.md)
++ [Experience League Live の録画](/help/experience-league-live-show-recordings.md)
++ Web SDKを使用したオーディエンスの作成 {#tutorial-creating-audiences}
+   + [はじめに](../tutorial-creating-audience/introduction.md)
+   + [スキーマ、データセットを作成…等](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [AEP タグの作成](../tutorial-creating-audience/create-aep-tags.md)
+   + [Web フォームの作成](../tutorial-creating-audience/create-web-form.md)
+   + [ ソリューションのデバッグ ](../tutorial-creating-audience/debug.md)
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [チートシート](/help/summit-lab-assets/l535-assets.md)
