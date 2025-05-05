@@ -22,4 +22,4 @@ ht-degree: 15%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
-詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets)を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/rule-sets)を参照してください。

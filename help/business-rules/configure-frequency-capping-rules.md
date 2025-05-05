@@ -22,4 +22,4 @@ ht-degree: 65%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
-詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules)を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/frequency-rules)を参照してください。

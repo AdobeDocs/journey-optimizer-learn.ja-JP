@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> このビデオは、Experience League で無償で利用できる[意思決定管理の基本を学ぶ（マーケター向け）](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)コースの一部です。
+> このビデオは、Experience League で無償で利用できる[意思決定管理の基本を学ぶ（マーケター向け）](https://experienceleague.adobe.com/?lang=ja&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)コースの一部です。

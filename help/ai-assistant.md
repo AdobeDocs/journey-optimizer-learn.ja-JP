@@ -22,4 +22,4 @@ Real-time Customer Data Platform、Journey Optimizer、Customer Journey Analytic
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Journey Optimizerでサポートされているユースケースについて詳しくは、[AI アシスタントの操作 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) を参照してください。 詳細なドキュメントについては、[Adobe Experience Platformの AI アシスタント ](https://experienceleague.adobe.com/ja/docs/experience-platform/ai-assistant/home) ドキュメントを参照してください。
+Journey Optimizerでサポートされているユースケースについて詳しくは、[AI アシスタントの操作 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/ai-assistant) を参照してください。 詳細なドキュメントについては、[Adobe Experience Platformの AI アシスタント ](https://experienceleague.adobe.com/ja/docs/experience-platform/ai-assistant/home) ドキュメントを参照してください。

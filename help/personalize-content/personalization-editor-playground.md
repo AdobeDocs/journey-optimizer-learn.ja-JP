@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Personalization エディタープレイグラウンド
 
-[ パーソナライゼーションエディターのプレイグラウンド ](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#) は、ライブデータセットを必要とせずに、サンプルデータを使用してパーソナライゼーションコードを記述およびテストするシミュレーション環境を提供します。
+[ パーソナライゼーションエディターのプレイグラウンド ](https://experienceleague.adobe.com/ja/apps/journey-optimizer/ajo-personalization#) は、ライブデータセットを必要とせずに、サンプルデータを使用してパーソナライゼーションコードを記述およびテストするシミュレーション環境を提供します。
 
 事前定義済みのコードサンプルの活用、ダミーのプロファイルペイロードの編集、パーソナライゼーションコードの出力のリアルタイムでのプレビュー方法を説明します。
 
