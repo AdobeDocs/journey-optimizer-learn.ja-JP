@@ -25,4 +25,4 @@ Adobe Journey Optimizer の多言語メッセージ機能を使用すると、1 
 
 自動翻訳用の翻訳プロジェクトを設定する方法と、多言語メッセージの手動翻訳および自動翻訳プロジェクトに必要な言語設定について説明します。
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453544/?learn=on&captions=jpn)

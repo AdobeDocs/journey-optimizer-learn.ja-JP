@@ -19,7 +19,7 @@ ht-degree: 100%
 
 次のビデオチュートリアルでは、データセットを作成しデータを手動で取り込む方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416782?quality=12&learn=on&captions=jpn){transcript=true}
 
 次のデータセットを作成します。
 

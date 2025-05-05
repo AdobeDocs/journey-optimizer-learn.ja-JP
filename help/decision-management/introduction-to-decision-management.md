@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Journey Optimizer の意思決定管理の概要について説明します。このビデオでは、意思決定管理機能が解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主なユースケースについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340416?quality=12&learn=on&captions=jpn){transcript=true}
 
 
 

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 意思決定管理の[決定](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?lang=ja)を作成する方法を説明します。決定は、プレースメントとコレクションを 1 つのエンティティに組み合わせたものなので、最も関連性の高いオファーを顧客に提供するように決定を作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346695?quality=12&learn=on&captions=jpn){transcript=true}
 
 Batch Decisioning API を使用して決定を作成する方法について詳しくは、[製品ガイド](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html?lang=ja)を参照してください。

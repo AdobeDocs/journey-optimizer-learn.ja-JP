@@ -27,6 +27,6 @@ Journey Optimizer から Amazon S3 の宛先にデータセットを書き出す
 >[!NOTE]
 >ベータ版では、すべてのデータセットが表示されます。この機能が一般提供されると、システムで生成されたデータセットのみに制限されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432008/?quality=12&learn=on&captions=jpn){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=ja)を参照してください。

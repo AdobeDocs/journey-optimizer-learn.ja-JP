@@ -21,4 +21,4 @@ ht-degree: 100%
 
 条件ルールを作成および保存する方法と、それらの条件ルールをすべてのチャネルのコンテンツに適用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409815?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413673?quality=12&learn=on&captions=jpn){transcript=true}

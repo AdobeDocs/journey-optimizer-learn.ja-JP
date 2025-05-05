@@ -21,4 +21,4 @@ ht-degree: 68%
 
 ジャーニーの様々な状態と公開の影響を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427936?quality=12&learn=on&captions=jpn){transcript=true}

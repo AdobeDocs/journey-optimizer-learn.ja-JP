@@ -21,4 +21,4 @@ ht-degree: 100%
 
 データマスキングとは何か、またデータをマスクする必要がある場合と理由について理解します。 Journey Optimizer メッセージのデータマスクを行う方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413048?quality=12&learn=on&captions=jpn){transcript=true}

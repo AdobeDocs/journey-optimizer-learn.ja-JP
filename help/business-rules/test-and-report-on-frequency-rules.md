@@ -23,4 +23,4 @@ ht-degree: 66%
 
 頻度ルールをテストし、レポートする方法を説明します。 メッセージに継承する頻度ルールを決定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411124?quality=12&learn=on&captions=jpn){transcript=true}

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 トランザクションジャーニーに適したユースケースと、トランザクションジャーニーの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416049?quality=12&learn=on&captions=jpn){transcript=true}

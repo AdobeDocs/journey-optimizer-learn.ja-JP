@@ -20,4 +20,4 @@ ht-degree: 100%
 
 CNAME を使用してサブドメインを作成しアドビ固有のレコードを指すようにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339484?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342236?quality=12&learn=on&captions=jpn){transcript=true}

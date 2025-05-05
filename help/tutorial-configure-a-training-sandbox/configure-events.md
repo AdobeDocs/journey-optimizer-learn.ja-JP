@@ -21,7 +21,7 @@ ht-degree: 100%
 
 次のビデオでは、イベントの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431517?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## Luma オンライン購入イベントの作成
 

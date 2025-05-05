@@ -20,4 +20,4 @@ ht-degree: 100%
 
 カスタマージャーニーをパーソナライズするために、統合プロファイルを作成し、プロファイル属性にもとづいてセグメントを構築する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345510?quality=12&learn=on&captions=jpn){transcript=true}

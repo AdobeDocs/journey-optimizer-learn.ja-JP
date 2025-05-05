@@ -23,4 +23,4 @@ ht-degree: 100%
 
 多言語メッセージ機能を使用すると、1 つのキャンペーンまたはジャーニー内で複数の言語のコンテンツを作成できます。Journey Optimizer で多言語メッセージを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452114/?learn=on&captions=jpn)

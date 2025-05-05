@@ -23,4 +23,4 @@ ht-degree: 100%
 
 デフォルトのプロバイダーである Sinch、Infobip、Twilio 以外の追加の SMS プロバイダーを Journey Optimizer 内で追加および設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432088/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443629/?learn=on&captions=jpn)

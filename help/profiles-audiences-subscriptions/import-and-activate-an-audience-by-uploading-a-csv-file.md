@@ -20,4 +20,4 @@ ht-degree: 100%
 
 CSV ファイルをアップロードして、オーディエンスを効率的に読み込み、アクティブ化する方法について説明します。CSV ファイルのエンリッチメント属性を使用してコンテンツをパーソナライズし、オーディエンスに合わせてより調整されたエクスペリエンスを実現する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444344/?learn=on&enablevpops&captions=jpn)

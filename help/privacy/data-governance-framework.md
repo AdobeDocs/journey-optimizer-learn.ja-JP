@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Adobe Experience Platform のデータガバナンスフレームワークについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34106/?learn=on&captions=jpn)
 
 Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)について詳しくは、製品ドキュメントを参照してください。
 

@@ -30,4 +30,4 @@ Journey Optimizer web エディターでシングルページアプリケーシ�
 
 詳しくは、[web チャネルドキュメントの概要](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=ja)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446886/?learn=on&captions=jpn)

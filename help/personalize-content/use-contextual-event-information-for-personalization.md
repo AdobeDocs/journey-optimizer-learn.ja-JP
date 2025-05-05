@@ -21,4 +21,4 @@ ht-degree: 100%
 
 ジャーニーのコンテキストイベント情報を使用してメッセージをパーソナライズする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425027?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428530?quality=12&learn=on&captions=jpn){transcript=true}

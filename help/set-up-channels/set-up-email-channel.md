@@ -23,4 +23,4 @@ ht-degree: 100%
 
 メッセージプリセットを作成する方法とその使用方法、およびサブドメインをデリゲートして IP プールを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416785?quality=12&learn=on&captions=jpn){transcript=true}

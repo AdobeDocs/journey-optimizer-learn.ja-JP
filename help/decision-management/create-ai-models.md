@@ -21,4 +21,4 @@ ht-degree: 100%
 Offer Decisioning 用の AI モデルを作成する方法と、モデルを決定に適用する方法を説明します。
 機能：オファー
 
->[!VIDEO](https://video.tv.adobe.com/v/3419959/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444665/?learn=on&captions=jpn){transcript=true}

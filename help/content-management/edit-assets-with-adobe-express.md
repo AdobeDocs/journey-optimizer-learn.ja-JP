@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Adobe Express ツールを使用して Adobe Journey Optimizer でアセットを編集する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455524/?learn=on&enablevpops&captions=jpn)
 
 コンテンツエディターからこの機能にアクセスする方法について詳しくは、[Journey Optimizer 製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/assets-images/express)を参照してください。Adobe Express について詳しくは、[このドキュメント](https://helpx.adobe.com/jp/express/user-guide.html)を参照してください。

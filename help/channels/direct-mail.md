@@ -20,4 +20,4 @@ ht-degree: 100%
 
 ダイレクトメールチャネルの設定方法と、ダイレクトメールキャンペーンの作成およびプレビュー方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449355/?learn=on&captions=jpn){transcript=true}

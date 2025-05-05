@@ -18,4 +18,4 @@ ht-degree: 100%
 
 ブランドが意思決定管理を使用して、オファーの定義と管理、リアルタイム顧客データの適用、お客様が期待する適切なエクスペリエンスの提供を行う方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340470?quality=12&learn=on&captions=jpn){transcript=true}

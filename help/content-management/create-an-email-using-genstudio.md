@@ -27,6 +27,6 @@ ht-degree: 100%
 
 [!DNL Journey Optimizer] から [!DNL GenStudio for Performance Marketing] にメールテンプレートを書き出し、[!DNL GenStudio] のテンプレートを使用してブランドに準拠したメールを作成し、[!DNL Journey Optimizer] にシームレスに読み込むプロセスについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456050/?learn=on&enablevpops&captions=jpn)
 
 [!DNL GenStudio for Performance Marketing] について詳しくは、[[!DNL Adobe GenStudio for Performance Marketing] ユーザーガイド](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}または [Adobe GenStudio for Performance Marketing チュートリアル](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing-learn/tutorials/overview)を参照してください。

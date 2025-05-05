@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Journey Optimizer で意思決定管理コンポーネントをメッセージに追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416051?quality=12&learn=on&captions=jpn){transcript=true}

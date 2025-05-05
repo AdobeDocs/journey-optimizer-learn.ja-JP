@@ -24,6 +24,6 @@ ht-degree: 100%
 
 アクションを直ちに実行するか、指定したスケジュールで実行して、特定のオーディエンスに 1 回限りのコンテンツを配信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412405?quality=12&learn=on&captions=jpn){transcript=true}
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=ja)を参照してください。

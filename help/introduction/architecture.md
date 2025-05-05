@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer の基本的なアーキテクチャ、統合のポイント、Journey Optimizer と他のアドビアプリケーションとの関係を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416053?quality=12&learn=on&captions=jpn){transcript=true}

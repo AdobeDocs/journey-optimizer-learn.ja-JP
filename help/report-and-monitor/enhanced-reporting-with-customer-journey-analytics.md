@@ -21,4 +21,4 @@ ht-degree: 100%
 Journey Optimizer レポートは Customer Journey Analytics 機能と完全に統合されるようになりました。これにより、両方のプラットフォームをまたいでレポートが標準化され、データの一貫性と信頼性が向上します。Journey Optimizer と Customer Journey Analytics のシームレスな統合により、パフォーマンス指標がより明確に表示され、ユーザーはより多くの情報に基づいて意思決定を行うことができます。
 ドキュメントについて詳しくは、[Customer Journey Analyticsでの分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443152/?learn=on&captions=jpn)

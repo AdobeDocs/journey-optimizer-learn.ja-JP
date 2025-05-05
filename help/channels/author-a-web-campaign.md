@@ -23,4 +23,4 @@ Journey Optimizer キャンペーンで web ビジュアルエディターを使
 >[!NOTE]
 > Web サイトを Adobe Journey Optimizer に読み込めるようにするには、[Adobe Experience Cloud Visual Editing Helper Chrome 拡張機能](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca)をインストールする必要があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452636/?quality=12&learn=on&captions=jpn){transcript=true}

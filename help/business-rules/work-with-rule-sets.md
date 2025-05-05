@@ -20,6 +20,6 @@ ht-degree: 15%
 
 顧客のフリークエンシーキャップ ルールセットを作成して、通信タイプに基づいて、顧客に送信される通信の数を制限する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444727/?learn=on&enablevpops&captions=jpn)
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/rule-sets)を参照してください。

@@ -22,7 +22,7 @@ ht-degree: 100%
 
 IP ウォーミングの概要と、Adobe Journey Optimizer で IP ウォームアッププランを設定および実行する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453841/?learn=on&captions=jpn)
 
 [ターゲティング条件](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria)、[IP ウォーミング時の ISP 固有の考慮事項](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming)、IP ウォーミング時の[ボリューム](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume)に関するベストプラクティスについては、[配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/introduction)を参照してください。
 

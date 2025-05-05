@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Litmus を使用してインボックスをまたぐメールのレンダリングをテストする方法や、テストプロファイルに合わせてパーソナライズされたメールをプレビューし、配達確認を送信し、メールを公開する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430339?quality=12&learn=on&captions=jpn){transcript=true}

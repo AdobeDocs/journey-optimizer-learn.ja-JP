@@ -22,4 +22,4 @@ ht-degree: 100%
 
 新しく再設計されたジャーニーキャンバスと、ジャーニーでライブレポートを活用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443596/?learn=on&captions=jpn){transcript=true}

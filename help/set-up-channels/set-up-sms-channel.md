@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Journey Optimizer を SMS サービスプロバイダーに接続する方法と SMS チャネルサーフェスを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418546?quality=12&learn=on&captions=jpn){transcript=true}

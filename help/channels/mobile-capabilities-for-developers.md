@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer が提供するデベロッパー向けのモバイル機能について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344617?quality=12&learn=on&captions=jpn){transcript=true}

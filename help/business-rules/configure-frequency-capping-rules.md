@@ -20,6 +20,6 @@ ht-degree: 65%
 
 フリークエンシーキャップルールの設定方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433396/?learn=on&captions=jpn)
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/frequency-rules)を参照してください。

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Journey Optimizer のキャンペーンとジャーニーで SMS メッセージを設定、作成および配信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420509?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422696?quality=12&learn=on&captions=jpn){transcript=true}

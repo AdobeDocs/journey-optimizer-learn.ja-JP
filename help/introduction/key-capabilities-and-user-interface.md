@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Journey Optimizer の主な機能とペルソナを理解します。ユーザーインターフェイスのナビゲーション方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430316?quality=12&learn=on&captions=jpn){transcript=true}

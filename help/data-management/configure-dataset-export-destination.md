@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer からクラウドストレージの場所にデータセットを書き出す方法について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=ja)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448819/?learn=on&captions=jpn)

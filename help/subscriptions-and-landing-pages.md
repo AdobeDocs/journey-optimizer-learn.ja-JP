@@ -23,4 +23,4 @@ ht-degree: 100%
 * メッセージでサブスクリプション（解除）オプションを統合する
 * 関連するジャーニーの設定
 
->[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344400?quality=12&learn=on&captions=jpn){transcript=true}

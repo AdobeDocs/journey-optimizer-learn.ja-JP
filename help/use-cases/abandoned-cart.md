@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizerのプレイブック機能を使用して、放棄された買い物かごのユースケースを実装する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443965/?learn=on&enablevpops&captions=jpn)

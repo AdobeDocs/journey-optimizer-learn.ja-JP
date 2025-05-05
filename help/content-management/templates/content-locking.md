@@ -21,6 +21,6 @@ ht-degree: 100%
 
 テンプレートのコンテンツをロックする方法について説明します。このチュートリアルでは、テンプレートの全部または一部をロックする方法、読み取り専用モードとコンテンツロックモードを使用する方法、ロックされたテンプレート内の編集可能な領域を管理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451608/?learn=on&enablevpops&captions=jpn){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-templates/content-locking)を参照してください。

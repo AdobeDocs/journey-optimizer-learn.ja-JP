@@ -20,5 +20,5 @@ ht-degree: 100%
 
 ゼロから電子メールを作成する方法を説明します。Adobe Experience Manager Assets Essentials ライブラリのアセットの使用方法、レスポンシブメールデザインの編集方法およびテンプレートからのメールの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416418?quality=12&learn=on&captions=jpn){transcript=true}
 

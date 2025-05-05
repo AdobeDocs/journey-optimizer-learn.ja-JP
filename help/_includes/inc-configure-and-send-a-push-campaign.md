@@ -9,4 +9,4 @@ ht-degree: 100%
 
 キャンペーンでプッシュ通知を設定して送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452702/?learn=on&captions=jpn){transcript=true}

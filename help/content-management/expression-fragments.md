@@ -22,4 +22,4 @@ ht-degree: 100%
 
 式フラグメントを作成および使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438918/?learn=on&captions=jpn)

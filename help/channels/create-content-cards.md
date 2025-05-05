@@ -22,4 +22,4 @@ ht-degree: 100%
 
 アプリケーションのコンテンツカードを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434784/?learn=on&captions=jpn)

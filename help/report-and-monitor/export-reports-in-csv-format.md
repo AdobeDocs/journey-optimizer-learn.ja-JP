@@ -21,4 +21,4 @@ ht-degree: 100%
 
 レポートと単一のウィジェットの CSV レポートをダウンロードする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439606/?learn=on&captions=jpn)
