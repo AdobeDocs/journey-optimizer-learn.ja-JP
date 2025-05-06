@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
+source-git-commit: 036ac1b9cf1618ff1e4727fc1560dee8dddb7c9f
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 95%
+source-wordcount: '707'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
+   + [ オーケストレーションをオムニチャネルエンゲージメントに拡大 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement){target="_blank"}
 
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
@@ -190,6 +191,6 @@ ht-degree: 95%
    + [Web フォームの作成](../tutorial-creating-audience/create-web-form.md)
    + [ ソリューションのデバッグ ](../tutorial-creating-audience/debug.md)
 + サミットラボ {#summit-labs}
-   + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
-   + [チートシート](/help/summit-lab-assets/l535-assets.md)
-   + [モバイルアプリのインストール](/help/summit-lab-assets/install-mobile-app.md)
+   + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年） ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+
