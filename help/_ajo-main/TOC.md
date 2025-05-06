@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 3d57364544365d1843904a9fb44e5aa393db4422
+source-git-commit: 87cc9b6421a9d5fe5a663b85d6e0ba3addf623a9
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 93%
+source-wordcount: '711'
+ht-degree: 91%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 93%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [ オーケストレーションをオムニチャネルエンゲージメントに拡大](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ オーケストレーションをオムニチャネルエンゲージメントに拡大 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
@@ -108,7 +108,7 @@ ht-degree: 93%
       + [多言語メッセージの作成](/help/content-management/create-multilingual-messages.md)
    + コンテンツ生成用 AI アシスタント {#ai-assistant}
       + [コンテンツ生成用 AI アシスタント - 概要](/help/content-management/ai-assistant-for-content-generation-overview.md)
-      + [コンテンツ生成用 AI アシスタントを使用したコンテンツの作成](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
+      + [ コンテンツ生成用の AI アシスタントを使用したコンテンツの作成 ] （/help/content-management/create-content-using-ai-assistant-for-content-generation. md）
    + [実験 - 概要](/help/content-management/experimentation-overview.md)
    + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
 + コンテンツのパーソナライズ {#personalize-content}
@@ -192,5 +192,5 @@ ht-degree: 93%
    + [ ソリューションのデバッグ ](../tutorial-creating-audience/debug.md)
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年） ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
