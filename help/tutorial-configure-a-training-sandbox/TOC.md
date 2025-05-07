@@ -6,10 +6,11 @@ breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/intro
 index: false
 role: Admin
 level: Beginner
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+auto-video-transcripts: true
+source-git-commit: 007d349d95e4fa2a84dfb4f0830fba8af4cf106b
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 100%
+ht-degree: 84%
 
 ---
 
