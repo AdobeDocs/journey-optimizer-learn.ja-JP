@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17875
 index: false
 exl-id: e3a93300-e5db-4c8b-8afc-18f101db93d0
-source-git-commit: 4bc6062a440fb62b8a05c1bcfb5244eb75fb72c8
+source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 6%
 
 ---
 
@@ -26,3 +26,7 @@ ht-degree: 0%
 この演習では、例として動的コンテンツを SMS に適用しますが、すべてのチャネルに適用できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
+
+## その他のリソース
+
+* [条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)
