@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: f24ee1c6024e7ed7242448fe119a1437d6a69cb6
+source-git-commit: 55af4c67ad3839ac306416bdf58d7d98602cd8d3
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 93%
+source-wordcount: '726'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,6 @@ ht-degree: 93%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [ オーケストレーションをオムニチャネルエンゲージメントに拡大](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
@@ -190,7 +189,19 @@ ht-degree: 93%
    + [AEP タグの作成](../tutorial-creating-audience/create-aep-tags.md)
    + [Web フォームの作成](../tutorial-creating-audience/create-web-form.md)
    + [ ソリューションのデバッグ ](../tutorial-creating-audience/debug.md)
++ Web ページでの決定 {#getting-started-with-decisioning-webpage}
+   + [導入](../getting-started-with-decisioning-webpage/introduction.md)
+   + [タグの作成](../getting-started-with-decisioning-webpage/create-tags.md)
+   + [オファーを作成](../getting-started-with-decisioning-webpage/create-offers.md)
+   + [コレクションを作成](../getting-started-with-decisioning-webpage/create-collection.md)
+   + [選択戦略を作成](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
+   + [チャネルを作成](../getting-started-with-decisioning-webpage/create-channel.md)
+   + [キャンペーンを作成](../getting-started-with-decisioning-webpage/create-campaign.md)
+   + [決定ポリシーの作成](../getting-started-with-decisioning-webpage/create-decision-policy.md)
+   + [AEP タグの作成](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+   + [Web ページを作成](../getting-started-with-decisioning-webpage/create-web-page.md)
+
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年） ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
