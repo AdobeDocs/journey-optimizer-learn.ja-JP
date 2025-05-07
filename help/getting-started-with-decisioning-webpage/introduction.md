@@ -7,15 +7,15 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: 9695a4db0d0caa44a8c7d49e069320309ffc40a6
+exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
+source-git-commit: 5ab637d9b9955ab334ee67ed887e34026b04206d
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '271'
 ht-degree: 1%
 
 ---
 
-
-# ユーザーの投資環境設定（株式、債券、CD）に基づくAJO オーディエンスの作成
+# オーディエンスに基づくAJO Decisioning を使用した Web ページオファーのパーソナライズ
 
 このチュートリアルは、Adobe Experience Platform（AEP） web SDKを使用して以前に作成したオーディエンスセグメント化の設定に基づいています。 前のチュートリアルでは、ユーザー環境設定（株式に対する関心、債券、預金証書（CD）など）が取得され、Adobe Experience Platform（AEP）内で個人をターゲットオーディエンスにセグメント化するために使用されました。 このチュートリアルでは、その基盤に基づき、Adobe Journey Optimizer（AJO） Decisioning を使用して、パーソナライズされたオファーをリアルタイムでこれらのオーディエンスに提供し、エンゲージメントとコンバージョンの両方の成果を高めます。
 
@@ -47,8 +47,3 @@ ht-degree: 1%
 * AEP Web SDK（Alloy.js）
 * AEP Edgeのセグメント化
 * オファーを表示する web ページ
-
-
-
-
-
