@@ -202,6 +202,6 @@ ht-degree: 92%
    + [Web ページを作成](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + サミットラボ {#summit-labs}
-   + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
