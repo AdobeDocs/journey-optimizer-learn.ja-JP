@@ -19,7 +19,7 @@ ht-degree: 89%
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
    + [ ユーザーの環境設定に基づいたオーディエンスの作成 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
    + [Web ページでの決定 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
-   + [ オーケストレーションをオムニチャネルエンゲージメントに拡大 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ オーケストレーションをオムニチャネルエンゲージメントに拡大](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
@@ -207,5 +207,5 @@ ht-degree: 89%
 
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年） ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
