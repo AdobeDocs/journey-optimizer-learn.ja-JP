@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: a675979bc590190e0481e63efbc2cfd30752b7c0
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 13%
 
 ---
-
 
 # 決定ポリシーの作成
 
@@ -42,4 +42,4 @@ ht-degree: 13%
 このコードは、ユーザーに選択されたパーソナライズされたオファーのリストを処理し、web ページに各オファーのテキストを表示します。 このモードでは、段落内の各オファーからのメッセージ（offerText と呼ばれます）が表示されるので、ユーザーはカスタマイズされたコンテンツを明確に確認できます。
 パーソナライズされたオファーがない場合は、フォールバックオファーが表示され、スペースが空白のままになりません。
 
-「保存」をクリックして、キャンペーンを有効化します
+「保存」をクリックして、キャンペーンをアクティブ化します。
