@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
 workflow-type: tm+mt
 source-wordcount: '751'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 89%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [ ユーザーの環境設定に基づいたオーディエンスの作成 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Web ページでの決定 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
-   + [ オーケストレーションをオムニチャネルエンゲージメントに拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [ ユーザーの環境設定に基づいたオーディエンスの作成 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [Web ページでの決定 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
@@ -97,7 +97,7 @@ ht-degree: 89%
    + アセットの管理 {#assets}
       + [デジタルアセット管理 - 概要](/help/content-management/digital-asset-management-overview.md)
       + [アセットの管理](/help/assets-essentials-overview.md)
-      + [AEM Dynamic Media との統合](/help/content-management/aem-dynamic-media-integration.md)
+      + [AEM Dynamic Media の統合](/help/content-management/aem-dynamic-media-integration.md)
       + [Adobe Express を使用したアセットの編集](/help/content-management/edit-assets-with-adobe-express.md)
    + フラグメントの操作 {#fragments}
       + [フラグメントの管理](/help/content-management/manage-fragments.md)
@@ -122,7 +122,7 @@ ht-degree: 89%
    + [パーソナライゼーションへのヘルパー関数の使用](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)
-   + [Personalization エディタープレイグラウンド](/help/personalize-content/personalization-editor-playground.md)
+   + [パーソナライゼーションエディタープレイグラウンド](/help/personalize-content/personalization-editor-playground.md)
 + 決定機能{#decision-capabilities}
    + 決定 {#decisioning}
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
@@ -186,13 +186,13 @@ ht-degree: 89%
 + 演習と課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
    + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
-+ [Experience League Live の録画](/help/experience-league-live-show-recordings.md)
-+ Web SDKを使用したオーディエンスの作成 {#tutorial-creating-audiences}
++ [Experience League ライブ番組録画](/help/experience-league-live-show-recordings.md)
++ Web SDK を使用したオーディエンスの作成 {#tutorial-creating-audiences}
    + [はじめに](../tutorial-creating-audience/introduction.md)
-   + [スキーマ、データセットを作成…等](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [スキーマ、データセットなどの作成](../tutorial-creating-audience/create-schema-and-dataset.md)
    + [AEP タグの作成](../tutorial-creating-audience/create-aep-tags.md)
    + [Web フォームの作成](../tutorial-creating-audience/create-web-form.md)
-   + [ ソリューションのデバッグ ](../tutorial-creating-audience/debug.md)
+   + [ソリューションのデバッグ](../tutorial-creating-audience/debug.md)
 + Web ページでの決定 {#getting-started-with-decisioning-webpage}
    + [導入](../getting-started-with-decisioning-webpage/introduction.md)
    + [タグの作成](../getting-started-with-decisioning-webpage/create-tags.md)
@@ -207,5 +207,5 @@ ht-degree: 89%
 
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Adobe Journey Optimizerでのオムニチャネルエンゲージメントに対するオーケストレーションのスケーリング（2025 年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
