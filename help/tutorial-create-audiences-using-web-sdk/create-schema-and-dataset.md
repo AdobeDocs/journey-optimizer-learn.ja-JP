@@ -20,7 +20,7 @@ ht-degree: 0%
 
 * Adobe Experience Platformにログインします
 
-* Journey Optimizerで、Financial Advisors という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [ ドキュメント ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
+* Journey Optimizerで、Financial Advisors という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [ ドキュメント ](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
 
 * 次の構造をスキーマに追加します。 PreferredFinancialInstrument 要素には、株式、債券、CD に対するユーザーの環境設定が格納されます
   ![xdm-schema](assets/xdm-schema.png)

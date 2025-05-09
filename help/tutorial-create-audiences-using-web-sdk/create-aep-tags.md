@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Adobe Experience Platform Tags （旧称Adobe Launch）は、サイトのコードを変更しなくても、web サイトでマーケティングおよび分析テクノロジーを管理してデプロイするのに役立ちます。
 
-この [ ビデオでは、Adobe Experience Tags の作成プロセスを説明し ](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags) す。
+この [ ビデオでは、Adobe Experience Tags の作成プロセスを説明し ](https://experienceleague.adobe.com/ja/playlists/experience-platform-get-started-with-tags) す。
 
 * データ収集へのログイン
 * タグ/新しいプロパティをクリックします。
