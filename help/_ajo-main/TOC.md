@@ -17,8 +17,8 @@ ht-degree: 96%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [ ユーザーの環境設定に基づいたオーディエンスの作成 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Web ページでの決定 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [ ユーザーの環境設定に基づいたオーディエンスの作成 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [Web ページでの決定 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
