@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
+source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '714'
 ht-degree: 96%
 
 ---
@@ -17,10 +17,8 @@ ht-degree: 96%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [ ユーザーの環境設定に基づいたオーディエンスの作成 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Web ページでの決定 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md)
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の概要](/help/introduction/introduction.md)
@@ -55,6 +53,7 @@ ht-degree: 96%
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [Web SDKを使用したオーディエンスの作成（チュートリアル） ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
    + [オンデマンドでのオーディエンスの評価](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
@@ -140,6 +139,7 @@ ht-degree: 96%
       + [決定の作成](/help/decision-management/create-decisions.md)
       + [意思決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [フリークエンシーキャップ](/help/decision-management/frequency-capping.md)
+   + [ 決定を使用した web オファーのパーソナライズ（チュートリアル） ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
 + データ管理 {#data-management}
    + [概要](/help/data-management/set-up-data-overview.md)
    + [スキーマの作成](/help/data-management/create-schema.md)
@@ -187,24 +187,6 @@ ht-degree: 96%
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ja)
    + [課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ja)
 + [Experience League ライブ番組録画](/help/experience-league-live-show-recordings.md)
-+ Web SDK を使用したオーディエンスの作成 {#tutorial-creating-audiences}
-   + [はじめに](../tutorial-creating-audience/introduction.md)
-   + [スキーマ、データセットなどの作成](../tutorial-creating-audience/create-schema-and-dataset.md)
-   + [AEP タグの作成](../tutorial-creating-audience/create-aep-tags.md)
-   + [Web フォームの作成](../tutorial-creating-audience/create-web-form.md)
-   + [ソリューションのデバッグ](../tutorial-creating-audience/debug.md)
-+ Web ページでの決定 {#getting-started-with-decisioning-webpage}
-   + [導入](../getting-started-with-decisioning-webpage/introduction.md)
-   + [タグの作成](../getting-started-with-decisioning-webpage/create-tags.md)
-   + [オファーを作成](../getting-started-with-decisioning-webpage/create-offers.md)
-   + [コレクションを作成](../getting-started-with-decisioning-webpage/create-collection.md)
-   + [選択戦略を作成](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
-   + [チャネルを作成](../getting-started-with-decisioning-webpage/create-channel.md)
-   + [キャンペーンを作成](../getting-started-with-decisioning-webpage/create-campaign.md)
-   + [決定ポリシーの作成](../getting-started-with-decisioning-webpage/create-decision-policy.md)
-   + [AEP タグの作成](../getting-started-with-decisioning-webpage/create-aep-tags.md)
-   + [Web ページを作成](../getting-started-with-decisioning-webpage/create-web-page.md)
-
 + サミットラボ {#summit-labs}
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
