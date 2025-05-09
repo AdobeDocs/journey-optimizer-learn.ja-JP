@@ -17,7 +17,7 @@ ht-degree: 96%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [ 顧客エンゲージメントの強化 ](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
+   + [ 顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
@@ -53,7 +53,7 @@ ht-degree: 96%
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [Web SDKを使用したオーディエンスの作成（チュートリアル） ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+   + [Web SDKを使用したオーディエンスの作成（チュートリアル）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [オンデマンドでのオーディエンスの評価](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
@@ -139,7 +139,7 @@ ht-degree: 96%
       + [決定の作成](/help/decision-management/create-decisions.md)
       + [意思決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [フリークエンシーキャップ](/help/decision-management/frequency-capping.md)
-   + [ 決定を使用した web オファーのパーソナライズ（チュートリアル） ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+   + [ 決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + データ管理 {#data-management}
    + [概要](/help/data-management/set-up-data-overview.md)
    + [スキーマの作成](/help/data-management/create-schema.md)
