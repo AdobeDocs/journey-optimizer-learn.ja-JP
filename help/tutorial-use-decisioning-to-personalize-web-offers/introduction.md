@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # Decisioning を使用した web オファーのパーソナライズ
 
-このチュートリアルは、Adobe Experience Platform（AEP） web SDKを使用して以前に作成したオーディエンスセグメント化の設定に基づいています。 [ 前のチュートリアル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction) では、ユーザーの環境設定（株式に対する関心、債券、預金証書（CD）など）が取得され、Adobe Experience Platform（AEP）内で個人をターゲットオーディエンスにセグメント化するために使用されました。 このチュートリアルでは、その基盤に基づき、Adobe Journey Optimizer（AJO） Decisioning を使用して、パーソナライズされたオファーをリアルタイムでこれらのオーディエンスに提供し、エンゲージメントとコンバージョンの両方の成果を高めます。
+このチュートリアルは、Adobe Experience Platform（AEP） web SDKを使用して以前に作成したオーディエンスセグメント化の設定に基づいています。 [ 前のチュートリアル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction) では、ユーザーの環境設定（株式に対する関心、債券、預金証書（CD）など）が取得され、Adobe Experience Platform（AEP）内で個人をターゲットオーディエンスにセグメント化するために使用されました。 このチュートリアルでは、その基盤に基づき、Adobe Journey Optimizer（AJO） Decisioning を使用して、パーソナライズされたオファーをリアルタイムでこれらのオーディエンスに提供し、エンゲージメントとコンバージョンの両方の成果を高めます。
 
 以下のリンクを使用して、パーソナライズされたAJO オファーをライブでテストできます。
 [ ライブデモを表示するには、ここをクリックしてください ](https://gbedekar489.github.io/finwise/welcome.html) — ページには、投資の好みに基づいてリアルタイムのオファーが表示されます。
