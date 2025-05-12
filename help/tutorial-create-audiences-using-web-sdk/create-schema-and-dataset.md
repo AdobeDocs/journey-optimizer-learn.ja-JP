@@ -1,28 +1,30 @@
 ---
-title: AEPでの XDM スキーマ、データセット、データストリームおよびオーディエンスの設定
-description: XDM スキーマ、データセット、データストリームおよびオーディエンスの作成
+title: AEPでの XDM スキーマ、データセット、データストリームの設定
+description: XDM スキーマ、データセット、データストリームの作成
 feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
-recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 0efa418a-5b4f-4012-a6fc-afaa34a59285
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 15b2379c251ed0d7583a01fb6af67815322456cf
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# AEPでの XDM スキーマ、データセット、データストリームおよびオーディエンスの設定
+# AEPでの XDM スキーマ、データセット、データストリームの設定
+
+## XDM スキーマの作成
 
 * Adobe Experience Platformにログインします
+* データ管理/ スキーマ / スキーマを作成
 
-* Journey Optimizerで、Financial Advisors という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [ ドキュメント ](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
+* _Financial Advisors_ という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [ ドキュメント ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
 
-* 次の構造をスキーマに追加します。 PreferredFinancialInstrument 要素には、株式、債券、CD に対するユーザーの環境設定が格納されます
+* 次の構造をスキーマに追加します。 PreferredFinancialInstrument 要素には、Stock、Bonds、CD に対するユーザーの環境設定が格納されます。 **__techmarketingdemos_**はテナント ID で、お使いの環境で異なります。
   ![xdm-schema](assets/xdm-schema.png)
 
 * PreferredFinancialInstrument 要素には、次のように定義された列挙値があります
@@ -34,6 +36,8 @@ ht-degree: 0%
 
 **Adobe Experience Platform（AEP）のデータセット）**、定義済みの XDM スキーマに基づいてデータを取り込み、保存およびアクティブ化するために使用される構造化ストレージコンテナです。
 
+
+* データ管理/ データセット / データセットを作成
 * 前の手順で作成した XDM スキーマに基づいて、_Financial Advisors データセット_ Financial Advisors データセット）を作成します。
 
 * データセットでプロファイルが有効になっていることを確認します
@@ -42,7 +46,7 @@ ht-degree: 0%
 
 Adobe Experience Platformのデータストリームは、web サイトやアプリをAdobe サービスに接続する安全なパイプライン（またはハイウェイ）のようなもので、データの流入と、パーソナライズされたコンテンツの戻りを可能にします。
 
-* AEP/データストリームに移動し、「新しいデータストリーム」をクリックします。 データストリームに「Financial Advisors DataStream _という名前を付け_
+* データ収集/データストリームを選択し、「新規データストリーム」をクリックします。 データストリームに「Financial Advisors DataStream _という名前を付け_
 
 * 以下のスクリーンショットに示すように、次の詳細を入力します
   ![datastream](assets/datastream.png)
@@ -53,30 +57,3 @@ Adobe Experience Platformのデータストリームは、web サイトやアプ
 
 * データストリームの保存
 
-## オーディエンスを作成
-
-Adobe Experience Platformのオーディエンスは、パーソナライズされたエクスペリエンスを提供するために、アクション、環境設定またはプロファイル情報に基づいて作成されたユーザーグループです。
-
-* 顧客/ オーディエンスに移動します。
-* ルールの作成方法を使用したオーディエンスの作成
-
-* イベントスキーマの PreferredFinancialInstrument 要素を使用して、AJOで次の 3 つのオーディエンスを作成します。
-
-   * 株式に関心のあるお客様
-
-   * 社債に関心のあるお客様
-
-   * CD に関心のあるお客様
-
-リアルタイムの選定を行うには、各オーディエンスの評価方法がEdgeに設定されていることを確認します。
-
-次のスクリーンショットは、オーディエンスの作成に役立ちます。
-
-![ オーディエンス ](assets/rule-based-audience.png)
-
-![ イベント ](assets/event-attribute.png)
-
-
-![ 優先金融商品 ](assets/stock-customers.png)
-
-![ エッジオーディエンス ](assets/audience-edge.png)
