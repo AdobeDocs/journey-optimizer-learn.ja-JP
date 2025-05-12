@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * _Financial Advisors_ という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [ ドキュメント ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
 
-* 次の構造をスキーマに追加します。 PreferredFinancialInstrument 要素には、Stock、Bonds、CD に対するユーザーの環境設定が格納されます。 **__techmarketingdemos_**はテナント ID で、お使いの環境で異なります。
+* 次の構造をスキーマに追加します。 PreferredFinancialInstrument 要素には、Stock、Bonds、CD に対するユーザーの環境設定が格納されます。 **__techmarketingdemos_**&#x200B;はテナント ID で、お使いの環境で異なります。
   ![xdm-schema](assets/xdm-schema.png)
 
 * PreferredFinancialInstrument 要素には、次のように定義された列挙値があります

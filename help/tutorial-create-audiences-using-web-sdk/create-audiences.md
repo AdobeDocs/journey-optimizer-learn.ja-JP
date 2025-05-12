@@ -34,7 +34,7 @@ Adobe Experience Platformのオーディエンスは、パーソナライズさ�
    * CD に関心のあるお客様
 
 
-* リアルタイムで選定するには、各オーディエンスの評価方法が **_0}Edge} に設定されていることを確認します。_**
+* リアルタイムで選定するには、各オーディエンスの評価方法が **_0&rbrace;Edge&rbrace; に設定されていることを確認します。_**
   ![ エッジオーディエンス ](assets/audience-edge.png)
 
 * PreferredFinancialInstrument フィールドを使用して、選択した投資関心（株式、債券、CD など）に基づいてユーザーをセグメント化します
@@ -48,7 +48,7 @@ Adobe Experience Platformのオーディエンスは、パーソナライズさ�
 
 >[!NOTE]
 >
->>「イベント」タブに「PreferredFinancialInstrument」フィールドが表示されない場合は、設定アイコンをクリックし、「完全な XDM スキーマを表示」を切り替えます。
+>&#x200B;>「イベント」タブに「PreferredFinancialInstrument」フィールドが表示されない場合は、設定アイコンをクリックし、「完全な XDM スキーマを表示」を切り替えます。
 
 
 
