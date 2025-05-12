@@ -1,6 +1,6 @@
 ---
-title: Decisioning を使用した web オファーのパーソナライズ
-description: Adobe Journey Optimizer（AJO） Decisioning を使用し、Adobe Experience Platform（AEP）に組み込まれたオーディエンスセグメント化を活用して、パーソナライズされたオファーを web ページで提供する方法を説明します。
+title: Decisioning を使用して web オファーをパーソナライズ
+description: Journey Optimizer（AJO） Decisioning を使用し、Experience Platform（AEP）に組み込まれたオーディエンスセグメント化を活用して、パーソナライズされたオファーを web ページで提供する方法を説明します。
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 0c42bf9a9af53bf80a14d904733ae0c1f03be0ee
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '261'
 ht-degree: 1%
 
 ---
