@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: f6ddb0f7b8b7570582eaaa3b20fd3a70450cdaf1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -53,11 +53,11 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
     </a>
     <div>
       <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-    <strong> コンテンツ生成に AI アシスタントを使用したコンテンツの作成 </strong>
+    <strong>コンテンツ生成用 AI アシスタントを使用したコンテンツの作成</strong>
     </a>
     </div>
     <p>
-    <em> コンテンツ生成に AI アシスタントを使用して、テキストと画像の両方に対してプロアクティブなコンテンツバリエーションの提案を生成する方法を説明します。
+    <em>コンテンツ生成用 AI アシスタントを使用して、テキストと画像の両方に対して積極的なコンテンツバリエーションの提案を生成する方法について説明します。
 </em>
     <p>
   </td>

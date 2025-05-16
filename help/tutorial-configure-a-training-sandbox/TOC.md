@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 auto-video-transcripts: true
 source-git-commit: 007d349d95e4fa2a84dfb4f0830fba8af4cf106b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
