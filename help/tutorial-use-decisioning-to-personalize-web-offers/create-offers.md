@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,8 @@ AJOでオファー項目を作成する場合、そのオファー項目は [!UI
    オファーごとに、この記事の最後に提供されている対応するオファーテキストをコピーして、適切なオファーアイテムに貼り付けます。
 
 1. 前の手順で作成したタグを使用して、オファーにタグを付けます。
-
+1. 各オファーに適切なオーディエンスを追加します。
+   ![ オファーの実施要件 ](assets/offer-eligibility.png)
 1. オファーを承認します。
 
 標準属性とカスタム属性が定義された完了済みオファー：
