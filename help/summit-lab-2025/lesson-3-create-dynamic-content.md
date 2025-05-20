@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17875
 index: false
 exl-id: e3a93300-e5db-4c8b-8afc-18f101db93d0
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '159'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +27,4 @@ ht-degree: 6%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
 
-## その他のリソース
-
-* [条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)
+このトピックに関する詳しいガイダンスについては、[ 条件ルールビルダーを使用した動的コンテンツの作成 ](/help/personalize-content/create-dynamic-content.md) を参照してください。
