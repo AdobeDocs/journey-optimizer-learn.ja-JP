@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 0537383a1eb59dec48bc46be83b7c5cb43f695b2
+source-git-commit: 7ff7eaa6fe6001b1d1923b950d0a8079a53feeb4
 workflow-type: tm+mt
 source-wordcount: '735'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 97%
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [ オーケストレーションをオムニチャネルエンゲージメントに拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-ユースケースプレイブック  {#use-case-playbooks}
-   + [概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [ プレイブックサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [プレイブックインスタンスの作成と公開](http://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
++ ユースケースプレイブック {#use-case-playbooks}
+   + [概要](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [ プレイブックサンドボックスの設定 ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [プレイブックインスタンスの作成と公開](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の概要](/help/introduction/introduction.md)
