@@ -22,4 +22,4 @@ Adobe Journey Optimizer のプレイブック機能を使用して、放棄さ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
 
-詳しくは、[ プレイブックサンドボックスの設定 ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} および [ プレイブックインスタンスの作成と公開 ](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"} を参照してください。
+詳しくは、[ プレイブックサンドボックスの設定 ](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} および [ プレイブックインスタンスの作成と公開 ](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"} を参照してください。
