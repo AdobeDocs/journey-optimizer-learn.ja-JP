@@ -20,6 +20,6 @@ ht-degree: 9%
 
 Adobe Journey Optimizerで Sinch、Twilio、Infobip 以外の SMS プロバイダーを設定する方法、インバウンドメッセージ用の API 資格情報と Webhook の設定方法、オプトイン/オプトアウトキーワードの管理方法、ネイティブツールとカスタムペイロードを使用したパーソナライズされた SMS キャンペーンの開始方法を説明します。
 
-詳しくは、[ カスタム SMS プロバイダーの設定 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) を参照してください。
+詳しくは、[ カスタム SMS プロバイダーの設定 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
