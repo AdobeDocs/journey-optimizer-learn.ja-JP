@@ -22,4 +22,4 @@ Adobe Journey Optimizerで Sinch、Twilio、Infobip 以外の SMS プロバイ�
 
 詳しくは、[ カスタム SMS プロバイダーの設定 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443607/?learn=on&enablevpops&captions=jpn)
