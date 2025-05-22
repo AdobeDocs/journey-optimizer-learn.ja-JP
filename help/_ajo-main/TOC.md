@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 7ff7eaa6fe6001b1d1923b950d0a8079a53feeb4
+source-git-commit: fbf3e591a39ca0fbc1572be602a2f1b2c10a7854
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '734'
 ht-degree: 98%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + ユースケースプレイブック {#use-case-playbooks}
-   + [概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [ プレイブックサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [プレイブックインスタンスの作成と公開](http://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [概要](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [ プレイブックサンドボックスの設定 ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [プレイブックインスタンスの作成と公開](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の概要](/help/introduction/introduction.md)
@@ -167,7 +167,7 @@ ht-degree: 98%
       + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
       + [IP ウォームアッププランの設定および実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
-      + [独自の SMS プロバイダーの取り込み（ベータ版）](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [カスタム SMS プロバイダーの設定](/help/set-up-channels/configure-custom-sms-provider.md)
       + [MMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + ジャーニーの設定 {#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
