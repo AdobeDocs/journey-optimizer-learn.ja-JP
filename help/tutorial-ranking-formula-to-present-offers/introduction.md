@@ -22,7 +22,7 @@ ht-degree: 0%
 
 このチュートリアルは、Adobe Journey OptimizerとAdobe Experience Platformの主要な概念に基づいて構築されています。 先に進む前に、次の前提条件が満たされていることを確認してください。
 
-* [ID ステッチチュートリアル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) が完了し、CRM ID がAdobe Experience Platformの ECID に正常に関連付けられました。
+* [ID ステッチチュートリアル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) が完了し、CRM ID がAdobe Experience Platformの ECID に正常に関連付けられました。
 
 * コンテンツ定義、メタデータ設定、実施要件ルールなど、AJOでのオファー項目の作成に精通している。
 
