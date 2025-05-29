@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
+source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '267'
 ht-degree: 6%
 
 ---
@@ -34,27 +35,22 @@ SystemIdentifier オブジェクトの下に ID フィールド **_crmid_** を�
 
 ## サンプルデータの準備
 
-| crmId | firstName | lastName | メール | loyaltyStatus | annualIncome |
-|--------|-----------|----------|---------------------------|---------------|--------------|
-| FIN001 | アリス | ウォン | alice.wong@example.com | ゴールド | 336104 |
-| FIN002 | ブライアン | Smith | brian.smith@example.com | シルバー | 191065 |
-| FIN003 | キャシー | ジョンソン | cathy.johnson@example.com | ブロンズ | 117015 |
-| FIN004 | David | リー | david.lee@example.com | ブロンズ | 61869 |
-| FIN005 | エバ | マルティネス | eva.martinez@example.com | シルバー | 191371 |
-| FIN006 | Frank | ブラウン | frank.brown@example.com | シルバー | 196132 |
-| FIN007 | グレース | キム | grace.kim@example.com | ゴールド | 309851 |
-| FIN008 | Henry | デイビス | henry.davis@example.com | ゴールド | 318378 |
-| FIN009 | イスラ | クラーク | isla.clark@example.com | シルバー | 181776 |
-| FIN010 | ジャック | ロペス | jack.lopez@example.com | シルバー | 186643 |
+| crmId | firstName | lastName | メール | loyaltyStatus | zipCode | annualIncome |
+|--------|-----------|----------|-------------------------|---------------|---------|--------------|
+| FIN001 | アリス | ウォン | alice.wong@example.com | ゴールド | 92128 | 120000 |
+| FIN002 | Bob | Smith | bob.smith@example.com | シルバー | 92126 | 85000 |
+| FIN003 | チャーリー | キム | charlie.kim@example.com | Platinum | 60614 | 175000 |
+| FIN004 | ダイアナ | リー | diana.lee@example.com | ゴールド | 30303 | 98000 |
+| FIN005 | イーサン | ブラウン | ethan.brown@example.com | ブロンズ | 75201 | 60000 |
 
 ## CSV ファイルの取り込み
 
 * 前の手順で作成した **_FinWiseProfileSchema_** に基づいて、**_FinWiseCustomerDataSetWithAnnualIncome_** というデータセットを作成します
 
 * 接続/ ソース / ローカルシステムに移動します。
-* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ をターゲットデータセットとして選択してください。
+* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _**FinWiseCustomerDataSetWithAnnualIncome**_ をターゲットデータセットとして選択してください。
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
-* 次の画面に移動します。 [csv ファイルをアップロードし ](assets/sample_crm_data.csv) マッピングを確認します
+* 次の画面に移動します。 [csv ファイルをアップロードし ](assets/finwise_profiles.csv) マッピングを確認します
   ![ マッピング ](assets/mappings.png)
 
 * 「終了」をクリックしてデータ取り込みプロセスを開始します。
