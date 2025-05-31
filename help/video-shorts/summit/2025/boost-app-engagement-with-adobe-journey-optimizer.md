@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizerを使用して、アプリやデバイスをまたいでパーソナライズされたコンテンツを配信し、ユーザーエンゲージメントとリテンションを強化する方法を説明します。
 
 <!-- 72_S603_3442534_32_boost-app-engagement-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458221/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460001/?learn=on&enablevpops=true&captions=jpn)

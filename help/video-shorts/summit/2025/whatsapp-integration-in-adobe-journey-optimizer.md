@@ -20,4 +20,4 @@ ht-degree: 0%
 AJOと WhatsApp Business のネイティブ統合により、シームレスなマーケティングとトランザクションのやり取りが可能になります。
 
 <!-- 72_S520_3442520_49_whatsapp-integration-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458215/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460465/?learn=on&enablevpops=true&captions=jpn)

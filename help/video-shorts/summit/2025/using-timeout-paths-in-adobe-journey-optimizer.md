@@ -20,4 +20,4 @@ ht-degree: 0%
 プロファイルをジャーニーに沿って移動させておくためのタイムアウトパスを設定することで、Adobe Journey Optimizerでタイムアウトとエラーを処理する方法を説明します。
 
 <!-- 62_S522_3442522_36_using-timeout-paths-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458213/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460466/?learn=on&enablevpops=true&captions=jpn)

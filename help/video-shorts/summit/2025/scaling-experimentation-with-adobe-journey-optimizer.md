@@ -20,4 +20,4 @@ ht-degree: 0%
 AdobeがJourney Optimizerをどのように活用して、実験を拡大し、ROI を向上し、パーソナライズされたエクスペリエンスを大規模に提供したかを説明します。
 
 <!-- 72_S531_3442531_124_scaling-experimentation-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458240/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460421/?learn=on&enablevpops=true&captions=jpn)

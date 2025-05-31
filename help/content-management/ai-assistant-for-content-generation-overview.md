@@ -21,4 +21,4 @@ ht-degree: 100%
 
 コンテンツ生成用 AI アシスタントが、テキストと画像の両方に対してプロアクティブなコンテンツバリエーションを提案することで、マーケターをどのように支援できるかについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463101/?learn=on&captions=jpn)
