@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey OptimizerのAudience Agentが、オーディエンスの正常性をプロアクティブに監視して問題を特定し、エンゲージメントを強化するための実用的なソリューションを提案する方法を紹介します。
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-monitoring-and-optimization -->
->[!VIDEO](https://video.tv.adobe.com/v/3458192/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460276/?learn=on&enablevpops=true&captions=jpn)

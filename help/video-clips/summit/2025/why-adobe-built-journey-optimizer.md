@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizerを作成した主な理由と、あらゆるチャネルにわたって一貫性のあるリアルタイムのパーソナライズされたカスタマーエクスペリエンスをブランドで提供する方法を説明します。
 
 <!-- 62_S520_3442520_84_why-adobe-built-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458179/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460498/?learn=on&enablevpops=true&captions=jpn)

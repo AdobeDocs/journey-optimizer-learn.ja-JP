@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobeがプラットフォーム駆動型ソリューションを使用して、実験の作成から実行まで、実験を拡大する上での主な障壁を特定し、対処した方法を説明します。
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460371/?learn=on&enablevpops=true&captions=jpn)

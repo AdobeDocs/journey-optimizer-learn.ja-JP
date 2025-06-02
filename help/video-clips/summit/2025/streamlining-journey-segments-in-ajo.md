@@ -20,4 +20,4 @@ ht-degree: 0%
 ストリーミングセグメントを最適化し、システムを過負荷にすることなくジャーニーキャンバスを使用して意思決定を行う方法について説明します。
 
 <!-- 62_S522_3442522_52_streamlining-journey-segments-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458244/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460454/?learn=on&enablevpops=true&captions=jpn)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizerが AI を使用して、パーソナライズされたカスタマーエクスペリエンスのためにジャーニー、パス、チャネルを最適化する方法を調べます。
 
 <!-- 62_S520_3442520_184_ai-decisioning-and-next-best-actions-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458188/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460232/?learn=on&enablevpops=true&captions=jpn)

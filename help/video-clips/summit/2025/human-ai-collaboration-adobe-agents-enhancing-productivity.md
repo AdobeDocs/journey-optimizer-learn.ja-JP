@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe エージェントが実務担当者と共同作業して、実用的なインサイトを提供し、ワークフローを最適化し、課題にプロアクティブにリアルタイムで対処する方法を説明します。
 
 <!-- 62_S653_3442539_98_humanai-collaboration-adobe-agents-enhancing-productivity -->
->[!VIDEO](https://video.tv.adobe.com/v/3458189/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460396/?learn=on&enablevpops=true&captions=jpn)

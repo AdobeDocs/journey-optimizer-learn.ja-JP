@@ -20,4 +20,4 @@ ht-degree: 0%
 新しいテンプレート、メッセージインボックスなど、コンテンツカードの今後の機能をご確認ください。
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460321/?learn=on&enablevpops=true&captions=jpn)
