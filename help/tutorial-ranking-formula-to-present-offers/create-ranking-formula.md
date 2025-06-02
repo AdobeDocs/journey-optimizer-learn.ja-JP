@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
+source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # ランキング式を作成
 
@@ -31,35 +31,34 @@ Adobe Journey Optimizerのランキング式は、Offer Decisioning の実行中
 
 
 条件 1
-![criteria_one](assets/criteria1.png)
 
-条件 1 には、次の 3 つの条件があります。
-
-* オファー。_techmarketingdemos.offerDetails.zipCode == &quot;92128&quot; - オファーに関連付けられている郵便番号を確認します。
-
-* _techmarketingdemos.zipCode == &quot;92128&quot; - ユーザーのプロファイルの郵便番号を確認します。
-
-* _techmarketingdemos.annualIncome > 100000 - ユーザーのプロファイルから収入レベルをチェックします。
-
-これらの条件がすべて満たされた場合、オファーのスコアは 40 になります。
+この条件では、「IncomeLevel」がタグ付けされたオファーを決定項目 **オファー）** 含めるのみ）をフィルタリングします。
+これらのフィルタリングされたオファーは、定義した追加ロジックに基づいて、次のステップ（ランキングや配信など）に進みます。
+![criteria_one](assets/income-related-formula.png)
 
 
+次の式を使用して、ランキングスコアを作成します
+
+```pql
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+```
+
+数式の機能
+
+* オファーの郵便番号がユーザーと同じ場合は、非常に高いスコアを付けて、最初に選択されるようにします。
+
+* オファーに郵便番号がまったく含まれていない場合（一般的なオファーの場合）、ユーザーの収入に基づいて通常のスコアを付けます。
+
+* オファーの郵便番号がユーザーと異なる場合は、スコアを非常に低く設定し、選択されないようにします。
+
+このように、システムは次のことを行います。
+
+* は常に、最初に ZIP 一致のオファーを表示しようとします。
+
+* 一致するオファーが見つからない場合は一般的なオファーにフォールバックし、他の郵便番号を対象としたオファーを表示するのを回避します。
 
 
-
-
-条件 2
-![criteria_two](assets/criteria2.png)
-
-条件 2 には、次の 3 つの条件があります。
-
-* オファー。_techmarketingdemos.offerDetails.zipCode == &quot;92126&quot; - オファーに関連付けられている郵便番号を確認します。
-
-* _techmarketingdemos.zipCode == &quot;92126&quot; - ユーザーのプロファイルの郵便番号を確認します。
-
-* _techmarketingdemos.annualIncome &lt; 100000 - ユーザーのプロファイルから収入レベルをチェックします。
-
-これらの条件がすべて満たされた場合、オファーのスコアは 30 になります。
+オファー項目がどのフィルター条件も満たさない場合（「IncomeLevel」タグがない場合など）、オファーはデフォルトのランキングスコア 10 を受け取ります。
 
 
 

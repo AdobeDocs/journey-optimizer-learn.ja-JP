@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+source-git-commit: 666d25d1ed06ab76331d197a1677731516f73d7c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
-
 
 # キャンペーンの作成
 
@@ -88,11 +88,14 @@ ht-degree: 1%
      実施要件を満たす各オファーを評価する論理式。 スコアが最も高いオファーは、パーソナライズされたエクスペリエンスでレンダリングされます。
 
 
+6. **決定ポリシーの挿入**
 
-6. **キャンペーンの公開**\
+   ![personalization-editor](assets/personalization-editor.png)
+
+   Handlebars コードは、Adobe Journey Optimizerの特定の決定ポリシーによって返されたオファーをループし、各オファーの `<div>` を作成します。 各 `<div>` は、カルーセルグループを支援し、ナビゲーションをスムーズにするためにカテゴリ別にオファーを整理するために、オファーの内部名を持つ data-tags 属性を使用します。 各 `<div>` ージ内のコンテンツは、パーソナライズされたオファーテキストを表示し、複数のオファーを動的に視覚的にセグメント化して表示できます。
+
+
+7. **キャンペーンの公開**\
    キャンペーンをアクティブ化して、パーソナライズされたオファーのリアルタイムでの配信を開始します。
 
-
-
-
-
+![img](assets/personalization-editor.png)

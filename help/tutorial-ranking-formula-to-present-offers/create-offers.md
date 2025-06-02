@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # 郵便番号をターゲットにした場所ベースのオファーの作成
 
@@ -73,12 +73,9 @@ ht-degree: 0%
 </div>
 ```
 
-これらのオファーを **_GenericOffers_** というコレクションにグループ化します
+これらのオファーを **income-related-offers** というコレクションにグループ化します。
 
 オファーはすべての訪問者が使用できます。つまり、厳密な実施要件制約はないので、ランキング式は、プロファイルコンテキストに基づいてどのオファーを表示するかを決定する上で重要になります。
 実施要件ルールはオファーをフィルタリングしないので、3 つとも候補として扱われます。
 選択方法は、3 つすべてを取得します。
 ランキング式では、プロファイル属性（郵便番号、annualIncome など）に基づいてスコアを付け、最適な属性を選択します。
-
-
-
