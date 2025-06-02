@@ -1,0 +1,23 @@
+---
+title: AI 駆動型Personalization – 実際のAdobe エージェント
+description: Adobeのインテリジェントエージェントが、厳しい予算やコンテンツ制作のボトルネックなどの課題に対処し、高度にパーソナライズされたカスタマーエクスペリエンスを大規模に編成する方法を説明します。
+doc-type: Short Video
+duration: 84
+index: false
+hide: true
+hidefromtoc: true
+recommendations: noCatalog, noDisplay
+source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+workflow-type: tm+mt
+source-wordcount: '52'
+ht-degree: 0%
+
+---
+
+
+# AI 駆動型Personalization:Adobe エージェントの動作
+
+Adobeのインテリジェントエージェントが、厳しい予算やコンテンツ制作のボトルネックなどの課題に対処し、高度にパーソナライズされたカスタマーエクスペリエンスを大規模に編成する方法を説明します。
+
+<!-- 72_S653_3442539_83_aidriven-personalization-adobe-agents-in-action -->
+>[!VIDEO](https://video.tv.adobe.com/v/3458198/?learn=on&enablevpops=true)
