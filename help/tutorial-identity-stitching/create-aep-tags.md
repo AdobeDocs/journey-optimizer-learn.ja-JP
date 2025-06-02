@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 9%
@@ -22,7 +23,7 @@ FinWise というAEP タグプロパティが作成されます。 タグプロ�
 
 ![tags-extensions](assets/tags-extensions.png)
 
-前のチュートリアルで作成した Financial Advisors DataStream を使用して、AEP Web SDK拡張機能を設定します。
+前の手順で作成した Financial Advisors DataStream を使用して、AEP Web SDK拡張機能を設定します。
 Experience Cloud ID サービスは、デバッグ目的でタグプロパティに追加されるオプションの拡張機能です。
 
 ## タグデータ要素
@@ -51,4 +52,3 @@ Experience Cloud ID サービスは、デバッグ目的でタグプロパティ
 ## 保存してビルド
 
 変更を保存し、ライブラリを作成およびビルドします。
-
