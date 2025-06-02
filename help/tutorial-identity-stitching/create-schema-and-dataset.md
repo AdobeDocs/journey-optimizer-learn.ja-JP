@@ -25,7 +25,7 @@ XDM スキーマを作成するには
 * Adobe Experience Platformにログインします
 * データ管理/ スキーマ / スキーマを作成
 
-* **_Financial Advisors_** という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [ ドキュメント ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
+* **_Financial Advisors_** という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [ ドキュメント ](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
 
 
 * スキーマがプロファイルに対して有効になっていることを確認します。
