@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 7bc03eeca746ff5ee9394263e26b3585a1647c71
+source-git-commit: d33da3a0df7b9ab8d3d9e69db485ce382b9ce63f
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 98%
+source-wordcount: '756'
+ht-degree: 96%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + ユースケースプレイブック {#use-case-playbooks}
-   + [概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [ プレイブックサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [プレイブックインスタンスの作成と公開](http://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [概要](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [ プレイブックサンドボックスの設定 ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [プレイブックインスタンスの作成と公開](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の概要](/help/introduction/introduction.md)
@@ -164,13 +164,18 @@ ht-degree: 98%
 + 設定 {#configuration}
    + チャネルの設定 {#channel-configuration}
       + [チャネルの設定](/help/set-up-channels/configure-channels.md)
-      + [ガイド付きチャネル設定](/help/set-up-channels/guided-channel-setup.md)
-      + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
-      + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [IP ウォームアッププランの設定および実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
-      + [カスタム SMS プロバイダーの設定](/help/set-up-channels/configure-custom-sms-provider.md)
-      + [MMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + メールチャネル {#email-channel}
+         + [作成および IP プール](/help/set-up-channels/create-ip-pool.md)
+         + [サブドメインの設定](/help/set-up-channels/set-up-subdomain.md)
+         + [CName サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
+         + [電子メールチャネルの設定](/help/set-up-channels/set-up-email-channel.md)
+         + [IP ウォームアッププランの設定および実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + SMS/MMS チャネル {#sms-mms-channel}
+         + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
+         + [カスタム SMS プロバイダーの設定](/help/set-up-channels/configure-custom-sms-provider.md)
+         + [MMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + Web およびモバイルチャネル {#web-and-mobile-channels}
+         + [ガイド付きチャネル設定](/help/set-up-channels/guided-channel-setup.md)
    + ジャーニーの設定 {#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
       + [イベントの作成](/help/set-up-journeys/create-events.md)
