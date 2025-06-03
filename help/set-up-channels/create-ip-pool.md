@@ -20,4 +20,4 @@ ht-degree: 19%
 
 送信者の評判を保護し、メール配信の品質を高めるために、IP プールを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463250/?learn=on&enablevpops&captions=jpn)
