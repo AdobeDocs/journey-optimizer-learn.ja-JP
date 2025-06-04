@@ -49,7 +49,7 @@ SystemIdentifier オブジェクトの下に ID フィールド **_crmid_** を�
 * 前の手順で作成した **_FinWiseProfileSchema_** に基づいて、**_FinWiseCustomerDataSetWithAnnualIncome_** というデータセットを作成します
 
 * 接続/ ソース / ローカルシステムに移動します。
-* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _**FinWiseCustomerDataSetWithAnnualIncome**_ をターゲットデータセットとして選択してください。
+* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ をターゲットデータセットとして選択してください。
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * 次の画面に移動します。 [csv ファイルをアップロードし ](assets/finwise_profiles.csv) マッピングを確認します
   ![ マッピング ](assets/mappings.png)
