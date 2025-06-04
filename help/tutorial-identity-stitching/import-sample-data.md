@@ -6,9 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 6%
@@ -48,7 +49,7 @@ SystemIdentifier オブジェクトの下に ID フィールド **_crmid_** を�
 * 前の手順で作成した **_FinWiseProfileSchema_** に基づいて、**_FinWiseCustomerDataSetWithAnnualIncome_** というデータセットを作成します
 
 * 接続/ ソース / ローカルシステムに移動します。
-* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ をターゲットデータセットとして選択してください。
+* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _**FinWiseCustomerDataSetWithAnnualIncome**_ をターゲットデータセットとして選択してください。
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * 次の画面に移動します。 [csv ファイルをアップロードし ](assets/finwise_profiles.csv) マッピングを確認します
   ![ マッピング ](assets/mappings.png)
