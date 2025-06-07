@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 6aa071d253ed1c84fc827d1fce884dc8e646807c
+source-git-commit: 3df01adcd0c400e6fd90c8ea29dd10b2bd774756
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '769'
 ht-degree: 95%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 95%
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + ユースケースプレイブック {#use-case-playbooks}
-   + [概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [ プレイブックサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [プレイブックインスタンスの作成と公開](http://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [概要](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [ プレイブックサンドボックスの設定 ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [プレイブックインスタンスの作成と公開](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の概要](/help/introduction/introduction.md)
@@ -52,9 +52,11 @@ ht-degree: 95%
    + [ライブジャーニーのコンテンツの更新](/help/create-journeys/update-content-in-live-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [ ジャーニーでのインバウンドアクションのトラブルシューティング](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
-   + 競合管理 {#conflict-management}
-      + [潜在的な競合の特定](/help/create-journeys/identify-potential-conflicts.md)
+   + [ ジャーニーでのインバウンドアクションのトラブルシューティング ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
++ 競合管理 {#conflict-management}
+   + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
+   + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
+   + [ジャーニーのフリークエンシーキャップと優先度](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
 + プロファイル、オーディエンスおよび購読 {#profiles-audiences-subscriptions}
    + [プロファイルとオーディエンス - 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
