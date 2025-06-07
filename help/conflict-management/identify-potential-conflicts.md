@@ -22,4 +22,4 @@ ht-degree: 6%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-[ ジャーニーとキャンペーンでの潜在的な競合を検出 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts) する方法について詳しくは、製品ドキュメントを参照してください。
+[ ジャーニーとキャンペーンでの潜在的な競合を検出 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/conflict-prioritization/conflicts) する方法について詳しくは、製品ドキュメントを参照してください。
