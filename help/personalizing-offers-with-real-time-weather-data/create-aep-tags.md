@@ -23,7 +23,7 @@ Adobe Experience Platform Tags （旧称Adobe Launch）は、サイトのコー�
 
 * データ収集へのログイン
 * タグ/新しいプロパティをクリックします。
-* _**personalization-on-weather**_ というAdobe Experience Platform タグを作成します。
+* _&#x200B;**personalization-on-weather**&#x200B;_ というAdobe Experience Platform タグを作成します。
 
 * タグに次の拡張機能を追加します
   ![tags-extensions](assets/tags-extensions1.png)

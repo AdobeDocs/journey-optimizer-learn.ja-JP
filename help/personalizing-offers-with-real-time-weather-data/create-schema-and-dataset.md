@@ -39,7 +39,7 @@ XDM スキーマを作成するには
 
 
 * データ管理/ データセット / データセットを作成
-* 前の手順で作成した XDM スキーマ（**_Weather-Schema_**）に基づいて、_**Weather-schema-dataset**_ というデータセットを作成します。
+* 前の手順で作成した XDM スキーマ（**_Weather-Schema_**）に基づいて、_&#x200B;**Weather-schema-dataset**&#x200B;_ というデータセットを作成します。
 
 
 ## データストリームの作成
