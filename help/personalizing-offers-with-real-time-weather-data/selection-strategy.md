@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 3%
@@ -23,7 +23,7 @@ ht-degree: 3%
 
 * Journey Optimizerにログインします
 
-* 決定/戦略の設定/選択戦略/選択戦略を作成に移動します。
+* _**決定/戦略の設定/選択戦略/選択戦略を作成**_ に移動します。
 
 * スクリーンショットに示すように、選択戦略名、コレクション、実施要件、ランキング方法を指定します。
 

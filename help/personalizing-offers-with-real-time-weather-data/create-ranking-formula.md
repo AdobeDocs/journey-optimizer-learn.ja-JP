@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Adobe Journey Optimizerのランキング式は、Offer Decisioning の実行中
 
 * Journey Optimizerにログインします
 
-* 決定/戦略の設定/ランキング式/式を作成
+* _**決定/戦略の設定/ランキング式/式を作成**_ に移動します。
 
-式に「天気 – 関連 – オファー _&#x200B;**という名前を付け**&#x200B;_
+式に「天気 – 関連 – オファー _**という名前を付け**_
 
 
 
