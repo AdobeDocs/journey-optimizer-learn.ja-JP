@@ -26,7 +26,7 @@ XDM スキーマを作成するには
 * Adobe Experience Platformにログインします
 * _&#x200B;**データ管理/スキーマ/スキーマを作成**&#x200B;_ に移動します。
 
-* **_Weather-Schema_** という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [ ドキュメント ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
+* **_Weather-Schema_** という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [ ドキュメント ](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
 
 
 * スキーマに、適切なデータタイプを持つ次のフィールドがあることを確認します。
