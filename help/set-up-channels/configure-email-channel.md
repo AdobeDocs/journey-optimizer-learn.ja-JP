@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizerでメールチャネルを設定する方法を説明します。 このビデオでは、サブドメイン、IP プール、購読解除管理、送信者のパーソナライゼーション、BCC リストとシードリスト、再試行ロジック、トラッキングパラメーターなどのメール設定のセットアップについて説明します。 コンプライアンス、配信品質、パーソナライゼーションに重点を置いて、マーケティング用メールのパフォーマンスを最適化します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416785?quality=12&learn=on&captions=jpn){transcript=true}
