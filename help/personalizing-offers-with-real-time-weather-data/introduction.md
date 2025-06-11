@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 1%
@@ -20,7 +20,7 @@ Adobe Journey Optimizer（AJO）の天候関連のデータを使用してオフ
 
 顧客のムードや環境に合わせた適切なオファーの提供
 
-暑い日には、冷たい飲み物や AC ユニットのオファーを表示します。 雨の日には、ジャックや傘を宣伝してください
+暑い日には、冷たい飲み物や AC ユニットのオファーを表示します。 雨の日には、ジャケットや傘を宣伝してください
 
 天気に基づくオファーの例
 
@@ -31,14 +31,14 @@ Adobe Journey Optimizer（AJO）の天候関連のデータを使用してオフ
 
 ## このチュートリアルの前提条件
 
-* Experience Platformへのアクセス
+* Experience Platformへのアクセス。
 
-* Adobe Experience Platform タグの基本的な理解
+* Adobe Experience Platform タグの基本的な理解。
 
-* Experience Platformの概念（プロファイル、オーディエンス、データセット）の基本的な理解
+* Experience Platformの概念（プロファイル、オーディエンス、データセット）の基本的な理解。
 
-* Journey Optimizerに精通していること
+* Journey Optimizerに精通していること。
 
-* JavaScriptの基本的な知識（簡単な関数の読み取りと書き込み）
+* JavaScriptの基本的な知識（簡単な関数の読み取りと書き込み）。
 
-* ブラウザー開発ツールを使用する機能（「コンソール」タブと「ネットワーク」タブ）
+* ブラウザー開発ツール（コンソールタブとネットワークタブ）を使用する機能。

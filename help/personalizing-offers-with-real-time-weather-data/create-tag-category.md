@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 64%
@@ -23,7 +23,7 @@ ht-degree: 64%
 コレクションの作成手順
 
 * Journey Optimizerにログインします
-* タグ/タグカテゴリを作成（_&#x200B;**WeatherRelatedOffers**&#x200B;_）に移動します。
+* _**タグ/タグカテゴリを作成**_ （_**WeatherRelatedOffers**_）に移動します。
 * 「保存」をクリックします
-* [ タグを作成（ホット、コールド、スプリング） ] をクリックします。 これらのタグは、_&#x200B;**WeatherRelatedOffers**&#x200B;_ タグカテゴリの下にある必要があります
+* [ タグを作成（ホット、コールド、スプリング） ] をクリックします。 これらのタグは、_**WeatherRelatedOffers**_ タグカテゴリの下にある必要があります
 
