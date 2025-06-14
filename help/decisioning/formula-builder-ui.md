@@ -24,4 +24,4 @@ Adobe Journey Optimizerの式ビルダーは、意思決定時のオファーの
 
 このビデオでは、式ビルダーのユーザーインターフェイスの概要を簡単に説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463738?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463740?quality=12&learn=on&captions=jpn){transcript=true}
