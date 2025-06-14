@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-[ジャーニーのキャッピングと判別について詳しくは、製品ドキュメントを参照してください ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)。
+[ジャーニーのキャッピングと判別について詳しくは、製品ドキュメントを参照してください ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)。
