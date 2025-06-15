@@ -8,18 +8,18 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
 exl-id: d6a1201a-3779-4718-8ea8-b88f925f53b6
-source-git-commit: 96d9d525a3d9be399f7fa229b67166acf8130721
+source-git-commit: f3aeb66ca67448e7751ab2cd6d0bb6ce38f73530
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 1%
+source-wordcount: '247'
+ht-degree: 0%
 
 ---
 
-# ユースケースの説明
+# AEPでの ID の組み合わせ
 
 最新の顧客体験では、デバイスやチャネルをまたいでユーザー ID を統合することが重要です。 このユースケースでは、ユーザーのログイン時に取得された既知の CRM ID を、Adobe Experience Platform Web SDKで生成された匿名のExperience Cloud ID （ECID）にリンクすることで、Adobe（AEP）で ID ステッチを実装する方法を示しています。 これらの ID をリアルタイムで結び付けることで、AEPは、匿名の行動と認証済みのデータの両方にまたがる、より完全な顧客プロファイルを作成できます。 これにより、Adobe Journey Optimizer（AJO）などのツール内で、より正確なオーディエンスのセグメント化、パーソナライゼーションおよび意思決定が可能になります。
 
-## Id ステッチチュートリアルに必要な 🧠 スキル
+## ID ステッチチュートリアルに必要なスキル
 
 このチュートリアルを最大限に活用するには、次の点に関する知識をお勧めします。
 
