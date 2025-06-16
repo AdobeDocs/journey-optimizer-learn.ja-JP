@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer でメールチャネルのサブドメインを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463226/?learn=on&enablevpops&captions=jpn)

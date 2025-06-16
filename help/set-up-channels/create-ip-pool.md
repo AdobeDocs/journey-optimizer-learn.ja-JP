@@ -20,4 +20,4 @@ ht-degree: 100%
 
 IP プールを作成して、送信者のレピュテーションを保護し、メールの配信品質を高める方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463250/?learn=on&enablevpops&captions=jpn)
