@@ -17,8 +17,8 @@ ht-degree: 93%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [Web SDKを使用した、Adobe Journey Optimizerでのリアルタイムの天気データを使用したオファーのパーソナライズ ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [ ランキング式を使用して、パーソナライズされたオファーをJourney Optimizerで配信する ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Web SDKを使用した、Adobe Journey Optimizerでのリアルタイムの天気データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [ ランキング式を使用して、パーソナライズされたオファーをJourney Optimizerで配信する](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + ユースケースプレイブック {#use-case-playbooks}
