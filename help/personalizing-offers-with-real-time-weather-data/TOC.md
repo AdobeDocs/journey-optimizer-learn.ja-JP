@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: personalization-offers-with-real-time-weather-data
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: 530613b18ea37ae3739957e45ede7d47fbedc447
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '120'
 ht-degree: 11%
 
 ---
@@ -25,4 +25,5 @@ ht-degree: 11%
 + [選択戦略を作成](./selection-strategy.md)
 + [キャンペーンを作成](./create-campaign.md)
 + [ソリューションのテスト](./create-web-page.md)
++ [JSON コンテンツタイプ](./json-content-type.md)
 
