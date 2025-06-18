@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: b237731f00ee1ec979edaf566ac932221ef3552f
+source-git-commit: 7bd4e66d31fb4182ded4ad14f8f9f426b5051019
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '823'
 ht-degree: 93%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 93%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [Web SDKを使用した、Adobe Journey Optimizerでのリアルタイムの天気データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [ ランキング式を使用して、パーソナライズされたオファーをJourney Optimizerで配信する](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Web SDKを使用した、Adobe Journey Optimizerでのリアルタイムの天気データを使用したオファーのパーソナライズ ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [ ランキング式を使用して、パーソナライズされたオファーをJourney Optimizerで配信する ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + ユースケースプレイブック {#use-case-playbooks}
@@ -71,7 +71,7 @@ ht-degree: 93%
    + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
    + コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
       + [コードベースエクスペリエンスキャンペーンの作成](/help/channels/create-a-code-based-experience-campaign.md)
-      + [コードベースのエクスペリエンステンプレートへの編集可能なフィールドの追加](/help/channels/editable-fields-in-code-based-experiences.md)
+      + [コードベースの Experience Channel テンプレートへのフォームフィールドの追加](/help/channels/form-fields-in-code-based-experiences.md)
       + [コードベースチャネルでの決定の使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + ダイレクトメールチャネル{#direct-mail-channel}
       + [ダイレクトメールの作成](/help/channels/direct-mail.md)
@@ -139,8 +139,8 @@ ht-degree: 93%
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
       + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
       + [式ビルダーインタフェイスの操作](/help/decisioning/formula-builder-ui.md)
-      + [ リアルタイムの天気データを使用したオファーのパーソナライズ ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [ ランキング式を使用してパーソナライズされたオファーを配信 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [ リアルタイムの天気データを使用したオファーのパーソナライズ ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [ ランキング式を使用してパーソナライズされたオファーを配信 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + 意思決定管理 {#decision-management}
