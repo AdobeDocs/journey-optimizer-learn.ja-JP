@@ -7,7 +7,7 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 963068d792f47e569c939a9570fa8036977302fc
+source-git-commit: b2f313369b06e0b61202d11560633ea267bbe1df
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 56%
@@ -28,18 +28,18 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
 
-<div id="events-section">
+
 
 ## 最新の Experience League ライブイベント
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
 
@@ -50,7 +50,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="マスターのフリークエンシーキャップと競合の優先順位付け（2025 年 6 月 18 日（PT））" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="マスターのフリークエンシーキャップと競合の優先順位付け（2025 年 6 月 18 日（PT））" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750288896715" alt="マスターのフリークエンシーキャップと競合の優先順位付け（2025 年 6 月 18 日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -59,11 +59,11 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="マスターのフリークエンシーキャップと競合の優先順位付け（2025 年 6 月 18 日（PT））">マスターのフリークエンシーキャップと競合の優先順位（2025 年 6 月 18 日（PT）） </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="マスターのフリークエンシーキャップと競合の優先順位付け（2025 年 6 月 18 日（PT））">マスターのフリークエンシーキャップと競合の優先順位（2025 年 6 月 18 日（PT）） </a>
                     </p>
                     <p class="is-size-6">このセッションでは、Adobeのエキスパートである Ariel Sultan と Aaron Forrest が、Adobe Journey Optimizerの新機能を掘り下げ、お客様のメッセージを正確に管理し、優先順位を付けるのに役立ちます。 メッセージの疲労を軽減し、矛盾を解決し、共感を得られる効果的なエクスペリエンスを提供する方法を示しました。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
@@ -73,7 +73,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="大規模なパーソナライズされたコンテンツに対するアジャイルワークフロー（2025 年 6 月 5 日）" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="大規模なパーソナライズされたコンテンツに対するアジャイルワークフロー（2025 年 6 月 5 日）" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750288896708" alt="大規模なパーソナライズされたコンテンツに対するアジャイルワークフロー（2025 年 6 月 5 日）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -82,11 +82,11 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="大規模なパーソナライズされたコンテンツに対するアジャイルワークフロー（2025 年 6 月 5 日）"> 大規模なパーソナライズされたコンテンツに対するアジャイルワークフロー（2025 年 6 月 5 日（PT）） </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="大規模なパーソナライズされたコンテンツに対するアジャイルワークフロー（2025 年 6 月 5 日）"> 大規模なパーソナライズされたコンテンツに対するアジャイルワークフロー（2025 年 6 月 5 日（PT）） </a>
                     </p>
                     <p class="is-size-6">このセッションでは、Adobeのエキスパートである Chris Ivory、Amarnath Vannarath および Rohan Bhatt が、Adobe Journey Optimizer（AJO）とAdobe ExpressやGenStudio for Performance Marketingがシームレスに統合される仕組みを紹介します。 これらのツールを使用して、マーケティングワークフローに比類のない柔軟性、コラボレーション、AI を活用した創造性をもたらす方法を説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
@@ -96,7 +96,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Adobe Experience Platformの AI アシスタントを使用した運用インサイトのロック解除（2025 年 2 月 27 日（PT））" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Adobe Experience Platformの AI アシスタントを使用した運用インサイトのロック解除（2025 年 2 月 27 日（PT））" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750288896696" alt="Adobe Experience Platformの AI アシスタントを使用した運用インサイトのロック解除（2025 年 2 月 27 日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -105,11 +105,11 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Adobe Experience Platformの AI アシスタントを使用した運用インサイトのロック解除（2025 年 2 月 27 日（PT））">Adobe Experience Platformの AI アシスタントを使用した運用インサイトのロック解除（2025 年 2 月 27 日（PT）） </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Adobe Experience Platformの AI アシスタントを使用した運用インサイトのロック解除（2025 年 2 月 27 日（PT））">Adobe Experience Platformの AI アシスタントを使用した運用インサイトのロック解除（2025 年 2 月 27 日（PT）） </a>
                     </p>
                     <p class="is-size-6">ur の専門家は、AI アシスタントがAdobe Experience Platformとそのプラットフォームベースのアプリケーションで生産性を高め、作業を再定義する上で、どのように貴重な運用上のインサイトを引き出すことができるかを説明しました。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
@@ -117,8 +117,6 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-</div>
 
 <div id="staff-picks-section">
 
