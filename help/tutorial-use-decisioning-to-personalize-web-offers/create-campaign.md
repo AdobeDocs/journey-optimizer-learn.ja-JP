@@ -9,10 +9,10 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: a48a3702-4d66-467b-a7ec-9d91b81b771d
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 09c69d341e71af641febd74d319c28af1932ecec
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '138'
+ht-degree: 6%
 
 ---
 
@@ -22,6 +22,8 @@ Adobe Journey Optimizer（AJO）では、キャンペーンは、パーソナラ
 
 1. Journey Optimizerにログインします。
 1. **[!UICONTROL ジャーニー管理]**/**[!UICONTROL キャンペーン]**/**[!UICONTROL キャンペーンを作成]**/**[!UICONTROL マーケティングをスケジュール]** をクリックします。
+1. キャンペーンにわかりやすい名前を付けます
+1. 「_**アクション**_」タブに移動します。
 1. 「**[!UICONTROL コードベースのエクスペリエンス]** アクション」を選択し、前の手順で作成した設定を選択します。
 1. 「**[!UICONTROL コンテンツを編集]**」をクリックします。
 
