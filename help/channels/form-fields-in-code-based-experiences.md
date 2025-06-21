@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463992/?learn=on&enablevpops&captions=jpn)
 
-詳しくは、詳細な [ 製品ドキュメント ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields) を参照してください。
+詳しくは、詳細な [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields) を参照してください。
