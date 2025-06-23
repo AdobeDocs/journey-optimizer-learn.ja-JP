@@ -10,7 +10,7 @@ role: Admin
 level: Beginner
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: ca05b1c0b5f20887e5f15352dfe9ed2c7ad28795
+source-git-commit: dfbf246c95cf89afebd7460361791d1c33aa9e6e
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 99%
@@ -30,4 +30,4 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/test/alerts)を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/alerts){target="_blank"}を参照してください。
