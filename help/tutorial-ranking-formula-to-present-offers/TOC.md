@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: personalization-offers-with-ranking-formulas-based-on-user-zip-code-and-income
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 auto-video-transcripts: true
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: b9feb65fb7af8fb495f81841ab9235e4ae80ecd7
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 20%
+source-wordcount: '72'
+ht-degree: 19%
 
 ---
 
@@ -21,4 +21,5 @@ ht-degree: 20%
 + [ランキング式の作成](./create-ranking-formula.md)
 + [選択戦略の作成](./selection-strategy.md)
 + [キャンペーンの作成](./create-campaign.md)
++ [編集可能フィールドを作成](./editable-fields.md)
 + [Web ページの作成](./display-offers.md)
