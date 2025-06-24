@@ -9,7 +9,8 @@ doc-type: Feature Video
 duration: 333
 last-substantial-update: 2025-06-24T00:00:00Z
 jira: KT-18432
-source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
+exl-id: 83bbfccd-dc86-422a-8412-9135973084ad
+source-git-commit: 34337e2d18a9ed1f84ef53e8b91780f14a4e2e11
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -23,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
-この機能について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/fragments/customizable-fragments) を参照してください。
+この機能について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} を参照してください。
