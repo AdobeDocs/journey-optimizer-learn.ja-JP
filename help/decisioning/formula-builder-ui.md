@@ -1,27 +1,27 @@
 ---
 title: Adobe Journey Optimizerの式ビルダーインターフェイスに関するガイド
-description: 式ビルダーのユーザー・インタフェースの説明
+description: Adobe Journey Optimizerの AI 式ビルダーを使用して、カスタムオファーランキング戦略を作成する方法を説明します。
 feature: Decisioning
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 186
-last-substantial-update: 2025-06-06T00:00:00Z
+duration: 282
+last-substantial-update: 2025-06-25T00:00:00Z
 jira: KT-17614
 thumbnail: KT-17614.jpeg
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
+source-git-commit: 5139c3f3de9943eac4f63cba386c551aac4a804a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Adobe Journey Optimizerの式ビルダーインターフェイスに関するガイド
 
-Adobe Journey Optimizerの式ビルダーは、意思決定時のオファーの優先順位付け方法を決定するランキング式の作成に使用される視覚的なインターフェイスです。 これにより、マーケターや開発者は、プロファイル属性、コンテキストデータ（場所や天気など）、オファーメタデータ（タグやラベルなど）を使用してカスタムロジックを定義できます。 数式はランキング戦略で使用され、各オファーに数値スコアを割り当てて、リアルタイムデータに基づいて最も関連性の高いコンテンツを各ユーザーに確実に配信します。
+Adobe Journey Optimizerの AI 式ビルダーを使用して、カスタムオファーランキング戦略を作成する方法を説明します。
 
+このチュートリアルでは、AI 式ビルダーを使用して、モデルスコア、プロファイルとオファーのデータ、コンテキストシグナルおよびビジネスルールを組み合わせ、決定をパーソナライズし、マーケティング目標に基づいてオファーに優先順位を付ける方法を説明します。
 
-このビデオでは、式ビルダーのユーザーインターフェイスの概要を簡単に説明します。
-
->[!VIDEO](https://video.tv.adobe.com/v/3463740?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3464446/?learn=on&enablevpops){transcript=true}
