@@ -11,9 +11,9 @@ jira: KT-14034
 thumbnail: KT-14034.jpeg
 exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
 source-git-commit: 7f22cccab99ca1ee8ff5d99fccdf4ae607440b1b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Adobe Journey Optimizer の多言語メッセージ機能を使用すると、1 
 
 自動翻訳用の翻訳プロジェクトを設定する方法と、多言語メッセージの手動翻訳および自動翻訳プロジェクトに必要な言語設定について説明します。
  
->[!VIDEO](https://video.tv.adobe.com/v/3453544/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
