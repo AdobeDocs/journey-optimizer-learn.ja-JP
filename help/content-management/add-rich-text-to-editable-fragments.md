@@ -22,6 +22,6 @@ ht-degree: 100%
 
 フラグメント内の HTML コンポーネントを編集可能にして、コンテンツとスタイルの両方を動的に更新できるようにする方法を説明します。HTML を構築し、インラインの編集可能フィールドを設定し、それらをデフォルトのコンテンツと CSS に接続して、ライブキャンペーン環境で変更をテストおよび検証する方法を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464369/?learn=on&enablevpops&captions=jpn)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"}を参照してください。
