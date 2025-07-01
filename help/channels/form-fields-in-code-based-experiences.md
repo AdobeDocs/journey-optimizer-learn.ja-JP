@@ -1,6 +1,6 @@
 ---
 title: フォームフィールドをコードベースのエクスペリエンスチャネルテンプレートに追加する
-description: コードベースのエクスペリエンスチャネル内で編集可能なフィールドを有効にすることで、開発者がマーケティングチームとの共同作業を効率化する方法を説明します。 コンテンツテンプレートで編集可能な JSON フィールドとHTML フィールドを定義する方法を説明します。これにより、マーケターはコードに触れることなく、タイトルや説明などのキャンペーン要素を更新できます。 埋め込まれた決定ポリシーがテンプレート内で直接パーソナライゼーションを強化する方法、つまり、効率の向上、エラーの削減、キャンペーン配信の高速化を実現する方法を説明します。
+description: コードベースのエクスペリエンスチャネル内で編集可能なフィールドを有効にすることで、開発者がマーケティングチームとの共同作業をどのように効率化できるかを紹介します。コンテンツテンプレートで編集可能な JSON フィールドと HTML フィールドを定義する方法を説明します。これにより、マーケターはコードに触れることなく、タイトルや説明などのキャンペーン要素を更新できます。埋め込まれた決定ポリシーにより、テンプレート内で直接パーソナライゼーションがどのように強化され、効率の向上、エラーの削減、キャンペーン配信の高速化が実現するかをご確認ください。
 feature: Code-based Experiences
 role: Developer
 level: Beginner, Intermediate
@@ -10,18 +10,18 @@ last-substantial-update: 2025-06-17T00:00:00Z
 jira: KT-18362
 hidefromtoc: false
 hide: false
-source-git-commit: cbc906146f595623281a1cbe66e8a4dbd7a65800
-workflow-type: tm+mt
+exl-id: 046ba026-a166-4b32-be07-393246e3fd3b
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
+workflow-type: ht
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # フォームフィールドをコードベースのエクスペリエンスチャネルテンプレートに追加する
 
-コードベースのエクスペリエンスチャネル内で編集可能なフィールドを有効にすることで、開発者がマーケティングチームとの共同作業を効率化する方法を説明します。 コンテンツテンプレートで編集可能な JSON フィールドとHTML フィールドを定義する方法を説明します。これにより、マーケターはコードに触れることなく、タイトルや説明などのキャンペーン要素を更新できます。 埋め込まれた決定ポリシーがテンプレート内で直接パーソナライゼーションを強化する方法、つまり、効率の向上、エラーの削減、キャンペーン配信の高速化を実現する方法を説明します。
+コードベースのエクスペリエンスチャネル内で編集可能なフィールドを有効にすることで、開発者がマーケティングチームとの共同作業をどのように効率化できるかを紹介します。コンテンツテンプレートで編集可能な JSON フィールドと HTML フィールドを定義する方法を説明します。これにより、マーケターはコードに触れることなく、タイトルや説明などのキャンペーン要素を更新できます。埋め込まれた決定ポリシーにより、テンプレート内で直接パーソナライゼーションがどのように強化され、効率の向上、エラーの削減、キャンペーン配信の高速化が実現するかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463992/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
-詳しくは、詳細な [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields) を参照してください。
+詳しくは、詳細な[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields)を参照してください。

@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '830'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 92%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [Web SDKを使用した、Adobe Journey Optimizerでのリアルタイムの天気データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [ ランキング式を使用して、パーソナライズされたオファーをJourney Optimizerで配信する](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Web SDK を使用した、Adobe Journey Optimizer でのリアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + ユースケースプレイブック {#use-case-playbooks}
@@ -113,7 +113,7 @@ ht-degree: 92%
    + フラグメントの操作 {#fragments}
       + [フラグメントの管理](/help/content-management/manage-fragments.md)
       + [式フラグメントの作成](/help/content-management/expression-fragments.md)
-      + [編集可能なフラグメントへのリッチテキストの追加](/help/content-management/add-rich-text-to-editable-fragments.md)
+      + [リッチテキストを編集可能なフラグメントに追加](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [AEM コンテンツフラグメントの使用](/help/content-management/aem-content-fragments.md)
    + コンテンツテンプレート{#content-templates}
       + [コンテンツテンプレートの作成](/help/content-management/templates/create-content-templates.md)
@@ -140,8 +140,8 @@ ht-degree: 92%
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
       + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
       + [式ビルダーインタフェイスの操作](/help/decisioning/formula-builder-ui.md)
-      + [ リアルタイムの天気データを使用したオファーのパーソナライズ ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [ ランキング式を使用してパーソナライズされたオファーを配信 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [リアルタイムの天候データを使用してオファーをパーソナライズする](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
