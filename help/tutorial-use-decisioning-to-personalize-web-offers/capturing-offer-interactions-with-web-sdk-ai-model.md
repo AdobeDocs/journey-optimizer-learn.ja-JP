@@ -26,7 +26,7 @@ ht-degree: 7%
 
 - Adobe Web SDK拡張機能がインストールされた動作中のAdobe Experience Platform Launch プロパティ。
 
-- AEP サンドボックスに設定およびマッピングされた [ データストリーム ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)。
+- AEP サンドボックスに設定およびマッピングされた [ データストリーム ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)。
 
 - Launch がデプロイされている web サイト。
 
@@ -35,7 +35,7 @@ ht-degree: 7%
 
 エクスペリエンスイベントを収集するには、まずこれらのイベントを送信するデータセットを作成する必要があります。
 
-この [ 記事で説明している手順に従って、必要なスキーマとデータセットを作成します ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
+この [ 記事で説明している手順に従って、必要なスキーマとデータセットを作成します ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
 
 ## AEPでのデータストリームの作成
 
