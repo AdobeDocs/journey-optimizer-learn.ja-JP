@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
-workflow-type: ht
-source-wordcount: '830'
-ht-degree: 100%
+source-git-commit: cd7a4d88de8920e40631bcc391870333444f92f9
+workflow-type: tm+mt
+source-wordcount: '838'
+ht-degree: 99%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 100%
    + [ユースケース - オーディエンスを読み取り](/help/create-journeys/use-case-read-audience.md)
    + [ユースケース - オーディエンスの選定](/help/create-journeys/use-case-audience-qualification.md)
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
+   + [ジャーニードライランによるジャーニーロジックの検証](/help/create-journeys/journey-dry-run.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [ライブジャーニーのコンテンツの更新](/help/create-journeys/update-content-in-live-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
