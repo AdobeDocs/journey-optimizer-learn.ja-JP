@@ -1,15 +1,17 @@
 ---
-user-guide-title: Web SDKを使用した、Adobe Journey Optimizerのリアルタイム天気データによるオファーのパーソナライズ
+title: Web SDKを使用してリアルタイムの天気データでオファーをパーソナライズ
+description: Web SDKを使用して、リアルタイムの気象条件に基づいて web コンテンツをパーソナライズする方法を説明します。
+user-guide-title: Web SDKを使用してリアルタイムの天気データでオファーをパーソナライズ
 user-guide-description: このチュートリアルでは、リアルタイムの気象条件に基づいて web コンテンツをパーソナライズする方法を説明します。 ユーザーが web サイトを訪問した際、現在の場所を使用して、気温や気温などのライブの天気データ（雨、晴れなど）を取得します。 このコンテキスト情報は、web SDK（alloy）を使用してAdobe Experience Platformに送信され、Adobe Journey Optimizerがページに自動的にレンダリングされるターゲットを絞ったオファー（季節ごとのプロモーションや天候に適した商品の提案など）を評価して返すことができます。
+solution: Journey Optimizer
 role: Developer
 level: Beginner
-breadcrumb-title: personalization-offers-with-real-time-weather-data
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: c81c3ce8a2564b26a92cef821a1e45533c347f30
+source-git-commit: 0f49176c9295cf20721320386f37094a7bb3b38d
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 11%
+source-wordcount: '143'
+ht-degree: 9%
 
 ---
 
