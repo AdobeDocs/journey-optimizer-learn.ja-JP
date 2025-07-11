@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: ea0c8ff52b1f21fc0ce77871c6b32af42775fad9
+source-git-commit: 14672bd5743c5fbadfc0e38308d82b6e7b6893dc
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '843'
 ht-degree: 98%
 
 ---
@@ -94,7 +94,7 @@ ht-degree: 98%
    + プッシュチャネル{#push-channel}
       + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
-   + SMS チャネル{#sms-channel}
+   + SMS／MMS チャネル{#sms-channel}
       + [SMS/MMS メッセージ - 概要](/help/channels/sms-mms-messages-overview.md)
       + [SMS メッセージを設定、作成および配信](/help/channels/author-sms-messages.md)
       + [MMS メッセージの作成](/help/channels/author-mms.md)
@@ -181,7 +181,7 @@ ht-degree: 98%
          + [CNAME サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
          + [メールチャネルの設定](/help/set-up-channels/configure-email-channel.md)
          + [IP ウォームアッププランの設定および実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + SMS／MMS チャネル {#sms-mms-channel}
+      + SMS/MMS/RCS チャネル {#sms-mms-channel}
          + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
          + [カスタム SMS プロバイダーの設定](/help/set-up-channels/configure-custom-sms-provider.md)
          + [MMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
