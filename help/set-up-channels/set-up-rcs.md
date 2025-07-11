@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizerでのビジネス用 RCS の設定
+title: Journey Optimizerでの RCS の設定
 description: カスタム SMS プロバイダーを使用して、Adobe Journey Optimizerでブランド化されたインタラクティブな RCS メッセージを設定し、送信する方法について説明します。 このチュートリアルでは、API 資格情報、Webhook、チャネル設定を設定し、機能豊富でパーソナライズされたメッセージングエクスペリエンスをすべてネイティブメッセージングアプリ内で提供するジャーニーを構築する手順について説明します。
 feature: SMS
 role: User
@@ -9,18 +9,18 @@ duration: 309
 last-substantial-update: 2025-07-09T00:00:00Z
 jira: KT-18333
 thumbnail: KT-18333.jpeg
-source-git-commit: 9485af5ec6af5f3e808a8e51aca1bb10b4c95737
+exl-id: 64c9012f-8b00-48ec-b35e-42b5f2d878ed
+source-git-commit: 5a031620a9b81f5af0a2c6ecc29ba9fb31279a3e
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-
-# Journey Optimizerでのビジネス用 RCS の設定
+# Journey Optimizerでの RCS の設定
 
 カスタム SMS プロバイダーを使用して、Adobe Journey Optimizerでブランド化されたインタラクティブな RCS メッセージを設定し、送信する方法について説明します。 このチュートリアルでは、API 資格情報、Webhook、チャネル設定を設定し、機能豊富でパーソナライズされたメッセージングエクスペリエンスをすべてネイティブメッセージングアプリ内で提供するジャーニーを構築する手順について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
 
-RCS の設定方法の詳細については、[ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration) を参照してください。
+RCS の設定方法の詳細については、[ 製品ドキュメント ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration) を参照してください。
