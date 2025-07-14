@@ -21,6 +21,6 @@ ht-degree: 43%
 
 カスタム SMS プロバイダーを使用して、Adobe Journey Optimizer でブランド化されたインタラクティブな RCS メッセージを設定および送信する方法について説明します。このチュートリアルでは、API 資格情報、Webhook、チャネル設定を設定し、機能豊富でパーソナライズされたメッセージングエクスペリエンスをすべてネイティブメッセージングアプリ内で提供するジャーニーを構築する手順について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464756/?learn=on&enablevpops&captions=jpn)
 
 RCS の設定方法について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration)を参照してください。
