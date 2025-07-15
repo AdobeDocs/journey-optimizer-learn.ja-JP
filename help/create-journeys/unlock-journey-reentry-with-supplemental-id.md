@@ -22,6 +22,6 @@ ht-degree: 0%
 
 このチュートリアルでは、Adobe Journey Optimizerで追加の識別情報を有効にして適用する方法を説明します。 追加の識別子を使用することで、プロファイルが製品 ID や配送情報などのコンテキストデータを使用して、ジャーニーへの再入力、オブジェクト配列の繰り返し、メッセージのパーソナライズを行える仕組みを確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464793/?learn=on&enablevpops&captions=jpn)
 
 追加の ID について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier) を参照してください。
