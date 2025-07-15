@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: e1fac28df665a0ca6d25a7655f22bd1eb787b5e1
+source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '849'
 ht-degree: 98%
 
 ---
@@ -52,10 +52,11 @@ ht-degree: 98%
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニードライランを使用したジャーニーロジックの検証](/help/create-journeys/journey-dry-run.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
+   + [追加の ID でジャーニーの再エントリのロックを解除](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [ライブジャーニーのコンテンツの更新](/help/create-journeys/update-content-in-live-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [ジャーニーでのインバウンドアクションのトラブルシューティング](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
+   + [ジャーニーでのインバウンドアクションのトラブルシューティング](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 競合管理 {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -207,7 +208,7 @@ ht-degree: 98%
    + [Journey Optimizer チャネルでのデータ使用ポリシーの適用](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
 + 演習と課題 {#exercises-and-challenges}
-   + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Experience League ライブ番組録画](/help/experience-league-live-show-recordings.md)
 + Summit Lab {#summit-labs}
