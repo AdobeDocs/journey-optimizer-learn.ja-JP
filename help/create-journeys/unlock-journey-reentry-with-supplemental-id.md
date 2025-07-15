@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-追加の ID について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier) を参照してください。
+追加の ID について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier) を参照してください。
