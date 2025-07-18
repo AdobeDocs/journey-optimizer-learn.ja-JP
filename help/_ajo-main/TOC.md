@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
-workflow-type: ht
-source-wordcount: '849'
-ht-degree: 100%
+source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+workflow-type: tm+mt
+source-wordcount: '857'
+ht-degree: 99%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 100%
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
    + [Web SDK を使用した、Adobe Journey Optimizer でのリアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [ オファーインプレッション数およびクリック数に関するレポートの生成 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -42,8 +43,8 @@ ht-degree: 100%
    + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
 + ジャーニー {#create-journeys}
-   + [ジャーニーデザイナー - 概要](/help/create-journeys/journey-designer-overview.md)
-   + [新しいジャーニーデザイナーについて](/help/create-journeys/new-journey-designer.md)
+   + [ジャーニー designer - 概要](/help/create-journeys/journey-designer-overview.md)
+   + [新しいジャーニー designer について](/help/create-journeys/new-journey-designer.md)
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
    + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
    + [ユースケース - ビジネスイベント](/help/create-journeys/use-case-business-event.md)

@@ -8,18 +8,18 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 0f49176c9295cf20721320386f37094a7bb3b38d
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '150'
 ht-degree: 9%
 
 ---
 
 
-# AEPでの ID のステッチに関するチュートリアル{#personalizing-offers-with-real-time-weather-data}
+# Web SDKを使用したリアルタイムの天気データによるオファーのパーソナライズに関するチュートリアル {#personalizing-offers-with-real-time-weather-data}
 
 + [はじめに](./introduction.md)
-+ [スキーマの作成、データセット](./create-schema-and-dataset.md)
++ [スキーマとデータセットの作成](./create-schema-and-dataset.md)
 + [AEP タグを作成](./create-aep-tags.md)
 + [タグカテゴリの作成](./create-tag-category.md)
 + [オファーの作成](./create-offers.md)

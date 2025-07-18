@@ -8,14 +8,45 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: a9fc14da78e1c67b01aef5dcdd417ce02d36d50a
+exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 1%
+source-wordcount: '418'
+ht-degree: 0%
 
 ---
 
 # ソリューションのテスト
+
+ソリューションをエンドツーエンドでテストするには、[weather-offers.html](assets/weather-offers.html) および [weather-related-offers-script.js](assets/weather-related-offers-script.js) ファイルを web サーバーまたは Github ページなどの公開ホスティングサービスでホストする必要があります。 これは、次の理由で必要になります。
+- ブラウザーの Geolocation API は、HTTPS または localhost でのみ機能します
+
+物事を整理し、相対パスが正しく機能するように、ソリューションをホストする際には次のフォルダー構造を推奨します。
+
+![folder-structure](assets/folder-structure.png)
+
+## 提供されたファイルをダウンロードします
+
+[HTML ファイル](assets/weather-offers.html)
+
+[Javascript ファイル](assets/weather-related-offers-script.js)
+
+
+## Javascript ファイルのサーフェス URL を更新します
+
+`weather-related-offers-script.js` を開き、` "web://yourdomain.com/weather/weather-offers.html#offerContainer"`bt を更新して、`yourdomain.com` をHTML ファイルがホストされている実際のドメインに置き換えます。
+
+## Adobe Experience Platform タグプロパティの更新
+
+Weather-offers.html ファイルをテキストエディターで開き、スクリプトタグを、このチュートリアルの前の手順で作成したAdobe Experience Platform タグプロパティのスクリプトタグに置き換えます。 必ずファイルを保存してください。
+
+```
+<script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
+```
+
+
+
+## Web ページの機能
 
 Web ページは、リアルタイムの温度データを使用してコンテキストオファーのパーソナライゼーションをテストするように作成されます。 ユーザーがページを訪問すると、ブラウザーで位置情報アクセスの入力を求められます。 承認されると、ページは OpenWeatherMap API を介して現在の天気の詳細（気温、条件、市区町村など）を取得します。 このコンテキストデータはユーザーに表示され、Adobe web SDK（Alloy）を使用してAdobe Experience Platformに送信されます。
 
@@ -73,12 +104,4 @@ JavaScriptは、ユーザーの場所に基づいて動的に天気情報を取�
    HTML コンテンツをデコードします。
 
    オファーをに動的に挿入します。 <div id="offerContainer"> 要素にオファーコンテンツが返されます。
-
-7. **サンプルAssets**
-
-   ソリューションのテストに使用する Web ページをダウンロードできます
-
-[Web ページ](assets/weather-offers.html)
-
-[JavaScript コード](assets/weather-related-offers-script.js)
 
