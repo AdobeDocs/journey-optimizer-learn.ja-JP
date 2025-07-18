@@ -1,6 +1,6 @@
 ---
-title: 追加の ID でジャーニーの再エントリのロックを解除
-description: このチュートリアルでは、Adobe Journey Optimizerで追加の識別情報を有効にして適用する方法を説明します。 追加の識別子を使用することで、プロファイルが製品 ID や配送情報などのコンテキストデータを使用して、ジャーニーへの再入力、オブジェクト配列の繰り返し、メッセージのパーソナライズを行える仕組みを確認できます。
+title: 補助 ID を使用したジャーニーの再エントリのロック解除
+description: このチュートリアルでは、Adobe Journey Optimizer で補助識別子を有効にして適用する方法について説明します。補助識別子を使用することで、プロファイルがどのようにしてジャーニーに再エントリしたり、オブジェクト配列を反復処理したり、製品 ID、発送情報などのコンテキストデータを使用してメッセージをパーソナライズしたりできるかを紹介します。
 feature: Journeys
 role: User
 level: Beginner
@@ -8,20 +8,20 @@ doc-type: Feature Video
 duration: 553
 last-substantial-update: 2025-07-12T00:00:00Z
 jira: KT-18442
-source-git-commit: 45a49cc53d251eae1802b2696a2b0c614c61b7dd
-workflow-type: tm+mt
+exl-id: f8649b75-bd07-4499-bb96-389db1470a42
+source-git-commit: 8e50f8c485295e680596403dd25afc5748e26dc7
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
-# 追加の ID でジャーニーの再エントリのロックを解除
+# 補助 ID を使用したジャーニーの再エントリのロック解除
 
 {{limited-availability}}
 
-このチュートリアルでは、Adobe Journey Optimizerで追加の識別情報を有効にして適用する方法を説明します。 追加の識別子を使用することで、プロファイルが製品 ID や配送情報などのコンテキストデータを使用して、ジャーニーへの再入力、オブジェクト配列の繰り返し、メッセージのパーソナライズを行える仕組みを確認できます。
+このチュートリアルでは、Adobe Journey Optimizer で補助識別子を有効にして適用する方法について説明します。補助識別子を使用することで、プロファイルがどのようにしてジャーニーに再エントリしたり、オブジェクト配列を反復処理したり、製品 ID、発送情報などのコンテキストデータを使用してメッセージをパーソナライズしたりできるかを紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464793/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-追加の ID について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier) を参照してください。
+補助 ID について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier)を参照してください。

@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '849'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
    + [ジャーニードライランを使用したジャーニーロジックの検証](/help/create-journeys/journey-dry-run.md)
    + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
-   + [追加の ID でジャーニーの再エントリのロックを解除](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [ライブジャーニーのコンテンツの更新](/help/create-journeys/update-content-in-live-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
@@ -182,7 +182,7 @@ ht-degree: 98%
          + [CNAME サブドメインのデリゲート](/help/set-up-channels/delegate-cname-subdomains.md)
          + [メールチャネルの設定](/help/set-up-channels/configure-email-channel.md)
          + [IP ウォームアッププランの設定および実行](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + SMS/MMS/RCS チャネル {#sms-mms-channel}
+      + SMS／MMS／RCS チャネル {#sms-mms-channel}
          + [SMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/set-up-sms-channel.md)
          + [カスタム SMS プロバイダーの設定](/help/set-up-channels/configure-custom-sms-provider.md)
          + [MMS API 資格情報とチャネルサーフェスの設定](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)

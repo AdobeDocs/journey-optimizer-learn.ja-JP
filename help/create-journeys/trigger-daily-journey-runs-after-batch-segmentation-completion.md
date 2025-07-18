@@ -11,7 +11,7 @@ jira: KT-18066
 exl-id: 0ea0c787-e18b-489d-8b27-1f4e528cc0bc
 badge: label="限定提供" type="Informative"
 source-git-commit: 5ccc553ad53af612c37ef7765aba8fcd166676f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
 ht-degree: 100%
 
