@@ -20,7 +20,7 @@ ht-degree: 0%
 AJO オファーのインプレッション数およびクリック数に関するレポートを有効にするには、次のコンポーネントを設定する必要があります。
 >[!NOTE]
 >
-> これらの前提条件は、[ 前のチュートリアル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset) のスキーマとデータセットの作成の節で既に完了しています
+> これらの前提条件は、[ 前のチュートリアル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset) のスキーマとデータセットの作成の節で既に完了しています
 
 ## &#x200B;1. Adobe Experience Platform（AEP）のデータセット
 
