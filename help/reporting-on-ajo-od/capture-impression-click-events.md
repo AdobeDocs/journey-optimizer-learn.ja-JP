@@ -8,19 +8,20 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 69bc8aace3cc502a18e691584824176833413c7e
+exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
+source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
 
 # インプレッション数およびインタラクションイベントのキャプチャ
 
-AJO オファーのインプレッション数およびクリック数に関するレポートを有効にするには、次のコンポーネントを設定する必要があります。
+AJO Decisioning でオファーのインプレッション数およびクリック数のレポートを有効にするには、次のコンポーネントを設定する必要があります。
 >[!NOTE]
 >
-> これらの前提条件は、[ 前のチュートリアル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset) のスキーマとデータセットの作成の節で既に完了しています
+> これらの前提条件は、[ 前のチュートリアル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset) のスキーマとデータセットの作成の節で既に完了しています
 
 ## &#x200B;1. Adobe Experience Platform（AEP）のデータセット
 
