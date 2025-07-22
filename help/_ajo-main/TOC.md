@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 99%
+source-wordcount: '860'
+ht-degree: 98%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 99%
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
    + [Web SDK を使用した、Adobe Journey Optimizer でのリアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [ オファーインプレッション数およびクリック数に関するレポートの生成](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [ オファーインプレッション数およびクリック数に関するレポートの生成 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -46,13 +46,14 @@ ht-degree: 99%
    + [ジャーニー designer - 概要](/help/create-journeys/journey-designer-overview.md)
    + [新しいジャーニー designer について](/help/create-journeys/new-journey-designer.md)
    + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
+   + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
    + [ユースケース - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
    + [ユースケース - オーディエンスを読み取り](/help/create-journeys/use-case-read-audience.md)
    + [ユースケース - オーディエンスの選定](/help/create-journeys/use-case-audience-qualification.md)
-   + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
+   + [複数属性フィルタリングのマスター](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [ジャーニードライランを使用したジャーニーロジックの検証](/help/create-journeys/journey-dry-run.md)
-   + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
    + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [ライブジャーニーのコンテンツの更新](/help/create-journeys/update-content-in-live-journey.md)
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
