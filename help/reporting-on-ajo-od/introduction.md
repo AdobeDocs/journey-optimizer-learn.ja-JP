@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
+source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -24,9 +25,7 @@ Adobe Web SDKを介して decisioning.propositionDisplay イベントと decisio
 
 
 
-
 ![reporting-dashboard](assets/dashboard-reporting.png)
-
 
 
 ## このチュートリアルの前提条件
@@ -34,12 +33,8 @@ Adobe Web SDKを介して decisioning.propositionDisplay イベントと decisio
 始める前に、[ リアルタイムの天気データを使用したオファーのパーソナライズ」チュートリアルを完了してください。](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) 次のような基本的なコンポーネントがすべて確立されます。
 
 - Web SDKの統合
-
 - Adobe Journey Optimizer（AJO）でのオファー設定
-
 - 天気や温度などのコンテキスト属性を使用した決定
-
 - Web ページでのリアルタイムオファーレンダリング
 
 このチュートリアルでは、その実装に直接基づいて、Journey Optimizerでのレポートや分析用にオファーのインプレッションやインタラクションをキャプチャすることに特に重点を置いています。
-
