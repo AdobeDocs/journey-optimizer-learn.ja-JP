@@ -20,7 +20,7 @@ ht-degree: 10%
 
 Adobe Experience Platform タグは、ブラウザーから直接 ID データを送信するための柔軟なイベント駆動型のメカニズムを提供するので、CRMID をAdobe Experience Platform（AEP）に送信するために使用されます。 ユーザーログイン後に CRMID を送信すると、AEPで匿名 ECID を既知の CRM プロファイルにリンクできるので、正確な ID のステッチが可能になります。 この連携は、統合された顧客プロファイルを作成し、オーディエンスを絞り込み、パーソナライズされたエクスペリエンスをAdobe Journey Optimizer（AJO）でリアルタイムに提供するための基盤となります。
 
-_**FinWise**_ というExperience Platform タグプロパティが作成されます。 タグプロパティに追加された拡張機能は次のとおりです
+_&#x200B;**FinWise**&#x200B;_ というExperience Platform タグプロパティが作成されます。 タグプロパティに追加された拡張機能は次のとおりです
 
 ![tags-extensions](assets/tags-extensions.png)
 
