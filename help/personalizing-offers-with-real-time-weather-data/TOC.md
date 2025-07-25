@@ -8,9 +8,9 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 7%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 + [はじめに](./introduction.md)
 + [スキーマとデータセットの作成](./create-schema-and-dataset.md)
-+ [AEP タグを作成](./create-aep-tags.md)
++ [Experience Platform タグを作成](./create-aep-tags.md)
 + [オファーコレクションを作成](./create-tag-category.md)
 + [オファーの作成](./create-offers.md)
 + [ランキング式を作成](./create-ranking-formula.md)

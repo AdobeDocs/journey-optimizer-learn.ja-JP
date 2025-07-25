@@ -9,18 +9,18 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 9%
+source-wordcount: '235'
+ht-degree: 10%
 
 ---
 
 # Adobe Experience Platformへの CRMID の送信
 
-Adobe Launch （タグ）は、ブラウザーから直接 ID データを送信するための柔軟なイベント駆動型のメカニズムを提供するので、CRMID をAdobe Experience Platform（AEP）に送信するために使用されます。 ユーザーログイン後に CRMID を送信すると、AEPで匿名 ECID を既知の CRM プロファイルにリンクできるので、正確な ID のステッチが可能になります。 この連携は、統合された顧客プロファイルを作成し、オーディエンスを絞り込み、パーソナライズされたエクスペリエンスをAdobe Journey Optimizer（AJO）でリアルタイムに提供するための基盤となります。
+Adobe Experience Platform タグは、ブラウザーから直接 ID データを送信するための柔軟なイベント駆動型のメカニズムを提供するので、CRMID をAdobe Experience Platform（AEP）に送信するために使用されます。 ユーザーログイン後に CRMID を送信すると、AEPで匿名 ECID を既知の CRM プロファイルにリンクできるので、正確な ID のステッチが可能になります。 この連携は、統合された顧客プロファイルを作成し、オーディエンスを絞り込み、パーソナライズされたエクスペリエンスをAdobe Journey Optimizer（AJO）でリアルタイムに提供するための基盤となります。
 
-FinWise というAEP タグプロパティが作成されます。 タグプロパティに追加された拡張機能は次のとおりです
+_**FinWise**_ というExperience Platform タグプロパティが作成されます。 タグプロパティに追加された拡張機能は次のとおりです
 
 ![tags-extensions](assets/tags-extensions.png)
 

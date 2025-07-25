@@ -9,23 +9,23 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 29a20fe11dc6516f6fa15f7d7bf8948dd418aecd
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# AEP タグの作成
+# Adobe Experience Platform タグの作成
 
 Adobe Experience Platform Tags （旧称Adobe Launch）は、サイトのコードを変更しなくても、web サイトでマーケティングおよび分析テクノロジーを管理してデプロイするのに役立ちます。
 
-この [ ビデオでは、Adobe Experience Tags の作成プロセスを説明し ](https://experienceleague.adobe.com/ja/playlists/experience-platform-get-started-with-tags) す。
+この [ ビデオでは、Adobe Experience Tags の作成プロセスを説明し ](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags) す。
 
 - データ収集へのログイン
-- _&#x200B;**タグ/新規プロパティ**&#x200B;_ をクリックします。
+- _**タグ/新規プロパティ**_ をクリックします。
 
-- _&#x200B;**personalization-on-weather**&#x200B;_ というAdobe Experience Platform タグを作成します。
+- _**personalization-on-weather**_ というAdobe Experience Platform タグを作成します。
 
 - タグに次の拡張機能を追加します
   ![tags-extensions](assets/tags-extensions1.png)

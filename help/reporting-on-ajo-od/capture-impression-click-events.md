@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
-source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 AJO Decisioning でオファーのインプレッション数およびクリック数のレポートを有効にするには、次のコンポーネントを設定する必要があります。
 >[!NOTE]
 >
-> これらの前提条件は、[ 前のチュートリアル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset) のスキーマとデータセットの作成の節で既に完了しています
+> これらの前提条件は、[ 前のチュートリアル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset) のスキーマとデータセットの作成の節で既に完了しています
 
 ## &#x200B;1. Adobe Experience Platform（AEP）のデータセット
 
@@ -72,6 +72,10 @@ sendEvent ペイロードは、イベントタイプ（インプレッション�
                 decisioning: {
                   propositionEventType: {
                     display: 1
+                  },
+                    propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
                   },
                   
                    propositions: window.latestPropositions

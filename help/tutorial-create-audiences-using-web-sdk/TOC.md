@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: create-audiences-using-web-sdk
 breadcrumb-url: /docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction
 auto-video-transcripts: true
-source-git-commit: 15b2379c251ed0d7583a01fb6af67815322456cf
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 16%
+source-wordcount: '92'
+ht-degree: 13%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 16%
 + [はじめに](./introduction.md)
 + [スキーマ、データセットなどの作成](./create-schema-and-dataset.md)
 + [オーディエンスの作成](./create-audiences.md)
-+ [AEP タグの作成](./create-aep-tags.md)
++ [Experience Platform タグの作成](./create-aep-tags.md)
 + [Web フォームの作成](./create-web-form.md)
 + [ソリューションのデバッグ](./debug.md)

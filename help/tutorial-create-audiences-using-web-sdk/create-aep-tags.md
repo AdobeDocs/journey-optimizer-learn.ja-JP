@@ -9,18 +9,18 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 2%
+source-wordcount: '496'
+ht-degree: 3%
 
 ---
 
-# AEP タグの作成
+# Adobe Experience Platform タグの作成
 
 Adobe Experience Platform Tags （旧称Adobe Launch）は、サイトのコードを変更しなくても、web サイトでマーケティングおよび分析テクノロジーを管理してデプロイするのに役立ちます。
 
-この [ ビデオでは、Adobe Experience Tags の作成プロセスを説明し ](https://experienceleague.adobe.com/ja/playlists/experience-platform-get-started-with-tags) す。
+この [ ビデオでは、Adobe Experience Tags の作成プロセスを説明し ](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags) す。
 
 * データ収集へのログイン
 * タグ/新しいプロパティをクリックします。
