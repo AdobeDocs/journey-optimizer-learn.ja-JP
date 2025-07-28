@@ -1,6 +1,6 @@
 ---
 title: AI モデルトレーニング用Adobe Web SDKとのオファーインタラクションのキャプチャ
-description: この記事では、Adobe Experience Platform web SDK（alloy.js）を使用してユーザーインタラクションデータ（オファーのインプレッション数やクリック数など）をキャプチャする方法について説明します。 このデータは、Adobe Journey Optimizer（AJO）で AI モデルをインテリジェントにトレーニングし、ユーザーの行動とコンテキストシグナルに基づいてオファーをランク付けするための基盤となります。
+description: この記事では、Adobe Experience Platform web SDK（alloy.js）を使用してユーザーインタラクションデータ（オファーのインプレッション数やクリック数など）をキャプチャする方法について説明します。 このデータは、Adobe Journey Optimizer（AJO）の AI モデルをトレーニングし、ユーザーの行動とコンテキストシグナルに基づいてオファーをインテリジェントにランク付けする基盤として機能します。
 feature: Decisioning
 topic: Integrations
 role: User
@@ -8,13 +8,13 @@ level: Beginner
 doc-type: Article
 last-substantial-update: 2025-07-08T00:00:00Z
 jira: KT-18451
-source-git-commit: 41f0d44fb39c9d187ee8c97d54202387fa9eda56
+exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
+source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
 workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # AI モデルトレーニング用Adobe Web SDKとのオファーインタラクションのキャプチャ
 
@@ -41,7 +41,7 @@ Adobe Journey Optimizerでオファーランキングの AI モデルを作成�
 
 Adobe Experience Platformで：
 
-- 天気ベースのオファーに使用する既存の _&#x200B;**Weather-Schema**&#x200B;_ エクスペリエンスイベントスキーマを開きます。
+- 天気ベースのオファーに使用する既存の _**Weather-Schema**_ エクスペリエンスイベントスキーマを開きます。
 
 - フィールドグループを追加します。
 エクスペリエンスイベント – 提案インタラクション
@@ -72,26 +72,32 @@ Web SDKは、新しいインタラクションイベントを適切な宛先に�
 
 
 ```javascript
-if (offerIds.length > 0) {
-  alloy("sendEvent", {
-    xdm: {
-      _id: generateUUID(),
-      timestamp: new Date().toISOString(),
-      eventType: "decisioning.propositionDisplay",
-      _experience: {
-        decisioning: {
-          propositionEvent: {
-            display: 1
-          },
-          involvedPropositions: offerIds.map(id => ({
-            id,
-            scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-          }))
-        }
-      }
-    }
-  });
-}
+alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
 ```
 
 ## オファークリックイベント（インタラクション）のキャプチャ
@@ -102,31 +108,42 @@ if (offerIds.length > 0) {
 
 ```javascript
 // Attach click tracking to <a> and <button> elements
-wrapper.querySelectorAll("a, button").forEach(el => {
-  el.addEventListener("click", () => {
-    const offerId = el.getAttribute("data-offer-id") || item.id;
-    console.log("Clicked element offerId:", offerId);
+child.querySelectorAll("a, button").forEach(el => {
+                el.addEventListener("click", () => {
+                  const ecidValue = getECID();
+                  if (!ecidValue || !offerId || !trackingToken) {
+                    console.warn("Girish!!!!  Missing ECID, offerId, or trackingToken. Interaction event not sent.");
+                    return;
+                  }
 
-    alloy("sendEvent", {
-      xdm: {
-        _id: generateUUID(),
-        timestamp: new Date().toISOString(),
-        eventType: "decisioning.propositionInteract",
-        _experience: {
-          decisioning: {
-            propositionEvent: {
-              interact: 1
-            },
-            involvedPropositions: [{
-              id: offerId,
-              scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-            }]
-          }
-        }
-      }
-    });
-  });
-});
+                  alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
+                });
+              });
 ```
 
 ## Adobe Journey Optimizer Offer Decisioningでオファーランキング用の AI モデルを作成
