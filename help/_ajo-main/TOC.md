@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
-workflow-type: ht
-source-wordcount: '860'
-ht-degree: 100%
+source-git-commit: d84462b08d8abac74f9fa1147f6d10a05922520b
+workflow-type: tm+mt
+source-wordcount: '888'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
+   + [ インテリジェントな再エンゲージメント – 閲覧を放棄 ](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Web SDK を使用した、Adobe Journey Optimizer でのリアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [オファーのインプレッション数とクリック数に関するレポートの生成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -107,6 +108,10 @@ ht-degree: 100%
       + [Web キャンペーンの作成](/help/channels/create-a-web-campaign.md)
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
+   + WhatsApp {#whatsapp}
+      + [WhatsApp チャネルの概要](/help/channels/whatsapp-introduction.md)
+      + [WhatsApp チャネルのセットアップ ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)
+      + [WhatsApp ジャーニーの作成](/help/channels/create-a-whatsapp-journey.md)
 + コンテンツ管理{#content-management}
    + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
    + アセットの管理 {#assets}
@@ -191,6 +196,8 @@ ht-degree: 100%
          + [RCS の設定](/help/set-up-channels/set-up-rcs.md)
       + Web とモバイルチャネル {#web-and-mobile-channels}
          + [ガイド付きチャネル設定](/help/set-up-channels/guided-channel-setup.md)
+      + WhatsApp チャネル {#whatsapp-channel}
+         + [WhatsApp チャネルのセットアップ](/help/set-up-channels/set-up-whatsapp-channel.md)
    + ジャーニーの設定 {#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
       + [イベントの作成](/help/set-up-journeys/create-events.md)
