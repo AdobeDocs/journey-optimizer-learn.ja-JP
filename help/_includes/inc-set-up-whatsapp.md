@@ -17,4 +17,4 @@ ht-degree: 0%
 
 カスタマージャーニー内で WhatsApp メッセージのアクティブ化を検討しているマーケターや開発者に最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470269/?learn=on&enablevpops&captions=jpn)
