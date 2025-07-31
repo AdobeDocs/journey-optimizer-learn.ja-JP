@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 41b6fb378767274151676aaf5ed247e9551717e4
+source-git-commit: e0713e7265468f749239acdac53ddaf1c27afdc8
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 96%
+source-wordcount: '905'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [ インテリジェントな再エンゲージメント – 閲覧を放棄](https://experienceleague.adobe.com/ja/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [ インテリジェントな再エンゲージメント – 閲覧を放棄 ](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Web SDK を使用した、Adobe Journey Optimizer でのリアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [オファーのインプレッション数とクリック数に関するレポートの生成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -36,13 +36,17 @@ ht-degree: 96%
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
    + [AI アシスタントに関するお問い合わせ](/help/ai-assistant.md)
 + キャンペーン {#create-campaigns}
-   + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
-   + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
-   + [プッシュキャンペーンの設定と送信](/help/create-campaigns/push-campaign.md)
-   + [Web キャンペーンの作成](/help/create-campaigns/web-campaign.md)
-   + [コードベースのエクスペリエンスキャンペーンの作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-   + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
-   + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
+   + アクションキャンペーン {#action-campaigns}
+      + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
+      + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
+      + [プッシュキャンペーンの設定と送信](/help/create-campaigns/push-campaign.md)
+      + [Web キャンペーンの作成](/help/create-campaigns/web-campaign.md)
+      + [コードベースのエクスペリエンスキャンペーンの作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+      + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
+      + [キャンペーンでのメッセージ最適化の活用](/help/channels/leverage-message-optimization-in-a-campaign.md)
+   + API トリガーキャンペーン {#api-triggered-campaigns}
+      + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
+   + 調整されたキャンペーン {#orchestrated-campaigns}
 + ジャーニー {#create-journeys}
    + [ジャーニー designer - 概要](/help/create-journeys/journey-designer-overview.md)
    + [新しいジャーニー designer について](/help/create-journeys/new-journey-designer.md)
