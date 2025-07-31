@@ -28,4 +28,4 @@ ht-degree: 0%
 
 WhatsApp を通じてパーソナライズされた顧客エンゲージメントの自動化を検討しているマーケターに最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470283/?learn=on&enablevpops&captions=jpn)
