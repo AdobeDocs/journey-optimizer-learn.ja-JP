@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: e0713e7265468f749239acdac53ddaf1c27afdc8
+source-git-commit: 202cc6731ee1a587b62125b2916131521b6f3343
 workflow-type: tm+mt
 source-wordcount: '905'
 ht-degree: 95%
@@ -17,7 +17,7 @@ ht-degree: 95%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [ インテリジェントな再エンゲージメント – 閲覧を放棄](https://experienceleague.adobe.com/ja/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [ インテリジェントな再エンゲージメント – 閲覧を放棄 ](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Web SDK を使用した、Adobe Journey Optimizer でのリアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [オファーのインプレッション数とクリック数に関するレポートの生成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -43,7 +43,7 @@ ht-degree: 95%
       + [Web キャンペーンの作成](/help/create-campaigns/web-campaign.md)
       + [コードベースのエクスペリエンスキャンペーンの作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
-      + [キャンペーンでのメッセージ最適化の活用](/help/channels/leverage-message-optimization-in-a-campaign.md)
+      + [キャンペーンでのメッセージ最適化の活用](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API トリガーキャンペーン {#api-triggered-campaigns}
       + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + 調整されたキャンペーン {#orchestrated-campaigns}
