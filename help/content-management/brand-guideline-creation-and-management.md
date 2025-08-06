@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
 
-この機能について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands) を参照してください。
+この機能について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands) を参照してください。
