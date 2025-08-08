@@ -1,6 +1,6 @@
 ---
 title: WhatsApp チャネルの概要
-description: このビデオでは、WhatsApp とAdobe Journey Optimizerの統合の価値の概要を説明します。 WhatsApp のグローバルなリーチとエンゲージメントのメリットに焦点を当て、WhatsApp のビジネスアカウントの設定、アクセストークンの生成、メッセージテンプレートの作成などの主な前提条件の概要を説明します。
+description: このビデオでは、WhatsApp と Adobe Journey Optimizer の統合の価値の概要を紹介します。WhatsApp のグローバルなリーチとエンゲージメントのメリットを強調し、WhatsApp ビジネスアカウントの設定、アクセストークンの生成、メッセージテンプレートの作成などの主な前提条件を概説します。
 feature: Whatsapp
 role: Admin, User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 133
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18562
-source-git-commit: a24ffa6b48c54fbce13f0f2b2182b94fa114328d
-workflow-type: tm+mt
+exl-id: fb6f937e-d1b5-4e15-8ed6-b070fec871d4
+source-git-commit: 20e0da0799956b246370aa04dabec958ff6b51ae
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # WhatsApp チャネルの概要
 
-このビデオでは、WhatsApp とAdobe Journey Optimizerの統合の価値の概要を説明します。 WhatsApp のグローバルなリーチとエンゲージメントのメリットに焦点を当て、WhatsApp のビジネスアカウントの設定、アクセストークンの生成、メッセージテンプレートの作成などの主な前提条件の概要を説明します。
+このビデオでは、WhatsApp と Adobe Journey Optimizer の統合の価値の概要を紹介します。WhatsApp のグローバルなリーチとエンゲージメントのメリットを強調し、WhatsApp ビジネスアカウントの設定、アクセストークンの生成、メッセージテンプレートの作成などの主な前提条件を概説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470297/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)
