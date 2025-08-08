@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 + ユースケース {#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [ インテリジェントな再エンゲージメント – 閲覧を放棄](https://experienceleague.adobe.com/ja/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [インテリジェントな再エンゲージメント - 閲覧放棄](https://experienceleague.adobe.com/ja/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Web SDK を使用した、Adobe Journey Optimizer でのリアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [オファーのインプレッション数とクリック数に関するレポートの生成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -113,9 +113,9 @@ ht-degree: 94%
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [WhatsApp の基本を学ぶ（エンドツーエンド）](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + [WhatsApp（エンドツーエンド）の基本を学ぶ](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp チャネルの概要](/help/channels/whatsapp-introduction.md)
-      + [WhatsApp チャネルのセットアップ](/help/channels/set-up-whatsapp.md)
+      + [WhatsApp チャネルの設定](/help/channels/set-up-whatsapp.md)
       + [WhatsApp ジャーニーの作成](/help/channels/create-a-whatsapp-journey.md)
 + コンテンツ管理{#content-management}
    + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
@@ -203,7 +203,7 @@ ht-degree: 94%
       + Web とモバイルチャネル {#web-and-mobile-channels}
          + [ガイド付きチャネル設定](/help/set-up-channels/guided-channel-setup.md)
       + WhatsApp チャネル {#whatsapp-channel}
-         + [WhatsApp チャネルのセットアップ](/help/set-up-channels/set-up-whatsapp-channel.md)
+         + [WhatsApp チャネルの設定](/help/set-up-channels/set-up-whatsapp-channel.md)
    + ジャーニーの設定 {#journey-configuration}
       + [データソースの設定](/help/set-up-journeys/configure-data-sources.md)
       + [イベントの作成](/help/set-up-journeys/create-events.md)
