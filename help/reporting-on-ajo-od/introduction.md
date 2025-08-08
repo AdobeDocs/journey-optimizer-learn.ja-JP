@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
+source-git-commit: 39376d745d851bf2c3ed3826b9f550efafd9e8f4
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# AJO Decisioning を使用して配信されたAdobe Journey Optimizer（AJO）オファーのトラッキングとレポート
+# AJO Decisioning を使用して配信されたJourney Optimizer オファーのトラッキングとレポート
 
 このユースケースでは、Adobe Journey Optimizer（AJO）で配信されるオファーのレポートおよびパフォーマンス分析を有効にすることに重点を置いています。 オファーが状況に応じて（天気や場所などの）シグナルに基づいてパーソナライズおよび配信される場合、インプレッションとユーザーインタラクションの両方をトラッキングして有効性を評価することが不可欠です。
 
