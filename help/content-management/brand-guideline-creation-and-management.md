@@ -22,6 +22,6 @@ ht-degree: 0%
 
 コミュニケーション全体で視覚的および言語的な ID を明確に定義するために、独自のブランドを作成およびカスタマイズする方法を説明します。 コンテンツがブランドのトーン、スタイル、ガイドラインをどの程度反映しているかに関するリアルタイムのフィードバックを、ブランドのアラインメントスコアと共にどのように受け取ることができるかを理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470547/?learn=on&enablevpops&captions=jpn)
 
 この機能について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands) を参照してください。
