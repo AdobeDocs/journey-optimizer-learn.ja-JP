@@ -22,6 +22,6 @@ ht-degree: 89%
 
 アクションまたは API トリガーキャンペーンでメッセージの最適化を活用する方法について説明します。 サブオーディエンスをターゲットにする方法、場所ごとにメッセージのバリエーションを作成する方法、フォールバックコンテンツを有効にする方法、単一のキャンペーン内で複数の実験を実行する方法について説明します。また、このチュートリアルでは、メッセージの一貫性を維持しながらマルチチャネルキャンペーンを管理する方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470369/?learn=on&enablevpops&captions=jpn)
 
 この機能について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization) を参照してください。
