@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizerの AI アシスタントが、即座にデータのインサイトとトラブルシューティング機能を提供し、手作業の時間を節約することで、ワークフローにどのように革命を起こすかを説明します。
 
 <!-- 65_S653_3442539_33_transforming-workflows-with-ai-assistant-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458195/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460432/?learn=on&enablevpops=true&captions=jpn)
