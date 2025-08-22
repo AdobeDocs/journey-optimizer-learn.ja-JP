@@ -21,4 +21,4 @@ ht-degree: 100%
 
 ライブレポートとグローバルレポートの違い、ジャーニーとメッセージ固有のレポートにアクセスして分析する方法およびレポートダッシュボードを変更する方法について説明します。  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416420?quality=12&learn=on&captions=jpn){transcript=true}

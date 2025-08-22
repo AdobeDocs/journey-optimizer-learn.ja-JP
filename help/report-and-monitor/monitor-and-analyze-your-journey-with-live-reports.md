@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizerのライブレポート機能を効果的に使用して、ジャーニーとメッセージのパフォーマンスをリアルタイムでモニタリングし、分析する方法について説明します。 ダッシュボードのカスタマイズ、レポートのエクスポートおよびジャーニー固有の指標の解釈を行って、マーケティング戦略を最適化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470836/?learn=on&enablevpops&captions=jpn)
