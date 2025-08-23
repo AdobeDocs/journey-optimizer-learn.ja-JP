@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 8940a03c0d0842d4dea7e5e4c3aa2e2604538c2d
+source-git-commit: 7f05f2f16414c4bbd64f55fd6cf3bc68623c6d4d
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '913'
 ht-degree: 99%
 
 ---
@@ -181,7 +181,6 @@ ht-degree: 99%
    + [クラウドストレージの場所へのデータセットの書き出し](/help/data-management/export-datasets.md)
 + レポートと監視 {#report-and-monitor}
    + [測定とレポート - 概要](/help/report-and-monitor/measurement-and-reporting-overview.md)
-   + [ライブレポートとグローバルレポート](/help/report-and-monitor/live-and-global-reports.md)
    + [ライブレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
    + [CSV 形式でのレポートの書き出し](/help/report-and-monitor/export-reports-in-csv-format.md)
