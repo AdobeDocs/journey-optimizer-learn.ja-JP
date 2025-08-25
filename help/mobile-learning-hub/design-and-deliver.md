@@ -101,7 +101,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 ### 製品ドキュメント
 
-| ![ プッシュの作成 ](./assets/configuration.svg)[**プッシュ通知を作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![ プッシュのデザイン ](./assets/content-management.png){width="50"}[**プッシュ通知をデザイン**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![ プッシュを送信 ](./assets/communication-channel.svg)[**プッシュ通知を送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![ プッシュの作成 ](./assets/configuration.svg) [**プッシュ通知を作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![ プッシュのデザイン ](./assets/content-management.png){width="50"}[**プッシュ通知をデザイン**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![ プッシュを送信 ](./assets/communication-channel.svg) [**プッシュ通知を送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB アプリ内]
@@ -179,7 +179,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 ### ドキュメント
 
-| ![ メッセージの作成 ](./assets/configuration.svg)[**モバイルのアプリ内メッセージの作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![ コンテンツのデザイン ](./assets/content-management.png){width="50"}[**アプリ内コンテンツのデザイン**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![ 通知を送信 ](./assets/communication-channel.svg)[**アプリ内通知を送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![ メッセージの作成 ](./assets/configuration.svg) [**モバイルのアプリ内メッセージの作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![ コンテンツのデザイン ](./assets/content-management.png){width="50"}[**アプリ内コンテンツのデザイン**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![ 通知を送信 ](./assets/communication-channel.svg) [**アプリ内通知を送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB  コンテンツカード ]
@@ -225,7 +225,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 ### 製品ドキュメント
 
-| ![ コンテンツカードの作成と設定 ](./assets/configuration.svg)[**コンテンツカードの作成と設定**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![ コンテンツカードの設計 ](./assets/content-management.png){width="50"}[**コンテンツカードの設計**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![ コンテンツカードの作成と設定 ](./assets/configuration.svg) [**コンテンツカードの作成と設定**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![ コンテンツカードの設計 ](./assets/content-management.png){width="50"}[**コンテンツカードの設計**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -375,7 +375,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 ### 製品ドキュメント
 
-| ![ テキストメッセージの基本を学ぶ ](./assets/configuration.svg)[**テキストメッセージの基本を学ぶ**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![ コンテンツの設計 ](./assets/content-management.png){width="50"}[**SMS、MMS、RCS メッセージの作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![ 通知の送信 ](./assets/communication-channel.svg)[**テキストメッセージの確認と送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![ テキストメッセージの基本を学ぶ ](./assets/configuration.svg) [**テキストメッセージの基本を学ぶ**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![ コンテンツの設計 ](./assets/content-management.png){width="50"}[**SMS、MMS、RCS メッセージの作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![ 通知の送信 ](./assets/communication-channel.svg) [**テキストメッセージの確認と送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB コードベースのエクスペリエンス]
@@ -513,7 +513,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 ### 製品ドキュメント
 
-| ![WhatsApp メッセージの作成 ](./assets/configuration.svg)[**WhatsApp メッセージの作成*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![WhatsApp メッセージのプレビュー、検証、送信 ](./assets/communication-channel.svg){width="50"}[**WhatsApp メッセージのプレビュー、検証、送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![WhatsApp メッセージの作成 ](./assets/configuration.svg) [**WhatsApp メッセージの作成*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![WhatsApp メッセージのプレビュー、検証、送信 ](./assets/communication-channel.svg){width="50"}[**&#x200B;WhatsApp メッセージのプレビュー、検証、送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
