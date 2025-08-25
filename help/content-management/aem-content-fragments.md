@@ -26,6 +26,6 @@ Adobe Experience Manager（AEM）を Adobe Journey Optimizer とシームレス�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
-Experience League LIVE [ AEM コンテンツフラグメントと Dynamic Media を使用して、Journey Optimizerのパーソナライズされたコンテンツを促進 ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
+Experience League LIVE [ AEM コンテンツフラグメントと Dynamic Media を使用して、Journey Optimizerのパーソナライズされたコンテンツを促進 ](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 
 このセッションでは、Jyothitha Chandran、Chris Ivory、Kaitlin White が、Adobe Journey Optimizer（AJO）がAdobe Experience Manager（AEM） Sites コンテンツフラグメントおよびAEM Assets Dynamic Media とシームレスに統合されて、すべてのチャネルにスケーラブルでリアルタイムのパーソナライゼーションを実現する方法を紹介しました。
