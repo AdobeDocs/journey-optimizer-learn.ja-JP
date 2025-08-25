@@ -24,7 +24,7 @@ ht-degree: 65%
 
 Adobe Experience Manager（AEM）を Adobe Journey Optimizer とシームレスに統合し、コンテンツ管理を効率化し、チャネル間でブランドの一貫性を確保する方法について説明します。コンテンツフラグメントを作成、承認、レンダリングし、新しいコンテンツを簡単にスワップおよびシミュレートする方法について説明します。効率的なコンテンツ管理と一貫性のあるブランディングを求めるお客様に最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463123/?learn=on&enablevpops&captions=jpn)
 
 Experience League LIVE [ AEM コンテンツフラグメントと Dynamic Media を使用して、Journey Optimizerのパーソナライズされたコンテンツを促進 ](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 
