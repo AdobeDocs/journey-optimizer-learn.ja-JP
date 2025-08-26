@@ -6,13 +6,13 @@ role: User, Admin, Developer
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
+source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer - Mobile Learning Hub
 
@@ -35,7 +35,7 @@ Journey Optimizerは、次のインバウンドモバイルチャネルとアウ
 
 > アウトバウンドチャネルは、メッセージ送信時に **カスタム同意ポリシー** を適用します。 特定のマーケティングアクションに対する同意が付与されていない場合、メッセージは配信されません。
 
-## インバウンドチャネル
+### インバウンドチャネル
 
 インバウンドチャネルは、**顧客が開始するインタラクション** 向けに設計されており、ユーザーがブランドにエンゲージする際に、パーソナライズされたエクスペリエンスを可能にします。
 
@@ -45,7 +45,7 @@ Journey Optimizerは、次のインバウンドモバイルチャネルとアウ
 
 > インバウンドチャネルでは、セグメンテーションおよびターゲティングのためにAdobe Experience Platform **AEP）にフィードするランディングページフォームなど、** リアルタイムパーソナライゼーション **および** データキャプチャ）がサポートされます。
 
-## モバイルチャネルを連携させる方法
+### モバイルチャネルを連携させる方法
 
 これらのチャネルを組み合わせることで、シームレスで効果的な顧客体験を作成できます。
 
@@ -64,7 +64,7 @@ Journey Optimizerは、次のインバウンドモバイルチャネルとアウ
 
 ## 顧客のユースケース
 
-* [ パーソナライズ機能を使って空を飛ぶ：航空会社がAdobe Journey Optimizerでオファーを高める方法（ブログ） ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ja)
+* [ パーソナライズ機能を使って空を飛ぶ：航空会社がAdobe Journey Optimizerでオファーを高める方法（ブログ） ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## 基盤の構築
@@ -99,5 +99,3 @@ Journey Optimizerは、次のインバウンドモバイルチャネルとアウ
 | **アップセルおよびクロスセルキャンペーン** | 顧客の行動、好みまたは購入履歴に基づいて、既存の顧客に対する追加の製品またはアップグレードを昇格します。 | - プッシュ通知は、関連するアップセルの機会を強調表示します。<br> - アプリ内メッセージとコンテンツカードが補完的な項目を紹介します。<br>- SMS キャンペーンは、専用オファーを使用してセグメント化されたオーディエンスをターゲットにします。 |
 | **チャーンの防止** | 離脱のリスクがあるユーザーを特定し、パーソナライズされたリテンション戦略を使用してロイヤルティを維持します。 |  – 予測分析トリガーリスクのあるユーザーへのモバイルアウトリーチ。<br> - プッシュ通知と SMS オファーのロイヤルティ報酬またはパーソナライズされたコンテンツ。<br>- アプリ内調査は、保持戦略を改善するためのフィードバックを収集します。 |
 | **マルチチャネルメッセージ** | 複数のモバイルチャネルにわたって一貫性のあるメッセージングを調整し、ユーザーがタイムリーで関連性の高い通信を確実に受信できるようにします。 | - プッシュ、アプリ内、SMS およびメールは、ユニファイドメッセージング用に調整されます。<br> - SDK を使用すると、チャネルをまたいでリアルタイムのパーソナライゼーションが可能になります。<br> - コンテンツカードは、主要なメッセージを強化するためにセッション間で保持されます。 |
-
-
