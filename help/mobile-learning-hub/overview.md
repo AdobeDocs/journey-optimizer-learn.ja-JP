@@ -7,16 +7,18 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
+source-git-commit: 69eed07e1759e2dfd30934d7ef2c16b1240704e2
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '900'
 ht-degree: 0%
 
 ---
 
 # Journey Optimizer - Mobile Learning Hub
 
-Adobe Journey Optimizer（AJO）のモバイルチャネルを使用して、すぐに開始またはレベルアップできます。 これは、開発者、管理者、マーケターおよびデータアナリストが、インバウンドモバイルチャネルやアウトバウンドモバイルチャネルの設定から、強力なキャンペーンへの織り込みまで、すべてを発見するための頼れる場所です。 チームがいつでも、どこでもユーザーとつながり、インパクトのあるデータ駆動型のモバイルエクスペリエンスを提供できるよう、ベストプラクティスを探索し、導入を推進する方法を学び、マスターレポートを 1 か所で作成します。
+Adobe Journey Optimizer（AJO）のモバイルチャネルを使用して、すぐに開始またはレベルアップできます。 これは、開発者、管理者、マーケターおよびデータアナリストが、インバウンドモバイルチャネルとアウトバウンドモバイルチャネルの設定から強力なキャンペーンへの織り込みまで、すべてを発見するための頼れる場所です。
+
+チームがいつでも、どこでもユーザーとつながり、インパクトのあるデータ駆動型のモバイルエクスペリエンスを提供できるよう、ベストプラクティスを探索し、導入を推進する方法を学び、マスターレポートを 1 か所で作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
 
@@ -29,42 +31,42 @@ Journey Optimizerは、次のインバウンドモバイルチャネルとアウ
 
 アウトバウンドチャネルは、事前のインタラクションを必要とせずに、顧客に **プロアクティブにメッセージを配信** するために使用されます。 これらは、キャンペーン、プロモーション、トランザクション通信に最適です。
 
+これらのチャネルは、メッセージ送信時に **カスタム同意ポリシー** を適用します。 特定のマーケティングアクションに対する同意が付与されていない場合、メッセージは配信されません。
+
 | ![ プッシュ通知 ](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[プッシュ通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | アプリの外部に送信されたプッシュメッセージは、すぐに注目を集めます。 時間に敏感なアップデートや、ユーザーにアプリに戻るよう促すのに最適です。 | アプリを必要とせずに、ユーザーの携帯電話に送信されるダイレクトメッセージ。 緊急のアラート、リマインダー、画像やビデオなどのリッチメディアコンテンツに最適です。 | 広く使用されているメッセージングアプリを介した会話型チャネルにより、パーソナライズされた双方向通信とインタラクティブキャンペーンが可能になります。 |
 
-> アウトバウンドチャネルは、メッセージ送信時に **カスタム同意ポリシー** を適用します。 特定のマーケティングアクションに対する同意が付与されていない場合、メッセージは配信されません。
-
 ### インバウンドチャネル
 
-インバウンドチャネルは、**顧客が開始するインタラクション** 向けに設計されており、ユーザーがブランドにエンゲージする際に、パーソナライズされたエクスペリエンスを可能にします。
+インバウンドチャネルは、**顧客が開始するインタラクション** 向けに設計されており、ユーザーがブランドにエンゲージする際に、パーソナライズされたエクスペリエンスを可能にします。 セグメント化とターゲティングのためにAdobe Experience Platform **AEP）にフィードするランディングページフォームなど、** リアルタイムパーソナライゼーション **および** データキャプチャ）をサポートします。
+
 
 | ![ アプリ内メッセージ ](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;,height=&quot;50%&quot;}<br> **[アプリ内メッセージ](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![ コンテンツカード ](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[コンテンツカード](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![ コードベースのエクスペリエンス ](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[コードベースのエクスペリエンス](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | ユーザーがアプリを積極的に使用している間に配信されるメッセージは、リアルタイムでインタラクティブです。 顧客を今すぐ引き付けるのに最適です。 | 非割り込み型の永続的なメッセージ ユーザーは、アプリ内でいつでもアクセスできます。 コンテンツカードは、進行中のオファーや役に立つ情報を共有する場合に適しています。 | カスタムコードメッセージを使用すると、リアルタイムデータと複雑なカスタマージャーニーを統合し、高度にパーソナライズされた動的なキャンペーンが可能になります。 |
 
-> インバウンドチャネルでは、セグメンテーションおよびターゲティングのためにAdobe Experience Platform **AEP）にフィードするランディングページフォームなど、** リアルタイムパーソナライゼーション **および** データキャプチャ）がサポートされます。
 
-### モバイルチャネルを連携させる方法
+### モバイルチャネルはどのように連携できますか？
 
 これらのチャネルを組み合わせることで、シームレスで効果的な顧客体験を作成できます。
 
-1. **プッシュ通知** を使用すると、すばやく注目を集め、ユーザーをアプリに戻すことができます（例：「セールは今すぐ開始！」）。
+1. [ プッシュ通知 ](/help/mobile-learning-hub/channels/push-notifications-overview.md) を使用すると、すばやく注目を集め、ユーザーをアプリに戻すことができます（例：「セールは今すぐ開始！」）。
 
-2. 中に入ったら、パーソナライズされたプロモーション **例：「本日のセールで 15% 割引」など）で** アプリ内メッセージ」を配信します。
+2. 中に入ったら、パーソナライズされたプロモーション [ 例：「本日のセールで 15% 割引」など）で ](/help/mobile-learning-hub/channels/in-app-messages-overview.md) アプリ内メッセージ」を配信します。
 
-3. **コンテンツカード** を提供し、有効期限が切れる前にいつでもプロモーションに再度アクセスできるようにします（例：「15% 割引は金曜日以降に終了します」）。
+3. [ コンテンツカード ](/help/mobile-learning-hub/channels/content-cards-overview.md) を提供し、有効期限が切れる前にいつでもプロモーションに再度アクセスできるようにします（例：「15% 割引は金曜日以降に終了します」）。
 
-4. **SMS/MMS/RCS** を使用すると、アプリに参加していない可能性のあるユーザーにタイムリーなリマインダーやリッチメディアオファーを直接送信できます。
+4. [SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md) を使用すると、アプリに参加していない可能性のあるユーザーにタイムリーなリマインダーやリッチメディアオファーを直接送信できます。
 
-5. カスタマーサポートやインタラクティブキャンペーンに最適な **WhatsApp** を通じて、顧客と有意義な会話を行います。
+5. カスタマーサポートやインタラクティブキャンペーンに最適な [WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md) を通じて、顧客と有意義な会話を行います。
 
-6. **コードベースのエクスペリエンス** を活用して、ユーザーの行動と好みに基づいてすべてのメッセージをカスタマイズし、チャネルをまたいで真にパーソナライズされたジャーニーを作成します。
+6. [ コードベースのエクスペリエンス ](/help/mobile-learning-hub/channels/code-based-experience-overview.md) を活用して、ユーザーの行動と好みに基づいてすべてのメッセージをカスタマイズし、チャネルをまたいで真にパーソナライズされたジャーニーを作成します。
 
 
 ## 顧客のユースケース
 
-* [ パーソナライズ機能を使って空を飛ぶ：航空会社がAdobe Journey Optimizerでオファーを高める方法（ブログ） ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ja)
+* [ パーソナライズ機能を使って空を飛ぶ：航空会社がAdobe Journey Optimizerでオファーを高める方法（ブログ） ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## 基盤の構築
