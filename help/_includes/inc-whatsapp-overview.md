@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 4%
@@ -32,7 +32,7 @@ Adobe Journey Optimizer内で、WhatsApp は、ユーザーの WhatsApp アカ�
 | 4 | コンプライアンスと信頼の維持 | メッセージは、厳密なオプトイン要件を持つ公式 API を介して配信されます | <ul><li>購読の確認</li><li>規制上の通知</li></ul> |
 | 5 | 他のチャネルとの統合 | メール、プッシュ、SMS と組み合わせて、シームレスなマルチチャネルジャーニーを実現します | <ul><li>クロスチャネルの再エンゲージメント</li><li>放棄された買い物かごについてのフォローアップ</li></ul> |
 
-## WhatsApp を使用しない場合
+## WhatsApp を使用する *ない* 場合
 
 * オーディエンスが WhatsApp を積極的に使用していない場合。
 * ユーザーが WhatsApp メッセージを受信するために明示的にオプトインしていない場合。
