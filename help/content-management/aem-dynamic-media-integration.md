@@ -28,4 +28,4 @@ Adobe Experience Manager Dynamic Media を Adobe Journey Optimizer と統合し�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
-この機能について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic) を参照してください。
+この機能について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/aem-dynamic) を参照してください。
