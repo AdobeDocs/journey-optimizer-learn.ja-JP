@@ -20,4 +20,4 @@ ht-degree: 0%
 
 エントリと離脱の統計、エラー、実行されたアクションなど、ユーザーがジャーニーの様々なステップをどのように操作するかについて、個々のジャーニーのパフォーマンスをトラッキングする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471464/?learn=on&enablevpops&captions=jpn)
