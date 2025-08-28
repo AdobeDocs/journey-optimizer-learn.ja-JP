@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 7f05f2f16414c4bbd64f55fd6cf3bc68623c6d4d
+source-git-commit: a3b77dfe47e09816ad4d5b295ebe791c4f133e69
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 99%
+source-wordcount: '926'
+ht-degree: 97%
 
 ---
 
@@ -177,13 +177,15 @@ ht-degree: 99%
    + [ID のマッピング](/help/data-management/map-identities.md)
    + [データセットの作成とデータの取り込み](/help/data-management/create-datasets-and-ingest-data.md)
    + [ソースコネクタの設定](/help/data-management/configure-source-connectors.md)
-   + [データセットの書き出し先を設定](/help/data-management/configure-dataset-export-destination.md)
-   + [クラウドストレージの場所へのデータセットの書き出し](/help/data-management/export-datasets.md)
+   + [データセットのエクスポート先を設定](/help/data-management/configure-dataset-export-destination.md)
+   + [クラウドストレージの場所へのデータセットのエクスポート](/help/data-management/export-datasets.md)
 + レポートと監視 {#report-and-monitor}
-   + [測定とレポート - 概要](/help/report-and-monitor/measurement-and-reporting-overview.md)
+   + [レポートと監視](/help/report-and-monitor/report-and-monitor.md)
+   + [Journey Optimizerを使用したレポートの概要](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [ライブレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
+   + [ジャーニーレポートを使用したジャーニーのモニタリングと分析](/help/report-and-monitor/journey-reports.md)
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
-   + [CSV 形式でのレポートの書き出し](/help/report-and-monitor/export-reports-in-csv-format.md)
+   + [CSV 形式でのレポートのエクスポート](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [アラートを使用](/help/administration/alerts.md)
    + [Customer Journey Analytics によるレポートの強化](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
