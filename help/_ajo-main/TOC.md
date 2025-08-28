@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
+source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 97%
+source-wordcount: '951'
+ht-degree: 95%
 
 ---
 
@@ -14,16 +14,6 @@ ht-degree: 97%
 # Journey Optimizer チュートリアル {#tutorials}
 
 + [Journey Optimizer チュートリアル](/help/_ajo-main/overview.md)
-+ ユースケース {#use-cases}
-   + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
-   + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
-   + [インテリジェントな再エンゲージメント - 閲覧放棄](https://experienceleague.adobe.com/ja/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [Web SDK を使用した、Adobe Journey Optimizer でのリアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [オファーのインプレッション数とクリック数に関するレポートの生成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
-   + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
-   + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-+ ユースケースプレイブック {#use-case-playbooks}
    + [概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
    + [プレイブックサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
    + [プレイブックインスタンスの作成と公開](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
@@ -37,16 +27,17 @@ ht-degree: 97%
    + [AI アシスタントに関するお問い合わせ](/help/ai-agents/ai-assistant.md)
 + キャンペーン {#create-campaigns}
    + アクションキャンペーン {#action-campaigns}
-      + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
-      + [アプリ内キャンペーンの作成](/help/create-campaigns/in-app.md)
-      + [プッシュキャンペーンの設定と送信](/help/create-campaigns/push-campaign.md)
-      + [Web キャンペーンの作成](/help/create-campaigns/web-campaign.md)
+      + [キャンペーンの作成](/help/campaigns/action-campaigns/create-a-campaign.md)
+      + [アプリ内キャンペーンの作成](/help/campaigns/action-campaigns/in-app.md)
+      + [プッシュキャンペーンの設定と送信](/help/campaigns/action-campaigns/push-campaign.md)
+      + [Web キャンペーンの作成](/help/campaigns/action-campaigns/web-campaign.md)
       + [コードベースのエクスペリエンスキャンペーンの作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [メールキャンペーン用のコンテンツ実験の作成](/help/create-campaigns/content-experiments.md)
       + [キャンペーンでのメッセージ最適化の活用](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API トリガーキャンペーン {#api-triggered-campaigns}
       + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
    + 調整されたキャンペーン {#orchestrated-campaigns}
+      + [オーケストレートキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [リレーショナルスキーマについて](/help/orchestrated-campaigns/understand-relational-schemas.md)
 + ジャーニー {#create-journeys}
    + [ジャーニー designer - 概要](/help/create-journeys/journey-designer-overview.md)
    + [新しいジャーニー designer について](/help/create-journeys/new-journey-designer.md)
@@ -64,7 +55,7 @@ ht-degree: 97%
    + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [ジャーニーでのインバウンドアクションのトラブルシューティング](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
-+ 競合管理 {#conflict-management}
++ 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
    + [ジャーニーのフリークエンシーキャップと優先度](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
@@ -139,7 +130,6 @@ ht-degree: 97%
       + [コンテンツ生成用 AI アシスタント - 概要](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [ブランドガイドラインの作成と管理](/help/content-management/brand-guideline-creation-and-management.md)
-   + [実験 - 概要](/help/content-management/experimentation-overview.md)
    + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
 + コンテンツのパーソナライズ {#personalize-content}
    + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
@@ -150,6 +140,9 @@ ht-degree: 97%
    + [パーソナライゼーションライブラリの保存済み式の使用と管理](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [条件ルールビルダーで動的コンテンツを作成](/help/personalize-content/create-dynamic-content.md)
    + [パーソナライゼーションエディタープレイグラウンド](/help/personalize-content/personalization-editor-playground.md)
++ 実験 {#experimentation}
+   + [実験の概要](/help/experimentation/introduction-to-experimentation.md)
+   + [メールキャンペーン用のコンテンツ実験の作成](/help/experimentation/content-experiments-for-emails.md)
 + 決定機能{#decision-capabilities}
    + 決定 {#decisioning}
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
@@ -224,12 +217,24 @@ ht-degree: 97%
    + [データ使用ポリシーの作成](/help/privacy/create-data-usage-policies.md)
    + [Journey Optimizer チャネルでのデータ使用ポリシーの適用](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
-+ 演習と課題 {#exercises-and-challenges}
++ ユースケースとベストプラクティス{#use-cases}
+   + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
+   + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
+   + [インテリジェントな再エンゲージメント - 閲覧放棄](https://experienceleague.adobe.com/ja/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Web SDK を使用した、Adobe Journey Optimizer でのリアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [オファーのインプレッション数とクリック数に関するレポートの生成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
+   + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + ユースケースプレイブック {#use-case-playbooks}
+      + [概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [プレイブックサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+      + [プレイブックインスタンスの作成と公開](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
++ 演習、ラボ、課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Experience League ライブ番組録画](/help/_ajo-main/experience-league-live-show-recordings.md)
-+ Summit Lab {#summit-labs}
-   + [2025 Summit Lab チートシート](/help/summit-lab-assets/l535-assets.md)
-   + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-
+   + サミットラボ {#summit-labs}
+      + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+      + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
++ ライブセッションとディープダイブ {#live-sessions-and-deep-dives}
+   + [Experience League ライブ番組録画](/help/_ajo-main/experience-league-live-show-recordings.md)
