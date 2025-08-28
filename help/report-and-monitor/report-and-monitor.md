@@ -61,7 +61,7 @@ Adobe Journey Optimizerのレポートは、生データを実用的なインサ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="ライブレポートを使用したジャーニーの監視と分析" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1756406406388" alt="ライブレポートを使用したジャーニーの監視と分析"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470836/?format=jpeg&nocache=1756406406388&captions=jpn" alt="ライブレポートを使用したジャーニーの監視と分析"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,7 +84,7 @@ Adobe Journey Optimizerのレポートは、生データを実用的なインサ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="チャネルレベルのレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1756406406387" alt="チャネルレベルのレポート"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448037/?format=jpeg&nocache=1756406406387&captions=jpn" alt="チャネルレベルのレポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,7 +107,7 @@ Adobe Journey Optimizerのレポートは、生データを実用的なインサ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="CSV 形式でのレポートのエクスポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1756406406384" alt="CSV 形式でのレポートのエクスポート"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439606/?format=jpeg&nocache=1756406406384&captions=jpn" alt="CSV 形式でのレポートのエクスポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +153,7 @@ Adobe Journey Optimizerのレポートは、生データを実用的なインサ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Customer Journey Analytics によるレポートの強化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1756406406386" alt="Customer Journey Analytics によるレポートの強化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443152/?format=jpeg&nocache=1756406406386&captions=jpn" alt="Customer Journey Analytics によるレポートの強化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
