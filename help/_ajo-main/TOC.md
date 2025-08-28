@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: fe5ca064c5823c980b19a41a511e534842a91e99
+source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 97%
@@ -34,7 +34,7 @@ ht-degree: 97%
    + [アーキテクチャ](/help/introduction/architecture.md)
    + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
-   + [AI アシスタントに関するお問い合わせ](/help/ai-assistant.md)
+   + [AI アシスタントに関するお問い合わせ](/help/ai-agents/ai-assistant.md)
 + キャンペーン {#create-campaigns}
    + アクションキャンペーン {#action-campaigns}
       + [キャンペーンの作成](/help/create-campaigns/create-a-campaign.md)
@@ -121,7 +121,7 @@ ht-degree: 97%
    + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
    + アセットの管理 {#assets}
       + [デジタルアセット管理 - 概要](/help/content-management/digital-asset-management-overview.md)
-      + [アセットの管理](/help/assets-essentials-overview.md)
+      + [アセットの管理](/help/content-management/assets-essentials-overview.md)
       + [AEM Dynamic Media の統合](/help/content-management/aem-dynamic-media-integration.md)
       + [Adobe Express を使用したアセットの編集](/help/content-management/edit-assets-with-adobe-express.md)
    + フラグメントの操作 {#fragments}
@@ -227,7 +227,7 @@ ht-degree: 97%
 + 演習と課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Experience League ライブ番組録画](/help/experience-league-live-show-recordings.md)
++ [Experience League ライブ番組録画](/help/_ajo-main/experience-league-live-show-recordings.md)
 + Summit Lab {#summit-labs}
    + [2025 Summit Lab チートシート](/help/summit-lab-assets/l535-assets.md)
    + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
