@@ -20,4 +20,4 @@ ht-degree: 100%
 
 [インタラクティブメッセージ実行 REST API](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution) を使用して、キャンペーンを作成し、ユーザーインタラクションに基づいて外部システムからキャンペーンをトリガーする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452726/?learn=on&captions=jpn)
