@@ -20,6 +20,6 @@ ht-degree: 100%
 
 インバウンドアクションに優先順位を付け、同じチャネル設定を使用して複数のインバウンドアクションの対象となる顧客に、最も優先度の高いコンテンツを配信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445002/?learn=on&enablevpops&captions=jpn)
 
 [ジャーニーとキャンペーンへの優先度スコアの割り当て](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/conflict-prioritization/priority-scores)方法について詳しくは、製品ドキュメントを参照してください。
