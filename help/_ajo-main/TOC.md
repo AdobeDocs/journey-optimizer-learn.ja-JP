@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
+source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '930'
 ht-degree: 96%
 
 ---
@@ -29,12 +29,11 @@ ht-degree: 96%
       + [プッシュキャンペーンの設定と送信](/help/campaigns/action-campaigns/push-campaign.md)
       + [Web キャンペーンの作成](/help/campaigns/action-campaigns/web-campaign.md)
       + [コードベースのエクスペリエンスキャンペーンの作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [キャンペーンでのメッセージ最適化の活用](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + API トリガーキャンペーン {#api-triggered-campaigns}
+      + [キャンペーンでのメッセージ最適化の活用](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
       + [API を使用したキャンペーンのトリガー](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 調整されたキャンペーン {#orchestrated-campaigns}
       + [オーケストレートキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [リレーショナルスキーマについて](/help/orchestrated-campaigns/understand-relational-schemas.md)
+      + [リレーショナルスキーマについて](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
 + ジャーニー {#create-journeys}
    + [ジャーニー designer - 概要](/help/create-journeys/journey-designer-overview.md)
    + [新しいジャーニー designer について](/help/create-journeys/new-journey-designer.md)
@@ -78,7 +77,6 @@ ht-degree: 96%
       + [E メールデザイナーでコンテンツを作成](/help/channels/create-content-with-the-email-designer.md)
       + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
       + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
-      + [メール用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)
    + コンテンツカード{#content-cards}
       + [コンテンツカードの作成](/help/channels/create-content-cards.md)
    + アプリ内チャネル{#in-app-channel}
