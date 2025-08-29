@@ -11,16 +11,16 @@ hide: true
 hidefromtoc: true
 index: false
 jira: KT-18519
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
+source-git-commit: 5e3cbc5d8294c02356ea135b9b3dfeac077874e5
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
 # Experience Platformのリレーショナルスキーマについて
 
 このチュートリアルでは、（Journey Optimizerで調整されたキャンペーンに固有の）リレーショナルスキーマが、リアルタイム顧客プロファイルと連携する仕組みについて、十分に理解します。 構造化され、スケーラブルでパーソナライズされたカスタマージャーニーを設計するための基盤を提供する、データ取り込み、スキーマモデリング、セグメント化、キャンペーン実行の背後にある中心概念について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470215/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
