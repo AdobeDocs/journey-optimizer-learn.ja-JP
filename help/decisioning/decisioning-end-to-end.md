@@ -1,6 +1,6 @@
 ---
-title: 意思決定のエンドツーエンドのチュートリアル
-description: Journey Optimizerの意思決定に関するエンドツーエンドのウォークスルー
+title: 決定に関するエンドツーエンドのチュートリアル
+description: Journey Optimizer の決定に関するエンドツーエンドのチュートリアル
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Value Video
 duration: 1547
 last-substantial-update: 2025-03-13T00:00:00Z
 jira: KT-17487
-source-git-commit: 5a9739f647322a2a7211580f4fff04ae6f9453b3
-workflow-type: tm+mt
+exl-id: 8651b86b-4c54-4549-ba0e-7450b051b3bc
+source-git-commit: e9e120f6eee45bb2aa466a4cd4c64332e4380197
+workflow-type: ht
 source-wordcount: '20'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 決定に関するエンドツーエンドのチュートリアル
 
-# 意思決定のエンドツーエンドのチュートリアル
-
-Journey Optimizerの意思決定に関するエンドツーエンドのウォークスルー
+Journey Optimizer の決定に関するエンドツーエンドのチュートリアル
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451100/?learn=on&enablevpops)
