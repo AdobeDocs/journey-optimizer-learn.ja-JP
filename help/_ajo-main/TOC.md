@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '938'
 ht-degree: 95%
 
 ---
@@ -14,9 +14,6 @@ ht-degree: 95%
 # Journey Optimizer チュートリアル {#tutorials}
 
 + [Journey Optimizer チュートリアル](/help/_ajo-main/overview.md)
-   + [概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [プレイブックサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [プレイブックインスタンスの作成と公開](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の概要](/help/introduction/introduction.md)
@@ -34,7 +31,7 @@ ht-degree: 95%
       + [コードベースのエクスペリエンスキャンペーンの作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [キャンペーンでのメッセージ最適化の活用](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API トリガーキャンペーン {#api-triggered-campaigns}
-      + [API を使用したキャンペーンのトリガー](/help/create-campaigns/api-triggered-campaigns.md)
+      + [API を使用したキャンペーンのトリガー](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 調整されたキャンペーン {#orchestrated-campaigns}
       + [オーケストレートキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [リレーショナルスキーマについて](/help/orchestrated-campaigns/understand-relational-schemas.md)
