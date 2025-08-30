@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
+source-git-commit: 442dc6a8daa84173e0db176edc757d7164c2b2e1
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '933'
 ht-degree: 96%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 96%
       + [Web キャンペーンの作成](/help/campaigns/action-campaigns/web-campaign.md)
       + [コードベースのエクスペリエンスキャンペーンの作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [キャンペーンでのメッセージ最適化の活用](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
+   + API トリガーキャンペーン {#api-triggered-campaigns}
       + [API を使用したキャンペーンのトリガー](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 調整されたキャンペーン {#orchestrated-campaigns}
       + [オーケストレートキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
