@@ -258,7 +258,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="アプリ内メッセージ用のコンテンツ実験の設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1754352425182" alt="アプリ内メッセージ用のコンテンツ実験の設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445289/?format=jpeg&nocache=1754352425182&captions=jpn" alt="アプリ内メッセージ用のコンテンツ実験の設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
