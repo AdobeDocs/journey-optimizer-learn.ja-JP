@@ -10,7 +10,7 @@ jira: KT-10283
 thumbnail: 3418800.jpeg
 exl-id: b95274e6-95f1-4ba8-a26b-32a4c5341015
 source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '26'
 ht-degree: 100%
 
