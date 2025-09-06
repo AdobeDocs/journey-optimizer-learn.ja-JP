@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Journey Optimizer でカスタマーオンボーディングジャーニーを実装する方法について説明します。このプロセスでは、新しいロイヤルティメンバーをターゲットにし、パーソナライズされたメールと SMS を配信して、アプリのダウンロードを促進します。これには、ウェルカムメールの送信、アプリのインストールの確認、リマインダーのフォローアップが含まれます。このチュートリアルでは、AI コンテンツアシスタントを使用してコンテンツを作成およびパーソナライズする方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440651/?learn=on&enablevpops&captions=jpn)

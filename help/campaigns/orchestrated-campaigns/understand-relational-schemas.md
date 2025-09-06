@@ -23,4 +23,4 @@ ht-degree: 0%
 
 このチュートリアルでは、（Journey Optimizerで調整されたキャンペーンに固有の）リレーショナルスキーマが、リアルタイム顧客プロファイルと連携する仕組みについて、十分に理解します。 構造化され、スケーラブルでパーソナライズされたカスタマージャーニーを設計するための基盤を提供する、データ取り込み、スキーマモデリング、セグメント化、キャンペーン実行の背後にある中心概念について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470215/?learn=on&enablevpops&captions=jpn)

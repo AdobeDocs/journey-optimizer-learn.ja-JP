@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Adobe Journey Optimizer のビジネスルールを使用して、フリークエンシーキャップを設定し、顧客への過剰な接触を防ぐ方法について説明します。このビデオでは、すべてのメールを 1 日 1 通に制限したり、プロモーションメールを個別に制限したりするなど、グローバルルールセットとカスタムルールセットの両方を作成する手順について説明し、これらのルールをキャンペーンに適用して、顧客の疲労を効果的に管理する方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433396/?learn=on&captions=jpn)
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/frequency-rules)を参照してください。

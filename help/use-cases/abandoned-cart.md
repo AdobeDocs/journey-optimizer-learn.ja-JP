@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Adobe Journey Optimizer のプレイブック機能を使用して、放棄された買い物かごのユースケースを実装する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443965/?learn=on&enablevpops&captions=jpn)
 
 詳しくは、[プレイブックサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}および[プレイブックインスタンスの作成と公開](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}を参照してください。
