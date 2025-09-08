@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Journey Optimizer キャンペーンオーケストレーションで使用されるリレーショナルストアの基本概念について説明し、スキーマ設計、データ取得、サポートされるソース、リアルタイムプロファイルストアとの主な違いについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470215/?learn=on&enablevpops&captions=jpn)
