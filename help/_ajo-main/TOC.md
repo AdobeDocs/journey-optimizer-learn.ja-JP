@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
    + API トリガーキャンペーン {#api-triggered-campaigns}
       + [API を使用したキャンペーンのトリガー](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 調整されたキャンペーン {#orchestrated-campaigns}
-      + [オーケストレートキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [調整されたキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [リレーショナルストアの基本](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + ジャーニー {#create-journeys}
    + [ジャーニー designer - 概要](/help/create-journeys/journey-designer-overview.md)
@@ -170,12 +170,12 @@ ht-degree: 96%
    + [クラウドストレージの場所へのデータセットのエクスポート](/help/data-management/export-datasets.md)
 + レポートと監視 {#report-and-monitor}
    + [レポートと監視](/help/report-and-monitor/report-and-monitor.md)
-   + [Journey Optimizerを使用したレポートの概要](/help/report-and-monitor/introduction-to-reporting.md)
+   + [Journey Optimizer を使用したレポートの概要](/help/report-and-monitor/introduction-to-reporting.md)
    + [ライブレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
-   + [ジャーニーレポートを使用したジャーニーのモニタリングと分析](/help/report-and-monitor/journey-reports.md)
+   + [ジャーニーレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/journey-reports.md)
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
-   + [CSV 形式でのレポートのエクスポート](/help/report-and-monitor/export-reports-in-csv-format.md)
-   + [アラートを使用](/help/administration/alerts.md)
+   + [CSV 形式でのレポートの書き出し](/help/report-and-monitor/export-reports-in-csv-format.md)
+   + [アラートの使用](/help/administration/alerts.md)
    + [Customer Journey Analytics によるレポートの強化](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
    + チャネルの設定 {#channel-configuration}
@@ -232,5 +232,5 @@ ht-degree: 96%
    + サミットラボ {#summit-labs}
       + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-+ ライブセッションとディープダイブ {#live-sessions-and-deep-dives}
++ ライブセッションと詳細な説明 {#live-sessions-and-deep-dives}
    + [Experience League ライブ番組録画](/help/_ajo-main/experience-league-live-show-recordings.md)
