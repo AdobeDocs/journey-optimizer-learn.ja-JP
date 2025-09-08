@@ -14,9 +14,9 @@ hidefromtoc: false
 hide: false
 index: true
 source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 65%
 
 Adobe Experience Manager（AEM）を Adobe Journey Optimizer とシームレスに統合し、コンテンツ管理を効率化し、チャネル間でブランドの一貫性を確保する方法について説明します。コンテンツフラグメントを作成、承認、レンダリングし、新しいコンテンツを簡単にスワップおよびシミュレートする方法について説明します。効率的なコンテンツ管理と一貫性のあるブランディングを求めるお客様に最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463123/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
-Experience League LIVE [ AEM コンテンツフラグメントと Dynamic Media を使用して、Journey Optimizerのパーソナライズされたコンテンツを促進 ](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
+Experience League LIVE - [AEM コンテンツフラグメントと Dynamic Media を使用した Journey Optimizer のパーソナライズされたコンテンツの促進](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 
-このセッションでは、Jyothitha Chandran、Chris Ivory、Kaitlin White が、Adobe Journey Optimizer（AJO）がAdobe Experience Manager（AEM） Sites コンテンツフラグメントおよびAEM Assets Dynamic Media とシームレスに統合されて、すべてのチャネルにスケーラブルでリアルタイムのパーソナライゼーションを実現する方法を紹介しました。
+このセッションでは、Jyothitha Chandran、Chris Ivory、Kaitlin White が、Adobe Journey Optimizer（AJO）を Adobe Experience Manager（AEM）Sites コンテンツフラグメントおよび AEM Assets Dynamic Media とシームレスに統合し、すべてのチャネルにスケーラブルでリアルタイムのパーソナライゼーションを実現する方法を紹介しました。
