@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 442dc6a8daa84173e0db176edc757d7164c2b2e1
+source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
 ht-degree: 96%
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [API を使用したキャンペーンのトリガー](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 調整されたキャンペーン {#orchestrated-campaigns}
       + [オーケストレートキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [リレーショナルスキーマについて](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
+      + [リレーショナルストアの基本](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + ジャーニー {#create-journeys}
    + [ジャーニー designer - 概要](/help/create-journeys/journey-designer-overview.md)
    + [新しいジャーニー designer について](/help/create-journeys/new-journey-designer.md)
