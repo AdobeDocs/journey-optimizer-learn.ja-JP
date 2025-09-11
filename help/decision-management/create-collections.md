@@ -9,7 +9,7 @@ thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 コレクションは、オファーを論理グループに分けて管理するために使用されるもので、意思決定管理アクティビティの作成に必要です。動的なコレクションを使用すると、オファーをタグに基づいてグループ化できるのに対して、静的なコレクションを使用すると、オファーを手動でキュレーションできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/346689?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
