@@ -1,6 +1,6 @@
 ---
-title: Journey Optimizerでのリレーショナルストアの基本
-description: Journey Optimizer キャンペーンオーケストレーションで使用されるリレーショナルストアの基本概念について説明し、スキーマ設計、データ取得、サポートされるソース、リアルタイムプロファイルストアとの主な違いについて説明します。
+title: Journey Optimizer でのリレーショナルストアの基本
+description: Journey Optimizer のキャンペーンオーケストレーションで使用されるリレーショナルストアの基本的な概念（スキーマデザイン、データ取り込み、サポートされるソース、リアルタイムプロファイルストアとの主な違いなど）について説明します。
 feature: Campaigns
 role: Data Engineer
 level: Beginner
@@ -13,14 +13,14 @@ index: true
 jira: KT-18519
 exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Journey Optimizerでのリレーショナルストアの基本
+# Journey Optimizer でのリレーショナルストアの基本
 
-Journey Optimizer キャンペーンオーケストレーションで使用されるリレーショナルストアの基本概念について説明し、スキーマ設計、データ取得、サポートされるソース、リアルタイムプロファイルストアとの主な違いについて説明します。
+Journey Optimizer のキャンペーンオーケストレーションで使用されるリレーショナルストアの基本的な概念（スキーマデザイン、データ取り込み、サポートされるソース、リアルタイムプロファイルストアとの主な違いなど）について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470215/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
