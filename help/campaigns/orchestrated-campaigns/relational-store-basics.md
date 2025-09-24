@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Journey Optimizer のキャンペーンオーケストレーションで使用されるリレーショナルストアの基本的な概念（スキーマデザイン、データ取り込み、サポートされるソース、リアルタイムプロファイルストアとの主な違いなど）について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470215/?learn=on&enablevpops&captions=jpn)
