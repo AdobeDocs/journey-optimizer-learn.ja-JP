@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
+source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -88,6 +89,7 @@ Adobe Experience Platform Debuggerは、Web サイトからAdobe Experience Plat
 * 顧客/ プロファイル /参照に移動します。
 * FinWise CRM ID = FIN001 を検索
 * プロファイルを開き、「ID」セクションを確認します。 CRMID と ECID の両方がリストされます。   これにより、2 つの ID が単一のプロファイルにステッチされたことが確認されます。
-
+* ジャーニーもトリガーされます。ジャーニーレポートを表示して、これを確認します
+* ![ ジャーニーレポート ](assets/journey-triggered-report.png)
 
 
