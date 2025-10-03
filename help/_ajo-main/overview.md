@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
-workflow-type: ht
-source-wordcount: '580'
-ht-degree: 100%
+source-git-commit: af94f3401aa31b2adc6dfb88f6763a472b1c3e3b
+workflow-type: tm+mt
+source-wordcount: '628'
+ht-degree: 84%
 
 ---
 
@@ -33,24 +33,70 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
 ## 最新の Experience League ライブイベント
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+    {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
+    {description = IN this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcased how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
-     {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
-     {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" title="Journey Optimizer（2025 年 9 月 30 日（PT））で RCS と WhatsApp を使用してモバイルのリーチを拡大" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1759529951745" alt="Journey Optimizer（2025 年 9 月 30 日（PT））で RCS と WhatsApp を使用してモバイルのリーチを拡大"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Journey Optimizer（2025 年 9 月 30 日（PT））で RCS と WhatsApp を使用してモバイルのリーチを拡大">Journey Optimizerで RCS と WhatsApp を使用してモバイルのリーチを拡大（2025 年 9 月 30 日（PT）） </a>
+                    </p>
+                    <p class="is-size-6">このショーでは、Travis Jordan と Nikhil Sharma が、Adobe Journey Optimizerが最近、WhatsApp、RCS、カスタム SMS プロバイダーなどの強力な新しいチャネルの追加と機能を使用してモバイルエンゲージメントを強化した方法を示します。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" title="AEM コンテンツフラグメントと Dynamic Media を使用したJourney Optimizer のパーソナライズされたコンテンツの促進（2025年7月31日（PT））" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470355/?format=jpeg&nocache=1759529951721" alt="AEM コンテンツフラグメントと Dynamic Media を使用したJourney Optimizer のパーソナライズされたコンテンツの促進（2025年7月31日（PT））"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" target="_blank" rel="referrer" title="AEM コンテンツフラグメントと Dynamic Media を使用したJourney Optimizer のパーソナライズされたコンテンツの促進（2025年7月31日（PT））">AEM コンテンツフラグメントと Dynamic Media を使用した Journey Optimizer のパーソナライズされたコンテンツの促進（2025年7月31日（PT））</a>
+                    </p>
+                    <p class="is-size-6">このセッションでは、Jyothitha Chandran、Chris Ivory、Kaitlin White が、Adobe Journey Optimizer（AJO）を Adobe Experience Manager（AEM）Sites コンテンツフラグメントおよび AEM Assets Dynamic Media とシームレスに統合し、すべてのチャネルにスケーラブルでリアルタイムのパーソナライゼーションを実現する方法を紹介しました。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Master Frequency Capping & Conflict Prioritization (June 18, 2025)">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="マスターのフリークエンシーキャップと競合の優先順位付け（2025年6月18日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1754352423711" alt="マスターのフリークエンシーキャップと競合の優先順位付け（2025年6月18日（PT））"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1759529951755" alt="マスターのフリークエンシーキャップと競合の優先順位付け（2025年6月18日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,52 +114,6 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Agile Workflows for Personalized Content at Scale (June 05, 2025)">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1754352423672" alt="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））">パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））</a>
-                    </p>
-                    <p class="is-size-6">このセッションでは、アドビのエキスパートである Chris Ivory、Amarnath Vannarath および Rohan Bhatt が、Adobe Journey Optimizer（AJO）が、Adobe Express や GenStudio for Performance Marketing とどのようにシームレスに統合されているかについてご紹介します。これらのツールがどのようにして、マーケティングワークフローに比類のない柔軟性、共同作業、AI を活用した創造性をもたらしているかを説明します。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Adobe Experience Platform で AI アシスタントを使用して運用上のインサイトを引き出す（2025年2月27日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1754352423584" alt="Adobe Experience Platform で AI アシスタントを使用して運用上のインサイトを引き出す（2025年2月27日（PT））"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Adobe Experience Platform で AI アシスタントを使用して運用上のインサイトを引き出す（2025年2月27日（PT））">Adobe Experience Platform で AI アシスタントを使用して運用上のインサイトを引き出す（2025年2月27日（PT））</a>
-                    </p>
-                    <p class="is-size-6">当社の専門家は、AI アシスタントが Adobe Experience Platform とそのプラットフォームベースのアプリケーションにおける貴重な運用上のインサイトを引き出し、生産性を向上させ、業務を再定義する方法について説明しました。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
-            </div>
-        </div>
-    </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
@@ -122,9 +122,9 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
 ## スタッフのおすすめ
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -133,7 +133,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="主な機能とユーザーインターフェイス" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430316?format=jpeg&nocache=1754352424467&captions=jpn" alt="主な機能とユーザーインターフェイス"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1759529952337" alt="主な機能とユーザーインターフェイス"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" title="ジャーニー構築の概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430350?format=jpeg&nocache=1754352424452&captions=jpn" alt="ジャーニー構築の概要"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1759529952348" alt="ジャーニー構築の概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="ルールビルダーを使用したオーディエンスの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430329?format=jpeg&nocache=1754352424460&captions=jpn" alt="ルールビルダーを使用したオーディエンスの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1759529952343" alt="ルールビルダーを使用したオーディエンスの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,18 +201,18 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create content using AI Assistant for content generation">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create Content Using AI Assistant for Content Generation">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434636/?format=jpeg&nocache=1750720619194&captions=jpn" alt="コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1759529953102" alt="コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -220,7 +220,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する">コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する">AI アシスタントを使用したコンテンツ生成 </a>
                     </p>
                     <p class="is-size-6">コンテンツ生成用 AI アシスタントを使用して、テキストと画像の両方にプロアクティブなコンテンツバリエーション提案を生成する方法について説明します。</p>
                 </div>
@@ -235,7 +235,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="決定に関するエンドツーエンドのチュートリアル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1754352425190" alt="決定に関するエンドツーエンドのチュートリアル"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1759529953093" alt="決定に関するエンドツーエンドのチュートリアル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -258,7 +258,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="アプリ内メッセージ用のコンテンツ実験の設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445289/?format=jpeg&nocache=1754352425182&captions=jpn" alt="アプリ内メッセージ用のコンテンツ実験の設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1759529953110" alt="アプリ内メッセージ用のコンテンツ実験の設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
