@@ -30,7 +30,7 @@ ID ステッチを開始するには、サンプルの CRM プロファイルデ
 
 **_FinWiseProfileSchema_** という個別プロファイルスキーマを作成します。 innualIncome、email、firstName、lastName、loyaltyStatus などのフィールドを含めます。
 ID フィールド **_crmid_** を追加します。 crmid フィールドを ID およびプライマリとしてマークします。
-_**同意および環境設定の詳細**_ フィールドグループをスキーマに追加します。 [ 同意および環境設定 ](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/field-groups/profile/consents) は、XDM 個人プロファイル クラスの標準フィールドグループで、個々の顧客の同意および環境設定情報を収集するものです。ここに格納される環境設定によって、チャネルレベルのコミュニケーション環境設定が決定します。
+_&#x200B;**同意および環境設定の詳細**&#x200B;_ フィールドグループをスキーマに追加します。 [&#x200B; 同意および環境設定 &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/field-groups/profile/consents) は、XDM 個人プロファイル クラスの標準フィールドグループで、個々の顧客の同意および環境設定情報を収集するものです。ここに格納される環境設定によって、チャネルレベルのコミュニケーション環境設定が決定します。
 
 
 ![profile-schema](assets/finwise-profile-schema.png)
@@ -52,10 +52,10 @@ _**同意および環境設定の詳細**_ フィールドグループをスキ�
 * 前の手順で作成した **_FinWiseProfileSchema_** に基づいて、**_FinWiseCustomerDataSetWithAnnualIncome_** というデータセットを作成します
 
 * 接続/ ソース / ローカルシステムに移動します。
-* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _**FinWiseCustomerDataSetWithAnnualIncome**_ をターゲットデータセットとして選択してください。
+* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ をターゲットデータセットとして選択してください。
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
-* 次の画面に移動します。 [csv ファイルをアップロードし ](assets/finwise_profiles.csv) マッピングを確認します
-  ![ マッピング ](assets/mappings.png)
+* 次の画面に移動します。 [csv ファイルをアップロードし &#x200B;](assets/finwise_profiles.csv) マッピングを確認します
+  ![&#x200B; マッピング &#x200B;](assets/mappings.png)
 
 * 「終了」をクリックしてデータ取り込みプロセスを開始します。
 
