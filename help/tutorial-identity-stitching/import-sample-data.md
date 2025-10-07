@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 83b23f54594b796ec528526a360c5c40164fb5cb
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '346'
 ht-degree: 6%
 
 ---
@@ -29,27 +29,30 @@ ID ステッチを開始するには、サンプルの CRM プロファイルデ
 ## プロファイルが有効なスキーマの作成
 
 **_FinWiseProfileSchema_** という個別プロファイルスキーマを作成します。 innualIncome、email、firstName、lastName、loyaltyStatus などのフィールドを含めます。
-SystemIdentifier オブジェクトの下に ID フィールド **_crmid_** を追加します。 Crmid フィールドを ID およびプライマリとしてマークします。
+ID フィールド **_crmid_** を追加します。 crmid フィールドを ID およびプライマリとしてマークします。
+_**同意および環境設定の詳細**_ フィールドグループをスキーマに追加します。 [ 同意および環境設定 ](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/field-groups/profile/consents) は、XDM 個人プロファイル クラスの標準フィールドグループで、個々の顧客の同意および環境設定情報を収集するものです。ここに格納される環境設定によって、チャネルレベルのコミュニケーション環境設定が決定します。
 
 
 ![profile-schema](assets/finwise-profile-schema.png)
 
 ## サンプルデータの準備
 
-| crmId | firstName | lastName | メール | loyaltyStatus | zipCode | annualIncome |
-|--------|-----------|----------|-------------------------|---------------|---------|--------------|
-| FIN001 | アリス | ウォン | alice.wong@example.com | ゴールド | 92128 | 120000 |
-| FIN002 | Bob | Smith | bob.smith@example.com | シルバー | 92126 | 85000 |
-| FIN003 | チャーリー | キム | charlie.kim@example.com | Platinum | 60614 | 175000 |
-| FIN004 | ダイアナ | リー | diana.lee@example.com | ゴールド | 30303 | 98000 |
-| FIN005 | イーサン | ブラウン | ethan.brown@example.com | ブロンズ | 75201 | 60000 |
+ダミーメールアドレスを実際のメールアドレスに更新します。 これらは、後でAdobe Journey Optimizerでメッセージを送信する際に使用されます。 emailConsent を y に設定して、プロファイルのメール配信を有効にします。
+
+|   | crmId | firstName | lastName | メール | loyaltyStatus | zipCode | annualIncome | emailConsent |
+|---|--------|-----------|----------|-------------------------|---------------|---------|--------------|--------------|
+|   | FIN001 | アリス | ウォン | alice.wong@example.com | ゴールド | 92128 | 120000 | y |
+|   | FIN002 | Bob | Smith | bob.smith@example.com | シルバー | 92126 | 85000 | y |
+|   | FIN003 | チャーリー | キム | charlie.kim@example.com | Platinum | 60614 | 175000 | y |
+|   | FIN004 | ダイアナ | リー | diana.lee@example.com | ゴールド | 30303 | 98000 | y |
+|   | FIN005 | イーサン | ブラウン | ethan.brown@example.com | ブロンズ | 75201 | 60000 | y |
 
 ## CSV ファイルの取り込み
 
 * 前の手順で作成した **_FinWiseProfileSchema_** に基づいて、**_FinWiseCustomerDataSetWithAnnualIncome_** というデータセットを作成します
 
 * 接続/ ソース / ローカルシステムに移動します。
-* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ をターゲットデータセットとして選択してください。
+* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _**FinWiseCustomerDataSetWithAnnualIncome**_ をターゲットデータセットとして選択してください。
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * 次の画面に移動します。 [csv ファイルをアップロードし ](assets/finwise_profiles.csv) マッピングを確認します
   ![ マッピング ](assets/mappings.png)
