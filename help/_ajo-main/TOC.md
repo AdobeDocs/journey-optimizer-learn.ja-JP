@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 98%
 
 ---
 
@@ -35,22 +35,23 @@ ht-degree: 100%
    + 調整されたキャンペーン {#orchestrated-campaigns}
       + [調整されたキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [リレーショナルストアの基本](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
-+ ジャーニー {#create-journeys}
-   + [ジャーニー designer - 概要](/help/create-journeys/journey-designer-overview.md)
-   + [新しいジャーニー designer について](/help/create-journeys/new-journey-designer.md)
-   + [ジャーニー構築の概要](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [テストプロファイルの作成](/help/create-journeys/test-a-journey.md)
-   + [ジャーニーの公開](/help/create-journeys/publish-a-journey.md)
-   + [ユースケース - トランザクションジャーニー](/help/create-journeys/use-case-transactional-journey.md)
-   + [ユースケース - ビジネスイベント](/help/create-journeys/use-case-business-event.md)
-   + [ユースケース - オーディエンスを読み取り](/help/create-journeys/use-case-read-audience.md)
-   + [ユースケース - オーディエンスの選定](/help/create-journeys/use-case-audience-qualification.md)
-   + [複数属性フィルタリングの習得](/help/create-journeys/mastering-multi-attribute-filtering.md)
-   + [ジャーニードライランを使用したジャーニーロジックの検証](/help/create-journeys/journey-dry-run.md)
-   + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
-   + [ライブジャーニーのコンテンツの更新](/help/create-journeys/update-content-in-live-journey.md)
-   + [別のサンドボックスへのジャーニーのコピー](/help/create-journeys/copy-a-journey.md)
-   + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ ジャーニー {#journeys}
+   + [ジャーニー designer - 概要](/help/journeys/journey-designer-overview.md)
+   + [Journey Agent – 概要](/help/ai-agents/journey-agent-overview.md)
+   + [新しいジャーニー designer について](/help/journeys/new-journey-designer.md)
+   + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
+   + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
+   + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
+   + [ユースケース - トランザクションジャーニー](/help/journeys/use-case-transactional-journey.md)
+   + [ユースケース - ビジネスイベント](/help/journeys/use-case-business-event.md)
+   + [ユースケース - オーディエンスを読み取り](/help/journeys/use-case-read-audience.md)
+   + [ユースケース - オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)
+   + [複数属性フィルタリングの習得](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [ジャーニードライランを使用したジャーニーロジックの検証](/help/journeys/journey-dry-run.md)
+   + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [ライブジャーニーのコンテンツの更新](/help/journeys/update-content-in-live-journey.md)
+   + [別のサンドボックスへのジャーニーのコピー](/help/journeys/copy-a-journey.md)
+   + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [ジャーニーでのインバウンドアクションのトラブルシューティング](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
@@ -139,6 +140,7 @@ ht-degree: 100%
 + 実験 {#experimentation}
    + [実験の概要](/help/experimentation/introduction-to-experimentation.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/experimentation/content-experiments-for-emails.md)
+   + [実験エージェント](/help/ai-agents/experimentation-agent-overview.md)
 + 決定機能{#decision-capabilities}
    + 決定 {#decisioning}
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
@@ -213,6 +215,9 @@ ht-degree: 100%
    + [データ使用ポリシーの作成](/help/privacy/create-data-usage-policies.md)
    + [Journey Optimizer チャネルでのデータ使用ポリシーの適用](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
++ AI アシスタント {#ai-assistant}
+   + [AI アシスタント](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [ コンテンツ生成用 AI アシスタント ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
