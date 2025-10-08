@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '547'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 | 課題 | 製品補充 |
 |---|---|
 | ペルソナ | ジャーニーマネージャー |
-| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja)</li><li> [HTML メールコンテンツの読み込みと作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ja)</li><li>[ユースケース - セグメントの読み取り](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ja)</li> |
+| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja)</li><li> [HTML メールコンテンツの読み込みと作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ja)</li><li>[ユースケース - セグメントの読み取り](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | ダウンロードするアセット | [製品再入荷のメールファイル](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## ストーリー
@@ -35,7 +35,7 @@ Luma は、Journey Optimizer でジャーニーを実装して、以前は在庫
 
 >[!TAB タスク]
 
-## 1. セグメントの定義 - 在庫切れのウィッシュリストアイテム
+## &#x200B;1. セグメントの定義 - 在庫切れのウィッシュリストアイテム
 
 製品が再入荷されたときに、興味のある潜在顧客をターゲットにするには、顧客で構成されるオーディエンスを作成します。
 
@@ -49,7 +49,7 @@ Luma は、Journey Optimizer でジャーニーを実装して、以前は在庫
 このセグメントに `Out-of-stock-Wishlist` と名前を付けます
 
 
-### 2. ジャーニーの作成 - 製品再入荷の通知
+### &#x200B;2. ジャーニーの作成 - 製品再入荷の通知
 
 以前に在庫切れだったアイテムが再入荷したら、在庫切れのアイテムを追加した顧客に、アイテムが再入荷したので買い物を開始するように通知します。
 
@@ -67,7 +67,7 @@ Luma は、Journey Optimizer でジャーニーを実装して、以前は在庫
 1. ジャーニーをテストモードに設定
 1. イベントのトリガー - 次のデータを入力します。
 
-   * 説明：高額なマシンや高価な会費は必要ありません - Harmony Lumaflex Strength Band Kit だけあれば、素晴らしいワークアウトを実現できます。このキットには、筋肉の強化や引き締めエクササイズに必要な機能がすべて揃っています。
+   * 説明：高額なマシンや高価なメンバーシップ費用は必要ありません - Harmony Lumaflex Strength Band Kit だけあれば、素晴らしいワークアウトを実現できます。このキットには、筋肉の強化や引き締めエクササイズに必要な機能がすべて揃っています。
    * 名前：Harmony Lumaflex Strength Band Kit
    * 価格：22
    * 製品 ID：24-UG03

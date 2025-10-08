@@ -7,10 +7,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '1108'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 | 課題 | 夏物コレクションのお知らせの作成 |
 |---|---|
 | ペルソナ | ジャーニーマネージャー |
-| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja)</li><li> [HTML メールコンテンツの読み込みと作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ja)</li><li>[ユースケース - セグメントの読み取り](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ja)</li> |
+| 必要なスキル | <ul><li>[セグメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ja)</li><li> [HTML メールコンテンツの読み込みと作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ja)</li><li>[ユースケース - セグメントの読み取り](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | ダウンロードするアセット | [季節ごとのコレクションのメールファイル](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -176,7 +176,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. [!UICONTROL セグメントを読み取りアクティビティ]の名前空間が **Luma CRM id(lumaCrmId)** に設定されていることを確認します。
 >1. メールごとに、メールのデフォルトのメールパラメーターを上書きして、メールアドレスに送信されるようにします。
->    * 目の記号をクリックして、非表示の値を表示します。
+>    * 目のシンボルをクリックして、非表示の値を表示します。
 >    * メールパラメーターで、T 記号をクリックします（パラメーターの上書きを有効にします）。
 >
 >      ![メールパラメーターの上書き](/help/challenges/assets/c3-override-email-paramters.jpg)
@@ -201,7 +201,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 2 通目のメールを開くと、ジャーニーは終了します。
 1. 手順 4 ～ 7 を繰り返すことができます。3 つのプロファイルで、分岐が正しく動作しているかどうかを確認してください。
 1. タイムアウトをテストするには、待機時間を 30 秒に設定し、再度エントリをトリガーします。
-1. 受信したメールを開かないでください（メールをプレビューしないでください（！））そして、待機時間を経過させます。
+1. 受信したメールを開かないでください（メールをプレビューしないでください（!））。待機時間を経過させます。
 
 次のメールが届きます。
 
