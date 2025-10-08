@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # ラボワークブック
 
-![Adobe Summit – 代替テキスト ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit – 代替テキスト &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Adobe Journey Optimizerでパーソナライズされたモバイルモーメントの作成
 
@@ -29,14 +29,14 @@ ht-degree: 0%
 >[!IMPORTANT]
 >
 >セッション中の写真やスクリーンショットをソーシャルメディアに投稿することは差し控えてください。
->><br>
->>**Adobeの機密性**
->>このラボで本日共有された情報および商品の開示は、Adobeの機密情報です。
->>参加者は、いかなる個人または団体に対しても、機密情報を複製、使用、流布、または開示することはできません。
->>製品の開示は情報提供のみを目的としており、将来の機能を保証するものではなく、いつでも変更される可能性があります。 そのため、このような製品の機能は、Adobeとの契約には含まれず、その他の方法でお客様に提供されることはありません。
->><br>
->>**免責事項**
->>Adobeでは、ジェネレーティブ AI テクノロジーを活用した機能への早期アクセスを提供しています。 これらの機能は開発中であり、予期しない応答や不正確な応答が生じる場合があることに注意してください。 この機能を市場に投入する際には、フィードバックをお待ちしています。
+>&#x200B;><br>
+>&#x200B;>**Adobeの機密性**
+>&#x200B;>このラボで本日共有された情報および商品の開示は、Adobeの機密情報です。
+>&#x200B;>参加者は、いかなる個人または団体に対しても、機密情報を複製、使用、流布、または開示することはできません。
+>&#x200B;>製品の開示は情報提供のみを目的としており、将来の機能を保証するものではなく、いつでも変更される可能性があります。 そのため、このような製品の機能は、Adobeとの契約には含まれず、その他の方法でお客様に提供されることはありません。
+>&#x200B;><br>
+>&#x200B;>**免責事項**
+>&#x200B;>Adobeでは、ジェネレーティブ AI テクノロジーを活用した機能への早期アクセスを提供しています。 これらの機能は開発中であり、予期しない応答や不正確な応答が生じる場合があることに注意してください。 この機能を市場に投入する際には、フィードバックをお待ちしています。
 
 
 ### 重要ポイント
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 * シート番号の確認：シート番号は、ラボマシンのデスクトップに表示されます。
 
-![ シート番号 ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![&#x200B; シート番号 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 次へのアクセス権が必要です。
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - ログインの詳細は演習中に提供されます。
-* [Fréscopa web サイト ](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+* [Fréscopa web サイト &#x200B;](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
 ### ユースケースについて

@@ -34,7 +34,7 @@ ht-degree: 2%
 
 1. **キャンペーンを作成** をクリックします。
 
-   ![ キャンペーンを作成 ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
+   ![&#x200B; キャンペーンを作成 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
 
 1. **キャンペーンを作成** ページの「**アクション**」セクションで、「**アプリ内メッセージ**」チェックボックスを選択します。
 
@@ -42,7 +42,7 @@ ht-degree: 2%
 
 1. 次の URL を入力してください：**https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *メッセージが表示される Web ページです。*
 
-   ![ アプリ内 URL](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![&#x200B; アプリ内 URL](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
 
@@ -50,7 +50,7 @@ ht-degree: 2%
 
 このページでは、キャンペーンのプロパティと、アプリ内メッセージをトリガーして web ページに表示するイベントを定義します。 その他の設定はすべてデフォルトのままにします。 この演習では、特定のオーディエンスを定義する必要はありません。
 
-### 3.2.1 [!UICONTROL  プロパティセクション ]
+### 3.2.1 [!UICONTROL &#x200B; プロパティセクション &#x200B;]
 
 1. 「**プロパティ**」セクションで、キャンペーンに一意の **名前** を付けます。
 
@@ -60,7 +60,7 @@ ht-degree: 2%
    > 
    > 例えば、シート番号が 99 の場合： 
    >
-   > ![ プロパティ名 ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![&#x200B; プロパティ名 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 カスタムトリガールールの設定
@@ -69,18 +69,18 @@ ht-degree: 2%
 
 1. 「**[!UICONTROL トリガー」セクションまでスクロールし]** 「**[!UICONTROL トリガーを編集]** をクリックします。
 
-   ![ 変更 ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![&#x200B; 変更 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. ルールビルダーで「**[!UICONTROL アプリケーションの起動]**」をクリックし、ドロップダウンから「*Platform にデータを送信*」を選択します。
-   ![トリガーイベントドロップダウン ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![トリガーイベントドロップダウン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. 「**[!UICONTROL +条件を追加]**」をクリックして条件を追加します。
 
-   ![ 条件を追加ボタン ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![&#x200B; 条件を追加ボタン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. **[!UICONTROL 特性を選択]** ドロップダウンから、「**[!UICONTROL XDM イベントタイプ]**」を選択します。
 
-   ![XDM イベントタイプ ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM イベントタイプ &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
 1. 次のテキストフィールドに、覚えやすい *`<custom string value>`* を追加し、**[!UICONTROL 追加]** `<custom string value>` キーを押して値を保存します。
@@ -93,7 +93,7 @@ ht-degree: 2%
    > 例：`99web`
    > 
 
-   ![ カスタムトリガー文字列値を追加 ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![&#x200B; カスタムトリガー文字列値を追加 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
 1. 右上の **[!UICONTROL 完了]** ボタンを押します。
 
@@ -101,7 +101,7 @@ ht-degree: 2%
 >
 >これで、カスタムのトリガーイベントを使用して web アプリ内メッセージを定義しました。
 >
->![ カスタムトリガーが定義された web キャンペーン ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>![&#x200B; カスタムトリガーが定義された web キャンペーン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3 アプリ内メッセージのコンテンツの編集
@@ -110,7 +110,7 @@ ht-degree: 2%
 
 1. 「**アクション**」セクションの「**コンテンツを編集**」ボタンをクリックして、オーサリング構造にアクセスします。
 
-   ![ コンテンツを編集ボタン ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+   ![&#x200B; コンテンツを編集ボタン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. オーサリングプロセスは、上記のモバイルのアプリ内演習で完了したプロセスと同じです。 自分のタイトル、本文、メディアコンテンツを使用して、メッセージを自由に編集する時間を取ります。
 
@@ -128,13 +128,13 @@ ht-degree: 2%
 
 1. Fréscopa の Web サイトに移動し、ブラウザーで **演習** ページに移動します。
 
-   ![Web 演習リンク ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![Web 演習リンク &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. Web ページを必ず更新してください。
 
 1. キャンペーンで定義した一意の文字列値を入力します。
 
-   ![ 演習ページ ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
+   ![&#x200B; 演習ページ &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. 「**[!UICONTROL 送信]**」をクリックします。
 
@@ -154,7 +154,7 @@ ht-degree: 2%
 
 **製品ドキュメント：**
 
-* [ アプリ内チャネルの概要 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Web アプリ内メッセージの作成 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [&#x200B; アプリ内チャネルの概要 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Web アプリ内メッセージの作成 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
 * [アプリ内コンテンツのデザイン](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [ アプリ内通知の確認と送信 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [&#x200B; アプリ内通知の確認と送信 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

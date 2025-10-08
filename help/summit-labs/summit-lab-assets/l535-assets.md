@@ -22,10 +22,10 @@ ht-degree: 24%
 
 ## リンク
 
-* [SecurFinancial Web サイト ](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U){target="_blank"}
+* [SecurFinancial Web サイト &#x200B;](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U){target="_blank"}
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:ajo-summit-lab/journey-optimizer/journeys){target="_blank"}
-* [L535 ワークブック ](/help/summit-labs/summit-lab-assets/assets/summit_lab_manual_l535-final-v4.pdf){target="_blank"}
-* [ アプリのダウンロード ](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html){target="_blank"}
+* [L535 ワークブック &#x200B;](/help/summit-labs/summit-lab-assets/assets/summit_lab_manual_l535-final-v4.pdf){target="_blank"}
+* [&#x200B; アプリのダウンロード &#x200B;](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html){target="_blank"}
 
 ## 演習用にコピー&amp;ペースト
 
@@ -121,7 +121,7 @@ dxdemo://atm
 
 ## 画像
 
-![SecureFinancial ロゴ ](/help/summit-labs/summit-lab-assets/assets/SecureFinancial-logo.png)
+![SecureFinancial ロゴ &#x200B;](/help/summit-labs/summit-lab-assets/assets/SecureFinancial-logo.png)
 
 
-![ 携帯電話 ](/help/summit-labs/summit-lab-assets/assets/online-banking-app-01.png)
+![&#x200B; 携帯電話 &#x200B;](/help/summit-labs/summit-lab-assets/assets/online-banking-app-01.png)
