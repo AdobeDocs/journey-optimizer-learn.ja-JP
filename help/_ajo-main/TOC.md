@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+source-git-commit: f89cba65a472ea389ef0c8e974ddead6e4b2d24b
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '958'
 ht-degree: 98%
 
 ---
@@ -140,7 +140,7 @@ ht-degree: 98%
 + 実験 {#experimentation}
    + [実験の概要](/help/experimentation/introduction-to-experimentation.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/experimentation/content-experiments-for-emails.md)
-   + [実験エージェント](/help/ai-agents/experimentation-agent-overview.md)
+   + [実験エージェント – 概要](/help/ai-agents/experimentation-agent-overview.md)
 + 決定機能{#decision-capabilities}
    + 決定 {#decisioning}
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
@@ -216,8 +216,10 @@ ht-degree: 98%
    + [Journey Optimizer チャネルでのデータ使用ポリシーの適用](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
 + AI アシスタント {#ai-assistant}
-   + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [&#x200B; コンテンツ生成用 AI アシスタント &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [AI アシスタント](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent – 概要 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [ 実験エージェント – 概要 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
