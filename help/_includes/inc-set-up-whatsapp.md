@@ -1,6 +1,6 @@
 ---
-source-git-commit: 261b26e38b627e26de619ef08fdba455ad486fd5
-workflow-type: ht
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 
@@ -17,4 +17,4 @@ ht-degree: 100%
 
 カスタマージャーニー内で WhatsApp メッセージのアクティブ化を検討しているマーケターや開発者に最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470269/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
