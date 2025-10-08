@@ -21,4 +21,4 @@ ht-degree: 100%
 
 ジャーニーキャンバスの特長と機能について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342099?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344634?quality=12&learn=on&captions=jpn){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 テストプロファイルの作成方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334236?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416426?quality=12&learn=on&captions=jpn){transcript=true}
