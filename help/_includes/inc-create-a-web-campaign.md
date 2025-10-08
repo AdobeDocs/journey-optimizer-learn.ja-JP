@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Web キャンペーンとは何かを理解します。Web キャンペーンのプロパティを設定、レビュー、公開する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449982/?quality=12&learn=on&captions=jpn){transcript=true}

@@ -9,7 +9,7 @@ ht-degree: 100%
 
 アプリ内メッセージとは何かを理解します。キャンペーンでアプリ内メッセージを作成、設定および公開する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451883?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 
