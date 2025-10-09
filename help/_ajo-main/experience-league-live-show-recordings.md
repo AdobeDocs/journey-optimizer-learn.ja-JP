@@ -5,9 +5,9 @@ feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
 source-git-commit: 16fc1e4e2705663071613fc9911668e5eb2bdfd8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1155'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -18,13 +18,13 @@ Experience League ライブ番組は、Experience League チームが制作し�
 ## 最近のエピソード
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
     {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
     {description = IN this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcase how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dive into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They show how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
 -->
@@ -34,8 +34,8 @@ Experience League ライブ番組は、Experience League チームが制作し�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" title="Journey Optimizer（2025 年 9 月 30 日（PT））で RCS と WhatsApp を使用してモバイルのリーチを拡大" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1759532704698" alt="Journey Optimizer（2025 年 9 月 30 日（PT））で RCS と WhatsApp を使用してモバイルのリーチを拡大"
+                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" title="Journey Optimizerで RCS と WhatsApp を使用してモバイルのリーチを拡大（2025年9月30日（PT））" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1759532704698" alt="Journey Optimizerで RCS と WhatsApp を使用してモバイルのリーチを拡大（2025年9月30日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -43,9 +43,9 @@ Experience League ライブ番組は、Experience League チームが制作し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Journey Optimizer（2025 年 9 月 30 日（PT））で RCS と WhatsApp を使用してモバイルのリーチを拡大">Journey Optimizerで RCS と WhatsApp を使用してモバイルのリーチを拡大（2025 年 9 月 30 日（PT）） </a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Journey Optimizerで RCS と WhatsApp を使用してモバイルのリーチを拡大（2025年9月30日（PT））">Journey Optimizer で RCS と WhatsApp を使用してモバイルのリーチを拡大（2025年 9月30日（PT））</a>
                     </p>
-                    <p class="is-size-6">このショーでは、Travis Jordan と Nikhil Sharma が、Adobe Journey Optimizerが最近、WhatsApp、RCS、カスタム SMS プロバイダーなどの強力な新しいチャネルの追加と機能を使用してモバイルエンゲージメントを強化した方法を示します。</p>
+                    <p class="is-size-6">この動画では、Travis Jordan と Nikhil Sharma が、Adobe Journey Optimizer に最近追加された WhatsApp、RCS、カスタム SMS プロバイダーなどの強力な新しいチャネルと機能によってモバイルエンゲージメントがどのように拡大されたのかを説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
@@ -68,7 +68,7 @@ Experience League ライブ番組は、Experience League チームが制作し�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" target="_blank" rel="referrer" title="AEM コンテンツフラグメントと Dynamic Media を使用したJourney Optimizer のパーソナライズされたコンテンツの促進（2025年7月31日（PT））">AEM コンテンツフラグメントと Dynamic Media を使用した Journey Optimizer のパーソナライズされたコンテンツの促進（2025年7月31日（PT））</a>
                     </p>
-                    <p class="is-size-6">このセッションでは、Jyothitha Chandran、Chris Ivory、Kaitlin White が、Adobe Journey Optimizer（AJO）をAdobe Experience Manager（AEM） Sites コンテンツフラグメントおよびAEM Assets Dynamic Media とシームレスに統合して、すべてのチャネルでスケーラブルかつリアルタイムのパーソナライゼーションを実現する方法を紹介します。</p>
+                    <p class="is-size-6">このセッションでは、Jyothitha Chandran、Chris Ivory、Kaitlin White が、Adobe Journey Optimizer（AJO）を Adobe Experience Manager（AEM）Sites コンテンツフラグメントおよび AEM Assets Dynamic Media とシームレスに統合し、すべてのチャネルにスケーラブルでリアルタイムのパーソナライゼーションを実現する方法を紹介します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
@@ -91,7 +91,7 @@ Experience League ライブ番組は、Experience League チームが制作し�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="マスターのフリークエンシーキャップと競合の優先順位付け（2025年6月18日（PT））">マスターのフリークエンシーキャップと競合の優先順位付け（2025年6月18日（PT））</a>
                     </p>
-                    <p class="is-size-6">このセッションでは、Adobeのエキスパートである Ariel Sultan と Aaron Forrest が、Adobe Journey Optimizerの新機能を掘り下げます。これらの新機能により、お客様のメッセージを的確に管理し、優先順位を付けることができます。 メッセージの疲労を軽減し、競合を解決し、共感を得られる効果的なエクスペリエンスを提供する方法を示します。</p>
+                    <p class="is-size-6">このセッションでは、アドビのエキスパートである Ariel Sultan と Aaron Forrest が、顧客メッセージを正確に管理して優先順位を付けるのに役立つ、Adobe Journey Optimizer の新機能について詳しく説明します。メッセージ疲れを軽減し、競合を解決し、共感を得られる効果的なエクスペリエンスを提供する方法をご紹介します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
@@ -107,30 +107,30 @@ Experience League ライブ番組は、Experience League チームが制作し�
 ## 過去のエピソード
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
   {title = Unveiling Content Cards for Adobe Journey Optimizer (November 6, 2024)}
   {description = Learn how Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. }
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform (October 24, 2024)}
      {description = Learn about Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
     {title = AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign (September 26, 2024)}
     {description = AI-driven tools are transforming the way we engage customers and streamline workflows. Learn how Adobe's AI capabilities will accelerate your productivity.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ja
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en
   {description = Learn how integrating Adobe Target and Adobe Real-time Customer Data Platform can help businesses collect data in real time, and create and test targeted experiences. See the end to end process of this powerful capability in a live demonstration.}
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ja
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en
     {description = Learn how to use both Campaigns and Journeys to deliver compelling personalized customer experiences and how the in-line messaging workflow is leveraged in each of these two canvases.}
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
     {description = Learn about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
