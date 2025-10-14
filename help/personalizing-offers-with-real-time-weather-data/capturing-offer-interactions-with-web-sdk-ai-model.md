@@ -161,4 +161,4 @@ child.querySelectorAll("a, button").forEach(el => {
 
 ## ソリューションのテスト
 
-[ 既存の web ページ ](assets/ai-model.js) に [ 更新されたJavaScript ファイル ](assets/weather-offers.html) を含める
+[&#x200B; 既存の web ページ &#x200B;](assets/ai-model.js) に [&#x200B; 更新されたJavaScript ファイル &#x200B;](assets/weather-offers.html) を含める

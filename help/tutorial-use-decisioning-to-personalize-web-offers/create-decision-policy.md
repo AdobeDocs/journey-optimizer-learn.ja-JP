@@ -26,7 +26,7 @@ ht-degree: 6%
 
 1. 「**[!UICONTROL 追加]**」をクリックして、選択方法を選択します。
 
-   ![ 決定ポリシー ](assets/decision-policy2.png)
+   ![&#x200B; 決定ポリシー &#x200B;](assets/decision-policy2.png)
 
 1. **[!UICONTROL フォールバックを選択]** をクリックして、フォールバックオファーを選択します。
 1. 「**[!UICONTROL 次へ]**」をクリックして、決定ポリシーを確認します。

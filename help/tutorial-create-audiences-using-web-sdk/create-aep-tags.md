@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Adobe Experience Platform Tags （旧称Adobe Launch）は、サイトのコードを変更しなくても、web サイトでマーケティングおよび分析テクノロジーを管理してデプロイするのに役立ちます。
 
-この [ ビデオでは、Adobe Experience Tags の作成プロセスを説明し ](https://experienceleague.adobe.com/ja/playlists/experience-platform-get-started-with-tags) す。
+この [&#x200B; ビデオでは、Adobe Experience Tags の作成プロセスを説明し &#x200B;](https://experienceleague.adobe.com/ja/playlists/experience-platform-get-started-with-tags) す。
 
 * データ収集へのログイン
 * タグ/新しいプロパティをクリックします。
@@ -80,14 +80,14 @@ Adobe Experience Platform タグのルールビルダーを使用すると、ユ
 
 
 * 次に示すように、「優先アセットクラスを選択」という名前のイベント設定を作成します。 このイベントは、assetClassSelection イベントをリッスンします。
-  ![ ルールイベント ](assets/rule-event.png)
+  ![&#x200B; ルールイベント &#x200B;](assets/rule-event.png)
 
 
 * 更新された XDM スキーマをAEPに送信するアクションを作成
   ![send-event](assets/rule-send-event.png)
 
 * 最終的なルールは次のようになります
-  ![ 最終ルール ](assets/final-rule.png)
+  ![&#x200B; 最終ルール &#x200B;](assets/final-rule.png)
 
 ## AEP タグのビルドとデプロイ
 

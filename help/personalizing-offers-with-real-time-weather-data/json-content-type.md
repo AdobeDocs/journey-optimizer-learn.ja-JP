@@ -66,5 +66,5 @@ AJOからの応答には、`propositions[].items[].data.content[]` 構造の下�
 
 開始するのに役立つように、サンプルのHTML ファイルとJavaScript ファイルをダウンロードします。これらのファイルでは、JSON ベースのオファーを使用し、web ページ上で動的にレンダリングする方法を示しています。
 
-[JavaScript コード ](assets/weather-related-offers-script-multiple-json.js)
-[HTML ファイル ](assets/multiple-json.html)
+[JavaScript コード &#x200B;](assets/weather-related-offers-script-multiple-json.js)
+[HTML ファイル &#x200B;](assets/multiple-json.html)

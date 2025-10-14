@@ -25,7 +25,7 @@ Adobe Journey Optimizer（AJO）の天候関連のデータを使用してオフ
 天気に基づくオファーの例
 
 
-![ 天気予報オファー ](assets/offers-use-case.png)
+![&#x200B; 天気予報オファー &#x200B;](assets/offers-use-case.png)
 
 
 

@@ -30,4 +30,4 @@ ht-degree: 3%
 
 
 ランキング方法としては、必ず式を使用してください
-![ 選択戦略 ](assets/selection-strategy.png)
+![&#x200B; 選択戦略 &#x200B;](assets/selection-strategy.png)

@@ -48,12 +48,12 @@ AJOでオファー項目を作成する場合、そのオファー項目は [!UI
 
 1. 前の手順で作成したタグを使用して、オファーにタグを付けます。
 1. 各オファーに適切なオーディエンスを追加します。
-   ![ オファーの実施要件 ](assets/offer-eligibility.png)
+   ![&#x200B; オファーの実施要件 &#x200B;](assets/offer-eligibility.png)
 1. オファーを承認します。
 
 標準属性とカスタム属性が定義された完了済みオファー：
 
-![ ラブ銘柄オファー ](assets/love-bonds.png)
+![&#x200B; ラブ銘柄オファー &#x200B;](assets/love-bonds.png)
 
 **Love Stock offerText**
 

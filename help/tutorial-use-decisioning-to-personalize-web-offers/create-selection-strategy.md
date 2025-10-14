@@ -29,5 +29,5 @@ ht-degree: 3%
 * スクリーンショットに示すように、選択戦略名、コレクション、実施要件、ランキング方法を指定します。
 
 
-![ 選択戦略 ](assets/fine_wise_selection_strategy1.png)
+![&#x200B; 選択戦略 &#x200B;](assets/fine_wise_selection_strategy1.png)
 

@@ -30,7 +30,7 @@ Adobe Web SDKを介して decisioning.propositionDisplay イベントと decisio
 
 ## このチュートリアルの前提条件
 
-始める前に、[ リアルタイムの天気データを使用したオファーのパーソナライズ」チュートリアルを完了してください。](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) 次のような基本的なコンポーネントがすべて確立されます。
+始める前に、[&#x200B; リアルタイムの天気データを使用したオファーのパーソナライズ」チュートリアルを完了してください。](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) 次のような基本的なコンポーネントがすべて確立されます。
 
 - Web SDKの統合
 - Adobe Journey Optimizer（AJO）でのオファー設定

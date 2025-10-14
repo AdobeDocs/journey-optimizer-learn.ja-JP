@@ -43,7 +43,7 @@ Experience Cloud ID サービスは、デバッグ目的でタグプロパティ
 次のイベントとアクションを持つ userLoggedin というルールを作成します
 
 イベント
-![ イベント ](assets/data-pushed-event.png)
+![&#x200B; イベント &#x200B;](assets/data-pushed-event.png)
 
 変数を更新アクション
 ![update-variable](assets/update-variable.png)

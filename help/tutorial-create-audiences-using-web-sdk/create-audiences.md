@@ -23,7 +23,7 @@ Adobe Experience Platformのオーディエンスは、パーソナライズさ�
 * 顧客/ オーディエンス / オーディエンスを作成に移動します。
 * ルールの作成方法を使用したオーディエンスの作成
 
-  ![ オーディエンス ](assets/rule-based-audience.png)
+  ![&#x200B; オーディエンス &#x200B;](assets/rule-based-audience.png)
 
 * 次の 3 つのオーディエンスを作成します
 
@@ -35,13 +35,13 @@ Adobe Experience Platformのオーディエンスは、パーソナライズさ�
 
 
 * リアルタイムで選定するには、各オーディエンスの評価方法が **_0&rbrace;Edge&rbrace; に設定されていることを確認します。_**
-  ![ エッジオーディエンス ](assets/audience-edge.png)
+  ![&#x200B; エッジオーディエンス &#x200B;](assets/audience-edge.png)
 
 * PreferredFinancialInstrument フィールドを使用して、選択した投資関心（株式、債券、CD など）に基づいてユーザーをセグメント化します
 
-![ イベント ](assets/event-attribute.png)
+![&#x200B; イベント &#x200B;](assets/event-attribute.png)
 
-![ 優先金融商品 ](assets/stock-customers.png)
+![&#x200B; 優先金融商品 &#x200B;](assets/stock-customers.png)
 
 
 

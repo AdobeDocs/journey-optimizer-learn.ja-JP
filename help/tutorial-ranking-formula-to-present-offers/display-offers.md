@@ -32,7 +32,7 @@ JavaScriptは、次にこれらのHTML ブロックを解析して、各ブロ�
 
 * 既存の Node.js プロジェクト内に ranking-formula という名前のフォルダーを作成します。
 
-* [ 提供されたファイルをこのランキング式フォルダー ](assets/ranking-formula.zip) に解凍します。
+* [&#x200B; 提供されたファイルをこのランキング式フォルダー &#x200B;](assets/ranking-formula.zip) に解凍します。
 
 * フォルダーに移動し、サーバーを起動して、アプリを実行します。
    * `cd ranking-formula`

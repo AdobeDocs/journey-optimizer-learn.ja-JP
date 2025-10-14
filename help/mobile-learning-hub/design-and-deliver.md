@@ -20,7 +20,7 @@ Adobe Journey Optimizerを使用して効果的なモバイル通信を構築し
 
 >[!NOTE]
 >
->Journey Optimizerを初めて使用する場合は、まず、次のプレイリストを視聴して、Journey Optimizerに慣れてください。[ジャーニー管理者およびマネージャー向けJourney Optimizerの概要 ](https://experienceleague.adobe.com/ja/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
+>Journey Optimizerを初めて使用する場合は、まず、次のプレイリストを視聴して、Journey Optimizerに慣れてください。[ジャーニー管理者およびマネージャー向けJourney Optimizerの概要 &#x200B;](https://experienceleague.adobe.com/ja/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
 
 ## モバイルメッセージのデザインと配信
 
@@ -43,7 +43,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 #### 前提条件
 
 1. アプリが Mobile SDKと統合され、モバイルチャネル用に設定されていることを確認します。
-2. [ プッシュチャネル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) が設定されていることを確認します。
+2. [&#x200B; プッシュチャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) が設定されていることを確認します。
 3. 顧客プロファイルとオーディエンスセグメントがターゲティングの準備ができていることを確認します。
 
 #### チュートリアル
@@ -105,7 +105,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![ プッシュの作成 ](./assets/configuration.svg) [**プッシュ通知を作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![ プッシュのデザイン ](./assets/content-management.png){width="50"}[**プッシュ通知をデザイン**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![ プッシュを送信 ](./assets/communication-channel.svg) [**プッシュ通知を送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![&#x200B; プッシュの作成 &#x200B;](./assets/configuration.svg) [**プッシュ通知を作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![&#x200B; プッシュのデザイン &#x200B;](./assets/content-management.png){width="50"}[**プッシュ通知をデザイン**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![&#x200B; プッシュを送信 &#x200B;](./assets/communication-channel.svg) [**プッシュ通知を送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB アプリ内]
@@ -185,7 +185,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### ドキュメント
 
-| ![ メッセージの作成 ](./assets/configuration.svg) [**モバイルのアプリ内メッセージの作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![ コンテンツのデザイン ](./assets/content-management.png){width="50"}[**アプリ内コンテンツのデザイン**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![ 通知を送信 ](./assets/communication-channel.svg) [**アプリ内通知を送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![&#x200B; メッセージの作成 &#x200B;](./assets/configuration.svg) [**モバイルのアプリ内メッセージの作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![&#x200B; コンテンツのデザイン &#x200B;](./assets/content-management.png){width="50"}[**アプリ内コンテンツのデザイン**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![&#x200B; 通知を送信 &#x200B;](./assets/communication-channel.svg) [**アプリ内通知を送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB  コンテンツカード ]
@@ -195,7 +195,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 #### 前提条件
 
 1. アプリが Mobile SDKと統合され、モバイルチャネル用に設定されていることを確認します。
-2. [ アプリ内チャネル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) が設定されていることを確認します。
+2. [&#x200B; アプリ内チャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) が設定されていることを確認します。
 3. 顧客プロファイルとオーディエンスがターゲティングの準備ができていることを確認します。
 
 #### チュートリアル
@@ -233,7 +233,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![ コンテンツカードの作成と設定 ](./assets/configuration.svg) [**コンテンツカードの作成と設定**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![ コンテンツカードの設計 ](./assets/content-management.png){width="50"}[**コンテンツカードの設計**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![&#x200B; コンテンツカードの作成と設定 &#x200B;](./assets/configuration.svg) [**コンテンツカードの作成と設定**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![&#x200B; コンテンツカードの設計 &#x200B;](./assets/content-management.png){width="50"}[**コンテンツカードの設計**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -242,7 +242,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 前提条件
 
-1. [SMS 資格情報とチャネル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel) および/または [MMS 資格情報とチャネル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces) が設定されていることを確認します – > RCS 設定については、以下のチュートリアルで説明しています。
+1. [SMS 資格情報とチャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel) および/または [MMS 資格情報とチャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces) が設定されていることを確認します – > RCS 設定については、以下のチュートリアルで説明しています。
 2. 顧客プロファイルとオーディエンスセグメントがターゲティングの準備ができていることを確認します。
 
 #### SMS チュートリアル
@@ -385,7 +385,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![ テキストメッセージの基本を学ぶ ](./assets/configuration.svg) [**テキストメッセージの基本を学ぶ**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![ コンテンツの設計 ](./assets/content-management.png){width="50"}[**SMS、MMS、RCS メッセージの作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![ 通知の送信 ](./assets/communication-channel.svg) [**テキストメッセージの確認と送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![&#x200B; テキストメッセージの基本を学ぶ &#x200B;](./assets/configuration.svg) [**テキストメッセージの基本を学ぶ**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![&#x200B; コンテンツの設計 &#x200B;](./assets/content-management.png){width="50"}[**SMS、MMS、RCS メッセージの作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![&#x200B; 通知の送信 &#x200B;](./assets/communication-channel.svg) [**テキストメッセージの確認と送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB コードベースのエクスペリエンス]
@@ -456,7 +456,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![ コードベースのエクスペリエンスを作成 ](./assets/content-management.png){width="50"}[**コードベースのエクスペリエンスを作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![&#x200B; コードベースのエクスペリエンスを作成 &#x200B;](./assets/content-management.png){width="50"}[**コードベースのエクスペリエンスを作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
@@ -465,7 +465,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 前提条件
 
-1. [WhatsApp チャネル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) が設定されていることを確認します。
+1. [WhatsApp チャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) が設定されていることを確認します。
 2. 顧客プロファイルとオーディエンスがターゲティングの準備ができていることを確認します。
 
 #### チュートリアル
@@ -527,7 +527,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![WhatsApp メッセージの作成 ](./assets/configuration.svg) [**WhatsApp メッセージの作成*](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![WhatsApp メッセージのプレビュー、検証、送信 ](./assets/communication-channel.svg){width="50"}[**&#x200B;WhatsApp メッセージのプレビュー、検証、送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![WhatsApp メッセージの作成 &#x200B;](./assets/configuration.svg) [**WhatsApp メッセージの作成*](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![WhatsApp メッセージのプレビュー、検証、送信 &#x200B;](./assets/communication-channel.svg){width="50"}[**&#x200B;WhatsApp メッセージのプレビュー、検証、送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]

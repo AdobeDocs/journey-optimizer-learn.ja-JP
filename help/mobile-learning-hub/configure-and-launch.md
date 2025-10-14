@@ -23,9 +23,9 @@ Journey OptimizerとExperience Platformでモバイルチャネルを設定し�
 >
 >Journey OptimizerとExperience Platformを初めて使用する場合は、次のプレイリストを見て、中心概念を理解してください。
 >
->* [ジャーニー管理者およびマネージャー向けJourney Optimizerの概要 ](https://experienceleague.adobe.com/ja/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
->* [Journey Optimizerをジャーニー管理者用に設定する ](https://experienceleague.adobe.com/ja/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
->* [ データエンジニア向けJourney Optimizerでのデータの設定と管理 ](https://experienceleague.adobe.com/ja/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
+>* [ジャーニー管理者およびマネージャー向けJourney Optimizerの概要 &#x200B;](https://experienceleague.adobe.com/ja/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
+>* [Journey Optimizerをジャーニー管理者用に設定する &#x200B;](https://experienceleague.adobe.com/ja/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
+>* [&#x200B; データエンジニア向けJourney Optimizerでのデータの設定と管理 &#x200B;](https://experienceleague.adobe.com/ja/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
 
 
 ## Adobe Journey Optimizerのモバイル機能
@@ -218,7 +218,7 @@ Journey OptimizerとExperience Platformでモバイルチャネルを設定し�
 
 ## ブログ投稿
 
-* [ モバイルでの CDN ベースのクライアントサイドパーソナライゼーション（ODD）の使用によるパーソナライゼーションの高速化。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=ja)
+* [&#x200B; モバイルでの CDN ベースのクライアントサイドパーソナライゼーション（ODD）の使用によるパーソナライゼーションの高速化。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=ja)
 * [Adobe Experience CloudのMobile Activation](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595?profile.language=ja)
 
 ## プライバシー法およびプラットフォームガイドラインへのコンプライアンスを確保します。
