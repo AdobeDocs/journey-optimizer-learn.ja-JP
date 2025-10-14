@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
-source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
+source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## node.js のインストール
 
-Node.js がインストールされていない場合は、ダウンロードして [&#x200B; ここからインストールしてください &#x200B;](https://nodejs.org/)
+Node.js がインストールされていない場合は、ダウンロードして [ ここからインストールしてください ](https://nodejs.org/)
 
 次のコマンドを実行してインストールを確認します。
 
@@ -64,7 +64,7 @@ app.listen(PORT, () => {
 
 ## HTML/Assetsを追加
 
-指定されたすべての [HTMLと CSS ファイル &#x200B;](assets/login-app-files.zip) をこのフォルダーにコピーします。 AEP タグ スクリプトをコピーして、index.html ファイルの `<head>` セクション内に貼り付けます。
+指定されたすべての [HTMLと CSS ファイル ](assets/login-app-files.zip) をこのフォルダーにコピーします。 AEP タグ スクリプトをコピーして、index.html ファイルの `<head>` セクション内に貼り付けます。
 
 ## サーバーの実行
 
@@ -89,7 +89,5 @@ Adobe Experience Platform Debuggerは、Web サイトからAdobe Experience Plat
 * 顧客/ プロファイル /参照に移動します。
 * FinWise CRM ID = FIN001 を検索
 * プロファイルを開き、「ID」セクションを確認します。 CRMID と ECID の両方がリストされます。   これにより、2 つの ID が単一のプロファイルにステッチされたことが確認されます。
-* ジャーニーもトリガーされます。ジャーニーレポートを表示して、これを確認します
-* ![&#x200B; ジャーニーレポート &#x200B;](assets/journey-triggered-report.png)
 
 

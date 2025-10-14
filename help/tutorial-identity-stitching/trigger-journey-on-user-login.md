@@ -8,10 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-09-24T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-source-git-commit: c9d62ef509d557b2dfa49c698580df7c4942d299
+source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 1%
+source-wordcount: '283'
+ht-degree: 0%
 
 ---
 
@@ -21,35 +21,39 @@ ID ステッチチュートリアルのこの拡張機能では、Adobe Journey 
 
 ## メールチャネル設定の作成
 
-* _&#x200B;**Journey Optimizer**&#x200B;_ にログインします
-* _&#x200B;**管理/チャネル/チャネル設定を作成**&#x200B;_ に移動します。
+* _**Journey Optimizer**_ にログインします
+* _**管理/チャネル/チャネル設定を作成**_ に移動します。
 * チャネルリストから **メール** を選択します。 意味のある名前と説明を指定します。
 * メール設定を入力します。
 * 以下に示すように、実行の詳細を指定します。 メールは、フィールドに保存されたプロファイルのメールアドレスに送信されます
-* ![&#x200B; メールチャネル &#x200B;](assets/email-channel-execution.png)
+* ![ メールチャネル ](assets/email-channel-execution.png)
 * メールチャネル設定のアクティベート
 
 ## イベントを作成
 
-* _&#x200B;**Journey Optimizer**&#x200B;_ にログインします
-* _&#x200B;**管理/設定**&#x200B;_ に移動します。
+* _**Journey Optimizer**_ にログインします
+* _**管理/設定**_ に移動します。
 * イベントカードの「管理」ボタンをクリックし、「イベントを作成」をクリックします。 次に示すように値を指定します
-* ![journey-event](assets/journey-event.png)
+* ![journey-event](assets/journey-event1.png)
 
-* イベントの eventType が UserLoggedIn に等しいかどうかを確認します。 この場合、わかりやすくするために、イベント名とイベントタイプを同じにします `in(@event{event1.eventType}, ['UserLoggedIn'])`。
+* イベントの eventType が LoginEvent に等しいかどうかを確認します。 `LoginEvent` のタイプは、Adobe Experience Platform タグで設定されます。
 * イベントを保存
 
 ## ジャーニーを作成
 
-* _&#x200B;**Journey Optimizer**&#x200B;_ にログインします
-* _&#x200B;**ジャーニー管理/ジャーニー/ジャーニーを作成**&#x200B;_ に移動します。
-* _&#x200B;**UserLoggedIn**&#x200B;_ イベントをキャンバスにドラッグ&amp;ドロップします
+* _**Journey Optimizer**_ にログインします
+* _**ジャーニー管理/ジャーニー/ジャーニーを作成**_ に移動します。
+* _**UserLoggedIn**_ イベントをキャンバスにドラッグ&amp;ドロップします
 * アクション メニューからメールをドラッグ&amp;ドロップします。 前に作成したメールチャネル設定を使用するようにメールアクションを設定します。
-* ジャーニーの公開
+* ジャーニーを公開します。
 
 ## ジャーニーのトリガー方法
 
-Web SDK経由で送信されたイベントペイロードが、ジャーニーで設定されたものと一致すると、ジャーニーがトリガーされます。 この例では、イベントとイベントタイプは **UserLoggedIn** です
+Web SDK経由で送信されたイベントペイロードが、ジャーニーで設定されたものと一致すると、ジャーニーがトリガーされます。 この例では、イベントはイベントタイプ `UserLoggedIn``LoginEvent` です。
+
+* ジャーニーレポートを表示して、これを確認します
+* ![ ジャーニーレポート ](assets/journey-triggered-report.png)
+
 
 
 

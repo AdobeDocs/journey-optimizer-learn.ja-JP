@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 10%
@@ -20,7 +20,7 @@ ht-degree: 10%
 
 Adobe Experience Platform タグは、ブラウザーから直接 ID データを送信するための柔軟なイベント駆動型のメカニズムを提供するので、CRMID をAdobe Experience Platform（AEP）に送信するために使用されます。 ユーザーログイン後に CRMID を送信すると、AEPで匿名 ECID を既知の CRM プロファイルにリンクできるので、正確な ID のステッチが可能になります。 この連携は、統合された顧客プロファイルを作成し、オーディエンスを絞り込み、パーソナライズされたエクスペリエンスをAdobe Journey Optimizer（AJO）でリアルタイムに提供するための基盤となります。
 
-_&#x200B;**FinWise**&#x200B;_ というExperience Platform タグプロパティが作成されます。 タグプロパティに追加された拡張機能は次のとおりです
+_**FinWise**_ というExperience Platform タグプロパティが作成されます。 タグプロパティに追加された拡張機能は次のとおりです
 
 ![tags-extensions](assets/tags-extensions.png)
 
@@ -40,15 +40,15 @@ Experience Cloud ID サービスは、デバッグ目的でタグプロパティ
 
 ## ルールを作成
 
-次のイベントとアクションを持つ userLoggedin というルールを作成します
+次のイベントとアクションを持つ LoginEvent というルールを作成します
 
 イベント
-![&#x200B; イベント &#x200B;](assets/data-pushed-event.png)
+![ イベント ](assets/data-pushed-event1.png)
 
 変数を更新アクション
-![update-variable](assets/update-variable.png)
+![update-variable](assets/update-variable1.png)
 イベント送信アクション
-![send-event](assets/send-event.png)
+![send-event](assets/send-event1.png)
 
 ## 保存してビルド
 
