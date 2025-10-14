@@ -51,10 +51,10 @@ ID フィールド **_crmid_** を追加します。 crmid フィールドを ID
 * 以前に作成した **_FinWiseProfileSchema_** に基づいて、**_FinWiseCustomerDataSetWithAnnualIncome_** というデータセットを作成します。データセットがプロファイルに対して有効になっていることを確認します。
 
 * 接続/ ソース / ローカルシステムに移動します。
-* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _**FinWiseCustomerDataSetWithAnnualIncome**_ をターゲットデータセットとして選択してください。
+* ローカルファイルをアップロードして、**_データを追加_** を選択します。 必ず _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ をターゲットデータセットとして選択してください。
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
-* 次の画面に移動します。 [csv ファイルをアップロードし ](assets/finwise_profiles.csv) マッピングを確認します
-  ![ マッピング ](assets/mappings.png)
+* 次の画面に移動します。 [csv ファイルをアップロードし &#x200B;](assets/finwise_profiles.csv) マッピングを確認します
+  ![&#x200B; マッピング &#x200B;](assets/mappings.png)
 
 * 「終了」をクリックしてデータ取り込みプロセスを開始します。
 

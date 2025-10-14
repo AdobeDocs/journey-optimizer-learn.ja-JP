@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## node.js のインストール
 
-Node.js がインストールされていない場合は、ダウンロードして [ ここからインストールしてください ](https://nodejs.org/)
+Node.js がインストールされていない場合は、ダウンロードして [&#x200B; ここからインストールしてください &#x200B;](https://nodejs.org/)
 
 次のコマンドを実行してインストールを確認します。
 
@@ -64,7 +64,7 @@ app.listen(PORT, () => {
 
 ## HTML/Assetsを追加
 
-指定されたすべての [HTMLと CSS ファイル ](assets/login-app-files.zip) をこのフォルダーにコピーします。 AEP タグ スクリプトをコピーして、index.html ファイルの `<head>` セクション内に貼り付けます。
+指定されたすべての [HTMLと CSS ファイル &#x200B;](assets/login-app-files.zip) をこのフォルダーにコピーします。 AEP タグ スクリプトをコピーして、index.html ファイルの `<head>` セクション内に貼り付けます。
 
 ## サーバーの実行
 
