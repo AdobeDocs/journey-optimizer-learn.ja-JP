@@ -23,4 +23,4 @@ ht-degree: 100%
 
 セグメント化ジョブの完了後にのみ開始するようにオーディエンスジャーニーの読み取りを設定し、データの精度とコンプライアンスを確保する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458146/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458147/?captions=jpn&learn=on&enablevpops)

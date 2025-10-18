@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer でフラグメントを管理、作成、使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419932/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451183/?captions=jpn&learn=on){transcript=true}
