@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizerのクワイエットアワー機能を使用して、特定の時間帯に顧客にメッセージが送信されないようにし、マーケターが不適切な時間帯にコミュニケーションを送信しないようにし、カスタマーエンゲージメントを向上させる方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475853/?captions=jpn&learn=on&enablevpops)

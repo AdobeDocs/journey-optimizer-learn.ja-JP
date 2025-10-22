@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このビデオでは、Adobe Journey Optimizerの全期間レポートを効果的に使用して、カスタマージャーニー、キャンペーン、チャネルにわたる長期的なパフォーマンスインサイトを明らかにする方法を説明します。 主要なダッシュボードの操作方法、必須の KPI の解釈方法、フィルターと日付範囲の適用方法、ジャーニーレポート、キャンペーンレポート、Insight ビルダーなどのツールを活用してより深い分析やカスタムレポートを行う方法について説明します。これにより、マーケターや管理者がデータを行動に移すことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475788/?captions=jpn&learn=on&enablevpops)
