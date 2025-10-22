@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: ce7c2d27c03f648960fa287120a6c552913c1568
+source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
-source-wordcount: '960'
-ht-degree: 98%
+source-wordcount: '971'
+ht-degree: 97%
 
 ---
 
@@ -147,6 +147,7 @@ ht-degree: 98%
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
       + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
       + [式ビルダーインタフェイスの操作](/help/decisioning/formula-builder-ui.md)
+      + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
       + [リアルタイムの天候データを使用してオファーをパーソナライズする](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + 意思決定管理 {#decision-management}
@@ -177,6 +178,7 @@ ht-degree: 98%
    + [ライブレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [ジャーニーレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/journey-reports.md)
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
+   + [すべての時間レポートを使用して、ジャーニーの全体的なパフォーマンスを分析します](/help/report-and-monitor/all-time-reports.md)
    + [CSV 形式でのレポートの書き出し](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [アラートの使用](/help/administration/alerts.md)
    + [Customer Journey Analytics によるレポートの強化](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
@@ -217,10 +219,10 @@ ht-degree: 98%
    + [Journey Optimizer チャネルでのデータ使用ポリシーの適用](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
 + AI アシスタント {#ai-assistant}
-   + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent – 概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [&#x200B; 実験エージェント – 概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [AI アシスタント](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent – 概要 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [ 実験エージェント – 概要 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
