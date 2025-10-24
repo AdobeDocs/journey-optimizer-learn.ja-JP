@@ -1,6 +1,6 @@
 ---
-title: クワイエットタイムの設定と適用
-description: Adobe Journey Optimizerの待ち時間機能を使用して、指定した時間帯にメッセージ（SMS、メール、プッシュ、WhatsApp）が顧客に送信されないようにする方法を説明します。これにより、マーケターが不適切な時間帯にコミュニケーションを送信するのを防ぎ、顧客のエンゲージメントを向上させることができます。
+title: クワイエットアワーの設定と適用
+description: Adobe Journey Optimizer のクワイエットアワー機能を使用して、指定した時間帯にメッセージ（SMS、メール、プッシュ、WhatsApp）が顧客に送信されないようにする方法について説明します。これにより、マーケターは不適切な時間にコミュニケーションが送信されることを回避し、顧客エンゲージメントを向上させることができます。
 feature: Business Rules
 role: Admin, User
 level: Beginner
@@ -14,13 +14,13 @@ index: true
 source-git-commit: c7ff1ad8ff2069295d65553022306cccaf8cbac6
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# クワイエットタイムの設定と適用
+# クワイエットアワーの設定と適用
 
-Adobe Journey Optimizerのクワイエットアワー機能を使用して、特定の時間帯に顧客にメッセージが送信されないようにし、マーケターが不適切な時間帯にコミュニケーションを送信しないようにし、カスタマーエンゲージメントを向上させる方法を説明します。
+Adobe Journey Optimizer のクワイエットアワー機能を使用して、指定した時間帯にメッセージが顧客に送信されないようにする方法について説明します。これにより、マーケターは不適切な時間にコミュニケーションが送信されることを回避し、顧客エンゲージメントを向上させることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475853/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
 source-wordcount: '971'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 97%
       + [調整されたキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [リレーショナルストアの基本](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + ジャーニー {#journeys}
-   + [ジャーニー designer - 概要](/help/journeys/journey-designer-overview.md)
-   + [Journey Agent – 概要](/help/ai-agents/journey-agent-overview.md)
+   + [ジャーニーデザイナー - 概要](/help/journeys/journey-designer-overview.md)
+   + [Journey エージェント - 概要](/help/ai-agents/journey-agent-overview.md)
    + [新しいジャーニー designer について](/help/journeys/new-journey-designer.md)
    + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
    + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
@@ -57,7 +57,7 @@ ht-degree: 97%
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
    + [ジャーニーのフリークエンシーキャップと優先度](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [通知のない時間](/help/business-rules/configure-and-apply-quiet-hours.md)
+   + [クワイエットアワー](/help/business-rules/configure-and-apply-quiet-hours.md)
 + プロファイル、オーディエンスおよび購読 {#profiles-audiences-subscriptions}
    + [プロファイルとオーディエンス - 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -141,7 +141,7 @@ ht-degree: 97%
 + 実験 {#experimentation}
    + [実験の概要](/help/experimentation/introduction-to-experimentation.md)
    + [メールキャンペーン用のコンテンツ実験の作成](/help/experimentation/content-experiments-for-emails.md)
-   + [実験エージェント – 概要](/help/ai-agents/experimentation-agent-overview.md)
+   + [実験エージェント - 概要](/help/ai-agents/experimentation-agent-overview.md)
 + 決定機能{#decision-capabilities}
    + 決定 {#decisioning}
       + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
@@ -221,8 +221,8 @@ ht-degree: 97%
 + AI アシスタント {#ai-assistant}
    + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent – 概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [&#x200B; 実験エージェント – 概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Journey エージェント - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [実験エージェント - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
