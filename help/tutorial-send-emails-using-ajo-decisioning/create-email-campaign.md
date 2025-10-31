@@ -18,4 +18,4 @@ ht-degree: 0%
 
 このビデオでは、AJO Decisioning を使用してメールキャンペーンを作成する方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/3476158/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476165/?captions=jpn&learn=on)
