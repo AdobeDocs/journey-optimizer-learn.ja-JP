@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
 workflow-type: tm+mt
 source-wordcount: '965'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -177,7 +177,7 @@ ht-degree: 98%
    + [ライブレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [ジャーニーレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/journey-reports.md)
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
-   + [すべての時間レポートを使用して、ジャーニーの全体的なパフォーマンスを分析します](/help/report-and-monitor/all-time-reports.md)
+   + [全期間のレポートを使用したジャーニーの全体的なパフォーマンスの分析](/help/report-and-monitor/all-time-reports.md)
    + [CSV 形式でのレポートの書き出し](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [アラートの使用](/help/administration/alerts.md)
    + [Customer Journey Analytics によるレポートの強化](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
