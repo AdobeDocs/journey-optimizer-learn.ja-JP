@@ -20,4 +20,4 @@ ht-degree: 0%
 
 名、メール、ロイヤルティステータス、年収などの主要なフィールドを定義し、実際の顧客データをアップロードして、そのデータを使用して価値の高い顧客のオーディエンスを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476439/?captions=jpn&learn=on)
