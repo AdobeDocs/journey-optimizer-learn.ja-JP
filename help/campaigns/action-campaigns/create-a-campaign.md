@@ -23,4 +23,4 @@ Adobe Journey Optimizerでアクションキャンペーンを作成および最
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
-この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)を参照してください。
