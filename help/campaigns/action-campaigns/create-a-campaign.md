@@ -1,6 +1,6 @@
 ---
-title: キャンペーンの作成
-description: アクションを直ちに実行するか、指定したスケジュールで実行して、特定のオーディエンスに 1 回限りのコンテンツを配信する方法を説明します。
+title: アクションキャンペーンの作成
+description: Adobe Journey Optimizerでアクションキャンペーンを作成および最適化して、1 回限りのまたは繰り返しのコミュニケーションを正確かつ効果的に提供する方法を説明します。
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -8,22 +8,19 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+last-substantial-update: 2025-11-14T00:00:00Z
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
+source-git-commit: 5114ac4abcb6519e08b6aa170ed4ed6abf26ce6b
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '65'
+ht-degree: 18%
 
 ---
 
-# キャンペーンの作成
+# アクションキャンペーンの作成
 
->[!IMPORTANT]
->
->この機能は、Campaign 管理者、Campaign 承認者、Campaign マネージャー、Campaign ビューアなど、Campaign 関連の製品プロファイルへのアクセス権を持つユーザーのみが使用できます。 製品プロファイルの割り当て方法について詳しくは、[このビデオ](/help/set-up-access/access-management.md)を参照してください。
+Adobe Journey Optimizerでアクションキャンペーンを作成および最適化して、1 回限りのまたは繰り返しのコミュニケーションを正確かつ効果的に提供する方法を説明します。
 
-アクションを直ちに実行するか、指定したスケジュールで実行して、特定のオーディエンスに 1 回限りのコンテンツを配信する方法を説明します。
+>[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3412405?quality=12&learn=on&captions=jpn){transcript=true}
-
-この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=ja)を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)を参照してください。
