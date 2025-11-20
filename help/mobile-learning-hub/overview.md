@@ -20,7 +20,7 @@ Adobe Journey Optimizer（AJO）のモバイルチャネルを使用して、す
 
 チームがいつでも、どこでもユーザーとつながり、インパクトのあるデータ駆動型のモバイルエクスペリエンスを提供できるよう、ベストプラクティスを探索し、導入を推進する方法を学び、マスターレポートを 1 か所で作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476999?captions=jpn&quality=12&learn=on){transcript=true}
 
 
 ## モバイルチャネルの概要
