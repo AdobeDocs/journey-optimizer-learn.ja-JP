@@ -24,4 +24,4 @@ ht-degree: 100%
 
 このビデオでは、Adobe Journey Optimizer の決定機能の概要について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475864?captions=jpn&quality=12&learn=on){transcript=true}

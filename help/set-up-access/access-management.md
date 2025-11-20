@@ -22,4 +22,4 @@ ht-degree: 100%
 
 製品プロファイルと権限を管理する方法と、ユーザーを追加および管理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416421?captions=jpn&quality=12&learn=on){transcript=true}
