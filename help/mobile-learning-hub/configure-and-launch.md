@@ -24,9 +24,9 @@ Adobe Journey OptimizerとAdobe Experience Platformでモバイルチャネル�
 >
 > Journey OptimizerおよびExperience Platformを初めて使用する場合は、次のコースを受講して、中心概念を理解してください。
 >
-> - [Adobe Journey Optimizerの設定と管理 ](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
+> - [Adobe Journey Optimizerの設定と管理 &#x200B;](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*このコースでは、ユーザーの役割、権限、サンドボックス、メールチャネルなど、Journey Optimizer環境を設定および管理し、効率的で安全な操作を行う方法について説明します。*
-> - [Adobe Journey Optimizerのインテリジェントジャーニーアクティベーションのエンジニアリングデータ ](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation)
+> - [Adobe Journey Optimizerのインテリジェントジャーニーアクティベーションのエンジニアリングデータ &#x200B;](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation)
 >*このコースでは、Experience Platformを使用して、Journey Optimizerのリアルタイム顧客プロファイルデータを設定および管理する方法について説明します。 パーソナライズされたカスタマージャーニー用に統合プロファイルを作成するためのデータモデリング、ID マッピングおよびデータ取り込みについて説明します。*
 
 
@@ -99,16 +99,16 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
 
 #### モバイルタグのプロパティと設定
 
-これらの拡張機能は、AEP Data Collection （タグ）の **[モバイルタグプロパティ ](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)** で設定します。 このプロパティは次の項目を制御します。
+これらの拡張機能は、AEP Data Collection （タグ）の **[モバイルタグプロパティ &#x200B;](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)** で設定します。 このプロパティは次の項目を制御します。
 
 - インストールされている Mobile SDK拡張機能。
 - Edge Networkに呼び出すアプリトリガー内のイベント。
 - データを XDM にマッピングし、Adobe ソリューション（Journey Optimizer、Analytics など）に転送する方法。
 
-このモバイルプロパティを作成して [ 手動で設定 ](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property) することも、アプリ内モバイルおよびプッシュの場合は **[ガイド付きチャネル設定 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** を使用して、iOSおよびAndroidに必要なタグプロパティ、データストリーム、チャネル設定を自動作成できます。
+このモバイルプロパティを作成して [&#x200B; 手動で設定 &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property) することも、アプリ内モバイルおよびプッシュの場合は **[ガイド付きチャネル設定 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** を使用して、iOSおよびAndroidに必要なタグプロパティ、データストリーム、チャネル設定を自動作成できます。
 
 > **ヒント**\
-> 新規実装の場合、**[ガイド付きチャネル設定 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** は出発点として推奨されます。 これにより、データストリームの設定ミスや拡張機能の欠落のリスクが軽減され、Assuranceを使用したSDKの検証について順を追って説明します。
+> 新規実装の場合、**[ガイド付きチャネル設定 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** は出発点として推奨されます。 これにより、データストリームの設定ミスや拡張機能の欠落のリスクが軽減され、Assuranceを使用したSDKの検証について順を追って説明します。
 
 #### モバイルSDKの基本を学ぶ：
 
@@ -192,16 +192,16 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-詳しくは、[Adobe Experience Platform Mobile SDKのドキュメントも参照してください ](https://experienceleague.adobe.com/en/docs/mobile)
+詳しくは、[Adobe Experience Platform Mobile SDKのドキュメントも参照してください &#x200B;](https://experienceleague.adobe.com/en/docs/mobile)
 
 #### 開発者向けリファレンス：
 
-- [Mobile SDK開発者ポータル（ホーム） ](https://developer.adobe.com/client-sdks/home/)
-- [ 現在のSDKのバージョン ](https://developer.adobe.com/client-sdks/home/current-sdk-versions/)
-- [ モバイルプロパティ（タグ）の概要 ](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
-- [SDKを入手（アプリにインストール） ](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
-- [Mobile SDKを使用したイベントの追跡 ](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
-- [Assuranceでの検証 ](https://developer.adobe.com/client-sdks/home/base/assurance/)
+- [Mobile SDK開発者ポータル（ホーム） &#x200B;](https://developer.adobe.com/client-sdks/home/)
+- [&#x200B; 現在のSDKのバージョン &#x200B;](https://developer.adobe.com/client-sdks/home/current-sdk-versions/)
+- [&#x200B; モバイルプロパティ（タグ）の概要 &#x200B;](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
+- [SDKを入手（アプリにインストール） &#x200B;](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
+- [Mobile SDKを使用したイベントの追跡 &#x200B;](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
+- [Assuranceでの検証 &#x200B;](https://developer.adobe.com/client-sdks/home/base/assurance/)
 
 >[!SUCCESS]
 >
@@ -389,7 +389,7 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
 
 ## ブログ投稿
 
-- [ モバイルでの CDN ベースのクライアントサイドパーソナライゼーション（ODD）の使用によるパーソナライゼーションの高速化。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
+- [&#x200B; モバイルでの CDN ベースのクライアントサイドパーソナライゼーション（ODD）の使用によるパーソナライゼーションの高速化。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
 - [Adobe Experience CloudのMobile Activation](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
 
 ## プライバシー法およびプラットフォームガイドラインへのコンプライアンスを確保します。
@@ -499,17 +499,17 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
 
 ## 実装の一般的な落とし穴と回避方法
 
-モバイルに関する問題のほとんどは、Journey Optimizerのジャーニーやキャンペーン自体ではなく **0}SDKまたはデータ収集の設定 } に起因します。**&#x200B;次の表を使用して問題の原因を特定し、該当するセクションを展開して詳細を確認してください。
+モバイルに関する問題のほとんどは、Journey Optimizerのジャーニーやキャンペーン自体ではなく **0&rbrace;SDKまたはデータ収集の設定 &rbrace; に起因します。**&#x200B;次の表を使用して問題の原因を特定し、該当するセクションを展開して詳細を確認してください。
 
 ### 落とし穴の概要
 
 | # | 問題/症状 | よくある落とし穴 | 一目で修正 |
 |---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
-| 1 | ガイド付きチャネルのセットアップに失敗。トラフィックがない、または少ない | [SDKのバージョンまたは拡張機能が揃っていない ](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/拡張機能のバージョンを更新し、Assuranceで検証する |
-| 2 | バッチのトラッキングが失敗し、AEPでエラーが発生する | [ データストリームまたはデータセットの設定の誤り ](#2-misconfigured-datastreams-or-datasets) | イベントデータセットへのイベントのマッピングとプロファイルデータセットへのプロファイル |
-| 3 | ジャーニーが起動せず、パーソナライゼーションが奇妙になる | [ID または同意が見つからない/一貫性がない ](#3-missing-or-inconsistent-identity-and-consent) | Edgeの ID および同意の実装、Assuranceでの検証 |
-| 4 | プッシュ配信がないか、レポートで開いている | [ プッシュトークンの登録またはトラッキングが破損している ](#4-push-token-registration-and-tracking-not-wired-correctly) | SDKによるトークン登録とインタラクショントラッキングの修正 |
-| 5 | アクティブなキャンペーンにもかかわらず、アプリ内インプレッションがありません | [ アプリ内メッセージまたはコンテンツカードが表示されない ](#5-in-app-messages-or-content-cards-not-displaying) | メッセージの拡張機能、トリガーおよびAssuranceの決定応答を確認する |
+| 1 | ガイド付きチャネルのセットアップに失敗。トラフィックがない、または少ない | [SDKのバージョンまたは拡張機能が揃っていない &#x200B;](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/拡張機能のバージョンを更新し、Assuranceで検証する |
+| 2 | バッチのトラッキングが失敗し、AEPでエラーが発生する | [&#x200B; データストリームまたはデータセットの設定の誤り &#x200B;](#2-misconfigured-datastreams-or-datasets) | イベントデータセットへのイベントのマッピングとプロファイルデータセットへのプロファイル |
+| 3 | ジャーニーが起動せず、パーソナライゼーションが奇妙になる | [ID または同意が見つからない/一貫性がない &#x200B;](#3-missing-or-inconsistent-identity-and-consent) | Edgeの ID および同意の実装、Assuranceでの検証 |
+| 4 | プッシュ配信がないか、レポートで開いている | [&#x200B; プッシュトークンの登録またはトラッキングが破損している &#x200B;](#4-push-token-registration-and-tracking-not-wired-correctly) | SDKによるトークン登録とインタラクショントラッキングの修正 |
+| 5 | アクティブなキャンペーンにもかかわらず、アプリ内インプレッションがありません | [&#x200B; アプリ内メッセージまたはコンテンツカードが表示されない &#x200B;](#5-in-app-messages-or-content-cards-not-displaying) | メッセージの拡張機能、トリガーおよびAssuranceの決定応答を確認する |
 
 ### 落とし穴ごとの詳細なガイダンス
 
@@ -536,7 +536,7 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
 - サポートされている Mobile SDKおよびJourney Optimizer拡張機能のバージョンにアップグレードします。
 - アプリを再構築し、Assuranceに再接続して、Guided Channel Setup を再実行します。
 
-関連項目：[ モバイルと Web の設定 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
+関連項目：[&#x200B; モバイルと Web の設定 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
 
 </details>
 
@@ -563,7 +563,7 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
 - データストリームマッピングを修正します（イベント→イベントデータセット、プロファイル→プロファイルデータセット）。
 - アドホックな変更の代わりに、ガイド付きチャネル設定またはドキュメント化されたデータストリーム手順を優先します。
 
-関連項目：[Adobe Journey Optimizerにおけるプッシュ通知フロー ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+関連項目：[Adobe Journey Optimizerにおけるプッシュ通知フロー &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
 
 </details>
 
@@ -591,7 +591,7 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
 - **Edge Networkに対する同意** を実装し、アプリの同意 UI に接続します。
 - 関連するすべてのイベントに ID と同意が表示されるまで、Assuranceで再テストします。
 
-[Platform Mobile SDK実装の同意の実装 ](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent) を参照してください。
+[Platform Mobile SDK実装の同意の実装 &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent) を参照してください。
 
 </details>
 
@@ -619,7 +619,7 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
    - Mobile SDKを介してプッシュインタラクションイベント（オープン、解除、カスタムアクション）を送信します。
 - Assuranceを使用して、登録イベントとトラッキングイベントが期待どおりに実行されていることを確認します。
 
-関連項目：[Adobe Journey Optimizerにおけるプッシュ通知フロー ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+関連項目：[Adobe Journey Optimizerにおけるプッシュ通知フロー &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
 
 </details>
 
@@ -651,8 +651,8 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
    - SDKを介してインタラクションをトラッキングします。
 
 参照：
-- [ アプリ内メッセージの作成と送信 ](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp)
-- [Mobile SDKでのコンテンツカードのサポートの設定 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp)
+- [&#x200B; アプリ内メッセージの作成と送信 &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp)
+- [Mobile SDKでのコンテンツカードのサポートの設定 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp)
 
 </details>
 
@@ -660,7 +660,7 @@ Journey Optimizer モバイルチャネル（プッシュ、アプリ内、コ�
 >
 > **1 行準備チェックリスト**
 >
-> アプリをマーケターに渡す前に、**[Assuranceで次のことを確認し ](https://developer.adobe.com/client-sdks/home/base/assurance/)** ください。
+> アプリをマーケターに渡す前に、**[Assuranceで次のことを確認し &#x200B;](https://developer.adobe.com/client-sdks/home/base/assurance/)** ください。
 > 
 > [ Core SDKとJourney Optimizerの拡張機能の ] が読み込まれると、\
 > [ 正 ] いデータストリームとデータセットでイベントのフローが発生している。\
