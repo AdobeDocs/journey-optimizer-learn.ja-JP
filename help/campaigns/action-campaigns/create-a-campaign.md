@@ -21,6 +21,6 @@ ht-degree: 30%
 
 Adobe Journey Optimizerでアクションキャンペーンを作成および最適化して、1 回限りのまたは繰り返しのコミュニケーションを正確かつ効果的に提供する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412405/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
-この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)を参照してください。
