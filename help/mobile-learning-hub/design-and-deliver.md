@@ -7,9 +7,9 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 1cf21f503aef64db2581190807138745c04bd340
+source-git-commit: d892f1115045e5bd1cc89dc75e34434b9b5954bd
 workflow-type: tm+mt
-source-wordcount: '1437'
+source-wordcount: '1431'
 ht-degree: 59%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 59%
 
 Adobe Journey Optimizerを使用して効果的なモバイル通信を構築し、配信する方法を説明します。 プッシュ通知、アプリ内メッセージ、コンテンツカード、SMS/MMS/RCS、WhatsApp マーケティングメッセージ、コードベースのエクスペリエンスなど、オーディエンスに合わせてカスタマイズされ、モバイルエンゲージメントに最適化された様々なメッセージタイプを作成、デザイン、送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416423/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/333745/?learn=on&enablevpops)
 
 >[!NOTE]
 >
 >Journey Optimizerを初めて使用する場合は、まず、次のコースを修了して、Journey Optimizerについて理解してください。
->1. [Adobe Journey Optimizerでのオーディエンスの作成とアクティブ化 &#x200B;](https://experienceleague.adobe.com/ja/courses/ajo-build-and-activate-audiences)
->2. [Adobe Journey Optimizerでジャーニーとアクションキャンペーンを調整する &#x200B;](https://experienceleague.adobe.com/ja/courses/ajo-design-and-manage-journeys-and-action-campaigns)
+>1. [Adobe Journey Optimizerでのオーディエンスの作成とアクティブ化 ](https://experienceleague.adobe.com/en/courses/ajo-build-and-activate-audiences){target="_blank"}
+>2. [Adobe Journey Optimizerでジャーニーとアクションキャンペーンを調整する ](https://experienceleague.adobe.com/en/courses/ajo-design-and-manage-journeys-and-action-campaigns){target="_blank"}
 
 
 ## モバイルメッセージのデザインと配信
@@ -39,23 +39,24 @@ Adobe Journey Optimizerを使用して効果的なモバイル通信を構築し
 
 Journey Optimizerがサポートするモバイルチャネルと、それらのチャネルを使用してメッセージを設定および送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430376?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
 
 >[!TAB プッシュ]
 
 ### プッシュ通知
 
-#### 前提条件
 
-1. アプリが Mobile SDKと統合され、モバイルチャネル用に設定されていることを確認します。
-2. [&#x200B; プッシュチャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) が設定されていることを確認します。
-3. 顧客プロファイルとオーディエンスセグメントがターゲティングの準備ができていることを確認します。
+>[!PREREQUISITES]
+>
+> 1. アプリが Mobile SDKと統合され、モバイルチャネル用に設定されていることを確認します。
+> 2. [ プッシュチャネル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"} が設定されていることを確認します。
+> 3. 顧客プロファイルとオーディエンスセグメントがターゲティングの準備ができていることを確認します。
 
 #### チュートリアル
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -86,8 +87,8 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="プッシュキャンペーンの設定と送信" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3452702/?captions=jpn&format=jpeg&nocache=1755891402391" alt="プッシュキャンペーンの設定と送信"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="プッシュキャンペーンの設定と送信" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1755891402391" alt="プッシュキャンペーンの設定と送信"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -95,11 +96,11 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" title="プッシュキャンペーンの設定と送信"> プッシュキャンペーンの設定と送信 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" title="プッシュキャンペーンの設定と送信"> プッシュキャンペーンの設定と送信 </a>
                     </p>
                     <p class="is-size-6">キャンペーンでプッシュ通知を設定して送信する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
@@ -110,25 +111,25 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![&#x200B; プッシュの作成 &#x200B;](./assets/configuration.svg) [**プッシュ通知を作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![&#x200B; プッシュのデザイン &#x200B;](./assets/content-management.png){width="50"}[**プッシュ通知をデザイン**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![&#x200B; プッシュを送信 &#x200B;](./assets/communication-channel.svg) [**プッシュ通知を送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![ プッシュの作成 ](./assets/configuration.svg)[**プッシュ通知を作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![ プッシュのデザイン ](./assets/content-management.png){width="50"}[**プッシュ通知をデザイン**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![ プッシュを送信 ](./assets/communication-channel.svg)[**プッシュ通知を送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB アプリ内]
 
 ### アプリ内メッセージ
 
-#### 前提条件
-
-1. アプリが Mobile SDKと統合され、モバイルチャネル用に設定されていることを確認します。
-2. アプリ内チャネルが設定されていることを確認します。
-3. 顧客プロファイルとオーディエンスセグメントがターゲティングの準備ができていることを確認します。
+>[!PREREQUISITES]
+>
+> 1. アプリが Mobile SDKと統合され、モバイルチャネル用に設定されていることを確認します。
+> 2. アプリ内チャネルが設定されていることを確認します。
+> 3. 顧客プロファイルとオーディエンスセグメントがターゲティングの準備ができていることを確認します。
 
 #### チュートリアル
 
 <!-- CARDS
-*https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html?lang=ja
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app
+*https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -159,8 +160,8 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="アプリ内キャンペーンの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451883?captions=jpn&format=jpeg&nocache=1755891402919" alt="アプリ内キャンペーンの作成"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="アプリ内キャンペーンの作成" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1755891402919" alt="アプリ内キャンペーンの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,11 +169,11 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" target="_blank" rel="referrer" title="アプリ内キャンペーンの作成">アプリ内キャンペーンの作成</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" target="_blank" rel="referrer" title="アプリ内キャンペーンの作成">アプリ内キャンペーンの作成</a>
                     </p>
                     <p class="is-size-6">アプリ内メッセージとは何かを理解します。キャンペーンでアプリ内メッセージを作成、設定および公開する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -184,29 +185,30 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 #### アプリ内ジャーニーの作成
 
 <!--CARDS
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html?lang=ja
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html?lang=ja
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html
 -->
 
 #### ドキュメント
 
-| ![&#x200B; メッセージの作成 &#x200B;](./assets/configuration.svg) [**モバイルのアプリ内メッセージの作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![&#x200B; コンテンツのデザイン &#x200B;](./assets/content-management.png){width="50"}[**アプリ内コンテンツのデザイン**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![&#x200B; 通知を送信 &#x200B;](./assets/communication-channel.svg) [**アプリ内通知を送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![ メッセージの作成 ](./assets/configuration.svg)[**モバイルのアプリ内メッセージの作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![ コンテンツのデザイン ](./assets/content-management.png){width="50"}[**アプリ内コンテンツのデザイン**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![ 通知を送信 ](./assets/communication-channel.svg)[**アプリ内通知を送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB  コンテンツカード ]
 
 ### コンテンツカード
 
-#### 前提条件
 
-1. アプリが Mobile SDKと統合され、モバイルチャネル用に設定されていることを確認します。
-2. [&#x200B; アプリ内チャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) が設定されていることを確認します。
-3. 顧客プロファイルとオーディエンスがターゲティングの準備ができていることを確認します。
+>[!PREREQUISITES]
+>
+> 1. アプリが Mobile SDKと統合され、モバイルチャネル用に設定されていることを確認します。
+> 2. [ アプリ内チャネル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) が設定されていることを確認します。
+> 3. 顧客プロファイルとオーディエンスがターゲティングの準備ができていることを確認します。
 
 #### チュートリアル
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -215,7 +217,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" title="コンテンツカードの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434784/?captions=jpn&format=jpeg&nocache=1755891403581" alt="コンテンツカードの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1755891403581" alt="コンテンツカードの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,24 +240,24 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![&#x200B; コンテンツカードの作成と設定 &#x200B;](./assets/configuration.svg) [**コンテンツカードの作成と設定**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![&#x200B; コンテンツカードの設計 &#x200B;](./assets/content-management.png){width="50"}[**コンテンツカードの設計**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![ コンテンツカードの作成と設定 ](./assets/configuration.svg)[**コンテンツカードの作成と設定**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![ コンテンツカードの設計 ](./assets/content-management.png){width="50"}[**コンテンツカードの設計**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
 
 ### SMS/MMS/RCS メッセージ
 
-#### 前提条件
-
-1. [SMS 資格情報とチャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel) および/または [MMS 資格情報とチャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces) が設定されていることを確認します – > RCS 設定については、以下のチュートリアルで説明しています。
-2. 顧客プロファイルとオーディエンスセグメントがターゲティングの準備ができていることを確認します。
+>[!PREREQUISITES]
+>
+> 1. [SMS 資格情報とチャネル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel){target="_blank"} および/または [MMS 資格情報とチャネル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces){target="_blank"} が設定されていることを確認します – > RCS 設定については、以下のチュートリアルで説明しています。
+> 2. 顧客プロファイルとオーディエンスセグメントがターゲティングの準備ができていることを確認します。
 
 #### SMS チュートリアル
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -286,8 +288,8 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="SMS メッセージを設定、作成および配信" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422696?captions=jpn&format=jpeg&nocache=1755891404139" alt="SMS メッセージを設定、作成および配信"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="SMS メッセージを設定、作成および配信" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1755891404139" alt="SMS メッセージを設定、作成および配信"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -295,11 +297,11 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" title="SMS メッセージを設定、作成および配信">SMS メッセージの設定、作成および配信</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" title="SMS メッセージを設定、作成および配信">SMS メッセージの設定、作成および配信</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer のキャンペーンとジャーニーで SMS メッセージを設定、作成および配信する方法を説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -309,8 +311,8 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch および Infobip のダブルオプトイン" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440273/?captions=jpn&format=jpeg&nocache=1755891404148" alt="Sinch および Infobip のダブルオプトイン"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch および Infobip のダブルオプトイン" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1755891404148" alt="Sinch および Infobip のダブルオプトイン"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -318,11 +320,11 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Sinch および Infobip のダブルオプトイン">Sinch と Infobip のダブルオプトイン</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Sinch および Infobip のダブルオプトイン">Sinch と Infobip のダブルオプトイン</a>
                     </p>
                     <p class="is-size-6">SMS のダブルオプトインを設定する方法を説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
@@ -334,8 +336,8 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 #### MMS および RCS チュートリアル
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -343,8 +345,8 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="MMS メッセージの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437101/?captions=jpn&format=jpeg&nocache=1755891404669" alt="MMS メッセージの作成"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="MMS メッセージの作成" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1755891404669" alt="MMS メッセージの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,11 +354,11 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" title="MMS メッセージの作成">MMS メッセージの作成 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" title="MMS メッセージの作成">MMS メッセージの作成 </a>
                     </p>
                     <p class="is-size-6">Journey Optimizer を MMS サービスプロバイダーに接続する方法と、MMS チャネルサーフェスを作成する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
@@ -367,7 +369,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Journey Optimizer での RCS の設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464756/?captions=jpn&format=jpeg&nocache=1755891404682" alt="Journey Optimizer での RCS の設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755891404682" alt="Journey Optimizer での RCS の設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,23 +392,22 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![&#x200B; テキストメッセージの基本を学ぶ &#x200B;](./assets/configuration.svg) [**テキストメッセージの基本を学ぶ**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![&#x200B; コンテンツの設計 &#x200B;](./assets/content-management.png){width="50"}[**SMS、MMS、RCS メッセージの作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![&#x200B; 通知の送信 &#x200B;](./assets/communication-channel.svg) [**テキストメッセージの確認と送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![ テキストメッセージの基本を学ぶ ](./assets/configuration.svg)[**テキストメッセージの基本を学ぶ**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![ コンテンツの設計 ](./assets/content-management.png){width="50"}[**SMS、MMS、RCS メッセージの作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![ 通知の送信 ](./assets/communication-channel.svg)[**テキストメッセージの確認と送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB コードベースのエクスペリエンス]
 
 ### コードベースのエクスペリエンス
 
-#### 前提条件
-
-1. コードベースチャネルが設定されていることを確認します。
-2. 顧客プロファイルとオーディエンスがターゲティングの準備ができていることを確認します。
+>[!PREREQUISITES]
+> 1. コードベースチャネルが設定されていることを確認します。
+> 2. 顧客プロファイルとオーディエンスがターゲティングの準備ができていることを確認します。
 
 #### チュートリアル
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -415,7 +416,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" title="コードベースのエクスペリエンスキャンペーンを作成します。" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449454/?captions=jpn&format=jpeg&nocache=1755891405190" alt="コードベースのエクスペリエンスキャンペーンを作成します。"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1755891405190" alt="コードベースのエクスペリエンスキャンペーンを作成します。"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -438,7 +439,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="フォームフィールドをコードベースのエクスペリエンスチャネルテンプレートに追加する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463992/?captions=jpn&format=jpeg&nocache=1755891405203" alt="フォームフィールドをコードベースのエクスペリエンスチャネルテンプレートに追加する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1755891405203" alt="フォームフィールドをコードベースのエクスペリエンスチャネルテンプレートに追加する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -461,23 +462,24 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![&#x200B; コードベースのエクスペリエンスを作成 &#x200B;](./assets/content-management.png){width="50"}[**コードベースのエクスペリエンスを作成**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![ コードベースのエクスペリエンスを作成 ](./assets/content-management.png){width="50"}[**コードベースのエクスペリエンスを作成**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
 
 ### WhatsApp メッセージ
 
-#### 前提条件
 
-1. [WhatsApp チャネル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) が設定されていることを確認します。
-2. 顧客プロファイルとオーディエンスがターゲティングの準備ができていることを確認します。
+>[!PREREQUISITES]
+>
+> 1. [WhatsApp チャネル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) が設定されていることを確認します。
+> 2. 顧客プロファイルとオーディエンスがターゲティングの準備ができていることを確認します。
 
 #### チュートリアル
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -486,7 +488,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" title="WhatsApp チャネルの概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470297/?captions=jpn&format=jpeg&nocache=1755891405738" alt="WhatsApp チャネルの概要"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1755891405738" alt="WhatsApp チャネルの概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -509,7 +511,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" title="WhatsApp ジャーニーの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470283/?captions=jpn&format=jpeg&nocache=1755891405726" alt="WhatsApp ジャーニーの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1755891405726" alt="WhatsApp ジャーニーの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -532,7 +534,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 
 #### 製品ドキュメント
 
-| ![WhatsApp メッセージの作成 &#x200B;](./assets/configuration.svg) [*WhatsApp メッセージの作成*](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![WhatsApp メッセージのプレビュー、検証、送信 &#x200B;](./assets/communication-channel.svg){width="50"}[**WhatsApp メッセージのプレビュー、検証、送信**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![WhatsApp メッセージの作成 ](./assets/configuration.svg)[*WhatsApp メッセージの作成*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![WhatsApp メッセージのプレビュー、検証、送信 ](./assets/communication-channel.svg){width="50"}[**WhatsApp メッセージのプレビュー、検証、送信**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
@@ -542,7 +544,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 ### ユーザーの価値のある瞬間までの時間メッセージ
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -575,9 +577,9 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 ### コンテンツのパーソナライズ
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -608,8 +610,8 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="パーソナライゼーションへのヘルパー関数の使用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416781?captions=jpn&format=jpeg&nocache=1755891406861" alt="パーソナライゼーションへのヘルパー関数の使用"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="パーソナライゼーションへのヘルパー関数の使用" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334244?format=jpeg&nocache=1755891406861" alt="パーソナライゼーションへのヘルパー関数の使用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -617,11 +619,11 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" title="パーソナライゼーションへのヘルパー関数の使用">パーソナライゼーションへのヘルパー関数の使用</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" title="パーソナライゼーションへのヘルパー関数の使用">パーソナライゼーションへのヘルパー関数の使用</a>
                     </p>
                     <p class="is-size-6">パーソナライズ機能のヘルパー関数を使用してパーソナライゼーション値を変換する方法と、ヘルパー関数の様々なユースケースを説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
@@ -631,8 +633,8 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="パーソナライゼーションライブラリの保存済み式の使用と管理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/344987?captions=jpn&format=jpeg&nocache=1755891406844" alt="パーソナライゼーションライブラリの保存済み式の使用と管理"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="パーソナライゼーションライブラリの保存済み式の使用と管理" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1755891406844" alt="パーソナライゼーションライブラリの保存済み式の使用と管理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -640,11 +642,11 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" title="パーソナライゼーションライブラリの保存済み式の使用と管理">パーソナライゼーションライブラリで保存済みの式を使用および管理</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" title="パーソナライゼーションライブラリの保存済み式の使用と管理">パーソナライゼーションライブラリで保存済みの式を使用および管理</a>
                     </p>
                     <p class="is-size-6">保存したパーソナライゼーションライブラリ項目をメッセージで使用する方法と、パーソナライゼーションライブラリ項目を作成および管理する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -656,8 +658,8 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
 ### ユーザーの疲労を避けるためにメッセージ頻度を制御する：
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -666,7 +668,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" title="インバウンドアクションへの優先度スコアの割り当て" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445002/?captions=jpn&format=jpeg&nocache=1755891407584" alt="インバウンドアクションへの優先度スコアの割り当て"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1755891407584" alt="インバウンドアクションへの優先度スコアの割り当て"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -689,7 +691,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" title="ジャーニーのフリークエンシーキャップと優先度" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447613/?captions=jpn&format=jpeg&nocache=1755891407596" alt="ジャーニーのフリークエンシーキャップと優先度"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1755891407596" alt="ジャーニーのフリークエンシーキャップと優先度"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
