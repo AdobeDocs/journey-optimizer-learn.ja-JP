@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer が組み込まれた Adobe Experience Manager を使用してデジタルアセット管理を効率化し、リポジトリから直接アセットを検索、参照、ソース化できるようにする方法について説明します。キャンペーンを作成し、既存のテンプレートを使用してメールをデザインし、アセットを簡単にアップロードまたは編集して、強力で影響力のあるコンテンツ制作をすぐに行う方法を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477012/?captions=jpn&learn=on)
