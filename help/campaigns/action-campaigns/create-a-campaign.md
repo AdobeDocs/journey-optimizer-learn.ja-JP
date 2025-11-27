@@ -1,6 +1,6 @@
 ---
 title: アクションキャンペーンの作成
-description: Adobe Journey Optimizerでアクションキャンペーンを作成および最適化して、1 回限りのまたは繰り返しのコミュニケーションを正確かつ効果的に提供する方法を説明します。
+description: Adobe Journey Optimizer でアクションキャンペーンを作成および最適化し、正確で影響力のある 1 回限りのコミュニケーションや繰り返しのコミュニケーションを配信する方法について説明します。
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -11,15 +11,15 @@ level: Beginner
 last-substantial-update: 2025-11-14T00:00:00Z
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: d5658be3109f688d66fd34a82531afdcbffb05da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
 # アクションキャンペーンの作成
 
-Adobe Journey Optimizerでアクションキャンペーンを作成および最適化して、1 回限りのまたは繰り返しのコミュニケーションを正確かつ効果的に提供する方法を説明します。
+Adobe Journey Optimizer でアクションキャンペーンを作成および最適化し、正確で影響力のある 1 回限りのコミュニケーションや繰り返しのコミュニケーションを配信する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
