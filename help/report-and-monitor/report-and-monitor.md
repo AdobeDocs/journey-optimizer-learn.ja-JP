@@ -1,6 +1,6 @@
 ---
 title: レポートと監視
-description: Adobe Journey Optimizer（AJO）のレポート機能を使用して、マーケティング活動を包括的に可視化します。概要指標にアクセスし、キャンペーンやジャーニーに固有のレポートを掘り下げ、Customer Journey Analyticsを通してアドバンス分析の可能性を広げられるよう学習を進めます。
+description: Adobe Journey Optimizer（AJO）のレポート機能により、カスタマージャーニーを簡単に追跡、分析、操作する方法について説明します。 これらのチュートリアルは、マーケターやアナリストがパフォーマンスをリアルタイムで監視し、詳細なジャーニーやチャネルのインサイトを掘り下げ、データを書き出し、アラートを設定し、高度な分析を活用してよりスマートな意思決定を行うためのツールを提供します。
 feature: Reporting
 role: User
 level: Beginner, Intermediate
@@ -8,37 +8,40 @@ doc-type: Feature Video
 duration: 395
 last-substantial-update: 2025-08-28T00:00:00Z
 exl-id: 5bac9b73-9c68-4901-90f8-07949639bd69
-source-git-commit: 0c70ce535109119a8218a1559f4db3810e313d7f
-workflow-type: ht
-source-wordcount: '392'
-ht-degree: 100%
+source-git-commit: b27e35e3dc07014caf115ec8cc057266858ddf7c
+workflow-type: tm+mt
+source-wordcount: '585'
+ht-degree: 79%
 
 ---
 
 # レポートと監視
 
-Adobe Journey Optimizer のレポートを使用すると、生データを実用的なインサイトに変換し、カスタマージャーニーやマーケティング戦略を調整できます。概要指標にアクセスし、キャンペーンやジャーニーに固有のレポートを掘り下げ、Customer Journey Analyticsを通してアドバンス分析の可能性を広げられるよう学習を進めます。
+Adobe Journey Optimizer レポートを使用して、カスタマージャーニーを簡単に追跡、分析、処理する方法について説明します。
 
-初心者であっても、経験豊富なマーケターであっても、これらのツールを使用することで明確な情報を得て、有意義なビジネス成果のために最適化できます。
+これらのチュートリアルは、マーケターがパフォーマンスをリアルタイムで監視し、詳細なジャーニーとチャネルのインサイトを掘り下げ、データを書き出し、アラートを設定し、高度な分析を活用してよりスマートな意思決定を行うためのツールを提供します。
+
 
 ## チュートリアル
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Measurement & Reporting - Overview">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Introduction to reporting in Adobe Journey Optimizer(AJO)">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" title="測定とレポート - 概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432673/?format=jpeg&nocache=1756406406381" alt="測定とレポート - 概要"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" title="Adobe Journey Optimizer（AJO）でのレポートの概要" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432673/?format=jpeg&nocache=1764706279446" alt="Adobe Journey Optimizer（AJO）でのレポートの概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -46,11 +49,11 @@ Adobe Journey Optimizer のレポートを使用すると、生データを実�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" target="_blank" rel="referrer" title="測定とレポート - 概要">測定とレポート - 概要</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Adobe Journey Optimizer（AJO）でのレポートの概要">Adobe Journey Optimizer（AJO）のレポートの概要 </a>
                     </p>
-                    <p class="is-size-6">Journey Optimizer のレポートについて説明します。</p>
+                    <p class="is-size-6">Adobe Journey Optimizer（AJO）でのレポートについて説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
@@ -61,7 +64,7 @@ Adobe Journey Optimizer のレポートを使用すると、生データを実�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com//docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="ライブレポートを使用したジャーニーの監視と分析" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470836/?format=jpeg&nocache=1756406406388&captions=jpn" alt="ライブレポートを使用したジャーニーの監視と分析"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="ライブレポートを使用したジャーニーの監視と分析"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,12 +82,35 @@ Adobe Journey Optimizer のレポートを使用すると、生データを実�
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Monitor and analyze your journey with Journey Reports">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="ジャーニーレポートを使用したジャーニーの監視と分析" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="ジャーニーレポートを使用したジャーニーの監視と分析"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" target="_blank" rel="referrer" title="ジャーニーレポートを使用したジャーニーの監視と分析">ジャーニーレポートを使用したジャーニーの監視と分析</a>
+                    </p>
+                    <p class="is-size-6">ユーザーがジャーニーの様々なステップをどのように操作しているか（エントリと離脱の統計、エラーおよび実行されたアクションなど）について、個々のジャーニーのパフォーマンスを追跡する方法について説明します。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Channel level reports">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="チャネルレベルのレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448037/?format=jpeg&nocache=1756406406387&captions=jpn" alt="チャネルレベルのレポート"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="チャネルレベルのレポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -102,12 +128,35 @@ Adobe Journey Optimizer のレポートを使用すると、生データを実�
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyze your journey's overall performance with all time reports">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="全期間のレポートを使用したジャーニーの全体的なパフォーマンスの分析" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="全期間のレポートを使用したジャーニーの全体的なパフォーマンスの分析"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="全期間のレポートを使用したジャーニーの全体的なパフォーマンスの分析"> すべての時間レポートを使用してジャーニーの全体的なパフォーマンスを分析する </a>
+                    </p>
+                    <p class="is-size-6">このビデオでは、Adobe Journey Optimizer の全期間のレポートを効果的に使用して、カスタマージャーニー、キャンペーン、チャネル全体の長期的なパフォーマンスインサイトを明らかにする方法について説明します。主要なダッシュボードの操作方法、基本的な KPI の解釈方法、フィルターと日付範囲の適用方法、ジャーニーレポート、キャンペーンレポート、インサイトビルダーなどのツールを活用してより詳細な分析やカスタムレポートを作成する方法などをカバーしており、マーケターやマネージャーがデータをアクションに変えられるよう支援します。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Export reports in CSV format">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="CSV 形式でのレポートの書き出し" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439606/?format=jpeg&nocache=1756406406384&captions=jpn" alt="CSV 形式でのレポートの書き出し"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="CSV 形式でのレポートの書き出し"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,7 +179,7 @@ Adobe Journey Optimizer のレポートを使用すると、生データを実�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts" title="アラートの使用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/336218?format=jpeg&nocache=1756406406387" alt="アラートの使用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/336218?format=jpeg&nocache=1764706279431" alt="アラートの使用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +202,7 @@ Adobe Journey Optimizer のレポートを使用すると、生データを実�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Customer Journey Analytics によるレポートの強化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443152/?format=jpeg&nocache=1756406406386&captions=jpn" alt="Customer Journey Analytics によるレポートの強化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="Customer Journey Analytics によるレポートの強化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
