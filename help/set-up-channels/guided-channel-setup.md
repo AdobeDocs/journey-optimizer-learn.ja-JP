@@ -11,8 +11,8 @@ jira: KT-16041
 hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
-source-git-commit: 50f0641415818db8763e5de58a74b77b7eab5d16
-workflow-type: ht
+source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 
@@ -24,9 +24,9 @@ ht-degree: 100%
 
 サンプルの iOS モバイルマーケティングアプリでプッシュチャネル通知を設定および検証する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449623/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 詳しくは、製品ドキュメントを参照してください。
 
-* [ガイド付きチャネル設定の基本を学ぶ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=ja)
-* [チャネル設定の作成](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=ja)
+* [ガイド付きチャネル設定の基本を学ぶ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=ja){target="_blank"}
+* [チャネル設定の作成](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=ja){target="_blank"}
