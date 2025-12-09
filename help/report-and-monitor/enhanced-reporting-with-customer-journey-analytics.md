@@ -22,4 +22,4 @@ ht-degree: 19%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
 
-詳細なドキュメントについては、[Customer Journey Analyticsでの分析 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"} を参照してください。
+詳細なドキュメントについては、[Customer Journey Analyticsでの分析 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"} を参照してください。
