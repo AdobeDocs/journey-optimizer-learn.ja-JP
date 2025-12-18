@@ -23,9 +23,9 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
 
 ## モバイル学習ハブ
 
-[![&#x200B; モバイル学習ハブ &#x200B;](/help/assets/mobile-learning-hub.jpeg " モバイル学習ハブ "){width="50%"}{align=center}](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
+[![&#x200B; モバイル学習ハブ &#x200B;](/help/assets/mobile-learning-hub.jpeg " モバイル学習ハブ "){width="50%"}{align=center}](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/mobile-learning-hub/overview)
 
-Adobe Journey Optimizerを使用して、モバイルエンゲージメント戦略をすばやく開始または強化します。 [&#x200B; モバイル学習ハブ &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview) は、開発者、管理者、マーケターおよびアナリストが、インバウンドおよびアウトバウンドのモバイルチャネルを設定し、強力なクロスチャネルキャンペーンとジャーニーにシームレスに統合するために必要なすべてを提供します。
+Adobe Journey Optimizerを使用して、モバイルエンゲージメント戦略をすばやく開始または強化します。 [&#x200B; モバイル学習ハブ &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/mobile-learning-hub/overview) は、開発者、管理者、マーケターおよびアナリストが、インバウンドおよびアウトバウンドのモバイルチャネルを設定し、強力なクロスチャネルキャンペーンとジャーニーにシームレスに統合するために必要なすべてを提供します。
 
 
 <div id="recs-overview-body-1"></div>
@@ -39,13 +39,13 @@ Adobe Journey Optimizerを使用して、モバイルエンゲージメント戦
 ## 最新の Experience League ライブイベント
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
+* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
     {title = The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth (October 30th 2025)}
     {description = In this Experience League Live session, we unveil Adobe Journey Optimizer Experimentation Accelerator, a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.}
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
     {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
     {description = IN this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcased how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
 -->
@@ -128,9 +128,9 @@ Adobe Journey Optimizerを使用して、モバイルエンゲージメント戦
 ## スタッフのおすすめ
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -207,9 +207,9 @@ Adobe Journey Optimizerを使用して、モバイルエンゲージメント戦
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
