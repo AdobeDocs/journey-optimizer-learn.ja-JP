@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: b93a715d5ef1fec814035fa1f86c082d041cf666
+source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '969'
 ht-degree: 99%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 99%
    + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
    + [AI アシスタントに関するお問い合わせ](/help/ai-agents/ai-assistant.md)
++ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
 + キャンペーン {#create-campaigns}
    + アクションキャンペーン {#action-campaigns}
       + [キャンペーンの作成](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -63,7 +64,7 @@ ht-degree: 99%
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Web SDK を使用したオーディエンスの作成（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [オンデマンドでのオーディエンスの評価](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [オンデマンドでのオーディエンスの評価](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
    + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
@@ -230,7 +231,7 @@ ht-degree: 99%
    + [オファーのインプレッション数とクリック数に関するレポートの生成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Journey Optimizer でランキング式を使用して、パーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [顧客エンゲージメントの強化](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [オーケストレーションのオムニチャネルエンゲージメントへの拡大](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/exercises-and-challenges/summit-labs/introduction){target="_blank"}
    + ユースケースプレイブック {#use-case-playbooks}
       + [概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [プレイブックサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
