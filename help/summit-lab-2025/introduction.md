@@ -24,4 +24,4 @@ Adobe Summit 2025 で最初に Lab L535 として発表されたこのチュー�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
 
-ワークブックを [ こちら ](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf) からダウンロードします。
+ワークブックを [&#x200B; こちら &#x200B;](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf) からダウンロードします。
