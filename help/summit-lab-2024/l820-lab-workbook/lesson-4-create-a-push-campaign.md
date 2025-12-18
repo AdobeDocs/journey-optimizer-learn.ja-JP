@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '778'
 ht-degree: 2%
@@ -37,7 +37,7 @@ ht-degree: 2%
 
 1. **[!UICONTROL キャンペーンを作成]** をクリックします。
 
-   ![&#x200B; キャンペーンを作成 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![ キャンペーンを作成 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
 1. **[!UICONTROL キャンペーンを作成]** ページの「**[!UICONTROL アクション]**」セクションで、「**[!UICONTROL プッシュ通知]**」チェックボックスを選択します。
 
@@ -45,18 +45,18 @@ ht-degree: 2%
 
 1. 「**[!UICONTROL 作成]**」をクリックして、プッシュキャンペーンを作成します。
 
-   ![&#x200B; アプリサーフェス &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
+   ![ アプリサーフェス ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
 >[!SUCCESS]
 >
 >これで、キャンペーンのプロパティページが表示されます。
-> ![キャンペーンプロパティ &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![キャンペーンプロパティ ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## 演習 4.2 - キャンペーンの設定
 
 このページでは、キャンペーンのプロパティ、オーディエンス、アクションおよびスケジュールを設定します。
 
-### 4.2.1 [!UICONTROL &#x200B; プロパティセクション &#x200B;]
+### 4.2.1 [!UICONTROL  プロパティセクション ]
 
 キャンペーンに名前を付けます。 キャンペーンを検索する際にキャンペーンを簡単に見つけられるように、名前はシート番号で始めてください。
 
@@ -66,7 +66,7 @@ ht-degree: 2%
 
 1. 「オーディエンス」セクションで、「**[!UICONTROL オーディエンスを選択]**」をクリックします。
 
-   ![&#x200B; オーディエンスセクション &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
+   ![ オーディエンスセクション ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
 1. **[!UICONTROL オーディエンスを選択]** 画面で、オーディエンスを検索します。
 
@@ -74,15 +74,15 @@ ht-degree: 2%
 
 1. オーディエンスを選択し、「**[!UICONTROL 保存]**」をクリックします。
 
-   ![&#x200B; オーディエンスの選択 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
+   ![ オーディエンスの選択 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
 ### 4.2.3 プッシュ通知の内容を編集する
 
 この演習では、プッシュ通知をデザインしカスタマイズします。
 
-1. 「**[!UICONTROL アクション]**」セクションで、「**[!UICONTROL コンテンツを編集 &#x200B;] ボタンをクリックします**。
+1. 「**[!UICONTROL アクション]**」セクションで、「**[!UICONTROL コンテンツを編集 ] ボタンをクリックします**。
 
-   ![&#x200B; コンテンツを編集ボタン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
+   ![ コンテンツを編集ボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
 1. 次の画面で、使用しているモバイルデバイスに応じて、「[!DNL iOS™]」または「[!DNL Android™]」タブを選択して、コンテンツを設定します。
 
@@ -90,22 +90,22 @@ ht-degree: 2%
 
 >[!TAB iOS]
 
-![&#x200B; 「iOS」タブ &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
+![ 「iOS」タブ ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB Android]
 
-![&#x200B; 「Android」タブ &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
+![ 「Android」タブ ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
-#### 4.2.3.1[!UICONTROL &#x200B; メッセージを作成 &#x200B;] セクション
+#### 4.2.3.1[!UICONTROL  メッセージを作成 ] セクション
 
 1. **メッセージの作成：** 任意のテキストを自由に追加できます。 次のような例を使用できます。
 
    * タイトル：`Get 10% off today!`
    * 本文：`Today only! Get 10% off on your House Blend coffee purchase!`
 
-     ![&#x200B; メッセージを作成 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
+     ![ メッセージを作成 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
 
 #### 4.2.3.2 メッセージのクリック時の動作を **製品ページを開く** に変更します
 
@@ -115,21 +115,21 @@ ht-degree: 2%
 
    `dxdemo://exoticVibes`
 
-   ![&#x200B; ディープリンク &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
+   ![ ディープリンク ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
 
 #### 4.2.3.3 メッセージへの画像の追加
 
 1. 「**[!UICONTROL メディアを追加]**」セクションで、「**[!UICONTROL メディアを追加]**」をクリックします。
 
-   ![&#x200B; メディアを追加ボタン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+   ![ メディアを追加ボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
 1. **[!UICONTROL Assetsを選択]** 画面の左側のナビゲーションで **Fréscopa フォルダーを開き** そのフォルダーから画像を選択します。
 
    例：`HouseBlend.png`
 
-1. 画像をクリックし、**[!UICONTROL 選択 &#x200B;] ボタン** をクリックして、プッシュ通知に画像を追加します。
+1. 画像をクリックし、**[!UICONTROL 選択 ] ボタン** をクリックして、プッシュ通知に画像を追加します。
 
-   ![&#x200B; 画像を選択 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
+   ![ 画像を選択 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
@@ -137,7 +137,7 @@ ht-degree: 2%
    > 1. メッセージのプレビュー。
    > <br>
    >
-   > ![&#x200B; ビューを展開 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![ ビューを展開 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 ### ボーナス演習
 
@@ -149,25 +149,25 @@ ht-degree: 2%
 
 1. **本文** フィールドの横にある **[!UICONTROL パーソナライゼーションダイアログ]** をクリックします。
 
-   ![&#x200B; パーソナライゼーションボタン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
+   ![ パーソナライゼーションボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
 1. **パーソナライゼーションダイアログ** 画面で、テキストの名を追加する位置にカーソルを置きます。
 
 1. 左側のナビゲーションで **プロファイル属性** が選択されていることを確認します。
 
-   ![&#x200B; プロファイル属性 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   ![ プロファイル属性 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
 1. **検索フィールド** で、`first name` を検索します。
 
 1. **名（プロファイル属性/ユーザー/姓名）の横にある**+**をクリックして** パーソナライゼーションフィールドをテキストに追加します。
 
-   ![&#x200B; 名を検索 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   ![ 名を検索 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
    >[!SUCCESS]
    >
    > テキストは次のようになります。
    > 
-   >![Personalization トークン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![Personalization トークン ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
 
 1. **[!UICONTROL 保存]** をクリックして、パーソナライゼーションを保存します。
 
@@ -177,7 +177,7 @@ ht-degree: 2%
    > 1. プレビュー画面で、「**[!UICONTROL ビューを展開]**」をクリックします。
    > 1. メッセージのプレビュー。
    > 
-   > ![&#x200B; ビューを展開 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![ ビューを展開 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 +++
 
@@ -187,21 +187,21 @@ ht-degree: 2%
 
 1. **[!UICONTROL アクティブ化するレビュー]** をクリックします。
 
-   ![&#x200B; レビューしてアクティブ化ボタン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![ レビューしてアクティブ化ボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
 1. **[!UICONTROL アクティブ化するレビュー]** 画面で、「**[!UICONTROL アクティブ化]**」をクリックします。
 
-   ![&#x200B; アクティブ化するレビュー画面 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
+   ![ アクティブ化するレビュー画面 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
 > **キャンペーンの概要ページ** で、キャンペーンを見つけて、ステータスを確認します。
 >
-> ![&#x200B; キャンペーンステータス &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
+> ![ キャンペーンステータス ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > ステータスが「処理中」から「ライブ」に変わります。この処理には数分かかる場合があります。
 > ステータスが完了に変更されたら、次の操作を行います。
 >
-> ![&#x200B; プッシュ結果 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> ![ プッシュ結果 ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
 ## その他のリソース
 
@@ -211,7 +211,7 @@ ht-degree: 2%
 
 **製品ドキュメント：**
 
-* [&#x200B; プッシュ通知の概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/get-started-push)
-* [プッシュ通知の作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/create-push)
-* [プッシュ通知のデザイン](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/design-push)
-* [&#x200B; プッシュ通知を確認して送信する &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/send-push)
+* [ プッシュ通知の概要 ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [プッシュ通知の作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [プッシュ通知のデザイン](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [ プッシュ通知を確認して送信する ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

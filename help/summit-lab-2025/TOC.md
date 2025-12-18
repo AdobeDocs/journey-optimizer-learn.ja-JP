@@ -6,7 +6,7 @@ level: Beginner,Intermediate
 breadcrumb-title: scaling-orchestration-to-omnichannel-engagement
 breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/scaling-orchestration-to-omnichannel-engagement/introduction
 auto-video-transcripts: true
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 1%
@@ -16,10 +16,10 @@ ht-degree: 1%
 
 # オーケストレーションをオムニチャネルエンゲージメントに拡大 {#scaling-orchestration-to-omnichannel-engagement}
 
-+ [はじめに](/help/summit-labs/summit-lab-2025/introduction.md)
-+ [レッスン 1：ジャーニーを体験する](/help/summit-labs/summit-lab-2025/lesson-1-experience-the-journey.md)
-+ [レッスン 2：ようこそジャーニーの作成](/help/summit-labs/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
-+ [レッスン 3 – 動的コンテンツの作成](/help/summit-labs/summit-lab-2025/lesson-3-create-dynamic-content.md)
-+ [レッスン 4：コンテンツ実験の作成](/help/summit-labs/summit-lab-2025/lesson-4-create-a-content-experiment.md)
-+ [レッスン 5:ジャーニーのテスト](/help/summit-labs/summit-lab-2025/lesson-5-test-your-journey.md)
-+ [レッスン 6：コンテンツカードキャンペーンの作成](/help/summit-labs/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)
++ [はじめに](/help/summit-lab-2025/introduction.md)
++ [レッスン 1：ジャーニーを体験する](/help/summit-lab-2025/lesson-1-experience-the-journey.md)
++ [レッスン 2：ようこそジャーニーの作成](/help/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
++ [レッスン 3 – 動的コンテンツの作成](/help/summit-lab-2025/lesson-3-create-dynamic-content.md)
++ [レッスン 4：コンテンツ実験の作成](/help/summit-lab-2025/lesson-4-create-a-content-experiment.md)
++ [レッスン 5:ジャーニーのテスト](/help/summit-lab-2025/lesson-5-test-your-journey.md)
++ [レッスン 6：コンテンツカードキャンペーンの作成](/help/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)

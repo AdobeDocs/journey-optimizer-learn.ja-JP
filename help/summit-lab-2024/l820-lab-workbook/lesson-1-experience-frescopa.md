@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
 exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 1%
@@ -30,15 +30,15 @@ ht-degree: 1%
 
 ## 演習 1.1 - アカウントの作成
 
-1. [Fréscopa web サイト &#x200B;](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"} に移動します。
+1. [Fréscopa web サイト ](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"} に移動します。
 
 1. Fréscopa ホームページで、「**[!UICONTROL ログイン]**」をクリックします。
 
-   ![Fréscopa homepage](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
+   ![Fréscopa homepage](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
 
 1. ログインページで、「**[!UICONTROL アカウントを作成]**」を選択します。
 
-   ![Fréscopa サインイン ページ &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa サインイン ")
+   ![Fréscopa サインイン ページ ](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa サインイン ")
 
 1. 次のページで、詳細を入力します。
 
@@ -57,19 +57,19 @@ ht-degree: 1%
 
    1. **シート番号** を入力します。 （ラボマシンのデスクトップで見つけることができます）。
 
-      ![&#x200B; ラボマシンデスクトップ &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+      ![ ラボマシンデスクトップ ](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 
    1. Fréscopa マシンを使用するかどうかを指定するには、[ はい ] または **いいえ** を選択 **ま**。
 
 1. **登録** をクリックします。
 
-   ![Fréscopa 登録ページ &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
+   ![Fréscopa 登録ページ ](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
 ## 演習 1.2 - Fréscopa アプリのダウンロードとインストール
 
 登録時に表示されるメッセージまたは以下から QR コードをスキャンして、iOSまたはAndroid™ デバイスにモバイルアプリをインストールします。
 
-![Fréscopa モバイルアプリ QR コード &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa モバイルアプリ QR コード ")
+![Fréscopa モバイルアプリ QR コード ](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa モバイルアプリ QR コード ")
 
 デバイス固有インストール：
 
@@ -83,23 +83,23 @@ ht-degree: 1%
 
 1. **設定**/**一般**/**VPN とデバイスの管理** に移動します。
 
-   ![&#x200B; デバイス管理設定画面 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG " デバイス管理設定画面 "){width="250" align="center" zoomable="yes"}
+   ![ デバイス管理設定画面 ](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG " デバイス管理設定画面 "){width="250" align="center" zoomable="yes"}
 
 1. **Adobe Systems Inc** および **Trust Adobe Systems Inc** を選択します。
 
-   ![&#x200B; アドビシステム選択画面 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG " アドビシステム選択画面 "){width="250" align="center" zoomable="yes"}
+   ![ アドビシステム選択画面 ](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG " アドビシステム選択画面 "){width="250" align="center" zoomable="yes"}
    <br>
 
-   ![&#x200B; アドビシステムを信頼する画面 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+   ![ アドビシステムを信頼する画面 ](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * これで、iPhoneで **Fréscopa アプリ** を起動できるようになります。![Fréscopa アプリアイコン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   * これで、iPhoneで **Fréscopa アプリ** を起動できるようになります。![Fréscopa アプリアイコン ](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
 1. アプリを開きます。
 
 1. ポップアップで「**許可**」をクリックし、DX デモアプリから通知を送信できるようにします。
 
-   ![&#x200B; 通知ポップアップ &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
+   ![ 通知ポップアップ ](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
@@ -107,17 +107,17 @@ ht-degree: 1%
 
 Androidで、次に示す警告手順に従って、APK をダウンロードしてインストールします。
 
-![Androidのダウンロード画面 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Androidのダウンロード画面 "){width="250" align="center" zoomable="yes"}
+![Androidのダウンロード画面 ](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Androidのダウンロード画面 "){width="250" align="center" zoomable="yes"}
 <br>
-![Androidのインストール画面 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Androidのインストール画面 ](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* これで、Android デバイスで **Fréscopa アプリ** を起動できるようになります。![Fréscopa アプリアイコン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+* これで、Android デバイスで **Fréscopa アプリ** を起動できるようになります。![Fréscopa アプリアイコン ](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
 ## 演習 1.3 - Web サイトとアプリを探索する
 
-[Fréscopa web サイト &#x200B;](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"} およびモバイルアプリについて確認します。 AJOに実装され、インタラクションを通じてトリガーされる、様々なアプリ内、プッシュおよび SMS メッセージを体験します。
+[Fréscopa web サイト ](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"} およびモバイルアプリについて確認します。 AJOに実装され、インタラクションを通じてトリガーされる、様々なアプリ内、プッシュおよび SMS メッセージを体験します。
 
 試してみる必要があるものは次のとおりです。
 
@@ -144,12 +144,12 @@ Web サイトで：
 >
 >Frescopa ホームページで、**Adobe Summit Lab Challenge Progress** （ページ下部）をクリックします。
 > 
->  ![&#x200B; チャレンジ進行状況ボタン &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
+>  ![ チャレンジ進行状況ボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
 >
 > 獲得したバッジを確認できます。
 > 
-> ![バッジ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
+> ![バッジ](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
 
 次のレッスンでは、Adobe Journey Optimizerでモバイルと web エクスペリエンスを作成する方法を学びます。
 
-[def]: /help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
+[def]: /help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
