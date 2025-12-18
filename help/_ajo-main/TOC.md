@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 45c7276e212f489c6d0a234d4e859bf94f188d6c
+source-git-commit: f557bb5542f413be99ae0f578a18f4dec60f0e06
 workflow-type: tm+mt
 source-wordcount: '971'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
    + [AI アシスタントに関するお問い合わせ](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/mobile-learning-hub/overview)
++ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + キャンペーン {#create-campaigns}
    + アクションキャンペーン {#action-campaigns}
       + [キャンペーンの作成](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Web SDK を使用したオーディエンスの作成（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [オンデマンドでのオーディエンスの評価](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [オンデマンドでのオーディエンスの評価](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
    + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
