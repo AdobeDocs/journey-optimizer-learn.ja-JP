@@ -154,7 +154,7 @@ ht-degree: 2%
 
 **製品ドキュメント：**
 
-* [&#x200B; アプリ内チャネルの概要 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Web アプリ内メッセージの作成 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [アプリ内コンテンツのデザイン](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [&#x200B; アプリ内通知の確認と送信 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [&#x200B; アプリ内チャネルの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Web アプリ内メッセージの作成 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [アプリ内コンテンツのデザイン](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/in-app/design-in-app)
+* [&#x200B; アプリ内通知の確認と送信 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/in-app/send-in-app)
