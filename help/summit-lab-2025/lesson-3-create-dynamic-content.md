@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
 
-このトピックに関する詳しいガイダンスについては、[ 条件ルールビルダーを使用した動的コンテンツの作成 ](/help/personalize-content/create-dynamic-content.md) を参照してください。
+このトピックに関する詳しいガイダンスについては、[&#x200B; 条件ルールビルダーを使用した動的コンテンツの作成 &#x200B;](/help/personalize-content/create-dynamic-content.md) を参照してください。

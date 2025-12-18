@@ -28,4 +28,4 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
 
 
-このトピックに関する詳しいガイダンスについては、[ 実験 – 概要 ](/help/experimentation/introduction-to-experimentation.md)、[ メールキャンペーンのコンテンツ実験の設定 ](/help/experimentation/content-experiments-for-emails.md) および [ プッシュ通知 – 概要 ](/help/channels/push-notifications-overview.md) を参照してください。
+このトピックに関する詳しいガイダンスについては、[&#x200B; 実験 – 概要 &#x200B;](/help/experimentation/introduction-to-experimentation.md)、[&#x200B; メールキャンペーンのコンテンツ実験の設定 &#x200B;](/help/experimentation/content-experiments-for-emails.md) および [&#x200B; プッシュ通知 – 概要 &#x200B;](/help/channels/push-notifications-overview.md) を参照してください。

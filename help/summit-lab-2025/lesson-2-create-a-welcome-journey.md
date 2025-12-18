@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
 
-このトピックに関する詳しいガイダンスについては、[ ジャーニー構築の概要 ](/help/journeys/introduction-to-building-a-journey.md) および [ ユースケース – オーディエンスの選定 ](/help/journeys/use-case-audience-qualification.md) を参照してください。
+このトピックに関する詳しいガイダンスについては、[&#x200B; ジャーニー構築の概要 &#x200B;](/help/journeys/introduction-to-building-a-journey.md) および [&#x200B; ユースケース – オーディエンスの選定 &#x200B;](/help/journeys/use-case-audience-qualification.md) を参照してください。

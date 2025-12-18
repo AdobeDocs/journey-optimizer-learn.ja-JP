@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # ラボワークブック
 
-![Adobe Summit – 代替テキスト ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit – 代替テキスト &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Adobe Journey Optimizerでパーソナライズされたモバイルモーメントの作成
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 * シート番号の確認：シート番号は、ラボマシンのデスクトップに表示されます。
 
-![ シート番号 ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![&#x200B; シート番号 &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 次へのアクセス権が必要です。
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - ログインの詳細は演習中に提供されます。
-* [Fréscopa web サイト ](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+* [Fréscopa web サイト &#x200B;](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
 ### ユースケースについて
