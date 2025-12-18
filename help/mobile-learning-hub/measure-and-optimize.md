@@ -59,7 +59,7 @@ ht-degree: 70%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="チャネルレベルのレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1755729019635" alt="チャネルレベルのレポート"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448037/?captions=jpn&format=jpeg&nocache=1755729019635" alt="チャネルレベルのレポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,7 +82,7 @@ ht-degree: 70%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Customer Journey Analytics によるレポートの強化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1755729019655" alt="Customer Journey Analytics によるレポートの強化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443152/?captions=jpn&format=jpeg&nocache=1755729019655" alt="Customer Journey Analytics によるレポートの強化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
