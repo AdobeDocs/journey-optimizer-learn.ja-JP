@@ -10,7 +10,7 @@ jira: KT-14977
 thumbnail: KT-14977.jpeg
 last-substantial-update: 2024-03-26T00:00:00Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # ラボワークブック
 
-![Adobe Summit – 代替テキスト &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit – 代替テキスト ](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Adobe Journey Optimizerでパーソナライズされたモバイルモーメントの作成
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 * シート番号の確認：シート番号は、ラボマシンのデスクトップに表示されます。
 
-![&#x200B; シート番号 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![ シート番号 ](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 次へのアクセス権が必要です。
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - ログインの詳細は演習中に提供されます。
-* [Fréscopa web サイト &#x200B;](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+* [Fréscopa web サイト ](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
 ### ユースケースについて
@@ -67,3 +67,4 @@ Fréscopa のビジネスの中心は、コーヒーのサブスクリプショ�
 Fréscopa のウェブサイトとモバイルアプリは、そのサブスクリプションサービスを補完し、コーヒー関連の製品の包括的な範囲を提供し、お客様がコーヒーの儀式を探索し、強化することができます。 醸造設備から職人のアクセサリーまで、Fréscopa は品質と利便性を求めるコーヒー愛好家のためのワンストップショップを提供しています。
 
 Fréscopa は、シームレスで楽しいカスタマージャーニーの構築に取り組んでいるため、製品にとどまらず、エクセレンスへの取り組みを強化しています。 革新的なテクノロジーと顧客中心のアプローチの組み合わせにより、Fréscopa は進化するコーヒー業界の最前線に立っています。 本質的に、Fréscopa は情熱と技術の融合を体現し、個人がコーヒーを体験し、楽しむ方法を再定義します。 品質、利便性、パーソナライズされたサービスに重点を置いて、Fréscopa はコーヒー愛好家に、彼らの玄関先に届けられる味の旅に乗り出すよう誘います。
+
