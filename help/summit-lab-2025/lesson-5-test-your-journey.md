@@ -21,4 +21,4 @@ ht-degree: 0%
 
 このレッスンでは、ジャーニーをテストします。 公開前にジャーニーをテストすることは、重要な手順です。 これは、実務担当者が、ジャーニーロジックが意図したとおりに設定されているかを確認するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457930/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457931/?captions=jpn&learn=on&enablevpops)
