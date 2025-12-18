@@ -16,11 +16,11 @@ ht-degree: 4%
 # ロイヤルティガレージ週 – 概要
 
 <!-- CARDS
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=ja
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=ja
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=ja
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=ja
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=ja
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -28,7 +28,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html" title="AI に基づくロイヤルティオーケストレーション - RFM からリアルタイムPersonalizationへ" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=ja" title="AI に基づくロイヤルティオーケストレーション - RFM からリアルタイムPersonalizationへ" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="AI に基づくロイヤルティオーケストレーション - RFM からリアルタイムPersonalizationへ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -37,11 +37,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html" target="_blank" rel="referrer" title="AI に基づくロイヤルティオーケストレーション - RFM からリアルタイムPersonalizationへ">AI を活用したロイヤルティオーケストレーション - RFM からリアルタイムPersonalizationへ </a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=ja" target="_blank" rel="referrer" title="AI に基づくロイヤルティオーケストレーション - RFM からリアルタイムPersonalizationへ">AI を活用したロイヤルティオーケストレーション - RFM からリアルタイムPersonalizationへ </a>
                     </p>
                     <p class="is-size-6">現代のロイヤルティプログラムは、AI を活用した革命を起こしています。 ブランドは、シンプルなルールベースのセグメント化（RFM モデルなど）から、予測分析や自動意思決定エンジンへと進化しつつあり、顧客ごとにリアルタイムで次善のアクションを調整しています。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -51,7 +51,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html" title="チャレンジベースのロイヤルティ" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=ja" title="チャレンジベースのロイヤルティ" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="チャレンジベースのロイヤルティ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -60,11 +60,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html" target="_blank" rel="referrer" title="チャレンジベースのロイヤルティ"> チャレンジ・ベースのロイヤルティ </a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=ja" target="_blank" rel="referrer" title="チャレンジベースのロイヤルティ"> チャレンジ・ベースのロイヤルティ </a>
                     </p>
                     <p class="is-size-6">長期的なエンゲージメントを促進する行動Gamification システムの設計</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -74,7 +74,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html" title="感情的な忠誠心とコミュニティの構築" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=ja" title="感情的な忠誠心とコミュニティの構築" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="感情的な忠誠心とコミュニティの構築"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -83,11 +83,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html" target="_blank" rel="referrer" title="感情的な忠誠心とコミュニティの構築"> 心の忠誠心とコミュニティの構築 </a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=ja" target="_blank" rel="referrer" title="感情的な忠誠心とコミュニティの構築"> 心の忠誠心とコミュニティの構築 </a>
                     </p>
                     <p class="is-size-6">ブランドがエクスペリエンスベースのロイヤルティを通じて Id、所属、アドボカシーを作成する方法</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -97,7 +97,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html" title="最新のロイヤルティプログラムの財務モデリング" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=ja" title="最新のロイヤルティプログラムの財務モデリング" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="最新のロイヤルティプログラムの財務モデリング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -106,11 +106,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html" target="_blank" rel="referrer" title="最新のロイヤルティプログラムの財務モデリング"> 最新のロイヤルティプログラムの財務モデリング </a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=ja" target="_blank" rel="referrer" title="最新のロイヤルティプログラムの財務モデリング"> 最新のロイヤルティプログラムの財務モデリング </a>
                     </p>
                     <p class="is-size-6">負債、報酬経済、増分値を予測するための包括的で CFO に対応したフレームワーク。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -120,7 +120,7 @@ ht-degree: 4%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html" title="オムニチャネル世界におけるロイヤルティ" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=ja" title="オムニチャネル世界におけるロイヤルティ" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="オムニチャネル世界におけるロイヤルティ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -129,11 +129,11 @@ ht-degree: 4%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html" target="_blank" rel="referrer" title="オムニチャネル世界におけるロイヤルティ"> オムニチャネル世界におけるロイヤルティ </a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=ja" target="_blank" rel="referrer" title="オムニチャネル世界におけるロイヤルティ"> オムニチャネル世界におけるロイヤルティ </a>
                     </p>
                     <p class="is-size-6">すべての顧客タッチポイントをまたいで、統合された予測のリアルタイムロイヤルティエクスペリエンスを構築します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
