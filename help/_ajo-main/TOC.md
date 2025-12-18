@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
-workflow-type: ht
-source-wordcount: '965'
-ht-degree: 100%
+source-git-commit: b93a715d5ef1fec814035fa1f86c082d041cf666
+workflow-type: tm+mt
+source-wordcount: '963'
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 100%
       + [リレーショナルストアの基本](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + ジャーニー {#journeys}
    + [ジャーニーデザイナー - 概要](/help/journeys/journey-designer-overview.md)
-   + [Journey エージェント - 概要](/help/ai-agents/journey-agent-overview.md)
+   + [Journey Agent - 概要](/help/ai-agents/journey-agent-overview.md)
    + [新しいジャーニー designer について](/help/journeys/new-journey-designer.md)
    + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
    + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
@@ -63,7 +63,7 @@ ht-degree: 100%
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Web SDK を使用したオーディエンスの作成（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [オンデマンドでのオーディエンスの評価](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [オンデマンドでのオーディエンスの評価](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
    + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
@@ -220,7 +220,7 @@ ht-degree: 100%
 + AI アシスタント {#ai-assistant}
    + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey エージェント - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Journey Agent - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
    + [実験エージェント - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
@@ -239,7 +239,7 @@ ht-degree: 100%
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + サミットラボ {#summit-labs}
-      + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+      + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](/help/summit-labs/summit-lab-2024/l820-lab-workbook/lab-overview.md){target="_blank"}
+      + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](/help/summit-labs/summit-lab-2025/introduction.md){target="_blank"}
 + ライブセッションと詳細な説明 {#live-sessions-and-deep-dives}
    + [Experience League ライブ番組録画](/help/_ajo-main/experience-league-live-show-recordings.md)
