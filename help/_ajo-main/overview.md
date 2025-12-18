@@ -23,9 +23,9 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
 
 ## モバイル学習ハブ
 
-[![ モバイル学習ハブ ](/help/assets/mobile-learning-hub.jpeg " モバイル学習ハブ "){width="50%"}{align=center}](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
+[![&#x200B; モバイル学習ハブ &#x200B;](/help/assets/mobile-learning-hub.jpeg " モバイル学習ハブ "){width="50%"}{align=center}](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
 
-Adobe Journey Optimizerを使用して、モバイルエンゲージメント戦略をすばやく開始または強化します。 [ モバイル学習ハブ ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview) は、開発者、管理者、マーケターおよびアナリストが、インバウンドおよびアウトバウンドのモバイルチャネルを設定し、強力なクロスチャネルキャンペーンとジャーニーにシームレスに統合するために必要なすべてを提供します。
+Adobe Journey Optimizerを使用して、モバイルエンゲージメント戦略をすばやく開始または強化します。 [&#x200B; モバイル学習ハブ &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview) は、開発者、管理者、マーケターおよびアナリストが、インバウンドおよびアウトバウンドのモバイルチャネルを設定し、強力なクロスチャネルキャンペーンとジャーニーにシームレスに統合するために必要なすべてを提供します。
 
 
 <div id="recs-overview-body-1"></div>
