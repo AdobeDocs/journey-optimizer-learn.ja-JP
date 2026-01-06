@@ -4,9 +4,9 @@ description: Experience League ライブ番組は、Experience League チーム�
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 975354d5f1a21a2f6f01e5e877bac5b0944d3f41
+source-git-commit: 965aa0e269001c69c5fc48efff7d5fc7825a8104
 workflow-type: tm+mt
-source-wordcount: '1263'
+source-wordcount: '1009'
 ht-degree: 99%
 
 ---
@@ -18,10 +18,10 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
 ## 最近のエピソード
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
     {title = The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth (October 30th 2025)}
     {description = In this Experience League Live session, we unveil Adobe Journey Optimizer Experimentation Accelerator, a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
     {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
     {description = IN this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
 -->
@@ -32,7 +32,7 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" title="実験の次世代：エージェント型 AI がよりスマートなテストと成長を促進する方法（2025年10月30日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476426/?format=jpeg&nocache=1766099888581" alt="実験の次世代：エージェント型 AI がよりスマートなテストと成長を促進する方法（2025年10月30日（PT））"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476426/?format=jpeg&nocache=1767729795343" alt="実験の次世代：エージェント型 AI がよりスマートなテストと成長を促進する方法（2025年10月30日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,7 +55,7 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" title="Journey Optimizerで RCS と WhatsApp を使用してモバイルのリーチを拡大（2025年9月30日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1766099888580" alt="Journey Optimizerで RCS と WhatsApp を使用してモバイルのリーチを拡大（2025年9月30日（PT））"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1767729795312" alt="Journey Optimizerで RCS と WhatsApp を使用してモバイルのリーチを拡大（2025年9月30日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,36 +81,30 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
 ## 過去のエピソード
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcase how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dive into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They show how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
   {title = Unveiling Content Cards for Adobe Journey Optimizer (November 6, 2024)}
   {description = Learn how Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. }
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform (October 24, 2024)}
      {description = Learn about Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
     {title = AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign (September 26, 2024)}
     {description = AI-driven tools are transforming the way we engage customers and streamline workflows. Learn how Adobe's AI capabilities will accelerate your productivity.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ja
-  {description = Learn how integrating Adobe Target and Adobe Real-time Customer Data Platform can help businesses collect data in real time, and create and test targeted experiences. See the end to end process of this powerful capability in a live demonstration.}
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ja
-    {description = Learn how to use both Campaigns and Journeys to deliver compelling personalized customer experiences and how the in-line messaging workflow is leveraged in each of these two canvases.}
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
     {description = Learn about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -120,7 +114,7 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" title="AEM コンテンツフラグメントと Dynamic Media を使用したJourney Optimizer のパーソナライズされたコンテンツの促進（2025年7月31日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470355/?format=jpeg&nocache=1766099889574" alt="AEM コンテンツフラグメントと Dynamic Media を使用したJourney Optimizer のパーソナライズされたコンテンツの促進（2025年7月31日（PT））"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470355/?format=jpeg&nocache=1767729795781" alt="AEM コンテンツフラグメントと Dynamic Media を使用したJourney Optimizer のパーソナライズされたコンテンツの促進（2025年7月31日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,7 +137,7 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="マスターのフリークエンシーキャップと競合の優先順位付け（2025年6月18日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1766099889652" alt="マスターのフリークエンシーキャップと競合の優先順位付け（2025年6月18日（PT））"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1767729795824" alt="マスターのフリークエンシーキャップと競合の優先順位付け（2025年6月18日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -165,8 +159,8 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" title="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463407/?format=jpeg&nocache=1766099889637" alt="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" title="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463407/?format=jpeg&nocache=1767729795814" alt="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,11 +168,11 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" title="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））">パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" title="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））">パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））</a>
                     </p>
                     <p class="is-size-6">このセッションでは、アドビのエキスパートである Chris Ivory、Amarnath Vannarath および Rohan Bhatt が、Adobe Journey Optimizer（AJO）が、Adobe Express や GenStudio for Performance Marketing とどのようにシームレスに統合されているかについてご紹介します。これらのツールがどのようにして、マーケティングワークフローに比類のない柔軟性、共同作業、AI を活用した創造性をもたらしているかを説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
@@ -189,7 +183,7 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Adobe Experience Platform で AI アシスタントを使用して運用上のインサイトを引き出す（2025年2月27日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1766099889624" alt="Adobe Experience Platform で AI アシスタントを使用して運用上のインサイトを引き出す（2025年2月27日（PT））"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1767729795810" alt="Adobe Experience Platform で AI アシスタントを使用して運用上のインサイトを引き出す（2025年2月27日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -212,7 +206,7 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" title="Adobe Journey Optimizer のコンテンツカードの公開（2024年11月6日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?format=jpeg&nocache=1766099889576" alt="Adobe Journey Optimizer のコンテンツカードの公開（2024年11月6日（PT））"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?format=jpeg&nocache=1767729795828" alt="Adobe Journey Optimizer のコンテンツカードの公開（2024年11月6日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -235,7 +229,7 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Experience Ecosystems のオーディエンスのハーモナイズ - Experience Platform の連合オーディエンス構成（2024年10月24日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1766099889575" alt="Experience Ecosystems のオーディエンスのハーモナイズ - Experience Platform の連合オーディエンス構成（2024年10月24日（PT））"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1767729795767" alt="Experience Ecosystems のオーディエンスのハーモナイズ - Experience Platform の連合オーディエンス構成（2024年10月24日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -258,7 +252,7 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" title="AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントの威力を発揮する（2024年9月26日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1766099889611" alt="AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントの威力を発揮する（2024年9月26日（PT））"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1767729795818" alt="AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントの威力を発揮する（2024年9月26日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -281,7 +275,7 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" title="夏のスポットライト - Adobe Journey Optimizer で試すべき 3 つの機能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1766099889877" alt="夏のスポットライト - Adobe Journey Optimizer で試すべき 3 つの機能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1767729795805" alt="夏のスポットライト - Adobe Journey Optimizer で試すべき 3 つの機能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -299,35 +293,12 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Code-Based Experience Channel in Journey Optimizer">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24" title="Journey Optimizer での新しいコードベースのエクスペリエンスチャネル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?format=jpeg&nocache=1766099890032" alt="Journey Optimizer での新しいコードベースのエクスペリエンスチャネル"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24" target="_blank" rel="referrer" title="Journey Optimizer での新しいコードベースのエクスペリエンスチャネル">Journey Optimizer での新しいコードベースのエクスペリエンスチャネル</a>
-                    </p>
-                    <p class="is-size-6">開発者中心のアクションによるインバウンドサーフェスと詳細なパーソナライゼーションコントロールをアクティブ化します。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="API Triggered Messaging in Adobe Journey Optimizer">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja" title="Adobe Journey Optimizer での API トリガーによるメッセージ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1766099890526" alt="Adobe Journey Optimizer での API トリガーによるメッセージ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1767729795844" alt="Adobe Journey Optimizer での API トリガーによるメッセージ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -345,81 +316,12 @@ Experience League ライブ番組は、デジタルエクスペリエンスプ�
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize your mobile app's potential with Adobe Journey Optimizer">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja" title="Adobe Journey Optimizer でモバイルアプリの可能性を最大化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?format=jpeg&nocache=1766099890774" alt="Adobe Journey Optimizer でモバイルアプリの可能性を最大化"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja" target="_blank" rel="referrer" title="Adobe Journey Optimizer でモバイルアプリの可能性を最大化">Adobe Journey Optimizer でモバイルアプリの可能性を最大化</a>
-                    </p>
-                    <p class="is-size-6">リアルタイムのエンゲージメントチャネルとしてのアプリ内メッセージのメリットと、Adobe Journey Optimizer でパーソナライズされたモバイルアプリエクスペリエンスを設定および作成する方法について説明します。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Deliver the right offer at the right time with decision management">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ja" title="意思決定管理で適切なオファーを適切なタイミングで提供" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?format=jpeg&nocache=1766099890824" alt="意思決定管理で適切なオファーを適切なタイミングで提供"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ja" target="_blank" rel="referrer" title="意思決定管理で適切なオファーを適切なタイミングで提供">意思決定管理で適切なオファーを適切なタイミングで提供</a>
-                    </p>
-                    <p class="is-size-6">Adobe Target と Adobe Real-time Customer Data Platform の統合により、企業がリアルタイムでデータを収集し、ターゲットにするエクスペリエンスを作成およびテストできるようになる方法について説明します。この強力な機能のエンドツーエンドのプロセスをライブデモでご覧ください。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Execute your campaigns in Adobe Journey Optimizer">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ja" title="Adobe Journey Optimizer でキャンペーンを実行" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?format=jpeg&nocache=1766099890512" alt="Adobe Journey Optimizer でキャンペーンを実行"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ja" target="_blank" rel="referrer" title="Adobe Journey Optimizer でキャンペーンを実行">Adobe Journey Optimizer でキャンペーンを実行</a>
-                    </p>
-                    <p class="is-size-6">キャンペーンとジャーニーの両方を使用して魅力的なパーソナライズされたカスタマーエクスペリエンスを提供する方法と、これら 2 つのキャンバスのそれぞれでインラインメッセージワークフローを活用する方法について説明します。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Push notifications with Adobe Journey Optimizer">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja" title="Adobe Journey Optimizer でのプッシュ通知" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?format=jpeg&nocache=1766099889996" alt="Adobe Journey Optimizer でのプッシュ通知"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?format=jpeg&nocache=1767729795956" alt="Adobe Journey Optimizer でのプッシュ通知"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
