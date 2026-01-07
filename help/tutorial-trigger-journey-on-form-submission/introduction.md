@@ -36,7 +36,7 @@ ht-degree: 4%
 * Adobe Experience Platformへのフォーム送信データの送信
 
 ユースケースの概要とイベントスキーマの作成
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478472?captions=jpn)
 
 
 
