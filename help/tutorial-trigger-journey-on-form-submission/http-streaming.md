@@ -19,7 +19,7 @@ ht-degree: 0%
 HTTP ベースの統合を使用してリアルタイムでAdobe Experience Platformに送信データを送信するようにフォームを設定し、イベントのペイロードがスキーマに合っていることを確認します。
 
 HTTP ストリーミングエンドポイントの定義
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478497?captions=jpn)
 
 
 

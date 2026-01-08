@@ -19,7 +19,7 @@ ht-degree: 0%
 イベントスキーマを使用して、Adobe Journey Optimizerでカスタムイベントを定義します。 このイベントは、Adobe Experience Platformに届くフォーム送信データをリッスンします。
 
 **_InvestmentPreference_** というカスタムイベントの定義
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478484?captions=jpn)
 
 
 
