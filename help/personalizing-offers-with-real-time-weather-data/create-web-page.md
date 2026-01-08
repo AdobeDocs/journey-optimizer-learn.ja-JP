@@ -9,16 +9,16 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # ソリューションのテスト
 
-ソリューションをエンドツーエンドでテストするには、[weather-offers.html](assets/weather-offers.html) および [weather-related-offers-script.js](assets/weather-related-offers-script.js) ファイルを web サーバーまたは Github ページなどの公開ホスティングサービスでホストする必要があります。 これは、次の理由で必要になります。
+ソリューションをエンドツーエンドでテストするには、[weather-offers.zip] から weather-offers.html と weather-related-offers-script.js を抽出します。（assets/weather-offers.zip）これらのファイルは、web サーバーまたは Github ページなどの公開ホスティングサービスでホストされている必要があります。 これは、次の理由で必要になります。
 - ブラウザーの Geolocation API は、HTTPS または localhost でのみ機能します
 
 物事を整理し、相対パスが正しく機能するように、ソリューションをホストする際には次のフォルダー構造を推奨します。
@@ -27,9 +27,8 @@ ht-degree: 0%
 
 ## 提供されたファイルをダウンロードします
 
-[HTML ファイル](assets/weather-offers.html)
+[weather-offers.zip] からHTMLと JavaScript ファイルをダウンロードして解凍します。（assets/weather-offers.zip）
 
-[Javascript ファイル](assets/weather-related-offers-script.js)
 
 
 ## Javascript ファイルのサーフェス URL を更新します
