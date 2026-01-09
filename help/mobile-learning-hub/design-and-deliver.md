@@ -19,7 +19,7 @@ ht-degree: 59%
 
 Adobe Journey Optimizerを使用して効果的なモバイル通信を構築し、配信する方法を説明します。 プッシュ通知、アプリ内メッセージ、コンテンツカード、SMS/MMS/RCS、WhatsApp マーケティングメッセージ、オーディエンスに合わせてカスタマイズされ、モバイルエンゲージメントに最適化されたコードベースのエクスペリエンスなど、様々なメッセージタイプを作成、デザイン、送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333745/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416423/?captions=jpn&learn=on&enablevpops)
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Adobe Journey Optimizerを使用して効果的なモバイル通信を構築し
 
 Journey Optimizerがサポートするモバイルチャネルと、それらのチャネルを使用してメッセージを設定および送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430376?captions=jpn&quality=12&learn=on){transcript=true}
 
 >[!TAB プッシュ]
 
@@ -89,7 +89,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="プッシュキャンペーンの設定と送信" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1755891402391" alt="プッシュキャンペーンの設定と送信"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3452702/?captions=jpn&format=jpeg&nocache=1755891402391" alt="プッシュキャンペーンの設定と送信"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -162,7 +162,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="アプリ内キャンペーンの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1755891402919" alt="アプリ内キャンペーンの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451883?captions=jpn&format=jpeg&nocache=1755891402919" alt="アプリ内キャンペーンの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -218,7 +218,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" title="コンテンツカードの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1755891403581" alt="コンテンツカードの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434784/?captions=jpn&format=jpeg&nocache=1755891403581" alt="コンテンツカードの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -290,7 +290,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="SMS メッセージを設定、作成および配信" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1755891404139" alt="SMS メッセージを設定、作成および配信"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422696?captions=jpn&format=jpeg&nocache=1755891404139" alt="SMS メッセージを設定、作成および配信"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -313,7 +313,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch および Infobip のダブルオプトイン" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1755891404148" alt="Sinch および Infobip のダブルオプトイン"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440273/?captions=jpn&format=jpeg&nocache=1755891404148" alt="Sinch および Infobip のダブルオプトイン"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -347,7 +347,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="MMS メッセージの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1755891404669" alt="MMS メッセージの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437101/?captions=jpn&format=jpeg&nocache=1755891404669" alt="MMS メッセージの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -370,7 +370,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Journey Optimizer での RCS の設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755891404682" alt="Journey Optimizer での RCS の設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464756/?captions=jpn&format=jpeg&nocache=1755891404682" alt="Journey Optimizer での RCS の設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -417,7 +417,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" title="コードベースのエクスペリエンスキャンペーンを作成します。" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1755891405190" alt="コードベースのエクスペリエンスキャンペーンを作成します。"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449454/?captions=jpn&format=jpeg&nocache=1755891405190" alt="コードベースのエクスペリエンスキャンペーンを作成します。"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -440,7 +440,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="フォームフィールドをコードベースのエクスペリエンスチャネルテンプレートに追加する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1755891405203" alt="フォームフィールドをコードベースのエクスペリエンスチャネルテンプレートに追加する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463992/?captions=jpn&format=jpeg&nocache=1755891405203" alt="フォームフィールドをコードベースのエクスペリエンスチャネルテンプレートに追加する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -489,7 +489,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" title="WhatsApp チャネルの概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1755891405738" alt="WhatsApp チャネルの概要"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470297/?captions=jpn&format=jpeg&nocache=1755891405738" alt="WhatsApp チャネルの概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -512,7 +512,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" title="WhatsApp ジャーニーの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1755891405726" alt="WhatsApp ジャーニーの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470283/?captions=jpn&format=jpeg&nocache=1755891405726" alt="WhatsApp ジャーニーの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -612,7 +612,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="パーソナライゼーションへのヘルパー関数の使用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334244?format=jpeg&nocache=1755891406861" alt="パーソナライゼーションへのヘルパー関数の使用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416781?captions=jpn&format=jpeg&nocache=1755891406861" alt="パーソナライゼーションへのヘルパー関数の使用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -635,7 +635,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="パーソナライゼーションライブラリの保存済み式の使用と管理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1755891406844" alt="パーソナライゼーションライブラリの保存済み式の使用と管理"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/344987?captions=jpn&format=jpeg&nocache=1755891406844" alt="パーソナライゼーションライブラリの保存済み式の使用と管理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -669,7 +669,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" title="インバウンドアクションへの優先度スコアの割り当て" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1755891407584" alt="インバウンドアクションへの優先度スコアの割り当て"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445002/?captions=jpn&format=jpeg&nocache=1755891407584" alt="インバウンドアクションへの優先度スコアの割り当て"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -692,7 +692,7 @@ Journey Optimizerがサポートするモバイルチャネルと、それらの
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" title="ジャーニーのフリークエンシーキャップと優先度" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1755891407596" alt="ジャーニーのフリークエンシーキャップと優先度"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447613/?captions=jpn&format=jpeg&nocache=1755891407596" alt="ジャーニーのフリークエンシーキャップと優先度"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
