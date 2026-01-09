@@ -99,4 +99,4 @@ Adobe Journey Optimizerのすべてのアウトバウンドチャネルでは、
 
 ## 顧客のユースケース
 
-* [&#x200B; パーソナライズ機能を使って空を飛ぶ：航空会社がAdobe Journey Optimizerでオファーを高める方法（ブログ） &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [&#x200B; パーソナライズ機能を使って空を飛ぶ：航空会社がAdobe Journey Optimizerでオファーを高める方法（ブログ） &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ja)
