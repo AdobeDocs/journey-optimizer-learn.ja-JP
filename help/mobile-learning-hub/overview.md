@@ -21,7 +21,7 @@ Adobe Journey Optimizerを使用して、モバイルエンゲージメント戦
 
 ベストプラクティスを探索し、導入を促進する方法を学び、一元化されたレポートワークフローを設定して、すべてを 1 か所に集約し、時間と場所を問わず顧客に届く、インパクトのあるデータ駆動型のモバイルエクスペリエンスを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476999?captions=jpn&quality=12&learn=on){transcript=true}
 
 
 ## モバイルチャネルの概要
