@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 
 ソリューションのテスト
->[!VIDEO](https://video.tv.adobe.com/v/3478547?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## サンプルアセットのデプロイ
 
-Node.js がインストールされていない場合は、ダウンロードして [&#x200B; ここからインストールしてください &#x200B;](https://nodejs.org/)
+Node.js がインストールされていない場合は、ダウンロードして [ ここからインストールしてください ](https://nodejs.org/)
 
 次のコマンドを実行してインストールを確認します。
 
@@ -51,14 +51,14 @@ Node.js がインストールされていない場合は、ダウンロードし
 * [project-root.zip](assets/project-root.zip) を解凍し、`trigger-journey` フォルダーに配置します。
 
 * `public` フォルダー内に `trigger-journey` というフォルダーを作成します。
-* [index.zip] の内容を public フォルダーに解凍します
-* 適切な値で `.env` ファイルを更新します。 これらの値は、HTTP Source接続の作成時にダウンロードした cURL コマンドから利用できます
+* 適切な値で `.env` ファイルを更新します。 これらの値は、HTTP Source接続の作成時にダウンロードした cURL コマンドから使用できます。
+* [index.zip](assets/index.zip) の内容を `public` フォルダーに解凍します
 
 ## サーバーの実行
 
 `trigger-journey` ディレクトリにいることを確認します。
 コマンドを実行します `node server.js`
-ブラウザーで [web ページ &#x200B;](http://localhost:3000/)
+ブラウザーで [web ページ ](http://localhost:3000/)
 フォームに入力して送信します。 ジャーニーがトリガーされ、フォームに入力されたメール ID にメールが送信されます。
 
 

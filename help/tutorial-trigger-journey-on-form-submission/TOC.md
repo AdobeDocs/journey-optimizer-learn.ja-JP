@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: トリガージャーニーのフォーム送信時
 breadcrumb-url: /docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction
 auto-video-transcripts: true
-source-git-commit: 043f41acd8f7f7165d9ec416d8f789f78d407ca1
+source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 3%
+source-wordcount: '36'
+ht-degree: 2%
 
 ---
 
@@ -21,3 +21,5 @@ ht-degree: 3%
 + [HTTP ストリーミングを作成](./http-streaming.md)
 + [ジャーニーを作成](./create-journey.md)
 + [ソリューションのテスト](./test-solution.md)
++ [ルックアップデータセットの作成](./lookup-dataset.md)
+
