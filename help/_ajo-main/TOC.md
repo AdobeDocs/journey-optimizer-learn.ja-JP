@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
 source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '971'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
    + [AI アシスタントに関するお問い合わせ](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer - モバイル学習ハブ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + キャンペーン {#create-campaigns}
    + アクションキャンペーン {#action-campaigns}
       + [キャンペーンの作成](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -51,7 +51,7 @@ ht-degree: 99%
    + [ジャーニードライランを使用したジャーニーロジックの検証](/help/journeys/journey-dry-run.md)
    + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [ライブジャーニーのコンテンツの更新](/help/journeys/update-content-in-live-journey.md)
-   + [別のサンドボックスへのジャーニーのコピー](/help/journeys/copy-a-journey.md)
+   + [別のサンドボックスにジャーニーをコピー](/help/journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
