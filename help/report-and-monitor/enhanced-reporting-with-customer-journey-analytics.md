@@ -20,6 +20,6 @@ ht-degree: 100%
 
 統合指標やジャーニーのビジュアライゼーションから、カスタムインサイトやアドバンス分析まで、Adobe Journey Optimizer の強化されたレポートツールを操作する手順について説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443152/?captions=jpn&learn=on)
 
 ドキュメントについて詳しくは、[Customer Journey Analytics での分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}を参照してください。
