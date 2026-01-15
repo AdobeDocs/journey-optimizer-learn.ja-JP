@@ -37,7 +37,7 @@ ht-degree: 3%
 * メールに参照データを含めるためのデータセットルックアップの設定
 
 ユースケースの概要とイベントスキーマの作成
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478472?captions=jpn)
 
 
 
