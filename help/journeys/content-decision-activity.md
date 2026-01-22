@@ -10,7 +10,7 @@ last-substantial-update: 2026-01-22T00:00:00Z
 jira: KT-20141
 hide: true
 hidefromtoc: true
-source-git-commit: 970590b0f40adb5d642c2d183d9c387dfe203251
+source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 5%
@@ -22,5 +22,5 @@ ht-degree: 5%
 
 ジャーニーキャンバスのコンテンツ決定アクティビティを使用して、パーソナライズされたコンテンツオファーにAJO Decisioning を活用する方法を説明します。 この機能を使用して、取得したオファーに基づいてプロファイルをルーティングしたり、外部システムにオファーを送信したりして、ジャーニーの有効性とパーソナライゼーションを高めます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479108/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 
