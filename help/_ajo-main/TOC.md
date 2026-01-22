@@ -151,7 +151,7 @@ ht-degree: 99%
       + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
       + [リアルタイムの天候データを使用してオファーをパーソナライズする](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [ ジャーニー内のコンテンツ決定アクティビティ ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
+      + [&#x200B; ジャーニー内のコンテンツ決定アクティビティ &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
    + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
