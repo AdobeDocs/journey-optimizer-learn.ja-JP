@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 381e30632cbfd984dc5d8fb4d16f0291baeac04b
+source-git-commit: bd884367bec867c93c04a924c2ac7c3b15b2bfac
 workflow-type: tm+mt
-source-wordcount: '974'
-ht-degree: 100%
+source-wordcount: '980'
+ht-degree: 99%
 
 ---
 
@@ -151,6 +151,7 @@ ht-degree: 100%
       + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
       + [リアルタイムの天候データを使用してオファーをパーソナライズする](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [ ジャーニー内のコンテンツ決定アクティビティ ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
    + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
