@@ -22,4 +22,4 @@ ht-degree: 5%
 
 ジャーニーキャンバスのコンテンツ決定アクティビティを使用して、パーソナライズされたコンテンツオファーにAJO Decisioning を活用する方法を説明します。 この機能を使用して、取得したオファーに基づいてプロファイルをルーティングしたり、外部システムにオファーを送信したりして、ジャーニーの有効性とパーソナライゼーションを高めます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479108/?captions=jpn&learn=on&enablevpops)
