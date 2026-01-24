@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 64b89b0766130778e5cd3e7702ab39f5dfaeda4e
+source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '980'
 ht-degree: 100%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 100%
       + [コードベースチャネルでの決定の使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + ダイレクトメールチャネル{#direct-mail-channel}
       + [ダイレクトメールの作成](/help/channels/direct-mail.md)
+      + [ジャーニーでダイレクトメールメッセージを送信](/help/channels/direct-mail-in-journeys.md)
    + メールチャネル{#email-channel}
       + [メールチャネル - 概要](/help/channels/email-channel-overview.md)
       + [メールデザインとパーソナライゼーション - 概要](/help/channels/email-design-and-personalization-overview.md)
