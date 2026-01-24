@@ -24,4 +24,4 @@ Adobe Journey Optimizerのダイレクトメールチャネルを活用して、
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)を参照してください。
