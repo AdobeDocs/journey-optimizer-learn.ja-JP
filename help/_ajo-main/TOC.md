@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
+source-git-commit: 05fc150f0e8463def80766bd0c64bad5541d9067
 workflow-type: tm+mt
-source-wordcount: '980'
-ht-degree: 100%
+source-wordcount: '986'
+ht-degree: 99%
 
 ---
 
@@ -93,6 +93,7 @@ ht-degree: 100%
    + プッシュチャネル{#push-channel}
       + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
+      + [AJO Decisioning を使用してプッシュ通知を最適化する](/help/decisioning/decisioning-in-push-notifications.md)
    + SMS／MMS チャネル{#sms-channel}
       + [SMS/MMS メッセージ - 概要](/help/channels/sms-mms-messages-overview.md)
       + [SMS メッセージを設定、作成および配信](/help/channels/author-sms-messages.md)
