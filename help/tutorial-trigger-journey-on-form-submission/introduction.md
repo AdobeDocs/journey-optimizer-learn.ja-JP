@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -36,8 +36,9 @@ ht-degree: 3%
 * Adobe Experience Platformへのフォーム送信データの送信
 * メールに参照データを含めるためのデータセットルックアップの設定
 
-ユースケースの概要とイベントスキーマの作成
->[!VIDEO](https://video.tv.adobe.com/v/3478472?captions=jpn)
+**ユースケースの概要とイベントスキーマの作成**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 
