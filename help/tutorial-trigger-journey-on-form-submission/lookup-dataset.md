@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **ルックアップデータセットの作成**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478761?captions=jpn)
 
 前の手順でフォーム設定を送信して、データセットルックアップフィールドをテストします
 

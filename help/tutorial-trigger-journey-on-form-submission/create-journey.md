@@ -22,7 +22,7 @@ Adobe Journey Optimizerが **_AssetClassSelected_** イベントを受け取っ�
 
 **メールチャネル設定の作成**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478511?captions=jpn)
 
 
 
