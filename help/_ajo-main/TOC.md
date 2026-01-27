@@ -151,10 +151,10 @@ ht-degree: 98%
       + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
       + [式ビルダーインタフェイスの操作](/help/decisioning/formula-builder-ui.md)
       + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
-      + [&#x200B; フォーム送信時のトリガージャーニー &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [&#x200B; フォーム送信時のトリガージャーニー &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [リアルタイムの天候データを使用してオファーをパーソナライズする](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [&#x200B; メールチャネルでの Decisioning の使用 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [&#x200B; メールチャネルでの Decisioning の使用 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
    + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
