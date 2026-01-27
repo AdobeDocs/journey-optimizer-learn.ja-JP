@@ -19,7 +19,7 @@ ht-degree: 0%
 
 このチュートリアルでは、Adobe Journey Optimizerのオファーにフリークエンシーキャップを適用し、ユーザーが同じオファーを経時的に見る頻度を制御する方法について説明します。
 
-このチュートリアルは、[ 気象条件に基づくオファーのパーソナライズに関するチュートリアル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) に従って、AJO キャンペーンを既に設定していることを前提としています。
+このチュートリアルは、[&#x200B; 気象条件に基づくオファーのパーソナライズに関するチュートリアル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) に従って、AJO キャンペーンを既に設定していることを前提としています。
 
 Adobe Journey Optimizerは、Adobe Web SDKを通じて decisioning.propositionDisplay イベントと decisioning.propositionInteract イベントをキャプチャし、Adobe Experience Platform（AEP）の XDM スキーマにマッピングすることで、オファーのインプレッションとインタラクションを正確にトラッキングし、フリークエンシーキャップを有効にして、オファーがユーザーに表示される頻度を制限できます。
 
