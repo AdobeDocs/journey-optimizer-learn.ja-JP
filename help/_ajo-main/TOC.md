@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: c0b8e392d176d48550d71edae1dbea0c4f2ce028
+source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
 workflow-type: tm+mt
 source-wordcount: '1007'
 ht-degree: 97%
@@ -151,12 +151,12 @@ ht-degree: 97%
       + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
       + [式ビルダーインタフェイスの操作](/help/decisioning/formula-builder-ui.md)
       + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
-      + [&#x200B; フォーム送信時のトリガージャーニー &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [ フォーム送信時のトリガージャーニー ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [リアルタイムの天候データを使用してオファーをパーソナライズする](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [&#x200B; メールチャネルでの Decisioning の使用 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [ メールチャネルでの Decisioning の使用 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
-      + [および SMS メッセージでの意思決定の使用](/help/decisioning/use-decisioning-in-an-SMS-message.md)
+      + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
