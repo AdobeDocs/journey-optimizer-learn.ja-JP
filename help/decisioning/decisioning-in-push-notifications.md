@@ -22,4 +22,4 @@ ht-degree: 100%
 
 AJO の決定を使用して、オーディエンス向けにプッシュ通知をパーソナライズする方法について説明します。受信者のプロファイルに基づいて魅力的なオファーを作成し、販売を推進します。決定戦略を理解し、キャンペーンをテストし、効果的なコミュニケーションの指標を分析します。エンゲージメントを強化し、最も関連性の高いプロモーションを顧客に提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479211/?captions=jpn&learn=on&enablevpops)
