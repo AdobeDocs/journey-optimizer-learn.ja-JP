@@ -8,10 +8,10 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2026-02-03T00:00:00Z
 jira: KT-20238
-source-git-commit: f86113c8c01964d306d24b7cdb8c881432084d66
+source-git-commit: 589260ba993073b9d5b0c02ffd26b5127f7a389e
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 7%
+ht-degree: 16%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 7%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-この機能について詳しくは [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)を参照してください。
