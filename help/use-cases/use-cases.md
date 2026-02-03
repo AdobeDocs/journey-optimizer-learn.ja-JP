@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Advanced
 doc-type: Overview
 last-substantial-update: 2025-08-28T00:00:00Z
-source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
-workflow-type: ht
-source-wordcount: '686'
+source-git-commit: bd4381277e2959b08ba62f767d052e1feec6d9cc
+workflow-type: tm+mt
+source-wordcount: '594'
 ht-degree: 100%
 
 ---
@@ -19,14 +19,13 @@ ht-degree: 100%
 Adobe Journey Optimizer を活用した実際のマーケティングのシナリオを確認しましょう。これらのユースケースでは、オンボーディングや再エンゲージメントから、パーソナライズされたオファーやクロスチャネルオーケストレーションに至るまで、ブランドがどのようによりスマートなカスタマージャーニーを構築できるのかを紹介します。各事例では、戦略と実践的な実行が相互に関連付けられているため、実際のビジネス目標に製品機能を適用するのに役立ちます。
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
-* https://experienceleague.adobe.com/ja/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
+* https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -35,7 +34,7 @@ Adobe Journey Optimizer を活用した実際のマーケティングのシナ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="ユースケース - カスタマーオンボーディング（チュートリアル）" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440651/?format=jpeg&nocache=1756417587791&captions=jpn" alt="ユースケース - カスタマーオンボーディング（チュートリアル）"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1770161593376" alt="ユースケース - カスタマーオンボーディング（チュートリアル）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +57,7 @@ Adobe Journey Optimizer を活用した実際のマーケティングのシナ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="ユースケースのプレイブック - 放棄された買い物かご" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443965/?format=jpeg&nocache=1756417587818&captions=jpn" alt="ユースケースのプレイブック - 放棄された買い物かご"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1770161593189" alt="ユースケースのプレイブック - 放棄された買い物かご"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +80,7 @@ Adobe Journey Optimizer を活用した実際のマーケティングのシナ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="インテリジェントな再エンゲージメント Luma の例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454263/?format=jpeg&nocache=1756417587792&captions=jpn" alt="インテリジェントな再エンゲージメント Luma の例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1770161592925" alt="インテリジェントな再エンゲージメント Luma の例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -104,7 +103,7 @@ Adobe Journey Optimizer を活用した実際のマーケティングのシナ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction" title="Web SDK とリアルタイム天候データを使用した Adobe Journey Optimizer でのオファーのパーソナライズ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Web SDK とリアルタイム天候データを使用した Adobe Journey Optimizer でのオファーのパーソナライズ"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Web SDK とリアルタイム天候データを使用した Adobe Journey Optimizer でのオファーのパーソナライズ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,29 +116,6 @@ Adobe Journey Optimizer を活用した実際のマーケティングのシナ�
                     <p class="is-size-6">このチュートリアルでは、リアルタイムコンテキストデータと Adobe Web SDK Personalization API を使用して、Adobe Journey Optimizer で天候に応じた動的なオファーを配信する方法を示します。Web サイトから Adobe Experience Platform に天候属性（気温や条件など）を渡し、それらをイベントスキーマにマッピングして、決定ルールやランキング式で使用してページ読み込み時にオファーをパーソナライズする方法を学びます。リアルタイムの環境コンテキストでデジタルエクスペリエンスを強化したいと考えているマーケターや開発者に最適です。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Track and Report Adobe Journey Optimizer (AJO) Offers delivered via AJO Decisioning">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction" title="AJO の決定を通じて配信される Journey Optimizer のオファーの追跡とレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction./media_1fb3a58c60be3873b773f9ba694350319c4b8dc4f.png?width=400&format=png&optimize=medium" alt="AJO の決定を通じて配信される Journey Optimizer のオファーの追跡とレポート"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction" target="_blank" rel="referrer" title="AJO の決定を通じて配信される Journey Optimizer のオファーの追跡とレポート">AJO の決定を通じて配信される Journey Optimizer のオファーの追跡とレポート</a>
-                    </p>
-                    <p class="is-size-6">このチュートリアルでは、既存のAdobe Journey Optimizer（AJO）の実装を拡張して、気温などのコンテキストデータに基づいてパーソナライズされたオファーを提供する方法を紹介します。Journey Optimizer 内でインプレッションとインタラクションのイベントをキャプチャして、レポート作成のためのデータを準備する方法を概説します。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -196,7 +172,7 @@ Adobe Journey Optimizer を活用した実際のマーケティングのシナ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction" title="Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大 - はじめに" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457828/?format=jpeg&nocache=1756417587802" alt="Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大 - はじめに"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457828/?format=jpeg&nocache=1770161593112" alt="Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大 - はじめに"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
