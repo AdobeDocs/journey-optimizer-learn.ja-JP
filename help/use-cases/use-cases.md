@@ -34,7 +34,7 @@ Adobe Journey Optimizer を活用した実際のマーケティングのシナ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="ユースケース - カスタマーオンボーディング（チュートリアル）" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1770161593376" alt="ユースケース - カスタマーオンボーディング（チュートリアル）"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440651/?captions=jpn&format=jpeg&nocache=1770161593376" alt="ユースケース - カスタマーオンボーディング（チュートリアル）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,7 +57,7 @@ Adobe Journey Optimizer を活用した実際のマーケティングのシナ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="ユースケースのプレイブック - 放棄された買い物かご" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1770161593189" alt="ユースケースのプレイブック - 放棄された買い物かご"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443965/?captions=jpn&format=jpeg&nocache=1770161593189" alt="ユースケースのプレイブック - 放棄された買い物かご"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,7 +80,7 @@ Adobe Journey Optimizer を活用した実際のマーケティングのシナ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="インテリジェントな再エンゲージメント Luma の例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1770161592925" alt="インテリジェントな再エンゲージメント Luma の例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454263/?captions=jpn&format=jpeg&nocache=1770161592925" alt="インテリジェントな再エンゲージメント Luma の例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
