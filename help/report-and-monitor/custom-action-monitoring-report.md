@@ -24,4 +24,4 @@ ht-degree: 7%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-この機能について詳しくは [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) を参照してください。
+この機能について詳しくは [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) を参照してください。
