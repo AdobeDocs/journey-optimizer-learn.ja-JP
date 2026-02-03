@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
+source-git-commit: f86113c8c01964d306d24b7cdb8c881432084d66
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1011'
 ht-degree: 99%
 
 ---
@@ -185,6 +185,7 @@ ht-degree: 99%
    + [ライブレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [ジャーニーレポートを使用したジャーニーの監視と分析](/help/report-and-monitor/journey-reports.md)
    + [チャネルレベルのレポート](/help/report-and-monitor/channel-level-reports.md)
+   + [カスタムアクションの監視](/help/report-and-monitor/custom-action-monitoring-report.md)
    + [全期間のレポートを使用したジャーニーの全体的なパフォーマンスの分析](/help/report-and-monitor/all-time-reports.md)
    + [CSV 形式でのレポートの書き出し](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [アラートの使用](/help/administration/alerts.md)
