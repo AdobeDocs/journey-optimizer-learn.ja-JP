@@ -30,4 +30,4 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Journey Optimizer での[同意ポリシーの使用](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。
+Journey Optimizer での[同意ポリシーの使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。

@@ -30,4 +30,4 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}を参照してください。

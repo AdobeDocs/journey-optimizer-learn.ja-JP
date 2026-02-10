@@ -25,4 +25,4 @@ Journey Optimizer チャネルでデータ使用ポリシーを適用する方�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)と[同意ポリシーの使用](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。
+Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)と[同意ポリシーの使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。
