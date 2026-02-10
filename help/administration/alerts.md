@@ -1,6 +1,6 @@
 ---
-title: アラートを使用
-description: 予期しないジャーニー動作に対して事前定義済みのアラートを購読し、Journey Optimizer 内または API を使用して、メールで通知を受け取る方法について説明します。
+title: アラートの使用
+description: 予期しないジャーニー動作に対して事前定義済みのアラートを購読し、メール、Journey Optimizer 内、または API を使用して通知を受け取る方法を説明します。
 jira: KT-11081
 thumbnail: 336218.jpg
 feature: Alerts
@@ -10,16 +10,16 @@ role: Admin
 level: Beginner
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: dfbf246c95cf89afebd7460361791d1c33aa9e6e
-workflow-type: ht
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
-# アラートを使用
+# アラートの使用
 
-予期しないジャーニー動作に対して事前定義済みのアラートを購読し、Journey Optimizer 内または API を使用して、メールで通知を受け取る方法について説明します。
+予期しないジャーニー動作に対して事前定義済みのアラートを購読し、メール、Journey Optimizer 内、または API を使用して通知を受け取る方法を説明します。
 
 >[!NOTE]
 >
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/test/alerts){target="_blank"}を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}を参照してください。

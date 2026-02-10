@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらはJourney Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 6b732078afdde597f35d764d27064640fc05f44e
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1009'
 ht-degree: 98%
 
 ---
@@ -113,7 +113,6 @@ ht-degree: 98%
    + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
    + アセットの管理 {#assets}
       + [デジタルアセット管理 - 概要](/help/content-management/digital-asset-management-overview.md)
-      + [アセットの管理](/help/content-management/assets-essentials-overview.md)
       + [AEM Dynamic Media の統合](/help/content-management/aem-dynamic-media-integration.md)
       + [Adobe Express を使用したアセットの編集](/help/content-management/edit-assets-with-adobe-express.md)
    + フラグメントの操作 {#fragments}
