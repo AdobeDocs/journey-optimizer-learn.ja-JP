@@ -9,7 +9,7 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -42,8 +42,6 @@ Weather-offers.html ファイルをテキストエディターで開き、スク
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
 ```
-
-
 
 ## Web ページの機能
 
@@ -98,13 +96,13 @@ JavaScriptは、ユーザーの場所に基づいて動的に天気情報を取�
 
 6. **オファーの取得とレンダリング**
 
-   AJO Decisioning から返されたオファーを受信します。
+* AJO Decisioning から返されたオファーを受信します。
 
-   HTML コンテンツをデコードします。
+* HTML コンテンツをデコードします。
 
-   オファーをに動的に挿入します。 <div id="offerContainer"> 要素にオファーコンテンツが返されます。
+* オファーをに動的に挿入します。 <div id="offerContainer"> 要素にオファーコンテンツが返されます。
 
 ## 次の手順
 
-[AJO Decisioning の影響を測定およびレポートします。](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[AJO Decisioning の影響を測定およびレポートします。](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
