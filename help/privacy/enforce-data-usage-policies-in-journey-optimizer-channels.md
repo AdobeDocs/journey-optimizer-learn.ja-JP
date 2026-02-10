@@ -23,6 +23,6 @@ ht-degree: 98%
 
 Journey Optimizer チャネルでデータ使用ポリシーを適用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434906/?captions=jpn&learn=on)
 
 Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)と[同意ポリシーの使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。
