@@ -104,5 +104,5 @@ JavaScriptは、ユーザーの場所に基づいて動的に天気情報を取�
 
 ## 次の手順
 
-[AJO Decisioning の影響を測定およびレポートします。](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[AJO Decisioning の影響を測定およびレポートします。](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
