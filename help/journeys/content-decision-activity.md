@@ -22,5 +22,5 @@ ht-degree: 56%
 
 ジャーニーキャンバスのコンテンツ決定アクティビティを使用して、パーソナライズされたコンテンツオファーにAdobe Journey Optimizer Decisioning を活用する方法を説明します。 この機能を使用して、取得したオファーに基づいてプロファイルをルーティングしたり、外部システムにオファーを送信したりすることが可能になり、ジャーニーの有効性とパーソナライゼーションが強化されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479108/?captions=jpn&learn=on&enablevpops)
 
