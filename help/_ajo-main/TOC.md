@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらはJourney Optimizer チュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 43bc064671b80f6d0c6d073c125b17caf609f5c7
+source-git-commit: ff0ab4fb3eea53757109112655f664868148a476
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1006'
 ht-degree: 98%
 
 ---
@@ -90,8 +90,8 @@ ht-degree: 98%
       + [ジャーニーでアプリ内メッセージを作成](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [アプリ内メッセージを作成](/help/channels/author-in-app-messages.md)
       + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
-   + ライブアクティビティ（#live-activities）
-      + [iOS ライブアクティビティ &#x200B;](/help/channels/ios-live-activities.md)
+   + ライブアクティビティ {#live-activities}
+      + [iOS ライブアクティビティ ](/help/channels/ios-live-activities.md)
    + プッシュチャネル{#push-channel}
       + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
