@@ -91,7 +91,7 @@ ht-degree: 98%
       + [アプリ内メッセージを作成](/help/channels/author-in-app-messages.md)
       + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
    + ライブアクティビティ {#live-activities}
-      + [iOS ライブアクティビティ ](/help/channels/ios-live-activities.md)
+      + [iOS ライブアクティビティ &#x200B;](/help/channels/ios-live-activities.md)
    + プッシュチャネル{#push-channel}
       + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
