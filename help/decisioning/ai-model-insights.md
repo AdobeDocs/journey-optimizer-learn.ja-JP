@@ -23,5 +23,5 @@ ht-degree: 0%
 
 AI モデルのトレーニングステータス、トラフィック配分およびパフォーマンスを分析して、Journey Optimizerでパーソナライズされた意思決定を最適化する方法を説明します。 AI 機能を使用して、問題の特定、モデルのトラブルシューティング、コンバージョン率の向上を行う方法について説明します。 このビデオでは、ビジネスに影響を与えるように効果的に AI モデルを管理する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479850/?captions=jpn&learn=on&enablevpops)
 
