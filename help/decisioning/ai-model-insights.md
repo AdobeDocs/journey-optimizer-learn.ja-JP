@@ -11,7 +11,7 @@ hidefromtoc: true
 hide: true
 last-substantial-update: 2026-02-13T00:00:00Z
 jira: KT-20313
-source-git-commit: 4fe31620f48ad8a121256775fdaf5cbc115e2b98
+source-git-commit: d7dedf356471641440d6b0ee24257e20f19c6d3b
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -23,4 +23,5 @@ ht-degree: 0%
 
 AI モデルのトレーニングステータス、トラフィック配分およびパフォーマンスを分析して、Journey Optimizerでパーソナライズされた意思決定を最適化する方法を説明します。 AI 機能を使用して、問題の特定、モデルのトラブルシューティング、コンバージョン率の向上を行う方法について説明します。 このビデオでは、ビジネスに影響を与えるように効果的に AI モデルを管理する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479850/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+
