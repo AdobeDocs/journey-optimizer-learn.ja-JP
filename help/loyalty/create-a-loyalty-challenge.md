@@ -1,7 +1,7 @@
 ---
 title: ロイヤルティに関する課題の作成
 description: タスク、報酬、スケジュールを設定して、ロイヤルティの課題を作成する方法を説明します。 完全なカスタマージャーニーがバックグラウンドで自動的に生成される際に、コンテンツ、メッセージ、オーディエンスを設定する方法を説明します。
-feature: Setup
+feature: Get Started
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,7 +12,7 @@ hide: true
 hidefromtoc: true
 index: false
 badgeBet: label="ベータ版" type="Informative"
-source-git-commit: 84f0f50b5ba68f3fa53d2ccedf9de3f84ca01e2f
+source-git-commit: f50005a1ce6e4f61986cdebd0acdd344eeb427c4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 1%
