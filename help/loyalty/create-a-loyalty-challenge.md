@@ -24,4 +24,4 @@ ht-degree: 1%
 
 タスク、報酬、スケジュールを設定して、ロイヤルティの課題を作成する方法を説明します。 完全なカスタマージャーニーがバックグラウンドで自動的に生成される際に、コンテンツ、メッセージ、オーディエンスを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480327/?captions=jpn&learn=on&enablevpops)
