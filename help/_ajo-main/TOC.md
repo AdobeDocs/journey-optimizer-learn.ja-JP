@@ -1,11 +1,11 @@
 ---
 user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: これらはJourney Optimizer チュートリアルです。
+user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: c0f6193e71c14c947f0d884328e58dd8c7d75a0c
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1020'
 ht-degree: 97%
 
 ---
@@ -55,11 +55,12 @@ ht-degree: 97%
    + [別のサンドボックスにジャーニーをコピー](/help/journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + ロイヤルティ {#loyalty}
-+[&#x200B; ロイヤルティに関する課題の作成 &#x200B;](/help/loyalty/create-a-loyalty-challenge.md)
++[ ロイヤルティチャレンジを作成](/help/loyalty/create-a-loyalty-challenge.md)
 + 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
    + [ジャーニーのフリークエンシーキャップと優先度](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
+   + [ジャーニーでのデータセット検索の使用](/help/journeys/lookup-dataset.md)
    + [クワイエットアワー](/help/business-rules/configure-and-apply-quiet-hours.md)
 + プロファイル、オーディエンスおよび購読 {#profiles-audiences-subscriptions}
    + [プロファイルとオーディエンス - 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
@@ -93,7 +94,7 @@ ht-degree: 97%
       + [アプリ内メッセージを作成](/help/channels/author-in-app-messages.md)
       + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
    + ライブアクティビティ {#live-activities}
-      + [iOS ライブアクティビティ &#x200B;](/help/channels/ios-live-activities.md)
+      + [iOS ライブ アクティビティ ](/help/channels/ios-live-activities.md)
    + プッシュチャネル{#push-channel}
       + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
@@ -160,7 +161,7 @@ ht-degree: 97%
       + [AI モデルインサイト](/help/decisioning/ai-model-insights.md)
       + [メールチャネルでの決定の使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
-      + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + [SMS メッセージでの決定機能の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
