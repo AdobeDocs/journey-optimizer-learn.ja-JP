@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Agentsが、実務担当者と連携して、実用的なインサイトの獲得やワークフローの最適化を行い、課題にリアルタイムで積極的に対処する方法を解説します。
 
 <!-- 62_S653_3442539_98_humanai-collaboration-adobe-agents-enhancing-productivity -->
->[!VIDEO](https://video.tv.adobe.com/v/3458189/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460396/?captions=jpn&learn=on&enablevpops=true)

@@ -20,4 +20,4 @@ ht-degree: 0%
 テストを最適化し、インサイトを獲得して、ビジネス成果を促進するために設計された、生成AIを搭載した新しいExperimentation Acceleratorをご覧ください。
 
 <!-- 62_S531_3442531_100_introducing-the-adobe-journey-optimizer-experimentation-accelerator -->
->[!VIDEO](https://video.tv.adobe.com/v/3458230/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460354/?captions=jpn&learn=on&enablevpops=true)

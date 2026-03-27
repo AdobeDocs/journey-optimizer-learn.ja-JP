@@ -28,6 +28,6 @@ ht-degree: 0%
 このレッスンでは、お客様のウェルカムメッセージの一環として、モバイルアプリでコンテンツカードを作成します
 エクスペリエンス：
 
->[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457974/?captions=jpn&learn=on&enablevpops)
 
 このトピックに関する詳細なガイダンスについては、[&#x200B; コンテンツカードの作成](/help/channels/create-content-cards.md)を参照してください。

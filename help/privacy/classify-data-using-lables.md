@@ -25,4 +25,4 @@ ht-degree: 0%
 >
 >このビデオでは、Adobe Experience Platform ユーザーインターフェイスでのこの機能を説明します。Journey Optimizer ユーザーインターフェイスの左側のナビゲーションの「データ管理」セクションでも、この同じ機能を使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422791?captions=jpn&learn=on)

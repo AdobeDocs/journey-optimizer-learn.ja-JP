@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizerのコンテンツカード機能を利用して、モバイルアプリ内でパーソナライズされた魅力的なコンテンツを直接配信する方法をご確認ください。
 
 <!-- 62_S603_3442534_62_introduction-to-content-cards-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458206/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460387/?captions=jpn&learn=on&enablevpops=true)

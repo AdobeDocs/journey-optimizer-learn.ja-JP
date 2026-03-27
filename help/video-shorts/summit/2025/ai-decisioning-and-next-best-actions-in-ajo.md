@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey OptimizerがAIを活用して、カスタマージャーニーやチャネルを最適化し、パーソナライズされたカスタマーエクスペリエンスを実現するのにどのように役立つのかをご確認ください。
 
 <!-- 62_S520_3442520_184_ai-decisioning-and-next-best-actions-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458188/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460232/?captions=jpn&learn=on&enablevpops=true)
