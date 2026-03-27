@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
 
-このトピックに関する詳細なガイダンスについては、[ コンテンツカードの作成](/help/channels/create-content-cards.md)を参照してください。
+このトピックに関する詳細なガイダンスについては、[&#x200B; コンテンツカードの作成](/help/channels/create-content-cards.md)を参照してください。
