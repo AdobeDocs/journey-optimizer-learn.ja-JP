@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: c0f6193e71c14c947f0d884328e58dd8c7d75a0c
+source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -55,7 +55,7 @@ ht-degree: 97%
    + [別のサンドボックスにジャーニーをコピー](/help/journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + ロイヤルティ {#loyalty}
-+[&#x200B; ロイヤルティチャレンジを作成](/help/loyalty/create-a-loyalty-challenge.md)
+   + [ロイヤルティの課題を作成](/help/loyalty/create-a-loyalty-challenge.md)
 + 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -94,7 +94,7 @@ ht-degree: 97%
       + [アプリ内メッセージを作成](/help/channels/author-in-app-messages.md)
       + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
    + ライブアクティビティ {#live-activities}
-      + [iOS ライブ アクティビティ &#x200B;](/help/channels/ios-live-activities.md)
+      + [iOS ライブ アクティビティ ](/help/channels/ios-live-activities.md)
    + プッシュチャネル{#push-channel}
       + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)

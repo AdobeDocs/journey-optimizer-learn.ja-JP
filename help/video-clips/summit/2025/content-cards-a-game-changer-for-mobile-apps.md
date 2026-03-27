@@ -1,23 +1,23 @@
 ---
-title: コンテンツカード – モバイルアプリの変革
-description: Adobe Journey Optimizerのコンテンツカードを使用して、パーソナライズされた、割り込まないコンテンツをアプリ内で直接配信し、エンゲージメントとコンバージョンを促進する方法を説明します。
+title: コンテンツカード – モバイルアプリのゲームチェンジャー
+description: Adobe Journey Optimizerのコンテンツカード機能を利用して、パーソナライズされた邪魔にならないコンテンツをアプリ内で直接配信し、エンゲージメントとコンバージョンを促進する方法をご確認ください。
 doc-type: Short Video
 duration: 59
 index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+exl-id: a93ea591-0746-40ec-9139-ac6b826c72e9
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-
 # コンテンツカード：モバイルアプリのゲームチェンジャー
 
-Adobe Journey Optimizerのコンテンツカードを使用して、パーソナライズされた、割り込まないコンテンツをアプリ内で直接配信し、エンゲージメントとコンバージョンを促進する方法を説明します。
+Adobe Journey Optimizerのコンテンツカード機能を利用して、パーソナライズされた邪魔にならないコンテンツをアプリ内で直接配信し、エンゲージメントとコンバージョンを促進する方法をご確認ください。
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
->[!VIDEO](https://video.tv.adobe.com/v/3460082/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops=true)

@@ -1,6 +1,6 @@
 ---
-title: レッスン 1：ジャーニーを体験する
-description: このレッスンでは、SecurFinancial の新規顧客のオンボーディング・ジャーニーを経験します。
+title: レッスン 1 - ジャーニーを体験する
+description: このレッスンでは、新しいSecurFinancial顧客のオンボーディングジャーニーを体験します。
 feature: Journeys
 role: User
 level: Beginner, Intermediate
@@ -10,15 +10,15 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17873
 index: false
 exl-id: 6cbc47aa-20f2-493c-b379-7cda9da92a02
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# レッスン 1：ジャーニーを体験する
+# レッスン 1 - ジャーニーを体験する
 
-このレッスンでは、SecurFinancial の新規顧客のオンボーディング・ジャーニーを経験します。
+このレッスンでは、新しいSecurFinancial顧客のオンボーディングジャーニーを体験します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457972/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457827/?learn=on&enablevpops)

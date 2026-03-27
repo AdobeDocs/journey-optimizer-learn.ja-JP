@@ -1,6 +1,6 @@
 ---
 title: SMS/MMS/RCS – 概要
-description: SMS （ショートメッセージサービス）、MMS （マルチメディアメッセージサービス）、RCS （リッチ通信サービス）は、アプリやインターネット接続（SMS/MMS）を必要とせずに、ユーザーの電話番号に直接アクセスできるモバイルメッセージチャネルです
+description: SMS （ショートメッセージサービス）、MMS （マルチメディアメッセージングサービス）、RCS （リッチコミュニケーションサービス）は、アプリやインターネット接続（SMS/MMS）を必要とせずに、ユーザーの電話番号で直接リーチできるモバイルメッセージングチャネルです
 feature: SMS
 role: User, Developer, Admin
 level: Beginner
@@ -9,7 +9,7 @@ index: true
 jira: KT-19867
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 0ddfaef4-cac2-43e4-a0e1-1aee0a3a3b0d
-source-git-commit: 6ea5487df64506dd7a0aa8b02c950afd1a86fddd
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%

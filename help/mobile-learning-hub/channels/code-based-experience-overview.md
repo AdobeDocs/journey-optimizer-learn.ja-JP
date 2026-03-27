@@ -1,6 +1,6 @@
 ---
 title: コードベースのエクスペリエンス – 概要
-description: コンテンツカードは、アプリ内の専用のインボックスまたはフィード内に存在する、永続的なアプリ内メッセージです。時間の経過と共に可視性からメリットを得られる、緊急ではない、情報のある、またはプロモーション用のコンテンツを配信するのに最適です。
+description: コンテンツカードは、アプリ内の専用の受信トレイやフィード内に存在する、永続的なアプリ内メッセージです。経時的な可視性から恩恵を受ける、緊急性のない、有益な、またはプロモーション用のコンテンツを配信するのに適しています。
 feature: Content Cards
 role: User, Developer, Admin
 level: Beginner
@@ -9,7 +9,7 @@ index: true
 jira: KT-19866
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 5446b6f6-94b5-4723-a9c5-607c021ebafb
-source-git-commit: 1aa2da63509a028c605b68806209eb8da63af747
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%

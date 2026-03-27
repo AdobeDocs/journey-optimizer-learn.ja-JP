@@ -1,23 +1,23 @@
 ---
-title: Adobe Journey Optimizer Experimentation Acceleratorの概要
-description: テストを最適化し、インサイトを引き出し、ビジネスへの影響を促進するように設計された、新しい GenAI を活用したExperimentation Acceleratorをご覧ください。
+title: Adobe Journey Optimizer Experimentation Acceleratorについて
+description: テストを最適化し、インサイトを獲得して、ビジネス成果を促進するために設計された、生成AIを搭載した新しいExperimentation Acceleratorをご覧ください。
 doc-type: Short Video
 duration: 101
 index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: 733b2ab9-6fc1-41ce-8773-d41539cf07c2
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
+# Adobe Journey Optimizer Experimentation Acceleratorについて
 
-# Adobe Journey Optimizer Experimentation Acceleratorの概要
-
-テストを最適化し、インサイトを引き出し、ビジネスへの影響を促進するように設計された、新しい GenAI を活用したExperimentation Acceleratorをご覧ください。
+テストを最適化し、インサイトを獲得して、ビジネス成果を促進するために設計された、生成AIを搭載した新しいExperimentation Acceleratorをご覧ください。
 
 <!-- 62_S531_3442531_100_introducing-the-adobe-journey-optimizer-experimentation-accelerator -->
->[!VIDEO](https://video.tv.adobe.com/v/3460354/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458230/?learn=on&enablevpops=true)

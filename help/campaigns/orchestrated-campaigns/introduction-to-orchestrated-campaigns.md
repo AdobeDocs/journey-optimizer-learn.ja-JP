@@ -2,15 +2,15 @@
 title: Adobe Journey Optimizer のオーケストレーションキャンペーンの概要
 description: Adobe Journey Optimizer のオーケストレーションキャンペーンで、マーケターが高度なデータ管理機能を使用して、ブランド主導でオーディエンスベースのキャンペーンを管理する方法について説明します。
 feature: Campaigns
-role: Data Engineer, User
+role: Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
 duration: 595
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18514
 exl-id: 25a130e4-571a-402c-bfc8-c801b0f3dc24
-source-git-commit: 197b10514b5662d357e6c79c73c521434d1c7263
-workflow-type: ht
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 

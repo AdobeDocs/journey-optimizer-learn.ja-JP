@@ -1,23 +1,23 @@
 ---
-title: 大規模な実験の障壁を克服
-description: Adobeがプラットフォーム駆動型ソリューションを使用して、実験の作成から実行まで、実験を拡大する上での主な障壁を特定し、対処した方法を説明します。
+title: 大規模な検証の障壁を克服
+description: Adobeが、プラットフォームを活用したソリューションを利用して、テストを拡大するための主要な障壁を特定し、対処した方法を紹介します。
 doc-type: Short Video
 duration: 166
 index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: b2cf5965-611b-4731-8154-1348028bb2ec
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
+# 大規模な検証の障壁を克服
 
-# 大規模な実験の障壁を克服
-
-Adobeがプラットフォーム駆動型ソリューションを使用して、実験の作成から実行まで、実験を拡大する上での主な障壁を特定し、対処した方法を説明します。
+Adobeが、プラットフォームを活用したソリューションを利用して、テストを拡大するための主要な障壁を特定し、対処した方法を紹介します。
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3460371/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)

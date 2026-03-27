@@ -13,7 +13,7 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
-source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Adobe Express ツールを使用して Adobe Journey Optimizer でアセットを編集する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3455524/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
 コンテンツエディターからこの機能にアクセスする方法について詳しくは、[Journey Optimizer 製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/assets-images/express)を参照してください。Adobe Express について詳しくは、[このドキュメント](https://helpx.adobe.com/jp/express/user-guide.html)を参照してください。

@@ -1,23 +1,23 @@
 ---
-title: AJOの Dynamic Media Personalization
-description: Adobe Journey OptimizerをExperience Managerの Dynamic Media と統合して、マーケティングキャンペーン用にパーソナライズされた複合画像を有効にする方法を説明します。
+title: AJOのDynamic Media Personalization
+description: Adobe Journey OptimizerとExperience Manager Dynamic Mediaを統合して、マーケティングキャンペーン用にパーソナライズされた合成画像を有効にする方法について説明します。
 doc-type: Short Video
 duration: 49
 index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: 032316ab-8d8f-4a4f-bc8c-fc2ccc6ea70f
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
+# AJOのDynamic Media Personalization
 
-# AJOの Dynamic Media Personalization
-
-Adobe Journey OptimizerをExperience Managerの Dynamic Media と統合して、マーケティングキャンペーン用にパーソナライズされた複合画像を有効にする方法を説明します。
+Adobe Journey OptimizerとExperience Manager Dynamic Mediaを統合して、マーケティングキャンペーン用にパーソナライズされた合成画像を有効にする方法について説明します。
 
 <!-- 62_S520_3442520_48_dynamic-media-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3460310/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458201/?learn=on&enablevpops=true)

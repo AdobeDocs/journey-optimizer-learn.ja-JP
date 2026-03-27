@@ -1,6 +1,6 @@
 ---
-title: レッスン 5：ジャーニーのテスト
-description: このレッスンでは、ジャーニーをテストします。 公開前にジャーニーをテストすることは、重要な手順です。 これは、実務担当者が、ジャーニーロジックが意図したとおりに設定されているかを確認するのに役立ちます。
+title: レッスン 5 - ジャーニーをテストする
+description: このレッスンでは、ジャーニーを検証します。 公開前にジャーニーをテストすることは、重要なステップです。 これにより、実務担当者は、ジャーニーロジックが意図したとおりに設定されているかどうかを確認できます。
 feature: Journeys
 role: User
 level: Beginner, Intermediate
@@ -10,15 +10,15 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17877
 index: false
 exl-id: adb08379-a76a-418d-b669-ce54175bdcd2
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# レッスン 5：ジャーニーのテスト
+# レッスン 5 - ジャーニーをテストする
 
-このレッスンでは、ジャーニーをテストします。 公開前にジャーニーをテストすることは、重要な手順です。 これは、実務担当者が、ジャーニーロジックが意図したとおりに設定されているかを確認するのに役立ちます。
+このレッスンでは、ジャーニーを検証します。 公開前にジャーニーをテストすることは、重要なステップです。 これにより、実務担当者は、ジャーニーロジックが意図したとおりに設定されているかどうかを確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457931/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457930/?learn=on&enablevpops)

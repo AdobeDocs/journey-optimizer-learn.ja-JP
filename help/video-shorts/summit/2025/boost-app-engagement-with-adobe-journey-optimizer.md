@@ -1,23 +1,23 @@
 ---
-title: Adobe Journey Optimizerによるアプリのエンゲージメントの向上
-description: Adobe Journey Optimizerを使用して、アプリやデバイスをまたいでパーソナライズされたコンテンツを配信し、ユーザーエンゲージメントとリテンションを強化する方法を説明します。
+title: Adobe Journey Optimizerでアプリエンゲージメントを向上
+description: Adobe Journey Optimizerが、アプリやデバイスをまたいでパーソナライズされたコンテンツを配信し、顧客エンゲージメントと顧客維持率を高めるためにどのように役立つかをご覧ください。
 doc-type: Short Video
 duration: 33
 index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: 31f4af67-59f3-417d-b098-3217eb8c357d
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
+# Adobe Journey Optimizerでアプリエンゲージメントを向上
 
-# Adobe Journey Optimizerによるアプリのエンゲージメントの向上
-
-Adobe Journey Optimizerを使用して、アプリやデバイスをまたいでパーソナライズされたコンテンツを配信し、ユーザーエンゲージメントとリテンションを強化する方法を説明します。
+Adobe Journey Optimizerが、アプリやデバイスをまたいでパーソナライズされたコンテンツを配信し、顧客エンゲージメントと顧客維持率を高めるためにどのように役立つかをご覧ください。
 
 <!-- 72_S603_3442534_32_boost-app-engagement-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460001/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458221/?learn=on&enablevpops=true)

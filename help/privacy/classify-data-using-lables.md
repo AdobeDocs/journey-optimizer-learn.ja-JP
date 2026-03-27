@@ -2,17 +2,18 @@
 title: ラベルを使用したデータの分類
 description: スキーマとデータセットにラベルを適用する方法を説明します。
 feature: Governance, Privacy, Data Management, Access Management
-role: Data Architect, Admin
+role: Developer, Admin
 level: Beginner
 jira: KT-16266
 thumbnail: 29709.jpg
 last-substantial-update: 2024-10-01T00:00:00Z
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
-source-wordcount: '132'
-ht-degree: 100%
+exl-id: 52930777-3231-4156-b1fe-a2d82003629a
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +25,4 @@ ht-degree: 100%
 >
 >このビデオでは、Adobe Experience Platform ユーザーインターフェイスでのこの機能を説明します。Journey Optimizer ユーザーインターフェイスの左側のナビゲーションの「データ管理」セクションでも、この同じ機能を使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422791?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

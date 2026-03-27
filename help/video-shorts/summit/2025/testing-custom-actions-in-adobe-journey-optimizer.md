@@ -1,23 +1,23 @@
 ---
 title: Adobe Journey Optimizerでのカスタムアクションのテスト
-description: 完全なジャーニーを実行する必要なく、Adobe Journey Optimizerでカスタムアクションを直接テストし、時間と労力を節約する方法を説明します。
+description: カスタマージャーニー全体を実行することなく、Adobe Journey Optimizerで直接カスタムアクションをテストし、時間と労力を節約する方法をご確認ください。
 doc-type: Short Video
 duration: 40
 index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: ff22ce7a-55fd-4262-b2a0-e7e25479716b
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Journey Optimizerでのカスタムアクションのテスト
 
-完全なジャーニーを実行する必要なく、Adobe Journey Optimizerでカスタムアクションを直接テストし、時間と労力を節約する方法を説明します。
+カスタマージャーニー全体を実行することなく、Adobe Journey Optimizerで直接カスタムアクションをテストし、時間と労力を節約する方法をご確認ください。
 
 <!-- 62_S522_3442522_39_testing-custom-actions-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460435/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458211/?learn=on&enablevpops=true)

@@ -1,23 +1,23 @@
 ---
-title: Adobe Journey Optimizerでの WhatsApp 統合
-description: AJOと WhatsApp Business のネイティブ統合により、シームレスなマーケティングとトランザクションのやり取りが可能になります。
+title: Adobe Journey OptimizerでのWhatsAppの統合
+description: AJOとWhatsApp Businessのネイティブ統合により、マーケティングとトランザクションのシームレスなコミュニケーションをどのように実現するかをご確認ください。
 doc-type: Short Video
 duration: 50
 index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: 264b1205-8e2a-4f02-aa9c-629413f9dc8d
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
+# Adobe Journey OptimizerでのWhatsAppの統合
 
-# Adobe Journey Optimizerでの WhatsApp 統合
-
-AJOと WhatsApp Business のネイティブ統合により、シームレスなマーケティングとトランザクションのやり取りが可能になります。
+AJOとWhatsApp Businessのネイティブ統合により、マーケティングとトランザクションのシームレスなコミュニケーションをどのように実現するかをご確認ください。
 
 <!-- 72_S520_3442520_49_whatsapp-integration-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460465/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458215/?learn=on&enablevpops=true)

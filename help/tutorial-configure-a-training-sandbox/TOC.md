@@ -7,8 +7,8 @@ index: false
 role: Admin
 level: Beginner
 auto-video-transcripts: true
-source-git-commit: 007d349d95e4fa2a84dfb4f0830fba8af4cf106b
-workflow-type: ht
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 

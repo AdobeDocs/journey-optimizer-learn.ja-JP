@@ -1,6 +1,6 @@
 ---
-title: の設定と起動
-description: Adobe Journey Optimizer（AJO）およびAdobe Experience Platform（AEP）でモバイルチャネルを設定し、モバイルアプリと統合し、マーケティングキャンペーンを確実に実行できるようにします。
+title: 設定と起動
+description: Adobe Journey Optimizer（AJO）およびAdobe Experience Platform（AEP）でモバイルチャネルを設定し、モバイルアプリと統合して、マーケティングキャンペーンを実行する準備を整えます。
 feature: Overview
 role: Developer, Admin
 level: Beginner, Intermediate
@@ -9,7 +9,7 @@ index: true
 jira: KT-19869
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
-source-git-commit: 4420c1957e379e30944ab9c8cc8a9a6313088b02
+source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
 workflow-type: tm+mt
 source-wordcount: '2148'
 ht-degree: 20%
@@ -17,79 +17,80 @@ ht-degree: 20%
 ---
 
 
-# の設定と起動
+# 設定と起動
 
-**管理者** および **モバイルアプリ開発者** を対象に、Adobe Journey Optimizerでモバイルと web チャネルを設定して起動する方法を説明します。 前提条件、権限、プラットフォームのサポートを説明したあと、アプリ固有の設定を作成する手順を説明します。
+**administrators**&#x200B;および&#x200B;**モバイルアプリ開発者**&#x200B;の場合、この節では、Adobe Journey Optimizerでモバイルチャネルとweb チャネルを設定および起動する方法について説明します。 前提条件、権限、プラットフォームサポートについて説明し、アプリ固有の設定の作成を順を追って説明します。
 
 >[!IMPORTANT]
 >
-> Journey OptimizerとExperience Platformを初めて使用する場合は、次のコースを受講して、Journey Optimizerのデータマネジメントの中心概念を理解してください。[Adobe Journey Optimizerでのインテリジェントなジャーニーアクティベーションのためのデータのエンジニアリング &#x200B;](https://experienceleague.adobe.com/ja/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
+> Journey OptimizerおよびExperience Platformを初めて使用する場合は、Journey Optimizerのコアコンセプトであるデータ管理について、次のコースを受講してください。[Adobe Journey Optimizerのインテリジェントジャーニーアクティベーションのためのデータの設計](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
 >
 
 ## Adobe Journey Optimizerのモバイル機能
 
-プッシュメッセージ、アプリ内メッセージ、コンテンツのパーソナライゼーションなど、Adobe Journey Optimizerが開発者、マーケターおよび製品チームに提供するモバイル機能について説明します。
+プッシュメッセージ、アプリ内メッセージ、コンテンツパーソナライゼーションなど、Adobe Journey Optimizerが開発者、マーケター、製品部門向けに提供するモバイル機能をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/344617?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
 
 
 ## チャネル設定
 
 ### モバイルプッシュとアプリ内
 
-Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experience Platform Mobile SDK** 統合から始まります。 SDK は、データ収集や、Adobe Experience Platform（AEP）およびAdobe Journey Optimizer（AJO）などのアプリケーションとのインタラクションに不可欠です。
+Journey Optimizerでのモバイル実装は、アプリでの&#x200B;**Adobe Experience Platform Mobile SDK**&#x200B;統合から始まります。 SDKは、Adobe Experience Platform（AEP）およびそのアプリケーション（Adobe Journey Optimizer（AJO）など）とのデータ収集とインタラクションに不可欠です。
 
-#### モバイルSDKとは
+#### モバイルSDKとは：
 
-モバイルSDK:
+モバイル SDK:
 
-* アプリイベント（画面ビュー、タップ、購入、ライフサイクルイベントなど）を収集し、**Adobe Experience Platform Edge Network** に送信します。
-* **ID** および **同意** を管理して、Journey Optimizerが顧客プロファイルを安全に作成して使用できるようにします。
-* **プッシュトークン** を登録および更新し、**プッシュイベントおよびアプリ内トラッキングイベント** をAdobe Experience Platformに返します。
-* **[Journey Optimizer モバイル拡張機能と統合するので &#x200B;](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)** メッセージをエンドツーエンドで配信、レンダリング、測定できます。
+* アプリのイベント（画面表示、タップ、購入、ライフサイクルイベントなど）を収集し、**Adobe Experience Platform Edge Network**&#x200B;に送信します。
+* **ID**&#x200B;と&#x200B;**同意**&#x200B;を管理するので、Journey Optimizerでは顧客プロファイルを安全に構築して使用できます。
+* **プッシュトークン**&#x200B;を登録および更新し、**プッシュおよびアプリ内トラッキングイベント**&#x200B;をAdobe Experience Platformに送信します。
+* **[Journey Optimizer モバイル拡張機能](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)**&#x200B;と統合して、メッセージをエンドツーエンドで配信、レンダリング、測定できるようにします。
 
-モバイル SDKがアプリに統合されていない場合、Journey Optimizerでは次の点で信頼性に優れています。
+Mobile SDKをアプリに統合しないと、Journey Optimizerは次の信頼性を維持できません。
 
-* モバイルプッシュおよびアプリ内メッセージの配信とトラッキング。
-* コンテンツカードのレンダリングとトラック
-* リアルタイムのアプリ内動作を使用して、ジャーニーをトリガーに設定し、エクスペリエンスをパーソナライズします。
+* モバイルプッシュ通知とアプリ内メッセージを配信して追跡できます。
+* コンテンツカードのレンダリングと追跡：
+* アプリ内でリアルタイムの行動を利用して、カスタマージャーニーをトリガーし、エクスペリエンスをパーソナライズできます。
 
-#### 新規実装に向けたガイド付きチャネル設定
+#### 新規実装のためのガイド付きチャネル設定
 
-新しいモバイルのアプリ内実装およびプッシュ実装の場合、出発点としてガイド付きチャネルのセットアップをお勧めします。 これにより、データストリームの設定ミスや拡張機能の欠落のリスクが軽減され、Assuranceを使用したSDKの検証について順を追って説明します。
+新しいモバイルアプリ内およびプッシュ通知の実装では、ガイド付きチャネル設定が推奨されます。 設定が正しくないデータストリームや拡張機能が欠落するリスクを軽減し、AssuranceによるSDKの検証を順を追って進めることができます。
 
 >[!PREREQUISITES]
 >
->次の点を確認します。
+>次を持っていることを確認します。
 >
-> * 組織用にプロビジョニングされた **Adobe Journey Optimizer** （AJO）。
-> * [&#x200B; データ収集およびJourney Optimizer権限 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions) を持つAdobe Experience Platform アクセス。
-> * チャネルおよび設定セットアップの管理者権限がAJOにある。
-> * モバイルアプリのソースコード（iOS、Androidまたはクロスプラットフォームフレームワーク）にアクセスします。
-> * アプリでは、必要な OS レベルの機能（プッシュ権限、通知サービス拡張機能、バックグラウンドモードなど）が有効になっています。
-> * 既存の設定オプションを使用している場合は、[&#x200B; 現在のバージョンのAdobe Experience Platform Mobile SDK](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"} を使用していることを確認してください
+> * 組織にプロビジョニングされた&#x200B;**Adobe Journey Optimizer** （AJO）。
+> * [ データ収集とJourney Optimizer権限](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions)を持つAdobe Experience Platform アクセス。
+> * チャネルと設定の設定に関するAJOの管理者権限。
+> * モバイルアプリのソースコード（iOS、Android、クロスプラットフォームフレームワーク）へのアクセス。
+> * アプリで必要なOS レベルの機能（プッシュ権限、通知サービス拡張機能、バックグラウンドモードなど）が有効になっています。
+> * 既存の設定オプションを使用している場合は、[現在のAdobe Experience Platform Mobile SDK バージョン ](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}を使用していることを確認してください
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449623/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
-詳しくは、[&#x200B; ガイド付きチャネルセットアップの概要 &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=ja){target="_blank"} を参照してください。
+詳しくは、[ ガイド付きチャネル設定の基本を学ぶ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=ja){target="_blank"}を参照してください
 
 
 #### プッシュチャネルの手動設定
 
-このガイドでは、データフローの把握や Firebase やApple Push Notification Service （APN）などのサービスとの統合から、モバイルアプリの設定や通知のテストまで、プッシュ通知を手動で設定して効果的に使用するために必要なすべての手順を説明します。
+次のガイドでは、データフローの把握、FirebaseやApple Push Notification Service （APN）などのサービスとの統合、モバイルアプリの設定、通知のテストなど、プッシュ通知を効果的に手動で設定および使用するために必要なすべての手順を説明します。
 
-<!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-gs
+<!--
+CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs
 {title = Push notification data flow and components}
 {description = Learn how to setup and understand key services and workflows involved with push notifications in Journey Optimizer.}
-{image = https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/media_1f6e99fa57e318230d92f5dde619c450690b5d27a.png?width=2000&format=webply&optimize=medium}
+{image = https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1f6e99fa57e318230d92f5dde619c450690b5d27a.png?width=2000&format=webply&optimize=medium}
 {target = _blank}
 
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-configuration
-{image = https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=2000&format=webply&optimize=small}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration
+{image = https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=2000&format=webply&optimize=small}
 {target = _blank}
-* https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/overview 
+* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview 
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -98,8 +99,8 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-gs" title="プッシュ通知のデータフローとコンポーネント" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/media_1f6e99fa57e318230d92f5dde619c450690b5d27a.png?width=400&format=webply&optimize=medium" alt="プッシュ通知のデータフローとコンポーネント"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs" title="プッシュ通知のデータフローとコンポーネント" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1f6e99fa57e318230d92f5dde619c450690b5d27a.png?width=400&format=webply&optimize=medium" alt="プッシュ通知のデータフローとコンポーネント"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,11 +108,11 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-gs" target="_blank" rel="referrer" title="プッシュ通知のデータフローとコンポーネント"> プッシュ通知のデータフローとコンポーネント </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs" target="_blank" rel="referrer" title="プッシュ通知のデータフローとコンポーネント"> プッシュ通知データフローとコンポーネント </a>
                     </p>
-                    <p class="is-size-6">Journey Optimizerでプッシュ通知に関連する主要なサービスとワークフローを設定し、理解する方法を説明します。</p>
+                    <p class="is-size-6">Journey Optimizerでプッシュ通知に関する主要なサービスとワークフローを設定し、理解する方法を説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-gs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -121,8 +122,8 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-configuration" title="プッシュ通知の設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=400&format=webply&optimize=small" alt="プッシュ通知の設定"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration" title="プッシュ通知の設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=400&format=webply&optimize=small" alt="プッシュ通知の設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,11 +131,11 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-configuration" target="_blank" rel="referrer" title="プッシュ通知の設定"> プッシュ通知の設定 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration" target="_blank" rel="referrer" title="プッシュ通知の設定"> プッシュ通知設定</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer でプッシュ通知を送信するように環境を設定する方法を説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-configuration" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -144,8 +145,8 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/overview" title="モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル"
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" title="モバイルアプリでのAdobe Experience Cloudの実装チュートリアル" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="モバイルアプリでのAdobe Experience Cloudの実装チュートリアル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,11 +154,11 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル">モバイルアプリでの Adobe Experience Cloud の実装のチュートリアル</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="モバイルアプリでのAdobe Experience Cloudの実装チュートリアル">モバイルアプリでの Adobe Experience Cloud の実装のチュートリアル</a>
                     </p>
-                    <p class="is-size-6">Adobe Experience Cloud モバイルアプリケーションの実装方法を説明します。 このチュートリアルでは、サンプルの Swift またはAndroid アプリでのExperience Cloud アプリケーションの実装について説明します。</p>
+                    <p class="is-size-6">Adobe Experience Cloud モバイルアプリケーションの実装方法について説明します。 このチュートリアルでは、サンプル SwiftまたはAndroid アプリでのExperience Cloud アプリケーションの実装について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -169,7 +170,8 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
 #### その他のリソース
 
 
-<!-- CARDS
+<!--
+CARDS
 * https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk
 {target = _blank}
 * https://developer.adobe.com/client-sdks/home/base/assurance
@@ -181,8 +183,8 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk" title="Adobe Experience Platform Mobile SDKを入手" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="Adobe Experience Platform Mobile SDKを入手"
+                    <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk" title="Adobe Experience Platform Mobile SDKを入手する" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="Adobe Experience Platform Mobile SDKを入手する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,7 +192,7 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDKを入手">Adobe Experience Platform Mobile SDKを入手 </a>
+                        <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDKを入手する">Adobe Experience Platform Mobile SDKを入手</a>
                     </p>
                     <p class="is-size-6">アプリケーションにAdobe Experience Platform Mobile SDKをインストールする方法を説明するガイドです。</p>
                 </div>
@@ -213,9 +215,9 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/base/assurance" target="_blank" rel="referrer" title="Adobe Experience Platform Assuranceの概要">Adobe Experience Platform Assuranceの概要 </a>
+                        <a href="https://developer.adobe.com/client-sdks/home/base/assurance" target="_blank" rel="referrer" title="Adobe Experience Platform Assuranceの概要">Adobe Experience Platform Assuranceの概要</a>
                     </p>
-                    <p class="is-size-6">Adobe Experience Platform Assurance モバイル拡張機能の概要です。</p>
+                    <p class="is-size-6">Adobe Experience Platform Assuranceモバイル拡張機能の概要。</p>
                 </div>
                 <a href="https://developer.adobe.com/client-sdks/home/base/assurance" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -226,26 +228,27 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-#### Mobile SDK対応チェックリスト
+#### Mobile SDKの準備状況チェックリスト
 
-アプリをマーケターに渡す前に、**[Assuranceで次のことを確認し &#x200B;](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** ください。
+アプリをマーケターに渡す前に、**[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}**&#x200B;で次のことを確認してください。
 
 >[!SUCCESS]
 > 
-> [ Core SDKとJourney Optimizerの拡張機能の ] が読み込まれると、\
-> [ 正 ] いデータストリームとデータセットでイベントのフローが発生している。\
-> [ ]ID と同意は、すべての主要なイベントに存在する、\
-> [ ] プッシュトークンとインタラクションが追跡される。\
-> [ ] テストのアプリ内メッセージまたはコンテンツカードが少なくとも 1 つ表示され、インプレッションとして記録されている。
+> [ ] Core SDK + Journey Optimizer拡張機能が読み込まれました，\
+> [ ] イベントが正しいデータストリームとデータセットに流れています。\
+> [ ]IDと同意は、すべての主要なイベントに存在します。\
+> [ ]件のプッシュトークンとインタラクションが追跡され、\
+> [ ]少なくとも1つのテスト アプリ内メッセージまたはコンテンツカードが表示され、インプレッションとして記録されています。
 
 
 ### コンテンツカード
 
-<!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp
+<!--
+CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp
 {title = Configure content cards support in Mobile SDK}
 {description = Learn how to integrate content cards in your mobile application using Messaging SDK.}
-{image = https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/configure/media_17623afb1c5e280b7fb6861b4003d0ef8f8bea24d.jpg?width=2000&format=webply&optimize=medium}
+{image = https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/media_17623afb1c5e280b7fb6861b4003d0ef8f8bea24d.jpg?width=2000&format=webply&optimize=medium}
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -254,8 +257,8 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" title="Mobile SDK でのコンテンツカードのサポートの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/configure/media_17623afb1c5e280b7fb6861b4003d0ef8f8bea24d.jpg?width=400&format=webply&optimize=medium" alt="Mobile SDK でのコンテンツカードのサポートの設定"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" title="Mobile SDK でのコンテンツカードのサポートの設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/media_17623afb1c5e280b7fb6861b4003d0ef8f8bea24d.jpg?width=400&format=webply&optimize=medium" alt="Mobile SDK でのコンテンツカードのサポートの設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -263,11 +266,11 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" title="Mobile SDK でのコンテンツカードのサポートの設定">Mobile SDKでのコンテンツカードのサポートの設定 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" title="Mobile SDK でのコンテンツカードのサポートの設定">Mobile SDKでのコンテンツカードのサポートの設定</a>
                     </p>
-                    <p class="is-size-6">Messaging SDKを使用して、モバイルアプリケーションにコンテンツカードを統合する方法を説明します。</p>
+                    <p class="is-size-6">Messaging SDKを使用して、モバイルアプリケーションにコンテンツカードを統合する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -278,10 +281,11 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
 
 ### WhatsApp
 
-**WhatsApp チャネル** を設定する方法を理解します。
+**WhatsApp チャネル**&#x200B;の設定方法について説明します。
 
-<!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
+<!--
+CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -291,7 +295,7 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="WhatsApp チャネルの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470269/?captions=jpn&format=jpeg&nocache=1765310599408" alt="WhatsApp チャネルの設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1765310599408" alt="WhatsApp チャネルの設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -314,17 +318,18 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
 
 ### SMS/MMS/RCS
 
-標準のプロバイダー（Twilio、Synch または Infobip）を使用するか **カスタム SMS プロバイダーを使用して、** SMS/MMS/RCS チャネル）を設定します。
+標準プロバイダー（Twilio、SynchまたはInfobip）を使用するか、カスタム SMS プロバイダーを使用して&#x200B;**SMS/MMS/RCS チャネル**&#x200B;を設定します。
 
-<!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
+<!--
+CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
 {target = _blank}
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
 {description = Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.}
 {target = _blank}
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
 {target = _blank}
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -333,8 +338,8 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="SMS API 資格情報とチャネルサーフェスの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418546?captions=jpn&format=jpeg&nocache=1765310599850" alt="SMS API 資格情報とチャネルサーフェスの設定"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="SMS API 資格情報とチャネルサーフェスの設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1765310599850" alt="SMS API 資格情報とチャネルサーフェスの設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -342,11 +347,11 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="SMS API 資格情報とチャネルサーフェスの設定">SMS API 資格情報とチャネルサーフェスの設定 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="SMS API 資格情報とチャネルサーフェスの設定">SMS API資格情報とチャネルサーフェスの設定</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer を SMS サービスプロバイダーに接続する方法と SMS チャネルサーフェスを作成する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
@@ -357,7 +362,7 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" title="カスタム SMS プロバイダーの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459089/?captions=jpn&format=jpeg&nocache=1765310599834" alt="カスタム SMS プロバイダーの設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431625/?format=jpeg&nocache=1765310599834" alt="カスタム SMS プロバイダーの設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -367,7 +372,7 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" title="カスタム SMS プロバイダーの設定">カスタム SMS プロバイダーの設定</a>
                     </p>
-                    <p class="is-size-6">Journey Optimizerでのカスタム SMS プロバイダーの設定、API 資格情報と Webhook の設定、オプトイン/オプトアウトキーワードの管理、パーソナライズされたキャンペーンの開始の方法について説明します。</p>
+                    <p class="is-size-6">Journey Optimizerでカスタム SMS プロバイダーを設定する方法、API資格情報とwebhookを設定する方法、オプトイン/オプトアウトキーワードを管理する方法、パーソナライズされたキャンペーンを開始する方法について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
@@ -379,8 +384,8 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API 資格情報とチャネルサーフェスの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438047/?captions=jpn&format=jpeg&nocache=1765310599863" alt="MMS API 資格情報とチャネルサーフェスの設定"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API 資格情報とチャネルサーフェスの設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1765310599863" alt="MMS API 資格情報とチャネルサーフェスの設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -388,11 +393,11 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="MMS API 資格情報とチャネルサーフェスの設定">MMS API 資格情報とチャネルサーフェスの設定</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="MMS API 資格情報とチャネルサーフェスの設定">MMS API 資格情報とチャネルサーフェスの設定</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer を MMS サービスプロバイダーに接続する方法と、MMS チャネルサーフェスを作成する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
@@ -403,7 +408,7 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Journey Optimizer での RCS の設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464756/?captions=jpn&format=jpeg&nocache=1765310600192" alt="Journey Optimizer での RCS の設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1765310600192" alt="Journey Optimizer での RCS の設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -424,18 +429,19 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## プライバシー法およびプラットフォームガイドラインへのコンプライアンスを確保します。
+## プライバシー法とプラットフォームガイドラインを遵守しましょう。
 
-<!-- CARDS
-* https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/app-implementation/consent
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
+<!--
+CARDS
+* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
 {target = _blank}
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
 {target = _blank}
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables
 {cta = Watch}
 {target = _blank}
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -444,8 +450,8 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/app-implementation/consent" title="Platform Mobile SDK実装に対する同意の実装" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/app-implementation/consent./media_12356d2400b5ad641e8356a6883441b38a129c968.png?width=400&format=png&optimize=medium" alt="Platform Mobile SDK実装に対する同意の実装"
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent" title="Platform Mobile SDKの実装に対する同意の実装" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent./media_12356d2400b5ad641e8356a6883441b38a129c968.png?width=400&format=png&optimize=medium" alt="Platform Mobile SDKの実装に対する同意の実装"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -453,11 +459,11 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/app-implementation/consent" target="_blank" rel="referrer" title="Platform Mobile SDK実装に対する同意の実装">Platform Mobile SDK実装に対する同意の実装 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent" target="_blank" rel="referrer" title="Platform Mobile SDKの実装に対する同意の実装">Platform Mobile SDKの実装に対する同意の実装</a>
                     </p>
-                    <p class="is-size-6">モバイルアプリで同意を実装する方法を説明します。</p>
+                    <p class="is-size-6">モバイルアプリに同意を実装する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/app-implementation/consent" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -467,7 +473,7 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Adobe Journey Optimizer のプライバシー機能" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Adobe Journey Optimizer のプライバシー機能" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../mobile-learning-hub/assets/privacy.webp" alt="Adobe Journey Optimizer のプライバシー機能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -476,11 +482,11 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Adobe Journey Optimizer のプライバシー機能">Adobe Journey Optimizerのプライバシー機能 </a>
+                        Adobe Journey Optimizerの<a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Adobe Journey Optimizer のプライバシー機能"> プライバシー機能</a>
                     </p>
-                    <p class="is-size-6">プライバシーリクエストの処理、ユーザー操作の監査、同意の管理、ガバナンスルールの適用、顧客管理キーなどの高度なセキュリティオプションの活用の方法について説明します。</p>
+                    <p class="is-size-6">プライバシー要求の処理、ユーザーのアクションの監査、同意の管理、ガバナンスルールの適用、Customer Managed Keysなどの高度なセキュリティオプションの活用方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -491,7 +497,7 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="データガバナンスフレームワークの概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/34106/?captions=jpn&format=jpeg&nocache=1765310600883" alt="データガバナンスフレームワークの概要"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1765310600883" alt="データガバナンスフレームワークの概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -514,7 +520,7 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="ラベルを使用したデータの分類" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422791?captions=jpn&format=jpeg&nocache=1765310600887" alt="ラベルを使用したデータの分類"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1765310600887" alt="ラベルを使用したデータの分類"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -537,7 +543,7 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="データ使用ポリシーの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/37133/?captions=jpn&format=jpeg&nocache=1765310600676" alt="データ使用ポリシーの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1765310600676" alt="データ使用ポリシーの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -559,152 +565,152 @@ Journey Optimizerでのモバイル実装は、アプリ内の **Adobe Experienc
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 
-## 実装の一般的な落とし穴と回避方法
+## 一般的な実装の落とし穴とその回避方法
 
-モバイルに関する問題のほとんどは、Journey Optimizerのジャーニーやキャンペーン自体ではなく **0&rbrace;SDKまたはデータ収集の設定 &rbrace; に起因します。**&#x200B;次の表を使用して問題の原因を特定し、該当するセクションを展開して詳細を確認してください。
+ほとんどのモバイルの問題は、**SDKまたはデータ収集設定**&#x200B;に起因するもので、Journey Optimizer ジャーニーやキャンペーン自体には発生しません。 以下の表を使用して問題を特定し、対応するセクションを展開して詳細を確認します。
 
-### 落とし穴の概要
+### 陥りやすい失敗
 
-| # | 問題/症状 | よくある落とし穴 | 一目で修正 |
+| # | 問題/症状 | よくある落とし穴 | 一目で確認 |
 |---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
-| 1 | ガイド付きチャネルのセットアップに失敗。トラフィックがない、または少ない | [SDKのバージョンまたは拡張機能が揃っていない &#x200B;](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/拡張機能のバージョンを更新し、Assuranceで検証する |
-| 2 | バッチのトラッキングが失敗し、AEPでエラーが発生する | [&#x200B; データストリームまたはデータセットの設定の誤り &#x200B;](#2-misconfigured-datastreams-or-datasets) | イベントデータセットへのイベントのマッピングとプロファイルデータセットへのプロファイル |
-| 3 | ジャーニーが起動せず、パーソナライゼーションが奇妙になる | [ID または同意が見つからない/一貫性がない &#x200B;](#3-missing-or-inconsistent-identity-and-consent) | Edgeの ID および同意の実装、Assuranceでの検証 |
-| 4 | プッシュ配信がないか、レポートで開いている | [&#x200B; プッシュトークンの登録またはトラッキングが破損している &#x200B;](#4-push-token-registration-and-tracking-not-wired-correctly) | SDKによるトークン登録とインタラクショントラッキングの修正 |
-| 5 | アクティブなキャンペーンにもかかわらず、アプリ内インプレッションがありません | [&#x200B; アプリ内メッセージまたはコンテンツカードが表示されない &#x200B;](#5-in-app-messages-or-content-cards-not-displaying) | メッセージの拡張機能、トリガーおよびAssuranceの決定応答を確認する |
+| 1 | ガイド付きチャネルの設定に失敗しました。トラフィックがゼロまたは少ない | [SDKのバージョンまたは拡張機能が一致しません](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/拡張機能のバージョンを更新、Assuranceで検証 |
+| 2 | バッチのトラッキングに失敗します。AEPのエラー | [ データストリームまたはデータセットが正しく設定されていません](#2-misconfigured-datastreams-or-datasets) | イベントをイベントデータセットに、プロファイルをプロファイルデータセットにマッピング |
+| 3 | ジャーニーは生まれない；奇妙なパーソナライゼーション | [IDまたは同意が見つからない/一貫性がない](#3-missing-or-inconsistent-identity-and-consent) | Edge IDと同意の実装、Assuranceでの検証 |
+| 4 | レポートにプッシュ配信または開封数がありません | [ プッシュトークンの登録またはトラッキングが壊れています](#4-push-token-registration-and-tracking-not-wired-correctly) | SDKによるトークン登録とインタラクション追跡の修正 |
+| 5 | アクティブなキャンペーンにもかかわらず、アプリ内でのインプレッションがない | [ アプリ内メッセージまたはコンテンツカードが表示されない](#5-in-app-messages-or-content-cards-not-displaying) | メッセージ拡張機能、トリガー、Assuranceの意思決定応答の確認 |
 
-### 落とし穴ごとの詳細なガイダンス
+### 落とし穴ごとの詳細ガイダンス
 
-症状に合った落とし穴を開けて、チェック対象と修正方法を確認します。
+症状に合った落とし穴を開けて、何をチェックし、どのように修正するかを確認します。
 
-+++ &#x200B;1. チャネル要件に合致していないSDKのバージョンおよび拡張機能
-**何に気づくでしょう**
++++ &#x200B;1. SDKのバージョンと拡張機能がチャネル要件に対応していない
+**お知らせします**
 
-* プッシュまたはアプリ内アクティビティがデバイスに到達しません。
+* プッシュまたはアプリ内アクティビティがデバイスに届かない。
 * ガイド付きチャネル設定またはチャネル検証が失敗する。
-* Assuranceで、Journey Optimizer、Edgeまたは ID 拡張機能が見つからない問題を示します。
+* Assuranceに、Journey Optimizer、Edge、またはID拡張機能が表示されない。
 
-**確認対象**
+**チェック対象**
 
-* ガイド付きチャネルのセットアップに必要な **Mobile Core** および **Journey Optimizer** 拡張機能の最小バージョンを使用していますか？
-* **Assurance** の拡張機能とイベントで、次の操作を行います。
-   * 必要な拡張機能が読み込まれていますか？
-   * イベントはEdge Networkに送信され、確認されていますか？
+* ガイド付きチャネル設定で必要な最小&#x200B;**モバイルコア**&#x200B;および&#x200B;**Journey Optimizer**&#x200B;拡張機能バージョンを使用していますか？
+* **Assurance**&#x200B;の拡張機能とイベント：
+   * 予想される拡張機能が読み込まれていますか？
+   * イベントはEdge Networkに送信され、承認されますか？
 
-**修正方法**
+**解決方法**
 
-* サポートされている Mobile SDKおよびJourney Optimizer拡張機能のバージョンにアップグレードします。
-* アプリを再構築し、Assuranceに再接続して、Guided Channel Setup を再実行します。
+* サポートされているMobile SDKおよびJourney Optimizer拡張機能のバージョンにアップグレードします。
+* アプリを再構築し、Assuranceに再接続し、ガイド付きチャネル設定を再実行します。
 
-関連項目：[&#x200B; モバイルと Web の設定 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
+関連項目：[ モバイルとwebの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
 
 +++
 
-+++ 2.設定が正しくないデータストリームまたはデータセット
-**何に気づくでしょう**
++++ &#x200B;2. 誤って設定されたデータストリームまたはデータセット
+**お知らせします**
 
 * Platform データセットでイベントまたはプッシュトラッキングバッチが失敗する。
-* データ取り込みエラー（例：「アップデートはイベントではサポートされていません」）。
-* プッシュまたはアプリ内レポートには、トラッキングがほとんど、またはまったく表示されません。
+* データ取り込みエラー（「更新はイベントではサポートされていません」など）。
+* プッシュ通知やアプリ内レポートでは、追跡機能はほとんどありません。
 
-**確認対象**
+**チェック対象**
 
-* Journey Optimizerのトラッキング用に作成された **システムスキーマまたはデータセット** に変更はありましたか？
-* **データストリーム** で、
-   * エクスペリエンスイベントは **イベントデータセット** にマッピングされていますか。
-   * プロファイル属性は **プロファイルデータセット** にマッピングされていますか。
+* Journey Optimizer トラッキング用に作成された&#x200B;**システムスキーマまたはデータセット**&#x200B;を変更した人はいますか？
+* **データストリーム**&#x200B;で：
+   * エクスペリエンスイベントは&#x200B;**イベントデータセット**&#x200B;にマッピングされますか？
+   * プロファイル属性は&#x200B;**プロファイルデータセット**&#x200B;にマッピングされていますか？
 
-**修正方法**
+**解決方法**
 
 * AJOで作成されたシステムデータセット/スキーマは編集しないでください。
-* データストリームマッピングを修正します（イベント→イベントデータセット、プロファイル→プロファイルデータセット）。
-* アドホックな変更の代わりに、ガイド付きチャネル設定またはドキュメント化されたデータストリーム手順を優先します。
+* データストリームマッピング（イベント→イベントデータセット、プロファイル→プロファイルデータセット）を修正します。
+* アドホック変更ではなく、ガイド付きのチャネル設定または文書化されたデータストリームステップを優先します。
 
-関連項目：[Adobe Journey Optimizerにおけるプッシュ通知フロー &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+Adobe Journey Optimizerの[ プッシュ通知フロー](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}を参照してください。
 
 +++
 
-+++ &#x200B;3. ID と同意が欠落している、または一貫性がない
-**何に気づくでしょう**
++++ &#x200B;3. IDと同意の欠如または一貫性の欠如
+**お知らせします**
 
-* ジャーニーが、アプリユーザーの想定どおりにトリガーされません。
-* Personalizationが他のチャネルでのユーザーの行動と一致しません。
-* イベントはExperience Platformに表示されますが、プロファイルが断片化されているように見えます。
+* ジャーニーが、アプリユーザーに対して期待どおりにトリガーされない。
+* Personalizationが、ほかのチャネルでの利用者の行動と一致していない。
+* Experience Platformにはイベントが表示されますが、プロファイルは断片的に見えます。
 
-**確認対象**
+**チェック対象**
 
-* **Edge Networkの ID** が実装されており、安定したプライマリ ID （例えば、ログイン ID）を送信しているかどうか。
-* 環境設定が変更されると、**Edge Networkの同意** が実装および更新されますか？
-* **Assurance** で：
-   * アウトバウンドイベントには同意値が含まれていますか？
-   * ECID とプライマリ ID は一貫して含まれていますか？
+* Edge Network **の** IDは実装され、安定したプライマリ ID （ログイン IDなど）を送信しますか？
+* 環境設定が変更されたときに&#x200B;**Edge Networkの同意が実装され、更新されますか？**
+* **Assurance**&#x200B;で：
+   * アウトバウンドイベントには同意値が含まれますか？
+   * ECIDとプライマリ IDは一貫して含まれていますか？
 
-**修正方法**
+**解決方法**
 
-* アプリに **Edge Networkの ID** を実装または修正します。
-* **Edge Networkに対する同意** を実装し、アプリの同意 UI に接続します。
-* 関連するすべてのイベントに ID と同意が表示されるまで、Assuranceで再テストします。
+* アプリにEdge Network **の** IDを実装または修正します。
+* Edge Network **の**&#x200B;同意管理を実装し、アプリの同意管理UIに接続します。
+* IDと同意がすべての関連イベントに表示されるまで、Assuranceでリストアします。
 
-[Platform Mobile SDK実装の同意の実装 &#x200B;](https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"} を参照してください。
+参照：[Platform Mobile SDKの実装に対する同意の実装](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
 
 +++
 
 +++ &#x200B;4. プッシュトークンの登録とトラッキングが正しく接続されていない
-**何に気づくでしょう**
+**お知らせします**
 
-* キャンペーンやジャーニーが実行されていても、ユーザーにプッシュ通知が届くことはありません。
-* プッシュレポートには、開封数、解除数またはインタラクション数は表示されません。
+* キャンペーンやジャーニーが実行されていても、ユーザーはプッシュ通知を受け取ることはありません。
+* プッシュレポートでは、開封数、解約数、インタラクション数は表示されません。
 
-**確認対象**
+**チェック対象**
 
-* アプリはプッシュトークンをJourney Optimizer拡張機能に登録しますか？
-   * 初回インストール時
-   * アプリを更新するたびに、
-   * OS がトークンを更新するたびに、
-* ユーザーが通知を開いたり閉じたりすると、Assuranceにトラッキングイベントが表示されますか。
+* アプリは、Journey Optimizer拡張機能にプッシュトークンを登録します。
+   * 最初のインストール時に？
+   * アプリをアップデートするたびに？
+   * OSがトークンを更新するたびに？
+* ユーザーが通知を開いたり閉じたりすると、Assuranceにトラッキングイベントが表示されますか？
 
-**修正方法**
+**解決方法**
 
 * 次のコードを追加または修正します。
-   * 作成または更新されるたびに、Journey Optimizer モバイル拡張機能を介してトークンを登録します。
-   * Mobile SDKを介してプッシュインタラクションイベント（オープン、解除、カスタムアクション）を送信します。
-* Assuranceを使用して、登録イベントとトラッキングイベントが期待どおりに実行されていることを確認します。
+   * トークンが作成または更新されるたびに、Journey Optimizer モバイル拡張機能を介してトークンを登録します。
+   * Mobile SDKを介してプッシュインタラクションイベント（オープン、却下、カスタムアクション）を送信します。
+* Assuranceを使用して、登録イベントとトラッキングイベントが期待どおりに起動していることを確認します。
 
-関連項目：[Adobe Journey Optimizerにおけるプッシュ通知フロー &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+Adobe Journey Optimizerの[ プッシュ通知フロー](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}を参照してください。
 
 +++
 
 +++ &#x200B;5. アプリ内メッセージまたはコンテンツカードが表示されない
-**何に気づくでしょう**
+**お知らせします**
 
 * アクティブなキャンペーンやジャーニーにもかかわらず、アプリ内メッセージやコンテンツカードが表示されることはありません。
-* レポートにインプレッション数が 0 と表示される。
+* レポートは0 インプレッションを示しています。
 
-**確認対象**
+**チェック対象**
 
-* **Journey Optimizer モバイルメッセージ/アプリ内拡張機能** および **Messaging SDK** は、アプリにインストールして登録していますか。
-* **tags** 設定で以下を行います。
-   * トリガーが正しいイベント（画面ビューやカスタムイベントなど）に対してリクエストするルールはありますか？
-* **Assurance** で：
-   * これらのイベントが発生した場合、アプリ内決定リクエストまたはコンテンツカード決定リクエストが送信されますか。
-   * Edge Networkから応答が返ってくることが確認できますか。
+* **Journey Optimizer モバイルメッセージング / アプリ内拡張機能**&#x200B;および&#x200B;**Messaging SDK**&#x200B;がインストールされ、アプリに登録されていますか？
+* **tags**&#x200B;設定で、次の操作を行います。
+   * トリガーが正しいイベント（スクリーンビューやカスタムイベントなど）に対してリクエストするルールはありますか？
+* **Assurance**&#x200B;で：
+   * そのようなイベントが発生した場合、アプリ内またはコンテンツカード内の意思決定リクエストが送信されますか？
+   * Edge Networkから回答が返ってくるということはありますか？
 
-**修正方法**
+**解決方法**
 
 * 必要なメッセージング拡張機能をインストールして登録します。
-* ターゲットイベント（画面、カスタムイベント）に関する決定をトリガーにするルールを追加または修正します。
-* コンテンツカードの場合は、次を確認します。
-   * Messaging SDK API を使用してカードを取得します。
-   * UI でレンダリングします。
-   * SDKを介してインタラクションをトラッキングします。
+* ターゲットイベント（画面、カスタムイベント）に関する意思決定をトリガーするルールを追加または修正します。
+* コンテンツカードの場合、次のことを確認します。
+   * Messaging SDK APIを使用してカードを取得します。
+   * UIでレンダリングします。
+   * SDKを通じて、やり取りを追跡します。
 
 参照：
-* [&#x200B; アプリ内メッセージの作成と送信 &#x200B;](https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
-* [Mobile SDKでのコンテンツカードのサポートの設定 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
+* [ アプリ内メッセージの作成と送信](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
+* [Mobile SDKでのコンテンツカードのサポートの設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 +++
 
 ## その他のリソース
 
-* [&#x200B; モバイルでの CDN ベースのクライアントサイドパーソナライゼーション（ODD）の使用によるパーソナライゼーションの高速化（ブログ） &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=ja){target="_blank"}
-* [&#x200B; 次レベルのモバイルアプリのエンゲージメントと成長の秘訣（サミットセッション） &#x200B;](https://business.adobe.com/jp/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
+* [ モバイルでのCDN ベースのクライアントサイドパーソナライゼーション（ODD）の使用によるパーソナライゼーションの高速化（ブログ） ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+* [ モバイルアプリのエンゲージメントと成長の秘訣（Summit セッション） ](https://business.adobe.com/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
