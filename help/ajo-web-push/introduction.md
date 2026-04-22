@@ -62,7 +62,7 @@ Web ページからトリガーへの値下げイベントのサンプル
 
 これを確認するために、完全なサンプルアプリケーションが用意されています。
 
-- [ ライブデモ – オプトイン：](https://ajo-web-push.onrender.com/)
+- [&#x200B; ライブデモ – オプトイン：](https://ajo-web-push.onrender.com/)
 
 - [トリガー値下げイベント：](https://ajo-web-push.onrender.com/price-drop-trigger.html)
 

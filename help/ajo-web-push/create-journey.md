@@ -60,7 +60,7 @@ to iterate over the list of products and render their names within the message.
 ## メッセージ本文の作成
 
 ヘルパー関数メニューから`Each`関数を選択して挿入します。
-![ ヘルパー関数](assets/journey-content-helper-function.png)
+![&#x200B; ヘルパー関数](assets/journey-content-helper-function.png)
 
 コンテキスト属性を選択| Journey Orchestration | イベント | PriceDropEvent | productListItems |名前
 
