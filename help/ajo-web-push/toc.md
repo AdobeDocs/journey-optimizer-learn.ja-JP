@@ -7,7 +7,7 @@ solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/ajo-web-push/introduction
-source-git-commit: cd96c5cce9682807d453159898ad94e9ca7575b8
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 7%
@@ -18,9 +18,9 @@ ht-degree: 7%
 # Adobe Journey Optimizerでのweb プッシュ{#ajo-web-push}
 
 + [はじめに](./introduction.md)
-+ [ローカル設定](./run-application-locally.md)
 + [プッシュ設定の作成](./create-push-configuration.md)
 + [データストリームを作成](./create-data-stream.md)
++ [ローカル設定](./run-application-locally.md)
 + [ユーザー権限の取得](./capture-user-persmission.md)
 + [オーディエンスを作成](./create-audience.md)
 + [キャンペーンを作成](./create-campaign.md)

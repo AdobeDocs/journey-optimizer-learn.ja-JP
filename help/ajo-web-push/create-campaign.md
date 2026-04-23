@@ -1,63 +1,60 @@
 ---
 title: キャンペーンを作成
-description: Create a campaign to target users who have opted in to receive push notifications and delivers the message at the scheduled time.
+description: プッシュ通知の受信をオプトインしたユーザーをターゲットにし、メッセージをスケジュールされた時間に配信するキャンペーンを作成します。
 feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
 
 ---
 
-# Create Campaign
+# キャンペーンを作成
 
-In this step, you will create a campaign in Adobe Journey Optimizer to send scheduled web push notifications to users who have opted in. The campaign targets an eligible audience and delivers messages at a predefined time, enabling planned and audience-based engagement.
+この手順では、Adobe Journey Optimizerでキャンペーンを作成し、オプトインしたユーザーにスケジュール済みのweb プッシュ通知を送信します。 このキャンペーンは、適格なオーディエンスをターゲットとし、事前に定義された時間にメッセージを配信することで、計画されたオーディエンスベースのエンゲージメントを可能にします。
 
-* Log in to Journey Optimizer
-* Navigate to Journey Management | Campaigns | Create Campaigns
+* Journey Optimizerにログインします
+* ジャーニー管理に移動| キャンペーン | キャンペーンの作成
 
-## Specify  Campaign Settings
+## キャンペーン設定の指定
 
 
-Specify the campaign name
+キャンペーン名の指定
 
 ![campaign-name](assets/campign-push-notification.png)
 
-## Associate Action with the campaign
+## アクションをキャンペーンに関連付ける
 
-Associate the push channel configuration created earlier in this tutorial
+このチュートリアルで先ほど作成したプッシュチャネル設定を関連付けます
 
 ![campaign-action](assets/campign-push-notification-action.png)
 
-## Associate Audience with the campaign
+## オーディエンスをキャンペーンに関連付ける
 
 オーディエンス `AudienceForPush`をキャンペーンに関連付ける
 
 ![campaign-audience](assets/campign-push-notification-audience.png)
 
-## Create content for the push notification
+## プッシュ通知用のコンテンツの作成
 
-Create basic push content for testing the push notification. Specify title and body of the message as shown below
+プッシュ通知をテストするための基本的なプッシュコンテンツを作成します。 次に示すように、メッセージのタイトルと本文を指定します
 
 ![content-for-push-notification](assets/campign-push-notification-content.png)
 
 ## キャンペーンのスケジュール
 
-Schedule the campaign as per your needs
+ニーズに応じてキャンペーンをスケジュールし
 
-![schedule-campaing](assets/campign-push-notification-schedule.png)
+![schedule-camping](assets/campign-push-notification-schedule.png)
 
-Finally make sure you activate the campaign.
+最後に、キャンペーンをアクティブ化します。
 
-## Test the campaign
+## キャンペーンのテスト
 
-To test the campaign, first enable notifications on the[web page by opting in](http://localhost:3000) when prompted. オプトインしたら、キャンペーンがスケジュールされた時間に実行されるのを待ちます。 キャンペーンが実行されると、ブラウザーにプッシュ通知が届きます。
-
-
-
-
+キャンペーンをテストするには、最初にメッセージが表示されたら[をオプトインして、](http://localhost:3000)web ページで通知を有効にします。 オプトインしたら、キャンペーンがスケジュールされた時間に実行されるのを待ちます。 キャンペーンが実行されると、ブラウザーにプッシュ通知が届きます。
