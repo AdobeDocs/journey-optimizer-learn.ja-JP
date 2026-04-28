@@ -121,7 +121,7 @@ dxdemo://atm
 
 ## 画像
 
-![SecureFinancial ロゴ ](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+![SecureFinancial ロゴ &#x200B;](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
 
 
 ![携帯電話](/help/summit-lab-assets/assets/online-banking-app-01.png)
