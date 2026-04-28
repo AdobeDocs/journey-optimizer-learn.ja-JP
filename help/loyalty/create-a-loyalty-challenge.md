@@ -24,4 +24,4 @@ ht-degree: 1%
 
 Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480327/?captions=jpn&learn=on&enablevpops)

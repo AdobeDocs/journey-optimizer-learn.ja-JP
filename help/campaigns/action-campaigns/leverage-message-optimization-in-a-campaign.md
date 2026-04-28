@@ -22,4 +22,4 @@ ht-degree: 58%
 
 アクションまたは API トリガーキャンペーンでメッセージの最適化を活用する方法について説明します。 You see how to target sub-audiences, create message variations by location, enable fallback content, and run multiple experiments within a single campaign. また、このチュートリアルでは、メッセージの一貫性を維持しながらマルチチャネルキャンペーンを管理する方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470369/?captions=jpn&learn=on&enablevpops)

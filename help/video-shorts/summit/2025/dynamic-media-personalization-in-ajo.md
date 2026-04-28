@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey OptimizerとExperience Manager Dynamic Mediaを統合して、マーケティングキャンペーン用にパーソナライズされた合成画像を有効にする方法について説明します。
 
 <!-- 62_S520_3442520_48_dynamic-media-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458201/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460310/?captions=jpn&learn=on&enablevpops=true)
