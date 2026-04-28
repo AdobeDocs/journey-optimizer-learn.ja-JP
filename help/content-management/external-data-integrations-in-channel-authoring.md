@@ -22,4 +22,4 @@ Adobe Journey Optimizerに外部データとコンテンツを統合する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-詳しくは、Adobe Journey Optimizer [製品ドキュメント ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration)を参照してください。
+詳しくは、Adobe Journey Optimizer [製品ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration)を参照してください。
