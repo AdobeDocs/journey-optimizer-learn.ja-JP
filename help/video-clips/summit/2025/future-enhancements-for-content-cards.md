@@ -1,6 +1,6 @@
 ---
-title: コンテンツカードの今後の機能強化
-description: 新しいテンプレートやメッセージの受信トレイなど、コンテンツカードに関する今後の機能をご確認ください。
+title: Future Enhancements for Content Cards
+description: Get a sneak peek at upcoming features for Content Cards, including new templates, message inboxes, and more.
 doc-type: Short Video
 duration: 84
 index: false
@@ -8,16 +8,16 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 4c7f43cb-1157-4e94-9db9-d6346001af6a
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# コンテンツカードの今後の機能強化
+# Future Enhancements for Content Cards
 
-新しいテンプレートやメッセージの受信トレイなど、コンテンツカードに関する今後の機能をご確認ください。
+Get a sneak peek at upcoming features for Content Cards, including new templates, message inboxes, and more.
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3460321/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)

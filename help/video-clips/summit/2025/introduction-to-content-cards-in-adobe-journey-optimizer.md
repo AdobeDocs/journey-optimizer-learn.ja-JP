@@ -8,7 +8,7 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: d2312372-86ea-4610-91ba-34dbfdfd9e9a
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizerのコンテンツカード機能を利用して、モバイルアプリ内でパーソナライズされた魅力的なコンテンツを直接配信する方法をご確認ください。
 
 <!-- 62_S603_3442534_62_introduction-to-content-cards-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460387/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458206/?learn=on&enablevpops=true)

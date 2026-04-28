@@ -12,9 +12,9 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: 4d2ec542-e148-4ee3-ba7f-99296b581c37
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 定義済みコードサンプルの活用、ダミーのプロファイルペイロードの編集、パーソナライゼーションコードの出力のリアルタイムプレビューについて、それぞれの方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475953/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)

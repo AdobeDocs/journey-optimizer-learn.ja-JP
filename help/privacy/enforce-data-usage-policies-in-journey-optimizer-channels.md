@@ -12,10 +12,10 @@ hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
 exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 98%
+source-wordcount: '81'
+ht-degree: 87%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 98%
 
 Journey Optimizer チャネルでデータ使用ポリシーを適用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434906/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)と[同意ポリシーの使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。
+Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)と[同意ポリシーの使用](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。

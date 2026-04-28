@@ -11,9 +11,9 @@ jira: KT-16263
 hide: false
 hidefromtoc: false
 exl-id: e78350c0-543e-4a68-9551-df0c7d9a7be0
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Adobe Experience Platform のデータガバナンスフレームワークについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34106/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
 Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)について詳しくは、製品ドキュメントを参照してください。
 

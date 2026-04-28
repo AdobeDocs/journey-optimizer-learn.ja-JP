@@ -1,6 +1,6 @@
 ---
 title: キャンペーンでのメッセージ最適化の活用
-description: アクションまたは API トリガーキャンペーンでメッセージの最適化を活用する方法について説明します。サブオーディエンスのターゲット設定、場所別のメッセージのバリエーションの作成、フォールバックコンテンツの有効化および単一キャンペーン内での複数の実験の実行の方法を確認できます。 また、このチュートリアルでは、メッセージの一貫性を維持しながらマルチチャネルキャンペーンを管理する方法についても説明します。
+description: アクションまたは API トリガーキャンペーンでメッセージの最適化を活用する方法について説明します。 You see how to target sub-audiences, create message variations by location, enable fallback content, and run multiple experiments within a single campaign. また、このチュートリアルでは、メッセージの一貫性を維持しながらマルチチャネルキャンペーンを管理する方法についても説明します。
 feature: Campaigns
 role: User
 level: Beginner
@@ -11,15 +11,15 @@ jira: KT-18674
 hidefromtoc: false
 hide: false
 exl-id: 12a80ca8-2517-4bbc-950f-18e1dfb8dc72
-source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '110'
 ht-degree: 58%
 
 ---
 
 # キャンペーンでのメッセージ最適化の活用
 
-アクションまたは API トリガーキャンペーンでメッセージの最適化を活用する方法について説明します。サブオーディエンスのターゲット設定、場所別のメッセージのバリエーションの作成、フォールバックコンテンツの有効化および単一キャンペーン内での複数の実験の実行の方法を確認できます。 また、このチュートリアルでは、メッセージの一貫性を維持しながらマルチチャネルキャンペーンを管理する方法についても説明します。
+アクションまたは API トリガーキャンペーンでメッセージの最適化を活用する方法について説明します。 You see how to target sub-audiences, create message variations by location, enable fallback content, and run multiple experiments within a single campaign. また、このチュートリアルでは、メッセージの一貫性を維持しながらマルチチャネルキャンペーンを管理する方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470369/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)

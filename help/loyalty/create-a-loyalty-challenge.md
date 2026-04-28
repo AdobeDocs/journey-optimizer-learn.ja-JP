@@ -1,6 +1,6 @@
 ---
 title: ロイヤルティの課題を作成
-description: タスク、報酬、スケジュールを設定して、ロイヤルティに関する課題を解決する方法を説明します。 包括的なカスタマージャーニーがバックグラウンドで自動的に生成される一方で、コンテンツ、メッセージ、オーディエンスを設定する方法を説明します。
+description: Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
 feature: Get Started
 role: Leader, User
 level: Beginner
@@ -13,7 +13,7 @@ hidefromtoc: true
 index: false
 badgeBet: label="ベータ版" type="Informative"
 exl-id: f6c373be-aeae-4d52-a4b1-84a312399f5e
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 1%
@@ -22,6 +22,6 @@ ht-degree: 1%
 
 # ロイヤルティの課題を作成
 
-タスク、報酬、スケジュールを設定して、ロイヤルティに関する課題を解決する方法を説明します。 包括的なカスタマージャーニーがバックグラウンドで自動的に生成される一方で、コンテンツ、メッセージ、オーディエンスを設定する方法を説明します。
+Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480327/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)

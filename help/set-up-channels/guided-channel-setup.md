@@ -1,6 +1,6 @@
 ---
 title: ガイド付きチャネル設定
-description: ガイド付きチャネル設定により、Experience Platform、Journey Optimizer、データ収集全体にわたって必要なリソースを使用して web チャネルとモバイルチャネルを迅速に設定および検証できるので、マーケティングチームはキャンペーンとジャーニーの作成を開始できます。サンプルの iOS モバイルマーケティングアプリでプッシュチャネル通知を設定および検証する方法について説明します。
+description: ガイド付きチャネル設定により、Experience Platform、Journey Optimizer、データ収集全体にわたって必要なリソースを使用して web チャネルとモバイルチャネルを迅速に設定および検証できるので、マーケティングチームはキャンペーンとジャーニーの作成を開始できます。 サンプルの iOS モバイルマーケティングアプリでプッシュチャネル通知を設定および検証する方法について説明します。
 feature: Channel Configuration, Push
 role: Admin, Developer
 level: Beginner
@@ -11,10 +11,10 @@ jira: KT-16041
 hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
-source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 サンプルの iOS モバイルマーケティングアプリでプッシュチャネル通知を設定および検証する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449623/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 詳しくは、製品ドキュメントを参照してください。
 

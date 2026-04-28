@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '374'
 ht-degree: 98%
 
 ---
@@ -158,7 +158,7 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 | **トリガー** | 都道府県 | 今すぐ予約 |  |
 | **コンテンツを編集：**&#x200B;メディア | メディア URL オプション |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **コンテンツを編集：**&#x200B;コンテンツ | タイトル | 早期ディスカウントを入手 |  |
-| **コンテンツを編集：**&#x200B;コンテンツ | 本文 | Adobe Max がラスベガスに戻ってきます。刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。今すぐスイートを予約すると 10％オフになります。 |  |
+| **コンテンツを編集：**&#x200B;コンテンツ | 本文 | Adobe Max がラスベガスに戻ってきます。 刺激的な講演者やスキルを高めるセッション、新しい人脈作りに備えましょう。 今すぐスイートを予約すると 10％オフになります。 |  |
 | **コンテンツを編集：**&#x200B;ボタン | ボタン | 10％ディスカウントを入手 | lab://booking?suite=presidential&amp;discount=10 |
 | **コンテンツを編集：**&#x200B;ボタン | インタラクトイベント | アプリ内 CTA |  |
 | **デバイスでのプレビュー** | デバイス上でのプレビューに使用するベース URL |  | **iOS：** lab:// <br>**Android**：https://lab |
@@ -169,5 +169,5 @@ Testflight のインストールを求められます（手順 1～4）。 Testf
 |----|----|----|
 | キャンペーン名 | **`<your seat number> Max Push Campaign`** |  |
 | タイトル | こんにちは |  |
-| 本文 | Adobe Max がラスベガスに戻ってくることをご存知ですか。今すぐ部屋を予約すると 10％ディスカウントになります。 |  |
+| 本文 | Adobe Max がラスベガスに戻ってくることをご存知ですか。 今すぐ部屋を予約すると 10％ディスカウントになります。 |  |
 | メディア URL オプション |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
