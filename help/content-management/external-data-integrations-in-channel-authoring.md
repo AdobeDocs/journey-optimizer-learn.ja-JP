@@ -1,14 +1,14 @@
 ---
-title: Enable Data Integrations in Channel Authoring
-description: Learn how to integrate external data into Adobe Journey Optimizer to enhance personalization across outbound channels.
+title: チャネルオーサリングでのデータ統合の有効化
+description: 外部データをAdobe Journey Optimizerに統合して、アウトバウンドチャネル全体でパーソナライゼーションを強化する方法を説明します。
 feature: Personalization, API, Channel Configuration
-role: Developer, User
+role: Admin, User
 level: Intermediate
 doc-type: Feature Video
 duration: 212
 last-substantial-update: 2026-04-28T00:00:00Z
 jira: KT-20916
-source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
+source-git-commit: 6c565229f501200ec39d334ab7a1b03e6d7be00c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -16,10 +16,10 @@ ht-degree: 0%
 ---
 
 
-# Enable external data integrations in channel authoring
+# チャネルオーサリングで外部データ統合を有効にする
 
-Discover how to integrate external data and content into Adobe Journey Optimizer. This helps you enhance personalization and improve engagement in outbound channels. Watch the video below to learn more.
+Adobe Journey Optimizerに外部データとコンテンツを統合する方法をご確認ください。 これにより、パーソナライゼーションを強化し、アウトバウンドチャネルでのエンゲージメントを向上させることができます。 Adobe Experience Managerに関する詳細は、動画をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-See the Adobe Journey Optimizer [product documentation](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/vendor-integration) for more information.
+詳しくは、Adobe Journey Optimizer [製品ドキュメント ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration)を参照してください。
