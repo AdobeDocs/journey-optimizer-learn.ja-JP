@@ -24,7 +24,7 @@ ht-degree: 100%
 
 サンプルの iOS モバイルマーケティングアプリでプッシュチャネル通知を設定および検証する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449623/?captions=jpn&learn=on)
 
 詳しくは、製品ドキュメントを参照してください。
 

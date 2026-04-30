@@ -22,4 +22,4 @@ ht-degree: 100%
 
 AJO の決定を使用して、SMS コンテンツをパーソナライズおよび最適化する方法について説明します。 エンゲージメントを向上させ、ビジネス目標を達成するために SMS メッセージを強化します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479530/?captions=jpn&learn=on&enablevpops)
