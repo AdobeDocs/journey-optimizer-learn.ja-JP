@@ -6,7 +6,7 @@ landing-page-name: journey-optimizer
 landing-page-breadcrumb-title: Journey Optimizer
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.en
+git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.ja-JP
 index: true
 auto-video-transcripts: true
 source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
