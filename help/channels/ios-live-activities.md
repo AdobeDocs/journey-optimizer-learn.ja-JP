@@ -1,6 +1,6 @@
 ---
-title: iOSのライブアクティビティ
-description: iOS Live アクティビティをAdobe Journey Optimizerと連携して設定し、iPhoneのロック画面と Dynamic Island でリッチなリアルタイム更新を提供する方法について説明します。
+title: iOS ライブアクティビティ
+description: iOS ライブアクティビティを Adobe Journey Optimizer と連携して設定し、iPhone のロック画面と Dynamic Island でリッチなリアルタイム更新を提供する方法について説明します。
 feature: Channel Configuration
 topic: Mobile
 role: Admin, Developer, User
@@ -15,12 +15,12 @@ exl-id: f474f1bb-efeb-44fd-9c62-09afdf81ee03
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# iOSのライブアクティビティ
+# iOS ライブアクティビティ
 
-iOS Live アクティビティをAdobe Journey Optimizerと連携して設定し、iPhoneのロック画面と Dynamic Island でリッチなリアルタイム更新を提供する方法について説明します。
+iOS ライブアクティビティを Adobe Journey Optimizer と連携して設定し、iPhone のロック画面と Dynamic Island でリッチなリアルタイム更新を提供する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479865/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)

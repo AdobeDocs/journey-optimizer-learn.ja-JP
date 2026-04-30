@@ -15,7 +15,7 @@ exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 87%
 
 Journey Optimizer チャネルでデータ使用ポリシーを適用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434906/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
 Journey Optimizer での[データガバナンス](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/action-privacy-restricted)と[同意ポリシーの使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。

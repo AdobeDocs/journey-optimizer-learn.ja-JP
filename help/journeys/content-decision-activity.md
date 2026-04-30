@@ -14,13 +14,13 @@ exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# ジャーニーキャンバスでのコンテンツ決定アクティビティ
+# ジャーニーキャンバスのコンテンツ決定アクティビティ
 
-ジャーニーキャンバスのコンテンツ決定アクティビティを使用して、パーソナライズされたコンテンツオファーにAdobe Journey Optimizer Decisioning を活用する方法を説明します。 この機能を使用して、取得したオファーに基づいてプロファイルをルーティングしたり、外部システムにオファーを送信したりすることが可能になり、ジャーニーの有効性とパーソナライゼーションが強化されます。
+ジャーニーキャンバスのコンテンツ決定アクティビティを使用して、パーソナライズされたコンテンツオファーに Adobe Journey Optimizer の決定を活用する方法を説明します。 この機能を使用して、取得したオファーに基づいてプロファイルをルーティングしたり、外部システムにオファーを送信したりすることが可能になり、ジャーニーの有効性とパーソナライゼーションが強化されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479108/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 

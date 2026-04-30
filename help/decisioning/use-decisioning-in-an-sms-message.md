@@ -1,6 +1,6 @@
 ---
-title: SMS メッセージでの決定機能の使用
-description: AJO Decisioningで、SMS コンテンツをパーソナライズおよび最適化して、エンゲージメントを向上させる方法をご確認ください。
+title: SMS メッセージでの決定の使用
+description: AJO の決定で、SMS コンテンツをパーソナライズおよび最適化して、エンゲージメントを向上させる方法について説明します。
 feature: Decisioning, SMS
 role: User
 level: Intermediate
@@ -14,12 +14,12 @@ exl-id: 60b29c0c-c3a5-4a20-9298-68119f4d4cc6
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SMS メッセージでの決定機能の使用
+# SMS メッセージでの決定の使用
 
-AJO Decisioningを使用してSMS コンテンツをパーソナライズし、最適化する方法を説明します。 エンゲージメントを向上させ、ビジネス目標を達成するためにSMS メッセージを強化します。
+AJO の決定を使用して、SMS コンテンツをパーソナライズおよび最適化する方法について説明します。 エンゲージメントを向上させ、ビジネス目標を達成するために SMS メッセージを強化します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479530/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)

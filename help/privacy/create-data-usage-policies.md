@@ -14,7 +14,7 @@ exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -28,6 +28,6 @@ ht-degree: 92%
 >
 >Journey Optimizer チャネルでポリシーを適用する方法について詳しくは、この[チュートリアル](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/37133/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
 Journey Optimizer での[同意ポリシーの使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。

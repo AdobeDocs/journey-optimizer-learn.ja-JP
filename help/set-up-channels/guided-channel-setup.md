@@ -14,7 +14,7 @@ exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 93%
 
 サンプルの iOS モバイルマーケティングアプリでプッシュチャネル通知を設定および検証する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449623/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 詳しくは、製品ドキュメントを参照してください。
 
