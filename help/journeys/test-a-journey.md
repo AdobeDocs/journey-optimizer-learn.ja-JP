@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: b0725be6-2a3d-46cf-b78a-d53b6a88d112
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '22'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 テストプロファイルの作成方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416426?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334236?quality=12&learn=on){transcript=true}

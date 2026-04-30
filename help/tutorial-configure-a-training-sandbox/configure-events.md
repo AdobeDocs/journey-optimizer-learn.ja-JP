@@ -9,8 +9,8 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
-source-wordcount: '162'
+workflow-type: ht
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 次のビデオでは、イベントの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431517?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 
 ## Luma オンライン購入イベントの作成
 
@@ -59,7 +59,7 @@ ht-degree: 100%
 | [!UICONTROL 名前] | `LumaProductRestock` |
 | [!UICONTROL タイプ] | [!UICONTROL ビジネス] |
 | [!UICONTROL スキーマ] | [!DNL Luma Product Inventory Event Schema] |
-| [!UICONTROL フィールド] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>名前<br>価格<br> ImageURL<br>説明 |
-| [!UICONTROL 条件] | LumaProductRestock。_`your organization's ID`.inventoryEvent.stockEventType は restock です |
+| [!UICONTROL フィールド] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>名前<br>価格<br> ImageURL<br>説明 |
+| [!UICONTROL 条件] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType は restock です |
 
-おめでとうございます。これで、サンドボックスを使用する準備が整いました。
+おめでとうございます。 これで、サンドボックスを使用する準備が整いました。

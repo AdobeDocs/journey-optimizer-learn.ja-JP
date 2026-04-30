@@ -1,30 +1,26 @@
 ---
-title: ルックアップデータセットの作成
-description: ジャーニーで使用するルックアップデータセットの作成
+title: 参照データセットの作成
+description: ジャーニーで使用する参照データセットを作成します
 feature: Journeys
 role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2026-01-15T00:00:00Z
 jira: KT-20124
-source-git-commit: 3ac6b2e3de7a01bbfa06e951c08eb571fc8f811e
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 0%
+exl-id: f30b7f74-644e-48e1-99ec-230f94dc56e6
+source-git-commit: 8be60011054e465b86685b626f7f924c5f6039c3
+workflow-type: ht
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
-# ルックアップデータセットの作成
+# 参照データセットの作成
 
-データセットルックアップを使用すると、Adobe Journey Optimizerは、ジャーニー実行時にAdobe Experience Platform データセットから参照データまたはトランザクションデータを取得できます。そのデータをリアルタイム顧客プロファイルに保存する必要はありません。
+データセット参照を使用すると、Adobe Journey Optimizer は、リアルタイム顧客プロファイルにデータを保存することなく、ジャーニー実行時に Adobe Experience Platform データセットから参照データまたはトランザクションデータを取得できます。
 
-このユースケースでは、ユーザーが投資環境設定フォーム（株式、債券、またはCD）を送信すると、ジャーニーは参照データセットから対応する投資の詳細を動的に検索し、その情報を使用してメールをパーソナライズします。
+このユースケースでは、ユーザーが投資希望フォーム（株式、債券または譲渡性預金（CD））を送信すると、ジャーニーは参照データセットから対応する投資の詳細を動的に検索し、その情報を使用してメールをパーソナライズします。
 
-**ルックアップデータセットの作成**
+**参照データセットの作成**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478761?captions=jpn)
-
-
-
-
-
+>[!VIDEO](https://video.tv.adobe.com/v/3478760)

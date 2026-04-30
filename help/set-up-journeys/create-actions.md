@@ -11,8 +11,8 @@ role: Admin, Developer
 level: Beginner
 exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
 source-git-commit: f273f8f14dc42c65e4989142d16ac967cb0cc26c
-workflow-type: tm+mt
-source-wordcount: '69'
+workflow-type: ht
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Journey Optimizer でのアクションの概要、プロファイルを編集とジャンプアクションの使用方法、カスタムアクションの設定方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430280?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
 
 [カスタムアクションの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}方法について詳しくは、製品ドキュメントを参照してください。

@@ -1,6 +1,6 @@
 ---
 title: 注文確認メールの作成
-description: トランザクションメッセージの作成方法とパーソナライズ方法に関する知識をテストします。
+description: トランザクションメッセージの作成方法とパーソナライズ方法に関する知識をテストする。
 jira: KT-7531
 feature: Journeys
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '688'
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 98%
 
 ## ストーリー
 
-Luma はオンラインストアを立ち上げようとしており、優れたカスタマーエクスペリエンス（顧客体験）を実現したいと考えています。顧客が注文したら、顧客に注文確認メールを送信します。
+Luma はオンラインストアを立ち上げようとしており、優れたカスタマーエクスペリエンス（顧客体験）を実現したいと考えています。 顧客が注文したら、顧客に注文確認メールを送信します。
 
 ## 課題
 
@@ -71,7 +71,7 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
   <td>
   <div>
     <strong>注文確認セクション
- </strong>
+    </strong>
   </td>
   <td>
     <p>
@@ -80,32 +80,32 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
    <div>
     <p>
      <em>注文が完了しました。
-    <p>パッケージが出荷されると、追跡番号が記載されたメールが送信されますので、注文を追跡できます。</p></em>
+    <p>パッケージが出荷されると、注文を追跡できるよう、追跡番号が記載されたメールをお送りします。</p></em>
     </strong>
     </tr>
   </td>
  <td>
   <div>
-     <strong>出荷先セクション</strong>
+     <strong>配送先セクション</strong>
       </div>
       <p>
       <li>姓と名はプロファイルから取り込まれます。
-      <li>テンプレートのハードコーディングされた住所を<b>出荷先住所</b>に置き換えます
+      <li>テンプレート内のハードコードされた住所を<b>配送先住所</b>に置き換えます
       <li>住所の詳細は、イベントから得られるコンテキスト属性（番地 1、市区町村、郵便番号、都道府県）です。
-      <li> <i>ディスカウント、合計、到着</i>の削除</p>
+      <li> <i>ディスカウント、合計、到着</i>を削除</p>
   </td>
   <td>
-  <p> 出荷先：</p>
+  <p> 配送先：</p>
       <em>{firstName} {lastName}<br>
- {Street 1}<br>
- {City}、{State}、{postalCode}<br></em></p>
+     {Street 1}<br>
+     {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>注文の詳細セクション</strong>
       </div>
-       <p><li>このセクションを<b>出荷先</b>セクションの下に追加します。
+       <p><li>このセクションを<b>配送先先</b>セクションの下に追加します。
       </p><br>
       <p><b>ヒント：</b>
       <li>このセクションには、構造コンポーネント <b>1:2 列左</b>を使用します
@@ -118,13 +118,14 @@ Luma の顧客がオンラインでの注文を完了したときに注文確認
     <p>
   注文：<em>{purchaseOrderNumber}</em>
     </p>
-    <strong>注文された製品のリスト：</strong>
+    <strong>注文された製品のリスト：
+  </strong>
   <p>注文の各製品を、画像、価格、名前と共にリストします。
   <p>各項目のレイアウトは次のようになります。
- <img alt="順序" src="./assets/c2-order.png"> 
+   <img alt="注文" src="./assets/c2-order.png"> 
 <p><b>リンクを買い物かごに追加</b>
-<p>URL 内の注文 ID を発注番号に置き換えます。
- <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
+<p>URL 内の注文 ID を注文書番号に置き換えます。
+   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
@@ -202,7 +203,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **製品のリスト：**
 
-ヘルパー関数「each」を使用して、製品のリストを作成します。テーブルに表示します。コードは、次のようになります（イベント ID などの特定の変数を `454181416` の代わりに使用し、`techmarketingdemos` の代わりに組織 I を使用します）。
+ヘルパー関数「each」を使用して、製品のリストを作成します。 テーブルに表示します。 コードは、次のようになります（イベント ID などの特定の変数を `454181416` の代わりに使用し、`techmarketingdemos` の代わりに組織 I を使用します）。
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}

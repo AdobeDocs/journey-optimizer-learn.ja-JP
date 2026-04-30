@@ -1,6 +1,6 @@
 ---
 title: カスタムアクションの監視
-description: カスタムアクションを使用して、ジャーニーからサードパーティのエンドポイントに対する HTTP 呼び出しの動作の正常性とパフォーマンスを効果的に監視する方法を調べます。 配信に影響する可能性のある HTTP エラー、待ち時間のボトルネック、キャッピングの問題を可視化
+description: カスタムアクションを使用して、サードパーティのエンドポイントに対してジャーニーから実行される HTTP 呼び出しの運用の健全性とパフォーマンスを効果的に監視する方法について説明します。配信に影響を与える可能性がある HTTP エラー、待ち時間のボトルネック、キャップの問題を可視化します。
 feature: Custom Actions, Reporting
 role: Admin
 level: Intermediate, Experienced
@@ -8,21 +8,20 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2026-02-03T00:00:00Z
 jira: KT-20238
-source-git-commit: 6b732078afdde597f35d764d27064640fc05f44e
-workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 16%
+exl-id: ec9745d1-714a-4934-aa93-a37815f6b26f
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+workflow-type: ht
+source-wordcount: '119'
+ht-degree: 100%
 
 ---
 
-
 # カスタムアクションの監視
 
-カスタムアクションを使用して、ジャーニーからサードパーティのエンドポイントに対する HTTP 呼び出しの動作の正常性とパフォーマンスを効果的に監視する方法を調べます。 配信に影響を与える可能性のある HTTP エラー、待ち時間のボトルネック、キャッピングの問題を可視化します。
+カスタムアクションを使用して、サードパーティのエンドポイントに対してジャーニーから実行される HTTP 呼び出しの運用の健全性とパフォーマンスを効果的に監視する方法について説明します。配信に影響を与える可能性がある HTTP エラー、待ち時間のボトルネック、キャップの問題を可視化します。
 
-このレポートは、問題を特定し、ジャーニーのパフォーマンスを向上させ、スムーズな運用を確保するのに役立ちます。
+このレポートは、問題の特定、ジャーニーのパフォーマンスの強化、スムーズな運用の確保に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479542/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)を参照してください。
-
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configure-journeys/action-journeys/report)を参照してください。

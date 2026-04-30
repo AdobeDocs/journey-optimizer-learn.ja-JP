@@ -8,8 +8,8 @@ role: Admin
 level: Beginner
 auto-video-transcripts: true
 source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
-workflow-type: tm+mt
-source-wordcount: '63'
+workflow-type: ht
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 + [トレーニングサンドボックスの設定](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
 + 手順 1：データ構造の設定とサンプルデータの読み込み {#set-up-data-structure-and-ingest-data}
-   + [Postman を使用したデータ構造の設定とサンプルデータの読み込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=ja)
+   + [Postman を使用したデータ構造の設定とサンプルデータのインポート](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=ja)
    + [データ構造の設定（手動）](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [サンプルデータの読み込み（手動）](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [手順 2：イベントの設定](/help/tutorial-configure-a-training-sandbox/configure-events.md)
