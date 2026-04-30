@@ -21,4 +21,4 @@ ht-degree: 100%
 
 SMS のダブルオプトインを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440273/?captions=jpn&learn=on)

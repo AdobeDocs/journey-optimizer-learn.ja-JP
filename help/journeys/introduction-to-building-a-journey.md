@@ -22,4 +22,4 @@ ht-degree: 100%
 
 ジャーニーキャンバスでジャーニーを作成するための基本を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430350?captions=jpn&quality=12&learn=on){transcript=true}

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このレポートは、問題の特定、ジャーニーのパフォーマンスの強化、スムーズな運用の確保に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479542/?captions=jpn&learn=on&enablevpops)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configure-journeys/action-journeys/report)を参照してください。
