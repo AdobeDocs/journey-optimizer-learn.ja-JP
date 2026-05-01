@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
+source-git-commit: d394b0e73b0606d68c19bc97e40869a4e41c4dde
 workflow-type: tm+mt
-source-wordcount: '1380'
-ht-degree: 99%
+source-wordcount: '1422'
+ht-degree: 96%
 
 ---
 
@@ -45,23 +45,25 @@ ht-degree: 99%
    + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
    + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
-   + [ユースケース - トランザクションジャーニー](/help/journeys/use-case-transactional-journey.md)
-   + [ユースケース - ビジネスイベント](/help/journeys/use-case-business-event.md)
-   + [ユースケース - オーディエンスを読み取り](/help/journeys/use-case-read-audience.md)
-   + [ユースケース - オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)
    + [複数属性フィルタリングの習得](/help/journeys/mastering-multi-attribute-filtering.md)
    + [ジャーニードライランを使用したジャーニーロジックの検証](/help/journeys/journey-dry-run.md)
    + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [ライブジャーニーのコンテンツの更新](/help/journeys/update-content-in-live-journey.md)
    + [別のサンドボックスにジャーニーをコピー](/help/journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [使用例] {#use-cases}
+      + [ユースケース - トランザクションジャーニー](/help/journeys/use-case-transactional-journey.md)
+      + [ユースケース - ビジネスイベント](/help/journeys/use-case-business-event.md)
+      + [ユースケース - オーディエンスを読み取り](/help/journeys/use-case-read-audience.md)
+      + [ユースケース - オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)
+   + [チュートリアル]{#tutorials}
+      + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + ロイヤルティ {#loyalty}
    + [ロイヤルティの課題の作成](/help/loyalty/create-a-loyalty-challenge.md)
 + 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
    + [ジャーニーのフリークエンシーキャップと優先度](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-
    + [クワイエットアワー](/help/business-rules/configure-and-apply-quiet-hours.md)
 + プロファイル、オーディエンスおよび購読 {#profiles-audiences-subscriptions}
    + [プロファイルとオーディエンス - 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
@@ -153,17 +155,22 @@ ht-degree: 99%
    + [Experimentation Agent - 概要](/help/ai-agents/experimentation-agent-overview.md)
 + 決定機能{#decision-capabilities}
    + 決定 {#decisioning}
-      + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
-      + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
-      + [式ビルダーインタフェイスの操作](/help/decisioning/formula-builder-ui.md)
-      + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
-      + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [リアルタイムの天候データを使用してオファーをパーソナライズする](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [AI モデルインサイト](/help/decisioning/ai-model-insights.md)
-      + [メールチャネルでの決定の使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-      + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
-      + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + 意思決定の基本 {#fundamentals}
+         + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
+         + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
+         + [式ビルダーインタフェイスの操作](/help/decisioning/formula-builder-ui.md)
+         + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
+         + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+         + [AI モデルインサイト](/help/decisioning/ai-model-insights.md)
+      + メッセージをパーソナライズするための決定機能の適用 {#content-and-offers}
+         + [メールでの決定機能の概要](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [決定機能を使用したメールのパーソナライゼーション（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+         + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
+         + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
+         + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+      + 外部トリガーやインタラクションによる意思決定のトリガー
+         + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+         + [リアルタイムの気象データでオファーをパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -177,7 +184,6 @@ ht-degree: 99%
       + [決定の作成](/help/decision-management/create-decisions.md)
       + [意思決定 API を使用したオファーの配信](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [フリークエンシーキャップ](/help/decision-management/frequency-capping.md)
-   + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + データ管理 {#data-management}
    + [概要](/help/data-management/set-up-data-overview.md)
    + [スキーマの作成](/help/data-management/create-schema.md)
