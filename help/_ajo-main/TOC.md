@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 1a5852226764c45bbcc4c7e2a9c698d3d6447e9b
+source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1434'
 ht-degree: 96%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 96%
    + 調整されたキャンペーン {#orchestrated-campaigns}
       + [調整されたキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [リレーショナルストアの基本](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
+      + [オーケストレーションされたキャンペーンのスキーマとデータセットを設定する](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
+      + [オーケストレーションされたキャンペーンの構築](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + ジャーニー {#journeys}
    + [ジャーニーデザイナー - 概要](/help/journeys/journey-designer-overview.md)
    + [Journey Agent - 概要](/help/ai-agents/journey-agent-overview.md)
@@ -168,7 +170,7 @@ ht-degree: 96%
          + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
          + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-      + 外部トリガーやインタラクションによるトリガー上の意思決定 {#triggers}
+      + 外部トリガーやインタラクションによるトリガー上の意思決定 {#trigger}
          + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
          + [リアルタイムの気象データでオファーをパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + 意思決定管理 {#decision-management}
