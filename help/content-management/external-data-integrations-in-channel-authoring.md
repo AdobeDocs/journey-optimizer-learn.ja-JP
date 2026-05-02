@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Adobe Journey Optimizerに外部データとコンテンツを統合する方法をご確認ください。 これにより、パーソナライゼーションを強化し、アウトバウンドチャネルでのエンゲージメントを向上させることができます。 Adobe Experience Managerに関する詳細は、動画をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484119/?captions=jpn&learn=on&enablevpops)
 
 詳しくは、Adobe Journey Optimizer [製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/vendor-integration)を参照してください。
