@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
+source-git-commit: 5952c9421ea5138783bc6493a7b79c0494936b45
 workflow-type: tm+mt
 source-wordcount: '1434'
 ht-degree: 96%
@@ -164,7 +164,7 @@ ht-degree: 96%
          + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
          + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
          + [AI モデルインサイト](/help/decisioning/ai-model-insights.md)
-      + メッセージをパーソナライズするための決定機能の適用 {#content-and-offers}
+      + 決定機能を使用したメッセージのパーソナライゼーション {#use-decisioning}
          + [メールでの決定機能の概要](/help/decisioning/introduction-to-decisioning-in-emails.md)
          + [決定機能を使用したメールのパーソナライゼーション（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
          + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
