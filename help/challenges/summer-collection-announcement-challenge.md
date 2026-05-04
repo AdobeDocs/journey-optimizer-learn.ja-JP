@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
 
@@ -117,9 +117,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
          * 件名：*（受信者の名）様、Luma のレディースコレクションを探索してください。*
          * メール本文： `WomensCollectionEmail.html`
       * その他の顧客には、**Luma - 20％オフコレクション**&#x200B;メールが届きます。
-      * メッセージタイトル：*Luma - 20％オフコレクション*
-      * 件名：*（受信者の名）様、20％オフのセールをお楽しみください。*
-      * メール本文：`20OOffCollectionEmail.html`
+         * メッセージタイトル：*Luma - 20％オフコレクション*
+         * 件名：*（受信者の名）様、20％オフのセールをお楽しみください。*
+         * メール本文：`20OOffCollectionEmail.html`
    1. 上記のターゲットメールを送信した後、メールが開封されるまで 2 日間待ちます
    1. ターゲットメールが 2 日以内に開かれない場合は、最後のリターゲティング試行として **Luma - 20％オフコレクションのメール**&#x200B;を送信します
 
@@ -201,7 +201,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 2 通目のメールを開くと、ジャーニーは終了します。
 1. 手順 4 - 7. 3 つのプロファイルで、分岐が正しく動作しているかどうかを確認してください。
 1. タイムアウトをテストするには、待機時間を 30 秒に設定し、再度エントリをトリガーします。
-1. 受信したメールを開かず（メールをプレビューしないでください（！））、待機時間が経過するのを待ちます。
+1. 受信したメールを開かず（メールをプレビューしないでください（！））、 待機時間が経過するのを待ちます。
 
 次のメールが届きます。
 

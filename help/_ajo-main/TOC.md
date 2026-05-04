@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 5952c9421ea5138783bc6493a7b79c0494936b45
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
 workflow-type: tm+mt
 source-wordcount: '1434'
 ht-degree: 96%
@@ -162,17 +162,17 @@ ht-degree: 96%
          + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
          + [式ビルダーインタフェイスの操作](/help/decisioning/formula-builder-ui.md)
          + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
-         + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+         + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
          + [AI モデルインサイト](/help/decisioning/ai-model-insights.md)
       + 決定機能を使用したメッセージのパーソナライゼーション {#use-decisioning}
          + [メールでの決定機能の概要](/help/decisioning/introduction-to-decisioning-in-emails.md)
-         + [決定機能を使用したメールのパーソナライゼーション（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+         + [決定機能を使用したメールのパーソナライゼーション（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
          + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
          + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + 外部トリガーやインタラクションによるトリガー上の意思決定 {#trigger}
-         + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-         + [リアルタイムの気象データでオファーをパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+         + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
+         + [リアルタイムの気象データでオファーをパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -260,7 +260,7 @@ ht-degree: 96%
       + [プレイブックインスタンスの作成と公開](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 演習、ラボ、課題 {#exercises-and-challenges}
    + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-   + [課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+   + [課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
    + サミットラボ {#summit-labs}
       + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
