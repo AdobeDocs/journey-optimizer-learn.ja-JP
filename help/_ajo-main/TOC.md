@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 1ac487c9207703fb89cbc0bd1f1b7113f2ee18e8
+source-git-commit: 26f6ddfc8a6395635038d0efdce9aa5c23122bca
 workflow-type: tm+mt
 source-wordcount: '1448'
 ht-degree: 93%
@@ -53,12 +53,12 @@ ht-degree: 93%
    + [ライブジャーニーのコンテンツの更新](/help/journeys/update-content-in-live-journey.md)
    + [別のサンドボックスにジャーニーをコピー](/help/journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [使用例] {#use-cases}
+   + ユースケース {#use-cases}
       + [ユースケース - トランザクションジャーニー](/help/journeys/use-case-transactional-journey.md)
       + [ユースケース - ビジネスイベント](/help/journeys/use-case-business-event.md)
       + [ユースケース - オーディエンスを読み取り](/help/journeys/use-case-read-audience.md)
       + [ユースケース - オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)
-   + [チュートリアル]{#tutorials}
+   + チュートリアル{#tutorials}
       + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + ロイヤルティ {#loyalty}
    + [ロイヤルティの課題の作成](/help/loyalty/create-a-loyalty-challenge.md)
@@ -244,7 +244,7 @@ ht-degree: 93%
 + AI アシスタントとエージェント {#ai-assistant}
    + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agentによるジャーニーの分析と構築](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey Agentによるジャーニーの分析と構築](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
