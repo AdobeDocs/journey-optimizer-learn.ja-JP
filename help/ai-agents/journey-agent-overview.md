@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizerに組み込まれたAI アシスタントであるJourney Agentを使用して、ライブジャーニーを分析し、オーディエンスの競合とプロファイルのフォールアウトを特定し、自然言語を使用して包括的なマルチステップジャーニーを作成する方法を説明します。 この動画では、Journey Agentが、AI アシスタントを離れることなく、透明性の高いインサイト、実用的なレコメンデーション、ガイド付きの承認を提供し、既存のジャーニーのトラブルシューティングや新しいジャーニーの構築をどのように迅速におこなうことができるかをご紹介します
 
->[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486295/?captions=jpn&learn=on&enablevpops)
