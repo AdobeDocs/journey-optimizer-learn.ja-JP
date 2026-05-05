@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
 workflow-type: tm+mt
-source-wordcount: '1434'
-ht-degree: 96%
+source-wordcount: '1421'
+ht-degree: 95%
 
 ---
 
@@ -244,7 +244,7 @@ ht-degree: 96%
 + AI アシスタント {#ai-assistant}
    + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Journey Agent](/help/ai-agents/journey-agent-overview.md)
    + [Experimentation Agent - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)

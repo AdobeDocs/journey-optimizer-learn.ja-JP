@@ -1,24 +1,23 @@
 ---
-title: Journey エージェントの概要
-description: Journey エージェントは、AI を使用して、対話型インターフェイスを通じて B2B／B2C ジャーニーを作成、分析、最適化します。
-feature: AI Assistant, Journeys
-feature-set: Journey Optimizer, Experience Platform
-role: User, Developer, Leader, Admin
+title: AIを活用したJourney Agentでジャーニーを分析する
+description: Adobe Journey OptimizerでJourney Agentを利用して、ライブジャーニーを分析し、問題を特定して、マルチステップのジャーニーを構築する方法を、実用的なインサイトとともに解説します。
+feature: null
+role: User
 level: Beginner
-last-substantial-update: 2025-10-08T00:00:00Z
-jira: KT-19109
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+doc-type: Feature Video
+duration: 308
+last-substantial-update: 2026-05-05T00:00:00Z
+jira: KT-21114
+source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Journey エージェントの概要
 
-Real-Time Customer Data Platform、Journey Optimizer、Customer Journey Analytics などの Adobe Experience Platform ベースのアプリケーションで AI アシスタントを使用して実行できることを説明します。
+# Journey Agentによるジャーニーの分析と構築
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+Adobe Journey Optimizerに組み込まれたAI アシスタントであるJourney Agentを使用して、ライブジャーニーを分析し、オーディエンスの競合とプロファイルのフォールアウトを特定し、自然言語を使用して包括的なマルチステップジャーニーを作成する方法を説明します。 この動画では、Journey Agentが、AI アシスタントを離れることなく、透明性の高いインサイト、実用的なレコメンデーション、ガイド付きの承認を提供し、既存のジャーニーのトラブルシューティングや新しいジャーニーの構築をどのように迅速におこなうことができるかをご紹介します
 
-Journey Optimizer でサポートされているユースケースについて詳しくは、[AI アシスタントの操作](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/ai-assistant)を参照してください。ドキュメントについて詳しくは、[Adobe Experience Platform の AI アシスタント](https://experienceleague.adobe.com/ja/docs/experience-platform/ai-assistant/home)ドキュメントを参照してください。
-
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
