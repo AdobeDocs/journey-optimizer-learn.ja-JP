@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
+source-git-commit: c5adf39e71b3f7cfa7d15a8fe2e77aef5d9a4cd1
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 95%
 
 ---
@@ -241,10 +241,10 @@ ht-degree: 95%
    + [データ使用ポリシーの作成](/help/privacy/create-data-usage-policies.md)
    + [Journey Optimizer チャネルでのデータ使用ポリシーの適用](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [メッセージ内のマスクデータ](/help/privacy/mask-data-in-messages.md)
-+ AI アシスタント {#ai-assistant}
++ AI アシスタントとエージェント {#ai-assistant}
    + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent](/help/ai-agents/journey-agent-overview.md)
+   + [Journey Agentによるジャーニーの分析と構築](/help/ai-agents/journey-agent-overview.md)
    + [Experimentation Agent - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
