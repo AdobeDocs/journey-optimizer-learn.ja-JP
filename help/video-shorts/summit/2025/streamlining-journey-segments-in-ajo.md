@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 53
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: a3707a3a-3840-4430-b1ce-5b7fc056e0ea
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%

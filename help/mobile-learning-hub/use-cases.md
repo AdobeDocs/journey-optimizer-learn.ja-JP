@@ -5,12 +5,11 @@ feature: Overview
 role: User
 level: Beginner, Intermediate
 hide: true
-hidefromtoc: true
 index: false
 jira: KT-19872
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: c61ece71-58cd-448e-a421-50ba89134713
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 2%

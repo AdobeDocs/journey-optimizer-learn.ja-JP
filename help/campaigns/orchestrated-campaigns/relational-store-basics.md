@@ -8,11 +8,10 @@ doc-type: Feature Video
 duration: 443
 last-substantial-update: 2025-08-01T00:00:00Z
 hide: false
-hidefromtoc: false
 index: true
 jira: KT-18519
 exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
