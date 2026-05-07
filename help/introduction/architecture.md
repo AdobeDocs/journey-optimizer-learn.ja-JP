@@ -10,8 +10,7 @@ role: Admin, Developer
 level: Beginner
 exl-id: 33b8ee09-4cd8-475c-bf8e-a7934eff19a1
 hide: true
-hidefromtoc: true
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -22,4 +21,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer の基本的なアーキテクチャ、統合のポイント、Journey Optimizer と他のアドビアプリケーションとの関係を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416053?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){transcript=true}

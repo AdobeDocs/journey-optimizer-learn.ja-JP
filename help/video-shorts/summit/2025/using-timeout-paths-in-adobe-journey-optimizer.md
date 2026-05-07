@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 37
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 3af0b8fb-06de-4e9d-a605-1e917468fecb
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 プロファイルをジャーニーに沿って移動させるタイムアウトパスを設定して、Adobe Journey Optimizerでタイムアウトとエラーを処理する方法を説明します。
 
 <!-- 62_S522_3442522_36_using-timeout-paths-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460466/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458213/?learn=on&enablevpops=true)

@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 26f6ddfc8a6395635038d0efdce9aa5c23122bca
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '1448'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 93%
    + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer の概要](/help/introduction/introduction.md)
    + [主な機能とユーザーインターフェイス](/help/introduction/key-capabilities-and-user-interface.md)
-   + [アーキテクチャ](/help/introduction/architecture.md)
+   + {hide-from-toc}[アーキテクチャ](/help/introduction/architecture.md)
    + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
    + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
    + [AI アシスタントに関するお問い合わせ](/help/ai-agents/ai-assistant.md)
@@ -41,7 +41,7 @@ ht-degree: 93%
 + ジャーニー {#journeys}
    + [ジャーニーデザイナー - 概要](/help/journeys/journey-designer-overview.md)
    + [Journey Agentによるジャーニーの分析と構築](/help/ai-agents/journey-agent-overview.md)
-   + [新しいジャーニー designer について](/help/journeys/new-journey-designer.md)
+   + {hide-from-toc}[新しいジャーニーを見つけるDesigner](/help/journeys/new-journey-designer.md)
    + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
    + [ジャーニーでのデータセット参照の使用](/help/journeys/lookup-dataset.md)
    + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
@@ -61,7 +61,7 @@ ht-degree: 93%
    + チュートリアル{#tutorials}
       + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + ロイヤルティ {#loyalty}
-   + [ロイヤルティの課題の作成](/help/loyalty/create-a-loyalty-challenge.md)
+   + {hide-from-toc}[ ロイヤルティチャレンジを作成](/help/loyalty/create-a-loyalty-challenge.md)
 + 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -69,7 +69,7 @@ ht-degree: 93%
    + [クワイエットアワー](/help/business-rules/configure-and-apply-quiet-hours.md)
 + プロファイル、オーディエンスおよび購読 {#profiles-audiences-subscriptions}
    + [プロファイルとオーディエンス - 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-   + [統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + {hide-from-toc}[統合プロファイルとセグメント化 – 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Web SDK を使用したオーディエンスの作成（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
@@ -115,7 +115,7 @@ ht-degree: 93%
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [WhatsApp（エンドツーエンド）の基本を学ぶ](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[WhatsAppの使用を開始する（エンドツーエンド） ](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp チャネルの概要](/help/channels/whatsapp-introduction.md)
       + [WhatsApp チャネルの設定](/help/channels/set-up-whatsapp.md)
       + [WhatsApp ジャーニーの作成](/help/channels/create-a-whatsapp-journey.md)
@@ -230,9 +230,9 @@ ht-degree: 93%
    + ビジネスルール {#business-rules}
       + [フリークエンシーキャップルールの設定](/help/business-rules/configure-frequency-capping-rules.md)
       + [ルールセットの操作](/help/business-rules/work-with-rule-sets.md)
-      + [頻度ルールのテストとレポート](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[頻度ルールのテストとレポート ](/help/business-rules/test-and-report-on-frequency-rules.md)
 + アクセス制御 {#access-control}
-   + [アクセス管理](/help/set-up-access/access-management.md)
+   + {hide-from-toc}[アクセス管理](/help/set-up-access/access-management.md)
    + [属性ベースのアクセス制御を設定](/help/administration/attribute-based-access-control.md)
    + [サンドボックスの使用](/help/set-up-access/create-and-manage-sandboxes.md)
 + データガバナンスとプライバシー {#data-governance-and-privacy}
@@ -244,7 +244,7 @@ ht-degree: 93%
 + AI アシスタントとエージェント {#ai-assistant}
    + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agentによるジャーニーの分析と構築](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey Agentによるジャーニーの分析と構築](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)

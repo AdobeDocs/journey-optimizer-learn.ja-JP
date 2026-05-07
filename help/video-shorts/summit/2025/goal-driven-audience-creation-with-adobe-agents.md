@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 282
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 591d06fb-4537-4103-bc35-670564f9465e
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 AdobeのAudience Agentなら、AI （人工知能）を利用して、リアルタイムのデータとマシンラーニング（機械学習）を活用して、正確な目標主導型のオーディエンスを構築できます。その方法をご確認ください。
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3460298/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)

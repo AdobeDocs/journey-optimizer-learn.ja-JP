@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 166
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: b2cf5965-611b-4731-8154-1348028bb2ec
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 Adobeが、プラットフォームを活用したソリューションを利用して、テストを拡大するための主要な障壁を特定し、対処した方法を紹介します。
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3460371/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)

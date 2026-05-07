@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 204
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 3a9d2c74-0fb8-47cb-8eb1-c7b70bae74cb
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 Adobe Journey OptimizerのAudience Agentが、オーディエンスの健全性を先見的にモニタリングして問題を特定し、エンゲージメントを強化するための実用的なソリューションを提案する方法をご覧ください。
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-monitoring-and-optimization -->
->[!VIDEO](https://video.tv.adobe.com/v/3460276/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458192/?learn=on&enablevpops=true)
