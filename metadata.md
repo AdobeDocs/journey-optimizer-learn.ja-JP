@@ -2,7 +2,8 @@
 cloud: Experience Cloud
 solution: Journey Optimizer
 feature-set: Journey Optimizer
-product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
 landing-page-name: journey-optimizer
 landing-page-breadcrumb-title: Journey Optimizer
 type: Tutorial
