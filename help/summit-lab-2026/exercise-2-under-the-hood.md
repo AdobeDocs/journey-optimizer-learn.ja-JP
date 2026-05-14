@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer Decisioningでオファー、コレクション、適格性ルールを設定して、どの顧客がどの商品オファーに適格かを制御する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491091/?captions=jpn&learn=on&enablevpops)
