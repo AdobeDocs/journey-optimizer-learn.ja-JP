@@ -11,9 +11,12 @@ thumbnail: 3418803.jpeg
 exl-id: aa553256-2738-4f4b-b5d4-b8836bd6b8d0
 autotag-review: '2026-05-14T18:17:08.835Z'
 TQID: 'https://experienceleague.adobe.com/3qiBKEWKDSOwC2oRXY-wQr1GLXdGEuZ4EmpiR5S3MRQ'
-product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2: id: a653cc2e-bc85-4353-a306-399e5b247978
-topic_v2: id: e9001ce2-5245-4a8e-8601-dd958009072f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: a653cc2e-bc85-4353-a306-399e5b247978
+topic_v2:
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
 source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
 workflow-type: tm+mt
 source-wordcount: 72
