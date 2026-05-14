@@ -1,21 +1,34 @@
 ---
-title: アプリ内メッセージの作成
+title: アプリ内メッセージを作成
 description: アプリ内メッセージを作成およびテストする方法について説明します。
 feature: In App
 role: User
 level: Beginner
 jira: KT-11161
 thumbnail: 3410471.jpg
-last-substantial-update: 2023-04-04T00:00:00Z
+last-substantial-update: '2023-04-04T00:00:00.000Z'
 exl-id: 4baf5361-c6ba-41f6-b2f8-476620ea0f57
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+autotag-review: '2026-05-14T18:18:39.311Z'
+TQID: 'https://experienceleague.adobe.com/PErVuDq409j0OMbbEJ9Cupc-lii-RR8T5BaAnndVljc'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: 32
 ht-degree: 100%
 
 ---
 
-# アプリ内メッセージの作成
+# アプリ内メッセージを作成
 
 アプリ内メッセージを作成およびテストする方法について説明します。
 

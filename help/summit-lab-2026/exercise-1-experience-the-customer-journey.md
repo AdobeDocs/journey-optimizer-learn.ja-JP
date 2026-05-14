@@ -8,8 +8,9 @@ doc-type: Technical Video
 duration: 198
 last-substantial-update: '2026-05-12T00:00:00.000Z'
 jira: KT-21187
+recommendations: noCatalog, noDisplay
 index: false
-autotag-review: '2026-05-12T21:22:14.691Z'
+autotag-review: '2026-05-14T18:09:41.572Z'
 TQID: 'https://experienceleague.adobe.com/fucOsInK4Kxj-4fjB-xpwp5v2wCoH7T-d6lklgPQjEo'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
@@ -23,7 +24,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-source-git-commit: e978831d1e9c711412018fd0d1f8b546779c971c
+source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
 workflow-type: tm+mt
 source-wordcount: 92
 ht-degree: 0%
@@ -35,4 +36,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizerがオーケストレーションし、リアルタイム SMSをトリガーする融資アプリケーションを通じて、匿名の訪問者からパーソナライズされた商品オファーを提供する登録ユーザーに至るまで、SecurFinancialのデモサイトでエンドツーエンドの顧客体験を体験してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3489999/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490180/?captions=jpn&learn=on&enablevpops)
