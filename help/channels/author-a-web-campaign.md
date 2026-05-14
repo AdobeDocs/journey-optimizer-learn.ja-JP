@@ -5,13 +5,18 @@ feature: Web Channel
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-04-22T00:00:00Z
+last-substantial-update: 2023-04-22T00:00:00.000Z
 jira: KT-13111
 thumbnail: 3418803.jpeg
 exl-id: aa553256-2738-4f4b-b5d4-b8836bd6b8d0
-source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+autotag-review: '2026-05-14T18:17:08.835Z'
+TQID: 'https://experienceleague.adobe.com/3qiBKEWKDSOwC2oRXY-wQr1GLXdGEuZ4EmpiR5S3MRQ'
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: a653cc2e-bc85-4353-a306-399e5b247978
+topic_v2: id: e9001ce2-5245-4a8e-8601-dd958009072f
+source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: 72
 ht-degree: 100%
 
 ---
@@ -23,4 +28,4 @@ Journey Optimizer キャンペーンで web ビジュアルエディターを使
 >[!NOTE]
 > Web サイトを Adobe Journey Optimizer に読み込めるようにするには、[Adobe Experience Cloud Visual Editing Helper Chrome 拡張機能](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca)をインストールする必要があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452636/?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}
