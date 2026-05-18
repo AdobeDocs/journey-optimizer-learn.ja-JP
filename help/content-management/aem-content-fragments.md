@@ -14,12 +14,18 @@ hide: false
 index: true
 autotag-review: '2026-05-18T17:12:02.826Z'
 TQID: 'https://experienceleague.adobe.com/63IDjz7UPLn4lqObJDQhry7qGM4xg59q-93KxHYdBi0'
-product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2: id: dc22c819-3f29-4e91-8b7d-5c6719831141
-subfeature_v2: id: c6e980f5-2d4f-494f-beef-186b9ecf1513
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2:
+  - id: c6e980f5-2d4f-494f-beef-186b9ecf1513
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
 workflow-type: tm+mt
 source-wordcount: 178
