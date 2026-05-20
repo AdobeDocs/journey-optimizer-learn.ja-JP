@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1453'
 ht-degree: 91%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 91%
    + [ライブジャーニーのコンテンツの更新](/help/journeys/update-content-in-live-journey.md)
    + [別のサンドボックスにジャーニーをコピー](/help/journeys/copy-a-journey.md)
    + [バッチセグメント化後の毎日のジャーニー実行のトリガー](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [ジャーニーノードをフラグメントとして保存](/help/journeys/journey-fragments.md)
    + ユースケース {#use-cases}
       + [ユースケース - トランザクションジャーニー](/help/journeys/use-case-transactional-journey.md)
       + [ユースケース - ビジネスイベント](/help/journeys/use-case-business-event.md)
