@@ -5,7 +5,7 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 11
+duration: 93
 last-substantial-update: '2026-05-20T00:00:00.000Z'
 jira: KT-21345
 autotag-review: '2026-05-20T23:14:06.458Z'
@@ -18,7 +18,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 3defd5900b460509d7dd859aab09d32778db5551
+source-git-commit: 2949be4c0b1ff5c6b4374c2f1c5b13ce20866f1a
 workflow-type: tm+mt
 source-wordcount: 84
 ht-degree: 0%
