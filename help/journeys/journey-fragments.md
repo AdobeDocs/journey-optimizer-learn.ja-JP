@@ -30,5 +30,5 @@ ht-degree: 0%
 
 Adobe Journey Optimizerで再利用可能なジャーニーフラグメントを作成する方法について説明します。 この機能により、ユーザーはジャーニーノードのセットをフラグメントとして保存し、他のジャーニーですばやく再利用できます。 フラグメントを利用することで、時間を節約し、ワークフローを合理化して、複数のジャーニーをまたいで一貫性を保つことができます。 詳細なチュートリアルと実用的な例については、組み込みビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491388/?captions=jpn&learn=on&enablevpops)
 
