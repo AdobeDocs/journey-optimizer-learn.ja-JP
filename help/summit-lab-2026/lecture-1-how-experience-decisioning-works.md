@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer Decisioningが、オファープールやコレクションから、適格性のフィルタリングやランキング、選択戦略や意思決定ポリシーに至るまで、各顧客に最も関連性の高いオファーを選択して提供する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3490205/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490211/?captions=jpn&learn=on&enablevpops)

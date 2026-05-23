@@ -35,6 +35,6 @@ ht-degree: 0%
 
 5つの演習で、Adobe Journey Optimizerを使用してSecurFinancialの意思決定システムを構築する方法を学びます。 顧客の財務プロファイルとリアルタイムのアクションにもとづいて顧客ごとに最も適切な商品オファーを特定するロジックを設定し、web バナーとSMSを通じて一貫性のある方法で展開できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3489058/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3489059/?captions=jpn&learn=on&enablevpops)
 
 ワークブック [ここ](https://adobelabs.dev/developers/l610/)を表示します。
