@@ -7,7 +7,7 @@ ht-degree: 3%
 ---
 # コンテンツカード – 概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460082/?captions=jpn&learn=on&enablevpops){transcript=true}
 
 ## もう一度お願いします？
 
