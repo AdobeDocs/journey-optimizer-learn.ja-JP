@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Platform タグの作成
-description: ユーザーの投資環境設定（株式、債券、CD）に基づくAJO オーディエンスの作成
+description: ユーザーの投資設定（株、債券、CD）に基づくAJO オーディエンスの作成
 feature: Audiences
 role: User
 level: Beginner
@@ -9,41 +9,41 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
 # Adobe Experience Platform タグの作成
 
-Adobe Experience Platform Tags （旧称Adobe Launch）は、サイトのコードを変更しなくても、web サイトでマーケティングおよび分析テクノロジーを管理してデプロイするのに役立ちます。
+Adobe Experience Platform Tags （旧Adobe Launch）を使用すれば、サイトのコードを変更することなく、マーケティングおよび分析テクノロジーをweb サイトに管理およびデプロイできます。
 
-この [&#x200B; ビデオでは、Adobe Experience Tags の作成プロセスを説明し &#x200B;](https://experienceleague.adobe.com/ja/playlists/experience-platform-get-started-with-tags) す。
+この[ ビデオでは、Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)の作成手順について説明します
 
-* データ収集へのログイン
-* タグ/新しいプロパティをクリックします。
-* Financial Advisors というAdobe Experience Platform タグを作成します。
+* データ収集にログイン
+* タグ/新規プロパティをクリックします
+* Financial AdvisorsというAdobe Experience Platformタグを作成します。
 
 * タグに次の拡張機能を追加します
   ![tags-extensions](assets/tags-extensions.png)
 
-* 前の手順で作成した正しい環境とファイナンシャル・アドバイザのデータ・ストリームを使用するように、Adobe Experience Platformの WebSDKを必ず構成してください。
+* 前の手順で作成した正しい環境とFinancial Advisors DataStreamを使用するように、Adobe Experience Platform Web SDKを構成してください。
   ![web-sdk-configuration](assets/web-sdk-configuration.png)
 
-* Adobe Client Data Layer および Core Extensions の設定は不要です
+* Adobe Client Data LayerとCore拡張機能に追加の設定は必要ありません
 
 ## データ要素の作成
 
-データ要素は、web ベースのマーケティングおよび広告テクノロジー全体でデータを収集、整理、配信するために使用されます。
+データ要素は、web ベースのマーケティングと広告テクノロジーをまたいでデータを収集、整理、配信するために使用されます。
 
 次のデータ要素を作成します
 
-| 要素名 | 拡張機能 | データ要素タイプ | 追加のコメント |
+| 要素名 | 拡張機能 | データ要素タイプ | 追加コメント |
 |------------------------------|-----------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 優先金融商品 | コア | カスタムコード | 以下のメモを参照してください |
-| XDM オブジェクト | Adobe Experience Platform Web SDK | XDM オブジェクト | 環境およびファイナンシャル・アドバイザ・スキーマの選択 |
+| PreferredFinancialInstrument | コア | カスタムコード | 以下のメモを参照してください |
+| XDM オブジェクト | Adobe Experience Platform Web SDK | XDM オブジェクト | 環境とFinancial Advisors スキーマの選択 |
 
 
 カスタムコードの場合は、コードエディターを開き、次のコードをコピー&amp;ペーストします
@@ -56,43 +56,46 @@ return window.adobeDataLayer
   ?.xdm?.FinancialInterest?.PreferredFinancialInstrument || "undefined";
 ```
 
-## コードの説明
+## コード説明
 
-adobeDataLayer 配列（web ページで発生するイベントを保存する）を見ます。
+adobeDataLayer配列（web ページで発生するイベントを保存する）を確認します。
 
 元の配列が変更されないように、.slice （）を使用して配列のコピーを作成します。
 
-イベントの順序を逆にして、最新のイベントを最初に確認します。
+イベントの順序を逆にして、最初に最新のイベントを確認します。
 
-event.event が正確に「assetClassSelection」である最初のイベント（新しいイベントから開始）を見つけます。
+event.eventが正確に「assetClassSelection」である最初のイベント（最新のイベントから開始）を検索します。
 
-見つかった場合は、そのイベントの xdm データに移動し、FinancialInterest.PreferredFinancialInstrument から値を取得します。
+見つかった場合は、そのイベントのxdm データにアクセスし、FinancialInterest.PreferredFinancialInstrumentから値を取得します。
 
-何も見つからない場合は、文字列「undefined、」
+何も見つからない場合は、「undefined」という文字列を返します。
 
 
 
 ## ルールを作成
 
-Adobe Experience Platform タグのルールビルダーを使用すると、ユーザーの行動やイベントに基づいて、web サイトで特定のアクションを実行するタイミングと方法を定義できます。
+Adobe Experience Platformのルールビルダーでは、利用者の行動やイベントにもとづいて、web サイト上で特定のアクションをいつ、どのように実行すべきかを定義できます。
 
-* 優先金融商品の送信という名前のルールを作成します。 このルールには、イベントとアクションが含まれています
-
-
-* 次に示すように、「優先アセットクラスを選択」という名前のイベント設定を作成します。 このイベントは、assetClassSelection イベントをリッスンします。
-  ![&#x200B; ルールイベント &#x200B;](assets/rule-event.png)
+* 「Send Preferred Financial Instrument」という名前のルールを作成します。 このルールには、イベントとアクションが含まれています
 
 
-* 更新された XDM スキーマをAEPに送信するアクションを作成
-  ![send-event](assets/rule-send-event.png)
+* 次に示すように、Preferred Asset Class Selectedという名前のイベント設定を作成します。 このイベントは、assetClassSelection イベントをリッスンします。
+
+![rule-event](assets/rule-event.png)
+
+
+* 更新されたXDM スキーマをAEPに送信するアクションを作成する
+
+![send-event](assets/rule-send-event.png)
 
 * 最終的なルールは次のようになります
-  ![&#x200B; 最終ルール &#x200B;](assets/final-rule.png)
+
+![final-rule](assets/final-rule.png)
 
 ## AEP タグのビルドとデプロイ
 
 
-新しいライブラリを作成し、以下のスクリーンショットに示すように、変更されたすべてのリソースをそのライブラリに追加します。
+以下のスクリーンショットに示すように、新しいライブラリを作成し、変更されたすべてのリソースをそれに追加します。
 
 ライブラリを追加
 
@@ -100,18 +103,18 @@ Adobe Experience Platform タグのルールビルダーを使用すると、ユ
 
 ライブラリの作成
 
-ライブラリを作成画面で、ライブラリ名と環境を指定します。
-変更されたすべてのリソースをこのライブラリに追加する必要があります。
+ライブラリの作成画面で、ライブラリ名と環境を指定します。
+変更したすべてのリソースをこのライブラリに追加する必要があります
 ![tag-library](assets/tag-build-library.png)
 
 次に、「保存して開発用にビルド」ボタンをクリックして、ライブラリをビルドします
 
 ## HTML ページにAEP タグを含める
 
-AEP タグプロパティを公開すると、Adobeによってスクリプトタグが提供されます。スクリプトタグは、HTML ``` <head>``` 内または ``` <body>``` タグの下部に配置する必要があります。
+AEP Tags プロパティを公開すると、AdobeはHTML ` <head>`内または`<body>` タグの下部に配置する必要があるスクリプトタグを提供します。
 
 * Tags （Financial Advisors）プロパティに移動します。
 
-* 「環境」をクリックし、目的とする環境のインストールアイコン（開発、ステージング、実稼動など）をクリックします。
+* 「環境」をクリックし、必要な環境（開発、ステージング、実稼動など）のインストールアイコンをクリックします。
 
-* 埋め込みコードをメモします。 これは、このチュートリアルの後半で必要になります。
+* 埋め込まれたコードをメモします。 このチュートリアルの後半の段階で必要になります。
