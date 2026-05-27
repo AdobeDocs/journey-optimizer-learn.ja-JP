@@ -41,7 +41,7 @@ Adobe Journey Optimizerでオファーランキング用のAI モデルを作成
 
 Adobe Experience Platformで：
 
-- 天気ベースのオファーに使用している既存の&#x200B;_**天気スキーマ**_ エクスペリエンスイベントスキーマを開きます。
+- 天気ベースのオファーに使用している既存の&#x200B;_&#x200B;**天気スキーマ**&#x200B;_ エクスペリエンスイベントスキーマを開きます。
 
 - フィールドグループを追加します。
 エクスペリエンスイベント – 提案インタラクション
@@ -161,4 +161,4 @@ child.querySelectorAll("a, button").forEach(el => {
 
 ## 解決策をテスト
 
-[既存のweb ページ ](assets/weather-offers.html)に[更新されたJavaScript ファイル ](assets/ai-model.js)を含めます
+[既存のweb ページ &#x200B;](assets/weather-offers.html)に[更新されたJavaScript ファイル &#x200B;](assets/ai-model.js)を含めます
