@@ -37,4 +37,4 @@ ht-degree: 11%
 
 **ユースケースの紹介とイベントスキーマの作成**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478472?captions=jpn)

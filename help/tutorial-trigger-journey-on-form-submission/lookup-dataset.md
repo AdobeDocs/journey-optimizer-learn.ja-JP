@@ -23,6 +23,6 @@ ht-degree: 86%
 
 **参照データセットの作成**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478761?captions=jpn)
 
 前の手順でフォーム設定を送信して、データセット参照フィールドをテストします

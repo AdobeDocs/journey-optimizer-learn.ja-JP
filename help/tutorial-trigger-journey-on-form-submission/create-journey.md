@@ -23,7 +23,7 @@ ht-degree: 18%
 
 **電子メールチャネル設定の作成**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478511?captions=jpn)
 
 
 
