@@ -10,10 +10,15 @@ last-substantial-update: '2026-05-27T00:00:00.000Z'
 jira: KT-21431
 autotag-review: '2026-05-27T22:31:08.526Z'
 TQID: 'https://experienceleague.adobe.com/NIUK1r-sCX7eFGG4-0OWy-JxMPrFh57dOMBB9rTMY-A'
-product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
 workflow-type: tm+mt
 source-wordcount: 223
