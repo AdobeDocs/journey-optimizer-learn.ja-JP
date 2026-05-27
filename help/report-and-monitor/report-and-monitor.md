@@ -9,7 +9,7 @@ duration: 395
 last-substantial-update: 2025-08-28T00:00:00Z
 exl-id: 5bac9b73-9c68-4901-90f8-07949639bd69
 source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '933'
 ht-degree: 100%
 
@@ -55,7 +55,7 @@ CARDS
                     <p class="is-size-6">Adobe Journey Optimizer（AJO）でのレポートについて説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>

@@ -1,6 +1,6 @@
 ---
 title: トレーニングサンドボックスの設定 - 概要
-description: トレーニング用にサンドボックスを設定する方法を説明します。スキーマの設定、サンプルデータの取り込みおよびイベントの作成に必要な手順を説明します。
+description: サンドボックスをトレーニング用に設定する方法について説明します。 スキーマの設定、サンプルデータの取り込みおよびイベントの作成に必要な手順を調べます。
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 jira: KT-9382
@@ -10,7 +10,7 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '353'
 ht-degree: 100%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 ![バナーチュートリアル - トレーニングサンドボックスの設定](./assets/ajo-banner-configure-training-sandbox.png)
 
-このチュートリアルは、Adobe [!DNL Journey Optimizer] トレーニング環境の提供を担当する管理者およびデータエンジニアを対象としています。スキーマの設定、サンプルデータの取り込みおよびイベントの作成に必要な手順を説明します。また、3 つのテストプロファイルを作成して、学習者が自分の作業を確認できるようにします。
+このチュートリアルは、Adobe [!DNL Journey Optimizer] トレーニング環境の提供を担当する管理者およびデータエンジニアを対象としています。 スキーマの設定、サンプルデータの取り込みおよびイベントの作成に必要な手順を説明します。 また、3 つのテストプロファイルを作成して、学習者が自分の作業を確認できるようにします。
 
-提供されるサンプルデータは、_[!DNL Luma]_という架空のスポーツアパレル会社に基づいています。[!DNL Luma] には、複数の国に店舗があり、web サイトとモバイルアプリを備えたオンラインプレゼンスがあります。[!DNL Luma] は、Adobe Journey Optimizer を使用して、コンテキストに応じた、つながりのあるパーソナライズされたエクスペリエンスを顧客に提供しています。
+提供されるサンプルデータは、_[!DNL Luma]_という架空のスポーツアパレル会社に基づいています。 [!DNL Luma] には、複数の国に店舗があり、web サイトとモバイルアプリを備えたオンラインプレゼンスがあります。 [!DNL Luma] は、Adobe Journey Optimizer を使用して、コンテキストに応じた、つながりのあるパーソナライズされたエクスペリエンスを顧客に提供しています。
 
 このチュートリアルの終わりには、[Journey Optimizer の課題](/help/challenges/introduction-and-prerequisites.md)の節の実践的な演習で扱っている [!DNL Luma] ユースケースをサポートするサンドボックスが得られます。
 

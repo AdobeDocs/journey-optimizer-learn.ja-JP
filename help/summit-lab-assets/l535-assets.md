@@ -33,9 +33,9 @@ ht-degree: 16%
 
 次の詳細を使用してログインします。
 
-電子メールアドレス：    L535+*座席番号*@adobeeventlab.com
+電子メールアドレス：L535+*座席番号*@adobeeventlab.com
 
-パスワード：       Adobe4Summit!
+パスワード：Adobe4Summit!
 
 
 ### 演習2.3 - メールメッセージの作成

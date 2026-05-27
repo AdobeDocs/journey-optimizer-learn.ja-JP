@@ -1,5 +1,5 @@
 ---
-title: ソリューションのテスト
+title: 解決策をテスト
 description: フォーム送信時にメールを送信するジャーニーを作成
 feature: Journeys
 role: User
@@ -7,22 +7,23 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+exl-id: 9b4a3e0c-d153-4a6b-a7de-b926bd669f6a
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
-# ソリューションのテスト
+# 解決策をテスト
 
 
-ソリューションのテスト
+解決策をテスト
 >[!VIDEO](https://video.tv.adobe.com/v/3478547?captions=jpn)
 
 ## サンプルアセットのデプロイ
 
-Node.js がインストールされていない場合は、ダウンロードして [&#x200B; ここからインストールしてください &#x200B;](https://nodejs.org/)
+Node.jsがインストールされていない場合は、ここからダウンロードして[&#x200B; インストールします](https://nodejs.org/)
 
 次のコマンドを実行してインストールを確認します。
 
@@ -48,17 +49,15 @@ Node.js がインストールされていない場合は、ダウンロードし
 
 ## アセットファイルをコピー
 
-* [project-root.zip](assets/project-root.zip) を解凍し、`trigger-journey` フォルダーに配置します。
+* [project-root.zip](assets/project-root.zip)の内容を`trigger-journey` フォルダーに解凍して配置します。
 
-* `public` フォルダー内に `trigger-journey` というフォルダーを作成します。
-* 適切な値で `.env` ファイルを更新します。 これらの値は、HTTP Source接続の作成時にダウンロードした cURL コマンドから使用できます。
-* [index.zip](assets/index.zip) の内容を `public` フォルダーに解凍します
+* `trigger-journey` フォルダーに`public`という名前のフォルダーを作成します
+* `.env` ファイルを適切な値で更新します。 これらの値は、HTTP Source接続の作成時にダウンロードされたcURL コマンドから使用できます。
+* [index.zip](assets/index.zip)の内容を`public` フォルダーに解凍します
 
 ## サーバーの実行
 
-`trigger-journey` ディレクトリにいることを確認します。
-コマンドを実行します `node server.js`
-ブラウザーで [web ページ &#x200B;](http://localhost:3000/)
-フォームに入力して送信します。 ジャーニーがトリガーされ、フォームに入力されたメール ID にメールが送信されます。
-
-
+`trigger-journey` ディレクトリにいることを確認してください。
+コマンドを実行する `node server.js`
+ブラウザーを[web ページに誘導します](http://localhost:3000/)
+フォームに入力して送信します。 ジャーニーがトリガーされ、フォームに入力したメール IDにメールが送信されます。

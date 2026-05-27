@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 doc-type: Overview
 last-substantial-update: 2025-08-28T00:00:00Z
 source-git-commit: 1c8bcba7b46b6fc88ba93b2bad7ca3ed5f621e86
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 100%
 
@@ -45,7 +45,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" title="ユースケース - カスタマーオンボーディング（チュートリアル）">ユースケース - カスタマーオンボーディング（チュートリアル）</a>
                     </p>
-                    <p class="is-size-6">Adobe Journey Optimizer（AJO）でカスタマーオンボーディングジャーニーを実装する方法について説明します。このプロセスでは、新しいロイヤルティメンバーをターゲットにし、パーソナライズされたメールと SMS を配信して、アプリのダウンロードを促進します。これには、ウェルカムメールの送信、アプリのインストールの確認、リマインダーのフォローアップが含まれます。このチュートリアルでは、AI コンテンツアシスタントを使用してコンテンツを作成およびパーソナライズする方法についても説明します。</p>
+                    <p class="is-size-6">Adobe Journey Optimizer（AJO）でカスタマーオンボーディングジャーニーを実装する方法について説明します。 このプロセスでは、新しいロイヤルティメンバーをターゲットにし、パーソナライズされたメールと SMS を配信して、アプリのダウンロードを促進します。 これには、ウェルカムメールの送信、アプリのインストールの確認、リマインダーのフォローアップが含まれます。 このチュートリアルでは、AI コンテンツアシスタントを使用してコンテンツを作成およびパーソナライズする方法についても説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
