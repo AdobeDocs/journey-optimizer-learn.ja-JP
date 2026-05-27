@@ -33,9 +33,9 @@ ht-degree: 16%
 
 次の詳細を使用してログインします。
 
-電子メールアドレス：    L535+*座席番号*@adobeeventlab.com
+電子メールアドレス：L535+*座席番号*@adobeeventlab.com
 
-パスワード：       Adobe4Summit!
+パスワード：Adobe4Summit!
 
 
 ### 演習2.3 - メールメッセージの作成
@@ -121,7 +121,7 @@ dxdemo://atm
 
 ## 画像
 
-![SecureFinancial ロゴ &#x200B;](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+![SecureFinancial ロゴ ](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
 
 
 ![携帯電話](/help/summit-lab-assets/assets/online-banking-app-01.png)

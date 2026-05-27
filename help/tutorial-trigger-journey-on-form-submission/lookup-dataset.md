@@ -1,30 +1,28 @@
 ---
-title: ルックアップデータセットの作成
-description: ジャーニーで使用するルックアップデータセットの作成
+title: 参照データセットの作成
+description: ジャーニーで使用する参照データセットを作成します
 feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-01-15T00:00:00Z
 jira: KT-20124
-source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
+exl-id: 860242bd-c7bf-4d8c-af75-9067aef83c40
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 86%
 
 ---
 
-# ルックアップデータセットの作成
+# 参照データセットの作成
 
-データセットルックアップを使用すると、Adobe Journey Optimizerは、ジャーニー実行時にAdobe Experience Platform データセットから参照データやトランザクションデータを取得できます。そのデータをリアルタイム顧客プロファイルに保存する必要はありません。
+データセット参照を使用すると、Adobe Journey Optimizer は、リアルタイム顧客プロファイルにデータを保存することなく、ジャーニー実行時に Adobe Experience Platform データセットから参照データまたはトランザクションデータを取得できます。
 
-このユースケースでは、ユーザーが投資環境設定フォーム（株式、債券、または CD）を送信すると、ジャーニーは参照データセットから対応する投資詳細を動的に検索し、その情報を使用してメールをパーソナライズします。
+このユースケースでは、ユーザーが投資希望フォーム（株式、債券または譲渡性預金（CD））を送信すると、ジャーニーは参照データセットから対応する投資の詳細を動的に検索し、その情報を使用してメールをパーソナライズします。
 
-**ルックアップデータセットの作成**
+**参照データセットの作成**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478761?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3478760)
 
-前の手順でフォーム設定を送信して、データセットルックアップフィールドをテストします
-
-
-
+前の手順でフォーム設定を送信して、データセット参照フィールドをテストします

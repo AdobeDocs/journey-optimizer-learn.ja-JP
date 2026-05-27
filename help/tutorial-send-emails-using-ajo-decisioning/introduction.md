@@ -1,31 +1,29 @@
 ---
 title: メールチャネルでの決定の使用
-description: Journey Optimizer（AJO） Decisioning を使用して、パーソナライズされたオファーをメールチャネルで提供する方法を説明します
+description: Journey Optimizer（AJO） Decisioningを使用して、メールチャネルでパーソナライズされたオファーを配信する方法を説明します
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19414
-source-git-commit: b70717bd66deb3c070c6dd155f13f8cb72fce7c3
+exl-id: c2b8a85c-8f64-40c5-87eb-6d836d832c44
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 3%
 
 ---
 
-# Decisioning を使用したメールのパーソナライズ
+# 決定機能を利用したメールのパーソナライゼーション
 
-このチュートリアルでは、Adobe Journey Optimizer Decisioning を使用してパーソナライズされたメールオファーを送信する実際の使用例を見ていきます。 シナリオはシンプルです。年収やロイヤルティステータスなどのプロファイル属性に基づいて、ターゲットを絞ったメールオファーを顧客に送信します。
-このチュートリアルでは、Adobe Experience Platformでのプロファイルの作成からメールチャネルの設定、最後に意思決定機能を使用して最も関連性の高いオファーを自動的に選択するキャンペーンの構築と実行まで、順を追って説明します。
+このチュートリアルでは、Adobe Journey Optimizer Decisioningを使用して、パーソナライズされたメールオファーを送信する実際のユースケースを紹介します。 年間収入やロイヤルティステータスなどのプロファイル属性にもとづいて、顧客にターゲットを絞ったメールオファーを送信できます。
+このチュートリアルでは、Adobe Experience Platformでプロファイルを作成する、メールチャネルを設定する、意思決定を使用して最も関連性の高いオファーを自動的に選択するキャンペーンを構築して実行するなど、段階的に進めていきます。
 
 ## このチュートリアルの前提条件
 
 * Experience Platformへのアクセス
 
-* Experience Platformの概念（プロファイル、オーディエンス、データセット）の基本的な理解
+* Experience Platformの基本コンセプト（プロファイル、オーディエンス、データセット）
 
-* Journey Optimizerに精通していること
-
-
-
+* Journey Optimizerの詳細
