@@ -36,4 +36,4 @@ ht-degree: 0%
 
 ルールベースのランキング式やAI最適化モデルなど、Adobe Journey Optimizer Decisioningで利用できるさまざまなランキング方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491466/?captions=jpn&learn=on&enablevpops)
