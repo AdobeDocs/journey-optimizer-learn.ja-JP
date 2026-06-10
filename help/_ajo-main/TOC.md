@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
+source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
 workflow-type: tm+mt
-source-wordcount: '1459'
-ht-degree: 91%
+source-wordcount: '1468'
+ht-degree: 90%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 91%
    + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
    + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
    + [複数属性フィルタリングの習得](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [ジャーニーで連合オーディエンスによるマルチエンティティターゲティングを使用する](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [ジャーニードライランを使用したジャーニーロジックの検証](/help/journeys/journey-dry-run.md)
    + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [ライブジャーニーのコンテンツの更新](/help/journeys/update-content-in-live-journey.md)
@@ -75,7 +76,7 @@ ht-degree: 91%
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Web SDK を使用したオーディエンスの作成（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [オンデマンドでオーディエンスを評価](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
-   + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
+   + [サブスクリプションとランディングページ](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
    + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
    + コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
@@ -268,5 +269,3 @@ ht-degree: 91%
       + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + ライブセッションと詳細な説明 {#live-sessions-and-deep-dives}
    + [Experience League ライブ番組録画](/help/_ajo-main/experience-league-live-show-recordings.md)
-
-
