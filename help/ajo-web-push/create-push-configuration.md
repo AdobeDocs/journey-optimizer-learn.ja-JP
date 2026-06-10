@@ -31,7 +31,7 @@ Node.jsがインストールされていることを確認します。 次のコ
 
 `npm install web-push -g `
 
-![web プッシュ ](assets/install-web-push.png)
+![web プッシュ &#x200B;](assets/install-web-push.png)
 
 `web-push generate-vapid-keys`
 
@@ -43,7 +43,7 @@ Node.jsがインストールされていることを確認します。 次のコ
 
 * 管理に移動| チャネル | プッシュ設定| プッシュ資格情報| プッシュ資格情報の作成
 
-* ![ プッシュ資格情報](assets/push-credential.png)
+* ![&#x200B; プッシュ資格情報](assets/push-credential.png)
 
 ## チャネル設定の作成
 
