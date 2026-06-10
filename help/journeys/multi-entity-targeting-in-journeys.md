@@ -31,5 +31,5 @@ ht-degree: 10%
 
 この機能について詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491836/?captions=jpn&learn=on)
 
