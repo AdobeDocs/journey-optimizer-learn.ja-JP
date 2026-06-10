@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
+source-git-commit: 8d3931426cb20a64fabf3f4cb61b1ee9e3d2eba7
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1475'
 ht-degree: 90%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 90%
    + チュートリアル{#tutorials}
       + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + ロイヤルティ {#loyalty}
-   + {hide-from-toc}[&#x200B; ロイヤルティチャレンジを作成](/help/loyalty/create-a-loyalty-challenge.md)
+   + {hide-from-toc}[ ロイヤルティチャレンジを作成](/help/loyalty/create-a-loyalty-challenge.md)
 + 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -117,7 +117,7 @@ ht-degree: 90%
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + {hide-from-toc}[WhatsAppの使用を開始する（エンドツーエンド） &#x200B;](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[WhatsAppの使用を開始する（エンドツーエンド） ](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp チャネルの概要](/help/channels/whatsapp-introduction.md)
       + [WhatsApp チャネルの設定](/help/channels/set-up-whatsapp.md)
       + [WhatsApp ジャーニーの作成](/help/channels/create-a-whatsapp-journey.md)
@@ -172,6 +172,7 @@ ht-degree: 90%
          + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
          + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+         + [決定機能でExperience Manager コンテンツフラグメントを使用する](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
       + 外部トリガーやインタラクションによるトリガー上の意思決定 {#trigger}
          + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
          + [リアルタイムの気象データでオファーをパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
@@ -232,7 +233,7 @@ ht-degree: 90%
    + ビジネスルール {#business-rules}
       + [フリークエンシーキャップルールの設定](/help/business-rules/configure-frequency-capping-rules.md)
       + [ルールセットの操作](/help/business-rules/work-with-rule-sets.md)
-      + {hide-from-toc}[頻度ルールのテストとレポート &#x200B;](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[頻度ルールのテストとレポート ](/help/business-rules/test-and-report-on-frequency-rules.md)
 + アクセス制御 {#access-control}
    + {hide-from-toc}[アクセス管理](/help/set-up-access/access-management.md)
    + [属性ベースのアクセス制御を設定](/help/administration/attribute-based-access-control.md)
@@ -246,7 +247,7 @@ ht-degree: 90%
 + AI アシスタントとエージェント {#ai-assistant}
    + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agentによるジャーニーの分析と構築](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey Agentによるジャーニーの分析と構築](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Adobe Marketing Agentを使用したオーディエンスのプランニング](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + ユースケースとベストプラクティス{#use-cases}
