@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
+source-git-commit: 8d3931426cb20a64fabf3f4cb61b1ee9e3d2eba7
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1475'
 ht-degree: 90%
 
 ---
@@ -172,6 +172,7 @@ ht-degree: 90%
          + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
          + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+         + [決定機能でExperience Manager コンテンツフラグメントを使用する](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
       + 外部トリガーやインタラクションによるトリガー上の意思決定 {#trigger}
          + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
          + [リアルタイムの気象データでオファーをパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
