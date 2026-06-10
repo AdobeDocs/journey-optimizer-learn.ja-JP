@@ -1,15 +1,16 @@
 ---
-title: Create journey
-description: Create journey that is triggered on price.drop event
+title: ジャーニーを作成
+description: price.drop イベントでトリガーされるジャーニーを作成
 feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
+source-git-commit: fe5ce1bd62e4cf628d0adf67389e4301660a223a
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -27,15 +28,15 @@ price.drop イベントでトリガーされるジャーニーを作成するに
 
 ## PriceDropEventを追加
 
-`PriceDropEvent`をイベントセクションからキャンバスにドラッグします
+「`PriceDropEvent`」を「イベント」セクションからキャンバスにドラッグします。
 ![price-drop-event](assets/add-price-drop-event.png)
 
 ## プッシュアクションを追加
 
-Expand the Actions section. Drag and drop the `Action` activity on to the canvas and select Push as the action type
-![push-action](assets/add-push-action.png)
+「アクション」セクションを展開します。 `Action` アクティビティをキャンバスにドラッグ&amp;ドロップし、アクションタイプとして「プッシュ」を選択します
+![&#x200B; プッシュアクション &#x200B;](assets/add-push-action.png)
 
-## Configure the Push Action
+## プッシュアクションの設定
 
 プッシュ通知アクティビティを選択し、「設定」アクションをクリックします
 
@@ -51,11 +52,11 @@ Expand the Actions section. Drag and drop the `Action` activity on to the canvas
 
 パーソナライゼーションエディターを使用して、プッシュ通知に静的コンテンツと動的コンテンツの組み合わせを追加し、メッセージをより魅力的で関連性の高いものにします。
 
-To begin composing the message, click on `Content` to open the content tab, where you can define both the fixed text and the dynamic fields derived from the event data.
+メッセージの作成を開始するには、`Content`をクリックして「コンテンツ」タブを開き、固定テキストとイベントデータから派生した動的フィールドの両方を定義できます。
 ![content-push](assets/compose-message.png)
 
-Specify the title of the push message, then open the personalization editor to compose the message body. The content will dynamically include the names of the product(s) whose prices have dropped. To achieve this, use the each [helper function](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
-to iterate over the list of products and render their names within the message.
+プッシュメッセージのタイトルを指定し、パーソナライゼーションエディターを開いてメッセージ本文を構成します。 コンテンツには、価格が下がった製品名が動的に含まれます。 これには、各[&#x200B; ヘルパー関数を使用します](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+商品リストを繰り返し表示し、メッセージ内に商品の名前を表示します。
 
 ## メッセージ本文の作成
 
@@ -68,11 +69,8 @@ to iterate over the list of products and render their names within the message.
 
 ![contextual-attributes](assets/journey-content-context-attributes.png)
 
-最後に、変更内容をすべて保存し、ジャーニーを公開します。 公開されると、ジャーニーはアクティブになり、price.drop イベントが受信されるのをリッスンします。 Whenever such an event is received, the journey is triggered in real time, and a push notification is sent to users who have opted in to receive notifications, ensuring timely and relevant engagement.
+最後に、変更内容をすべて保存し、ジャーニーを公開します。 公開されると、ジャーニーはアクティブになり、price.drop イベントが受信されるのをリッスンします。 そのようなイベントを受信するたびに、ジャーニーがリアルタイムでトリガーされ、通知の受信をオプトインしたユーザーにプッシュ通知が送信され、タイムリーで関連性の高いエンゲージメントが保証されます。
 
-## Test the solution
+## 解決策をテスト
 
-To trigger the price.drop event, open the [price drop trigger page,](http://localhost:3000/price-drop-trigger.html) select one or more products, and click Trigger Price Drop. This sends the event through the Adobe Data Layer using AEP Tags, which then initiates the journey and delivers the push notification in real time.
-
-
-
+price.drop イベントをトリガーするには、[値下げトリガーページを開き、](http://localhost:3000/price-drop-trigger.html)1つ以上の商品を選択し、「値下げトリガー」をクリックします。 これにより、AEP タグを使用してAdobe データレイヤーを介してイベントが送信され、その後ジャーニーが開始され、プッシュ通知がリアルタイムで配信されます。
