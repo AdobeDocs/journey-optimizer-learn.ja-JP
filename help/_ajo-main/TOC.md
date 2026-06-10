@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
+source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
 workflow-type: tm+mt
-source-wordcount: '1459'
-ht-degree: 91%
+source-wordcount: '1468'
+ht-degree: 90%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 91%
    + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
    + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
    + [複数属性フィルタリングの習得](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [ジャーニーで連合オーディエンスによるマルチエンティティターゲティングを使用する](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [ジャーニードライランを使用したジャーニーロジックの検証](/help/journeys/journey-dry-run.md)
    + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [ライブジャーニーのコンテンツの更新](/help/journeys/update-content-in-live-journey.md)
@@ -62,7 +63,7 @@ ht-degree: 91%
    + チュートリアル{#tutorials}
       + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + ロイヤルティ {#loyalty}
-   + {hide-from-toc}[&#x200B; ロイヤルティチャレンジを作成](/help/loyalty/create-a-loyalty-challenge.md)
+   + {hide-from-toc}[ ロイヤルティチャレンジを作成](/help/loyalty/create-a-loyalty-challenge.md)
 + 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -75,7 +76,7 @@ ht-degree: 91%
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Web SDK を使用したオーディエンスの作成（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [オンデマンドでオーディエンスを評価](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
-   + [サブスクリプションとランディングページ](/help/subscriptions-and-landing-pages.md)
+   + [サブスクリプションとランディングページ](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
    + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
    + コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
@@ -116,7 +117,7 @@ ht-degree: 91%
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + {hide-from-toc}[WhatsAppの使用を開始する（エンドツーエンド） &#x200B;](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[WhatsAppの使用を開始する（エンドツーエンド） ](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp チャネルの概要](/help/channels/whatsapp-introduction.md)
       + [WhatsApp チャネルの設定](/help/channels/set-up-whatsapp.md)
       + [WhatsApp ジャーニーの作成](/help/channels/create-a-whatsapp-journey.md)
@@ -231,7 +232,7 @@ ht-degree: 91%
    + ビジネスルール {#business-rules}
       + [フリークエンシーキャップルールの設定](/help/business-rules/configure-frequency-capping-rules.md)
       + [ルールセットの操作](/help/business-rules/work-with-rule-sets.md)
-      + {hide-from-toc}[頻度ルールのテストとレポート &#x200B;](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[頻度ルールのテストとレポート ](/help/business-rules/test-and-report-on-frequency-rules.md)
 + アクセス制御 {#access-control}
    + {hide-from-toc}[アクセス管理](/help/set-up-access/access-management.md)
    + [属性ベースのアクセス制御を設定](/help/administration/attribute-based-access-control.md)
@@ -245,7 +246,7 @@ ht-degree: 91%
 + AI アシスタントとエージェント {#ai-assistant}
    + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agentによるジャーニーの分析と構築](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey Agentによるジャーニーの分析と構築](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Adobe Marketing Agentを使用したオーディエンスのプランニング](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + ユースケースとベストプラクティス{#use-cases}
@@ -268,5 +269,3 @@ ht-degree: 91%
       + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + ライブセッションと詳細な説明 {#live-sessions-and-deep-dives}
    + [Experience League ライブ番組録画](/help/_ajo-main/experience-league-live-show-recordings.md)
-
-
