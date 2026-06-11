@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Adobe Experience ManagerのコンテンツフラグメントとAdobeのジャーニーを組み合わせて使用し、コンテンツをパーソナライズして、アジャイルコミュニケーションに最適化する方法をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492216/?captions=jpn&learn=on&enablevpops)
