@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 8d3931426cb20a64fabf3f4cb61b1ee9e3d2eba7
+source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 90%
+source-wordcount: '1484'
+ht-degree: 89%
 
 ---
 
@@ -142,6 +142,7 @@ ht-degree: 90%
       + [コンテンツ生成用 AI アシスタント - 概要](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [ブランドガイドラインの作成と管理](/help/content-management/brand-guideline-creation-and-management.md)
+   + {hide-from-toc}[&#x200B; プロファイルの環境設定または傾向スコアに基づいてチャネルを最適化](/help/channels/channel-optimization.md)
    + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
    + [チャネルオーサリングで外部データ統合を有効にする](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + コンテンツのパーソナライズ {#personalize-content}
