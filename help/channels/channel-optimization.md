@@ -39,4 +39,4 @@ ht-degree: 2%
 
 Adobe Journey Optimizerのチャネル最適化機能が、手作業による優先度、プロファイル属性、AdobeのAI モデルなど、最も効果的なチャネルで顧客にメッセージを届け、各顧客が最もエンゲージする可能性が高い場所にメッセージを届けるのに、どのように役立つかをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492133/?captions=jpn&learn=on&enablevpops)
