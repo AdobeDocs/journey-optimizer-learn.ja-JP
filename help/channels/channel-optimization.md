@@ -1,6 +1,6 @@
 ---
 title: プロファイルの好みや傾向スコアにもとづいてチャネルを最適化
-description: Adobe Journey Optimizerのチャネル最適化機能が、手作業による優先度、プロファイル属性、AdobeのAI モデルなど、最も効果的なチャネルで顧客にメッセージを届け、各顧客が最もエンゲージする可能性が高い場所にメッセージを届けるのに、どのように役立つかをご覧ください。
+description: Adobe Journey Optimizerのチャネル最適化機能を利用すれば、手作業による優先度、プロファイル属性、AdobeのAI モデルなどを使用して、最も効果的なチャネルで顧客にリーチし、各顧客がエンゲージする可能性が最も高い場所にメッセージを配信できます。その方法をご確認ください。
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -25,9 +25,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
+source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: 96
 ht-degree: 2%
 
 ---
@@ -37,6 +37,6 @@ ht-degree: 2%
 
 {{limited-availability}}
 
-Adobe Journey Optimizerのチャネル最適化機能が、手作業による優先度、プロファイル属性、AdobeのAI モデルなど、最も効果的なチャネルで顧客にメッセージを届け、各顧客が最もエンゲージする可能性が高い場所にメッセージを届けるのに、どのように役立つかをご覧ください。
+Adobe Journey Optimizerのチャネル最適化機能を利用すれば、手作業による優先度、プロファイル属性、AdobeのAI モデルなどを使用して、最も効果的なチャネルで顧客にリーチし、各顧客がエンゲージする可能性が最も高い場所にメッセージを配信できます。その方法をご確認ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492133/?captions=jpn&learn=on&enablevpops)
