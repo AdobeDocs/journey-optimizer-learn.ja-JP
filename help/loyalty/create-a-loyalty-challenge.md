@@ -11,7 +11,8 @@ jira: KT-20417
 badgeBet: label="ベータ版" type="Informative"
 exl-id: f6c373be-aeae-4d52-a4b1-84a312399f5e
 TQID: 'https://experienceleague.adobe.com/5DYkCu-0WsGJz3J1l5M4TbxRpPMCwZQH6fJHZOc3ad0'
-product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
 source-git-commit: 3f5b2055f3b5430742ea024b227362b92a8cdb64
 workflow-type: tm+mt
 source-wordcount: 75
