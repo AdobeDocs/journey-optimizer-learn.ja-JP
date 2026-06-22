@@ -1,6 +1,6 @@
 ---
 title: AI アシスタント
-description: Real-Time Customer Data Platform、Journey Optimizer、Customer Journey Analytics などの Adobe Experience Platform ベースのアプリケーションで AI アシスタントを使用して実行できることを説明します。
+description: Real-Time Customer Data Platform、Journey Optimizer、Customer Journey Analyticsなど、Adobe Experience PlatformアプリのAI アシスタントについて説明します。
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -17,10 +17,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
+source-git-commit: b519aa58085d08dd492c1b59a7267b31d6339f00
 workflow-type: tm+mt
-source-wordcount: 104
-ht-degree: 100%
+source-wordcount: 101
+ht-degree: 66%
 
 ---
 
@@ -30,5 +30,5 @@ Real-Time Customer Data Platform、Journey Optimizer、Customer Journey Analytic
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Journey Optimizer でサポートされているユースケースについて詳しくは、[AI アシスタントの操作](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/ai-assistant)を参照してください。 ドキュメントについて詳しくは、[Adobe Experience Platform の AI アシスタント](https://experienceleague.adobe.com/ja/docs/experience-platform/ai-assistant/home)ドキュメントを参照してください。
+Journey Optimizer でサポートされているユースケースについて詳しくは、[AI アシスタントの操作](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/ai-features)を参照してください。 ドキュメントについて詳しくは、[Adobe Experience Platform の AI アシスタント](https://experienceleague.adobe.com/ja/docs/experience-platform/ai-assistant/home)ドキュメントを参照してください。
 
