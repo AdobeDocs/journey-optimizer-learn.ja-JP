@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
 workflow-type: tm+mt
 source-wordcount: '1484'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,19 +36,19 @@ ht-degree: 89%
    + 調整されたキャンペーン {#orchestrated-campaigns}
       + [調整されたキャンペーンの概要](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [リレーショナルストアの基本](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
-      + [オーケストレーションされたキャンペーンのスキーマとデータセットを設定する](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
-      + [オーケストレーションされたキャンペーンの構築](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
+      + [オーケストレーションキャンペーンのスキーマとデータセットの設定](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
+      + [オーケストレーションキャンペーンの作成](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + ジャーニー {#journeys}
    + [ジャーニーデザイナー - 概要](/help/journeys/journey-designer-overview.md)
-   + [Journey Agentによるジャーニーの分析と構築](/help/ai-agents/journey-agent-overview.md)
-   + {hide-from-toc}[新しいジャーニーを見つけるDesigner](/help/journeys/new-journey-designer.md)
+   + [Journey エージェントを使用したジャーニーの分析と作成](/help/ai-agents/journey-agent-overview.md)
+   + {hide-from-toc}[新しいジャーニーデザイナーについて](/help/journeys/new-journey-designer.md)
    + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
    + [ジャーニーでのデータセット参照の使用](/help/journeys/lookup-dataset.md)
    + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
    + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
    + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
    + [複数属性フィルタリングの習得](/help/journeys/mastering-multi-attribute-filtering.md)
-   + [ジャーニーで連合オーディエンスによるマルチエンティティターゲティングを使用する](/help/journeys/multi-entity-targeting-in-journeys.md)
+   + [ジャーニーの連合オーディエンスを含むマルチエンティティターゲティングの使用](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [ジャーニードライランを使用したジャーニーロジックの検証](/help/journeys/journey-dry-run.md)
    + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [ライブジャーニーのコンテンツの更新](/help/journeys/update-content-in-live-journey.md)
@@ -63,7 +63,7 @@ ht-degree: 89%
    + チュートリアル{#tutorials}
       + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + ロイヤルティ {#loyalty}
-   + {hide-from-toc}[&#x200B; ロイヤルティチャレンジを作成](/help/loyalty/create-a-loyalty-challenge.md)
+   + {hide-from-toc}[ロイヤルティの課題の作成](/help/loyalty/create-a-loyalty-challenge.md)
 + 競合管理と優先順位付け {#conflict-management}
    + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
    + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -71,7 +71,7 @@ ht-degree: 89%
    + [クワイエットアワー](/help/business-rules/configure-and-apply-quiet-hours.md)
 + プロファイル、オーディエンスおよび購読 {#profiles-audiences-subscriptions}
    + [プロファイルとオーディエンス - 概要](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-   + {hide-from-toc}[統合プロファイルとセグメント化 – 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + {hide-from-toc}[統合プロファイルとセグメント化 - 概要](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [ルールビルダーを使用したオーディエンスの作成](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV ファイルのアップロードによるオーディエンスの作成](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Web SDK を使用したオーディエンスの作成（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [Web キャンペーンの作成](/help/channels/author-a-web-campaign.md)
       + [Web エディターでの SPA のサポート](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + {hide-from-toc}[WhatsAppの使用を開始する（エンドツーエンド） &#x200B;](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[WhatsApp（エンドツーエンド）の基本を学ぶ](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp チャネルの概要](/help/channels/whatsapp-introduction.md)
       + [WhatsApp チャネルの設定](/help/channels/set-up-whatsapp.md)
       + [WhatsApp ジャーニーの作成](/help/channels/create-a-whatsapp-journey.md)
@@ -142,7 +142,7 @@ ht-degree: 89%
       + [コンテンツ生成用 AI アシスタント - 概要](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [ブランドガイドラインの作成と管理](/help/content-management/brand-guideline-creation-and-management.md)
-   + [プロファイルの好みや傾向スコアにもとづいてチャネルを最適化](/help/channels/channel-optimization.md)
+   + [プロファイルの環境設定や傾向スコアに基づいたチャネルの最適化](/help/channels/channel-optimization.md)
    + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
    + [チャネルオーサリングで外部データ統合を有効にする](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + コンテンツのパーソナライズ {#personalize-content}
@@ -160,23 +160,23 @@ ht-degree: 89%
    + [Experimentation Agent - 概要](/help/ai-agents/experimentation-agent-overview.md)
 + 決定機能{#decision-capabilities}
    + 決定 {#decisioning}
-      + 意思決定の基本 {#fundamentals}
+      + 決定の基本 {#fundamentals}
          + [決定の概要](/help/decisioning/introduction-to-decisioning.md)
          + [エンドツーエンドの決定チュートリアル](/help/decisioning/decisioning-end-to-end.md)
          + [式ビルダーインタフェイスの操作](/help/decisioning/formula-builder-ui.md)
          + [再利用可能なルール](/help/decisioning/reusable-targeting-rules.md)
          + [ランキング式を使用してパーソナライズされたオファーを配信](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
          + [AI モデルインサイト](/help/decisioning/ai-model-insights.md)
-      + 決定機能を使用したメッセージのパーソナライゼーション {#use-decisioning}
-         + [メールでの決定機能の概要](/help/decisioning/introduction-to-decisioning-in-emails.md)
-         + [決定機能を使用したメールのパーソナライゼーション（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
+      + 決定を使用したメッセージのパーソナライズ {#use-decisioning}
+         + [メールの決定の概要](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [決定を使用したメールのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
          + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
          + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-         + [決定機能でExperience Manager コンテンツフラグメントを使用する](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
-      + 外部トリガーやインタラクションによるトリガー上の意思決定 {#trigger}
+         + [決定を含む Experience Manager コンテンツフラグメントの使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
+      + 外部トリガーとインタラクションからの決定のトリガー {#trigger}
          + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
-         + [リアルタイムの気象データでオファーをパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+         + [リアルタイムの天候データを使用したオファーのパーソナライズ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + 意思決定管理 {#decision-management}
       + [意思決定管理の概要](/help/decision-management/introduction-to-decision-management.md)
       + [意思決定管理機能のデモ](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -234,7 +234,7 @@ ht-degree: 89%
    + ビジネスルール {#business-rules}
       + [フリークエンシーキャップルールの設定](/help/business-rules/configure-frequency-capping-rules.md)
       + [ルールセットの操作](/help/business-rules/work-with-rule-sets.md)
-      + {hide-from-toc}[頻度ルールのテストとレポート &#x200B;](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[頻度ルールのテストとレポート](/help/business-rules/test-and-report-on-frequency-rules.md)
 + アクセス制御 {#access-control}
    + {hide-from-toc}[アクセス管理](/help/set-up-access/access-management.md)
    + [属性ベースのアクセス制御を設定](/help/administration/attribute-based-access-control.md)
@@ -248,9 +248,9 @@ ht-degree: 89%
 + AI アシスタントとエージェント {#ai-assistant}
    + [AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [コンテンツ生成用 AI アシスタント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agentによるジャーニーの分析と構築](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey エージェントを使用したジャーニーの分析と作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
    + [Experimentation Agent - 概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
-   + [Adobe Marketing Agentを使用したオーディエンスのプランニング](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
+   + [Adobe Marketing Agent を使用したオーディエンスの計画](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + ユースケースとベストプラクティス{#use-cases}
    + [顧客のオンボーディング](/help/use-cases/customer-onboarding.md)
    + [買い物かご放棄](/help/use-cases/abandoned-cart.md)
