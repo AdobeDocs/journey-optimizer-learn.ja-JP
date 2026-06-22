@@ -1,6 +1,6 @@
 ---
-title: Journey Optimizer DecisioningでのExperience Manager コンテンツフラグメントの使用方法
-description: Adobe Experience ManagerのコンテンツフラグメントとAdobeのジャーニーを組み合わせて使用し、コンテンツをパーソナライズして、アジャイルコミュニケーションに最適化する方法をご紹介します。
+title: Journey Optimizer 決定を含む Experience Manager コンテンツフラグメントの使用方法
+description: Adobe Experience Manager コンテンツフラグメントをアドビのジャーニーと連携し、アジャイルコミュニケーションでコンテンツをパーソナライズおよび最適化する方法について説明します。
 feature: Decisioning
 role: User
 level: Beginner, Intermediate
@@ -23,15 +23,15 @@ topic_v2:
   - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 56a1d7868c410dc2f9811194c52cffc5c627b461
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 66
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Journey Optimizer DecisioningでのExperience Manager コンテンツフラグメントの使用方法
+# Journey Optimizer 決定を含む Experience Manager コンテンツフラグメントの使用方法
 
-Adobe Experience ManagerのコンテンツフラグメントとAdobeのジャーニーを組み合わせて使用し、コンテンツをパーソナライズして、アジャイルコミュニケーションに最適化する方法をご紹介します。
+Adobe Experience Manager コンテンツフラグメントをアドビのジャーニーと連携し、アジャイルコミュニケーションでコンテンツをパーソナライズおよび最適化する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492216/?captions=jpn&learn=on&enablevpops)

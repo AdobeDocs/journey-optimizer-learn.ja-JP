@@ -1,6 +1,6 @@
 ---
-title: Journey Agentによるジャーニーの分析と構築
-description: Adobe Journey OptimizerでJourney Agentを利用して、ライブジャーニーを分析し、問題を特定して、マルチステップのジャーニーを構築する方法を、実用的なインサイトとともに解説します。
+title: Journey エージェントを使用したジャーニーの分析と作成
+description: Adobe Journey Optimizer の Journey エージェントで、ライブジャーニーを分析し、問題を特定し、実用的なインサイトを使用してマルチステップのジャーニーを作成する方法について説明します。
 feature: Journeys
 role: User
 level: Beginner
@@ -18,15 +18,15 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 71a7ad7aac7d9fc317a6f2e002723bdd48442902
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 103
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Journey Agentによるジャーニーの分析と構築
+# Journey エージェントを使用したジャーニーの分析と作成
 
-Adobe Journey Optimizerに組み込まれたAI アシスタントであるJourney Agentを使用して、ライブジャーニーを分析し、オーディエンスの競合とプロファイルのフォールアウトを特定し、自然言語を使用して包括的なマルチステップジャーニーを作成する方法を説明します。 この動画では、Journey Agentが、AI アシスタントを離れることなく、透明性の高いインサイト、実用的なレコメンデーション、ガイド付きの承認を提供し、既存のジャーニーのトラブルシューティングや新しいジャーニーの構築をどのように迅速におこなうことができるかをご紹介します
+Adobe Journey Optimizer に組み込まれた AI 利用のアシスタントである Journey エージェントを使用して、ライブジャーニーの分析、オーディエンスの競合やプロファイルのフォールアウトの特定、自然言語を使用した完全なマルチステップジャーニーの作成を行う方法について説明します。このビデオでは、Journey エージェントが透明性のあるインサイト、実用的なレコメンデーション、ガイド付きの承認を提供することにより、既存のジャーニーのトラブルシューティングや新しいジャーニーの作成を、AI アシスタントから離れることなく迅速に行える方法について説明します
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486295/?captions=jpn&learn=on&enablevpops)

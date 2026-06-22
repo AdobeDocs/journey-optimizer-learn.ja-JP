@@ -1,6 +1,6 @@
 ---
 title: ジャーニーノードをフラグメントとして保存
-description: Adobe Journey Optimizerでジャーニーノードを再利用可能なフラグメントとして保存する方法について説明します。 ワークフローを合理化し、複数のジャーニーをまたいで一貫性を確保。
+description: Adobe Journey Optimizer でジャーニーノードを再利用可能なフラグメントとして保存する方法について説明します。ワークフローを効率化し、複数のジャーニーをまたいで一貫性を確保します。
 feature: Journeys
 role: User
 level: Beginner
@@ -19,16 +19,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 2949be4c0b1ff5c6b4374c2f1c5b13ce20866f1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 84
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # ジャーニーノードをフラグメントとして保存
 
-Adobe Journey Optimizerで再利用可能なジャーニーフラグメントを作成する方法について説明します。 この機能により、ユーザーはジャーニーノードのセットをフラグメントとして保存し、他のジャーニーですばやく再利用できます。 フラグメントを利用することで、時間を節約し、ワークフローを合理化して、複数のジャーニーをまたいで一貫性を保つことができます。 詳細なチュートリアルと実用的な例については、組み込みビデオをご覧ください。
+Adobe Journey Optimizer で再利用可能なジャーニーフラグメントを作成する方法について説明します.。この機能により、ユーザーはジャーニーノードのセットをフラグメントとして保存し、他のジャーニーですばやく再利用できます。フラグメントを使用すると、時間を節約し、ワークフローを効率化して、複数のジャーニーをまたいで一貫性を確保できます。チュートリアルと実用的な例について詳しくは、組み込みのビデオをご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491388/?captions=jpn&learn=on&enablevpops)
 
