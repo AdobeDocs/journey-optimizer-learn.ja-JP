@@ -8,7 +8,7 @@ jira: KT-9364
 thumbnail: 341280.jpg
 exl-id: b2da105b-ec0b-4bb8-8f68-993f92253cb4
 source-git-commit: 12db4cde4ac8bc791b958453fdc17dfe081dca8c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 * メッセージでサブスクリプション（解除）オプションを統合する
 * 関連するジャーニーの設定
 
->[!VIDEO](https://video.tv.adobe.com/v/344400?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}

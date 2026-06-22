@@ -1,6 +1,6 @@
 ---
-title: オーケストレーションされたキャンペーンの構築
-description: Adobe Journey Optimizerと、オーディエンスの構築、データ処理、マルチチャネル配信のためのワークフローを組み合わせて活用するキャンペーンを設計および実行する方法を説明します。
+title: オーケストレーションキャンペーンの作成
+description: Adobe Journey Optimizer を使用して、オーディエンスの作成、データの操作、マルチチャネル配信のワークフローを活用したキャンペーンのデザインと実行方法について説明します。
 feature: Campaigns
 role: User
 level: Beginner, Intermediate
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 294
 last-substantial-update: 2026-05-02T00:00:00Z
 jira: KT-20991
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
-workflow-type: tm+mt
+exl-id: e14a4923-fbfd-4fa7-9266-ef20d22d52e2
+source-git-commit: cef9796ba122f2f26ec99a31b09d37c09990ea79
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# オーケストレーションキャンペーンの作成
 
-# オーケストレーションされたキャンペーンの構築
-
-オーディエンス、データ操作、マルチチャネル配信を組み合わせたワークフローを構築することで、Adobe Journey Optimizerでオーケストレーションされたキャンペーンを設計して実行する方法を説明します。 このビデオでは、キャンペーンのスケジュール設定、リレーショナルデータからのオーディエンス作成、エンリッチメントと重複排除、複数のストリームを使用して、カート放棄に対するフォローアップ、解約防止、再入荷通知などの高度なユースケースをサポートする方法を説明します。
+Adobe Journey Optimizer で、オーディエンス、データの操作、マルチチャネル配信を組み合わせたワークフローを作成して、オーケストレーションキャンペーンをデザインおよび実行する方法について説明します。このビデオでは、キャンペーンのスケジュール、リレーショナルデータからのオーディエンスの作成、エンリッチメントと重複排除、複数のストリームを使用して、放棄された買い物かごのフォローアップ、チャーンの防止、再入荷通知などの高度なユースケースをサポートする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484965/?learn=on&enablevpops)
