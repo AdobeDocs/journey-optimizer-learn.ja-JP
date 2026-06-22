@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer に組み込まれた AI 利用のアシスタントである Journey エージェントを使用して、ライブジャーニーの分析、オーディエンスの競合やプロファイルのフォールアウトの特定、自然言語を使用した完全なマルチステップジャーニーの作成を行う方法について説明します。このビデオでは、Journey エージェントが透明性のあるインサイト、実用的なレコメンデーション、ガイド付きの承認を提供することにより、既存のジャーニーのトラブルシューティングや新しいジャーニーの作成を、AI アシスタントから離れることなく迅速に行える方法について説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486295/?captions=jpn&learn=on&enablevpops)

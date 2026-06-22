@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Adobe Experience Manager コンテンツフラグメントをアドビのジャーニーと連携し、アジャイルコミュニケーションでコンテンツをパーソナライズおよび最適化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492216/?captions=jpn&learn=on&enablevpops)
