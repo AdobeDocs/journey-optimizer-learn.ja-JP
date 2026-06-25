@@ -39,4 +39,4 @@ Adobe Experience Platform（AEP）のデータストリームは、Web SDKから
 
 前の手順で作成したイベントおよびプロファイルデータセットを使用して、WebPushDataStreamという名前の新しいデータストリームを作成します。 チュートリアルの後半で.env ファイルを使用してアプリケーションを設定する際に必要になるので、データストリーム IDをメモしておきます。
 
-![ データストリーム ](assets/datastream.png)
+![&#x200B; データストリーム &#x200B;](assets/datastream.png)

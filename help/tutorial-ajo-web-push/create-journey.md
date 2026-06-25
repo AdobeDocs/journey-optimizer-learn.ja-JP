@@ -34,7 +34,7 @@ price.drop イベントでトリガーされるジャーニーを作成するに
 ## プッシュアクションを追加
 
 「アクション」セクションを展開します。 `Action` アクティビティをキャンバスにドラッグ&amp;ドロップし、アクションタイプとして「プッシュ」を選択します
-![ プッシュアクション ](assets/add-push-action.png)
+![&#x200B; プッシュアクション &#x200B;](assets/add-push-action.png)
 
 ## プッシュアクションの設定
 
@@ -55,13 +55,13 @@ price.drop イベントでトリガーされるジャーニーを作成するに
 メッセージの作成を開始するには、`Content`をクリックして「コンテンツ」タブを開き、固定テキストとイベントデータから派生した動的フィールドの両方を定義できます。
 ![content-push](assets/compose-message.png)
 
-プッシュメッセージのタイトルを指定し、パーソナライゼーションエディターを開いてメッセージ本文を構成します。 コンテンツには、価格が下がった製品名が動的に含まれます。 これには、各[ ヘルパー関数を使用します](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+プッシュメッセージのタイトルを指定し、パーソナライゼーションエディターを開いてメッセージ本文を構成します。 コンテンツには、価格が下がった製品名が動的に含まれます。 これには、各[&#x200B; ヘルパー関数を使用します](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 商品リストを繰り返し表示し、メッセージ内に商品の名前を表示します。
 
 ## メッセージ本文の作成
 
 ヘルパー関数メニューから`Each`関数を選択して挿入します。
-![ ヘルパー関数](assets/journey-content-helper-function.png)
+![&#x200B; ヘルパー関数](assets/journey-content-helper-function.png)
 
 コンテキスト属性を選択| Journey Orchestration | イベント | PriceDropEvent | productListItems |名前
 

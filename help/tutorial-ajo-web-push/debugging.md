@@ -20,7 +20,7 @@ ht-degree: 2%
 このページでは、Web プッシュ通知フローをデバッグする際に役立つヒントを提供します。これには、Web SDK リクエストの検証、AEPでのECIDとユーザープロファイルの確認、price.dropなどのイベントの正しい送受信の確認などが含まれます。
 
 - **Adobe Experience Platform Debugger（Chrome拡張機能）を使用**\
-  Chrome](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob)用の[AEP Debugger拡張機能をインストールして、Web SDK アクティビティをより簡単に調べることができます。
+  Chrome[&#128279;](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob)用のAEP Debugger拡張機能をインストールして、Web SDK アクティビティをより簡単に調べることができます。
 
 このツールを使用すると、次のことが可能になります。
 - Web SDKのリクエストと応答を表示する\
