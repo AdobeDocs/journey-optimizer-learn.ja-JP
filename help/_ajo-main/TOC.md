@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
+source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
 workflow-type: tm+mt
-source-wordcount: '1490'
-ht-degree: 99%
+source-wordcount: '1507'
+ht-degree: 98%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 99%
       + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
       + [Web プッシュ通知の作成](/help/channels/create-web-push-notifications.md)
+      + [web プッシュエンドツーエンドのチュートリアル](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + SMS／MMS チャネル{#sms-channel}
       + [SMS/MMS メッセージ - 概要](/help/channels/sms-mms-messages-overview.md)
       + [SMS メッセージを設定、作成および配信](/help/channels/author-sms-messages.md)
