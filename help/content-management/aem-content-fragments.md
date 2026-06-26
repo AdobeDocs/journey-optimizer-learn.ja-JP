@@ -7,7 +7,7 @@ role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 144
-last-substantial-update: '2025-04-21T00:00:00.000Z'
+last-substantial-update: '2026-06-22T00:00:00.000Z'
 jira: KT-17599
 exl-id: e404a36c-117e-492f-8f15-2a48642c9c91
 hide: false
@@ -26,7 +26,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
+source-git-commit: 958ce38b6f7ed8243c314627a2fd8d03c99c8009
 workflow-type: tm+mt
 source-wordcount: 178
 ht-degree: 100%
