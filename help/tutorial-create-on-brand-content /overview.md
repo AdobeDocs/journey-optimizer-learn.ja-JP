@@ -7,15 +7,15 @@ role: User
 level: Intermediate
 doc-type: overview-page
 last-substantial-update: 2026-07-08T00:00:00Z
-source-git-commit: 9181c5a4999ee49eb86b33eebf8083a460e527c1
+source-git-commit: 368f1a4344c68d4964cdd4b475421e5e339f5834
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 1%
+source-wordcount: '374'
+ht-degree: 0%
 
 ---
 
 
-# Journey Optimizerでのブランドに即したコンテンツの制作
+# Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル
 
 Adobe Journey OptimizerのAIを利用して、カスタマージャーニー全体でブランドに即したコンテンツを制作、調整、拡張する方法を解説します。
 
@@ -26,16 +26,24 @@ Adobe Journey OptimizerのAIを利用して、カスタマージャーニー全�
 ### 概要とブランド設定
 
 * [概要](./introduction.md)
-* [ブランドの設定](./configure-brands.md)
-* [ブランドガイドラインのヒント](./brands-tips-and-tricks.md)
+ここでは、AIを活用したツールを利用して、メールコンテンツを生成し、ブランドガイドラインを適用する方法について解説します。
+* [ ブランドの設定](./configure-brands.md)
+Adobe Journey Optimizerで、ブランドガイドラインをアップロードし、スタイルを定義して、チャネルをまたいで一貫性のあるブランドに即したコミュニケーションを行う方法をご紹介します。
+* [ ブランドガイドラインのヒント](./brands-tips-and-tricks.md)
+Adobe Journey Optimizer、GenStudio、Adobe Expressをまたいでブランドガイドラインを拡張し、ブランディングの一貫性とチームのコラボレーションを向上させるヒントをご紹介します。
 
 ### コンテンツの生成と調整
 
-* [ゼロからコンテンツを制作](./create-content-from-scratch.md)
-* [セクションコンテンツの編集とパーソナライズ](./edit-and-personalize-section-content.md)
-* [ビジュアルコンテンツを強化](./enhance-your-visual-content.md)
-* [多言語バージョンのコンテンツを作成および調整](./create-and-refine-multilingual-content.md)
+* [最初からコンテンツを作成](./create-content-from-scratch.md)
+テンプレートから始め、ブランドガイドラインを適用し、シンプルなプロンプトを使用して、メール、プッシュ通知、アプリ内メッセージをゼロから作成できます。
+* [ セクションコンテンツの編集とパーソナライズ](./edit-and-personalize-section-content.md)
+Adobe Journey OptimizerでAIを利用して、個々のコンテンツコンポーネントを編集およびパーソナライズする方法を説明します。
+* [ ビジュアルコンテンツの強化](./enhance-your-visual-content.md)
+Adobe Journey Optimizerのビジュアルコンテンツを強化する方法を説明します。
+* [ コンテンツの多言語バージョンを作成および調整する](./create-and-refine-multilingual-content.md)
+AIを活用して、ブランドの一貫性を維持しながらコンテンツを翻訳およびローカライズする方法をご確認ください。 グローバルなコミュニケーションを拡大するための効率的なワークフローをご紹介します。
 
 ### 品質、ブランドの整合性、ガバナンスを確保
 
 * [品質、ブランドの整合性、ガバナンスを確保](./quality-brand-alignment-and-governance.md)
+AIを活用したツールを使用して、ブランドの整合性を維持しながら、コンテンツの品質を評価、改善する方法を紹介します。
