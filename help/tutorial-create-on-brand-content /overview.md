@@ -27,20 +27,20 @@ Adobe Journey OptimizerのAIを利用して、カスタマージャーニー全�
 
 * [概要](./introduction.md)
 ここでは、AIを活用したツールを利用して、メールコンテンツを生成し、ブランドガイドラインを適用する方法について解説します。
-* [ ブランドの設定](./configure-brands.md)
+* [&#x200B; ブランドの設定](./configure-brands.md)
 Adobe Journey Optimizerで、ブランドガイドラインをアップロードし、スタイルを定義して、チャネルをまたいで一貫性のあるブランドに即したコミュニケーションを行う方法をご紹介します。
-* [ ブランドガイドラインのヒント](./brands-tips-and-tricks.md)
+* [&#x200B; ブランドガイドラインのヒント](./brands-tips-and-tricks.md)
 Adobe Journey Optimizer、GenStudio、Adobe Expressをまたいでブランドガイドラインを拡張し、ブランディングの一貫性とチームのコラボレーションを向上させるヒントをご紹介します。
 
 ### コンテンツの生成と調整
 
 * [最初からコンテンツを作成](./create-content-from-scratch.md)
 テンプレートから始め、ブランドガイドラインを適用し、シンプルなプロンプトを使用して、メール、プッシュ通知、アプリ内メッセージをゼロから作成できます。
-* [ セクションコンテンツの編集とパーソナライズ](./edit-and-personalize-section-content.md)
+* [&#x200B; セクションコンテンツの編集とパーソナライズ](./edit-and-personalize-section-content.md)
 Adobe Journey OptimizerでAIを利用して、個々のコンテンツコンポーネントを編集およびパーソナライズする方法を説明します。
-* [ ビジュアルコンテンツの強化](./enhance-your-visual-content.md)
+* [&#x200B; ビジュアルコンテンツの強化](./enhance-your-visual-content.md)
 Adobe Journey Optimizerのビジュアルコンテンツを強化する方法を説明します。
-* [ コンテンツの多言語バージョンを作成および調整する](./create-and-refine-multilingual-content.md)
+* [&#x200B; コンテンツの多言語バージョンを作成および調整する](./create-and-refine-multilingual-content.md)
 AIを活用して、ブランドの一貫性を維持しながらコンテンツを翻訳およびローカライズする方法をご確認ください。 グローバルなコミュニケーションを拡大するための効率的なワークフローをご紹介します。
 
 ### 品質、ブランドの整合性、ガバナンスを確保
