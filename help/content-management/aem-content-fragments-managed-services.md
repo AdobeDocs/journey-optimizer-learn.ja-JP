@@ -34,4 +34,4 @@ Journey Optimizer で Adobe Experience Manager（AEM）Managed Services 統合�
 
 このチュートリアルでは、リポジトリ接続の設定、コンテンツアドバイザーによる設定の検証、パーソナライゼーションエディター内でのコンテンツフラグメントの直接選択を順を追って説明します。これにより、マーケターはキャンペーン内で AEM コンテンツを効率的に再利用およびプレビューできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492530/?captions=jpn&learn=on&enablevpops)
