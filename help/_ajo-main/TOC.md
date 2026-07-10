@@ -147,7 +147,7 @@ ht-degree: 98%
    + [プロファイルの環境設定や傾向スコアに基づいてチャネルを最適化](/help/channels/channel-optimization.md)
    + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
    + [チャネルオーサリングで外部データ統合を有効にする](/help/content-management/external-data-integrations-in-channel-authoring.md)
-   + [Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+   + [Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + コンテンツのパーソナライズ {#personalize-content}
    + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
