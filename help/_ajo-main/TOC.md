@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
+source-git-commit: 0069f593c0a73f0d7b25421cfd5fb72c99032110
 workflow-type: tm+mt
-source-wordcount: '1507'
+source-wordcount: '1527'
 ht-degree: 98%
 
 ---
@@ -106,7 +106,7 @@ ht-degree: 98%
       + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
       + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
       + [Web プッシュ通知の作成](/help/channels/create-web-push-notifications.md)
-      + [web プッシュエンドツーエンドのチュートリアル](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [Web プッシュエンドツーエンドのチュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + SMS／MMS チャネル{#sms-channel}
       + [SMS/MMS メッセージ - 概要](/help/channels/sms-mms-messages-overview.md)
       + [SMS メッセージを設定、作成および配信](/help/channels/author-sms-messages.md)
@@ -133,7 +133,7 @@ ht-degree: 98%
       + [式フラグメントの作成](/help/content-management/expression-fragments.md)
       + [リッチテキストを編集可能なフラグメントに追加](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [AEM コンテンツフラグメントの使用](/help/content-management/aem-content-fragments.md)
-      + [AEM コンテンツフラグメントの使用（Managed Services）](/help/content-management/aem-content-fragments-managed-services.md)
+      + [AEM コンテンツフラグメント（Managed Services）の使用](/help/content-management/aem-content-fragments-managed-services.md)
    + コンテンツテンプレート{#content-templates}
       + [コンテンツテンプレートの作成](/help/content-management/templates/create-content-templates.md)
       + [テンプレートのコンテンツのロック](/help/content-management/templates/content-locking.md)
@@ -144,9 +144,10 @@ ht-degree: 98%
       + [コンテンツ生成用 AI アシスタント - 概要](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [ブランドガイドラインの作成と管理](/help/content-management/brand-guideline-creation-and-management.md)
-   + [プロファイルの環境設定や傾向スコアに基づいたチャネルの最適化](/help/channels/channel-optimization.md)
+   + [プロファイルの環境設定や傾向スコアに基づいてチャネルを最適化](/help/channels/channel-optimization.md)
    + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
    + [チャネルオーサリングで外部データ統合を有効にする](/help/content-management/external-data-integrations-in-channel-authoring.md)
+   + [Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + コンテンツのパーソナライズ {#personalize-content}
    + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
    + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

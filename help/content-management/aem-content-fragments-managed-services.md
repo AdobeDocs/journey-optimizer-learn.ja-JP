@@ -1,6 +1,6 @@
 ---
-title: Journey OptimizerでのAEM コンテンツフラグメント（Managed Services）の使用
-description: Journey OptimizerでAdobe Experience Manager（AEM）Managed Services統合を設定および使用して、コンテンツフラグメントをオーサリングワークフローに統合する方法を説明します。 このチュートリアルでは、リポジトリ接続の設定、コンテンツアドバイザーによる設定の検証、パーソナライゼーションエディター内でのコンテンツフラグメントの直接選択を順を追って説明します。これにより、マーケターはキャンペーン内でAEM コンテンツを効率的に再利用およびプレビューできます。
+title: Journey Optimizer での AEM コンテンツフラグメント（Managed Services）の使用
+description: Journey Optimizer で Adobe Experience Manager（AEM）Managed Services 統合を設定および使用し、コンテンツフラグメントをオーサリングワークフローに統合する方法について説明します。このチュートリアルでは、リポジトリ接続の設定、コンテンツアドバイザーによる設定の検証、パーソナライゼーションエディター内でのコンテンツフラグメントの直接選択を順を追って説明します。これにより、マーケターはキャンペーン内で AEM コンテンツを効率的に再利用およびプレビューできます。
 feature: Integrations, Fragments
 topic: Content Management, Integrations
 role: User
@@ -22,16 +22,16 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 136
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Journey OptimizerでのAEM コンテンツフラグメント（Managed Services）の使用
+# Journey Optimizer での AEM コンテンツフラグメント（Managed Services）の使用
 
-Journey OptimizerでAdobe Experience Manager（AEM）Managed Services統合を設定および使用して、コンテンツフラグメントをオーサリングワークフローに統合する方法を説明します。
+Journey Optimizer で Adobe Experience Manager（AEM）Managed Services 統合を設定および使用し、コンテンツフラグメントをオーサリングワークフローに統合する方法について説明します。
 
-このチュートリアルでは、リポジトリ接続の設定、コンテンツアドバイザーによる設定の検証、パーソナライゼーションエディター内でのコンテンツフラグメントの直接選択を順を追って説明します。これにより、マーケターはキャンペーン内でAEM コンテンツを効率的に再利用およびプレビューできます。
+このチュートリアルでは、リポジトリ接続の設定、コンテンツアドバイザーによる設定の検証、パーソナライゼーションエディター内でのコンテンツフラグメントの直接選択を順を追って説明します。これにより、マーケターはキャンペーン内で AEM コンテンツを効率的に再利用およびプレビューできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492530/?captions=jpn&learn=on&enablevpops)

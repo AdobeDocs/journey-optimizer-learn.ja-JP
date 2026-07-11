@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1552'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -85,8 +85,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" title="本番稼働前にジャーニーを効率的にテスト、シミュレート、検証する方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492438/?format=jpeg&nocache=1782495512850" alt="本番稼働前にジャーニーを効率的にテスト、シミュレート、検証する方法"
+                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" title="公開前にジャーニーを効率的にテスト、シミュレート、検証する方法" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492438/?format=jpeg&nocache=1782495512850" alt="公開前にジャーニーを効率的にテスト、シミュレート、検証する方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,11 +94,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" title="本番稼働前にジャーニーを効率的にテスト、シミュレート、検証する方法">本番稼働前に、ジャーニーを効率的にテスト、シミュレート、検証する方法</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" title="公開前にジャーニーを効率的にテスト、シミュレート、検証する方法">公開前にジャーニーを効率的にテスト、シミュレート、検証する方法</a>
                     </p>
-                    <p class="is-size-6">このExperience Leagueライブセッションでは、Adobe Journey Optimizerのジャーニーテストおよび検証ツールを利用できます。自信を持って本番稼動に移すことができます。</p>
+                    <p class="is-size-6">この Experience League ライブセッションでは、Adobe Journey Optimizer のジャーニーテストおよび検証ツールについて詳しく説明します。これにより、自信を持って公開できます。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 
             </div>
