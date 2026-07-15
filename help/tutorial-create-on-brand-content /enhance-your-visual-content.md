@@ -21,4 +21,4 @@ ht-degree: 0%
 
 このステップでは、Adobe Journey OptimizerのAI ツールを使用して、画像やグラフィックを補正およびカスタマイズします。 ロゴ、カラー、フォントをブランドに合わせながら、インフォグラフィックの生成、オーバーレイの追加、画像の調整を実施できます。 Adobe Journey OptimizerとAdobe Expressの間でアセットを移動し、編集内容を拡張して一貫性を維持できます。 このステップが終わる頃には、ブランドに即したビジュアルをリポジトリに保存して、キャンペーン全体で再利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494637/?captions=jpn&learn=on)
