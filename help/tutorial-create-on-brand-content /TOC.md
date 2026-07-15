@@ -6,9 +6,9 @@ level: Intermediate
 breadcrumb-title: create-on-brand-content
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 8b1bcb574398f3d904ab0aefd26e6267d247b15d
+source-git-commit: 2f53d4498236daab8f982aff4aa5211d70c6f4aa
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 + 概要とブランド設定 {#introduction-and-brand-setup}
    + [AIを活用してブランドに即したメールコンテンツを作成](./introduction.md)
    + [AIを活用したコンテンツ用にブランドを設定する](./configure-brands.md)
-   + [ブランドガイドラインのヒント](./brands-tips-and-tricks.md)
+   + [クリエイティブツールをまたいでブランドガイドラインを拡張](./brands-tips-and-tricks.md)
 + AIを活用してコンテンツを生成する {#generate-content}
    + [ゼロからコンテンツを制作](./create-content-from-scratch.md)
    + [セクションコンテンツの編集とパーソナライズ](./edit-and-personalize-section-content.md)
