@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Journey Optimizerの枠を超え、GenStudioやAdobe Expressなどのツールへとブランドガイドラインを拡張し、ライティングスタイル、ビジュアル要素、AIを活用したアウトプットを洗練させるための実践的なヒントをご確認ください。 このビデオでは、詳細なブランド仕様の作成方法、例を使用してコンテンツ生成をガイドする方法、複数のブランドを管理して様々なチームとコミュニケーション戦略をサポートする方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494283/?captions=jpn&learn=on)
