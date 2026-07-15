@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Adobe Journey OptimizerでAI機能を使用してコンテンツを生成および検証するブランドを作成および設定する方法について説明します。 ブランドガイドラインのドキュメントをアップロードし、トーンオブボイス、スローガン、法的制約、画像のルール、CTAのフォーマットなどの主要要素をマッピングします。 チャネルレベルおよびエレメントレベルのガイダンスを編集して、生成精度を向上させ、自動化された品質チェックを実現できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494368/?captions=jpn&learn=on)
