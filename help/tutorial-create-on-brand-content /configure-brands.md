@@ -1,24 +1,24 @@
 ---
-title: Adobe Journey Optimizerでのブランドの設定
-description: このビデオでは、ブランドガイドラインのドキュメントをアップロードする方法、主要なブランド要素を構成する方法、およびライティングスタイルとビジュアルコンテンツを定義する方法について説明します。
+title: Adobe Journey OptimizerのAIを活用したコンテンツ用にブランドを設定する
+description: Adobe Journey OptimizerでAI機能を使用してコンテンツを生成および検証するブランドを作成および設定する方法について説明します。
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-21952
-source-git-commit: 02e7231661fcd254f89ffcbbfd6ee6039ededffa
+source-git-commit: 7c1f5db3b2e5c628dcf233cb112bfca49bc28aad
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Journey Optimizerでのブランドの設定
+# Adobe Journey OptimizerのAIを活用したコンテンツ用にブランドを設定する
 
-このビデオでは、ブランドガイドラインドキュメントをアップロードし、主要なブランド要素を構成し、ライティングスタイル、ビジュアルコンテンツ、IDの詳細を定義する方法について説明します。 また、これらのガイドラインを改善およびカスタマイズして、AIが生成したコンテンツと自動化された品質チェックを強化し、あらゆるチャネルで一貫性のあるブランドに即したコミュニケーションを確保する方法も紹介します。
+Adobe Journey OptimizerでAI機能を使用してコンテンツを生成および検証するブランドを作成および設定する方法について説明します。 ブランドガイドラインのドキュメントをアップロードし、トーンオブボイス、スローガン、法的制約、画像のルール、CTAのフォーマットなどの主要要素をマッピングします。 チャネルレベルおよびエレメントレベルのガイダンスを編集して、生成精度を向上させ、自動化された品質チェックを実現できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494368/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
