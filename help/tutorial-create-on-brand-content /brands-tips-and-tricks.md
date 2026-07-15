@@ -21,4 +21,4 @@ ht-degree: 0%
 
 このステップでは、Adobe Journey Optimizerで設定したブランドを、GenStudioやAdobe ExpressなどのAdobeツールに適用する方法を説明します。 Adobe Journey Optimizerを使用して、書き方の設定や視覚的な仕様を微調整したり、テキストや画像の例を直接追加したりすることで、AIが生成したコンテンツや自動品質チェックを改善できます。 また、複数のブランドを管理して、さまざまな部門やコミュニケーション戦略をサポートすることもできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494283/?captions=jpn&learn=on)
