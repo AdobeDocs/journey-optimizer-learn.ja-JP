@@ -1,17 +1,17 @@
 ---
 title: セクションコンテンツの編集とパーソナライズ
-description: Adobe Journey OptimizerのAIを活用して、コンテンツの個々のセクションを洗練させ、パーソナライズする方法を説明します。
+description: Adobe Journey OptimizerのAIを利用して、メールテンプレートの個々のセクションを編集およびパーソナライズできます。
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 500
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20385
-source-git-commit: 3255170bd08302d74ec7caaa08b74bf71b2db1c6
+source-git-commit: d6edc073e34d3e14e7d51f73001b47a4cb52bb18
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # セクションコンテンツの編集とパーソナライズ
 
-AIを活用して、コンテンツの個々のセクションを改善したり、パーソナライズしたりする方法を解説します。 このビデオでは、ブランドの一貫性を維持しながら、既存のテンプレート内の件名、プリヘッダー、テキストブロック、画像を編集する方法を説明します。 ブランドガイドラインを使用しながら、プロンプトの適用、参照コンテンツの活用、トーンとメッセージの調整、新しいビジュアルの生成などを行い、コミュニケーションのあらゆるコンポーネントをまたいで、高品質でコンプライアンスに準拠した結果を実現する方法を解説します。
+Adobe Journey OptimizerのAIを利用して、メールテンプレートの個々のセクションを編集およびパーソナライズできます。 ブランドカラー、ボイス、コンプライアンスのルールを維持しながら、件名、プリヘッダー、テキストブロック、画像を変更できます。 プロンプトや参照コンテンツを使用して、トーンの調整、テキストの言い換え、言語の翻訳、各コンポーネントのブランドに即したビジュアルの生成を行うことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3495879/?captions=jpn&learn=on)

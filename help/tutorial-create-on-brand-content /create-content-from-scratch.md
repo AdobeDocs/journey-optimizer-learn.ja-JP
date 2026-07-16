@@ -1,24 +1,24 @@
 ---
-title: ゼロからコンテンツを制作
-description: テンプレート、ブランドガイドライン、AIを活用したバリエーションを使用して、メール、プッシュ通知、アプリ内メッセージをゼロから作成する方法を説明します。
+title: オムニチャネルコンテンツをゼロから制作
+description: このステップでは、既存のコンテンツテンプレートから始め、AI機能を使用して完全なアセットを生成します。
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 182
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-16226
-source-git-commit: d80b00583c47ed90a73d0058aad46472b04df681
+source-git-commit: ab64a156f9bbd1496ebfa4d06dbfea37a8bc1e71
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 
-# ゼロからコンテンツを制作
+# オムニチャネルコンテンツをゼロから制作
 
-このビデオでは、テンプレートから始め、ブランドガイドラインを適用し、シンプルなプロンプトを使用してメール、プッシュ通知、アプリ内メッセージをゼロから作成する方法を説明します。 また、AI主導のバリエーションとスコアリングを活用して、トーン、イメージ、メッセージを調整し、オムニチャネル体験をまたいで一貫性のある高品質なコンテンツをすばやく制作する方法も紹介します。
+このステップでは、既存のコンテンツテンプレートから始め、AI機能を使用して、メール、プッシュ通知、アプリ内メッセージなどの完全なアセットを生成します。 ブランドガイドラインを適用し、言語、トーン、画像の設定を行うことで、コンテンツをブランドに沿ったものにできます。 AIを利用して、複数のバリエーションを生成し、ブランドスコアリングを確認して、コンテンツを手作業または2つ目のAI パスで編集して、メッセージやビジュアルを洗練させることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434636/?captions=jpn&learn=on)
