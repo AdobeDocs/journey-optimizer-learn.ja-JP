@@ -10,8 +10,10 @@ last-substantial-update: 2026-07-22T00:00:00.000Z
 jira: KT-22110
 autotag-review: '2026-07-22T13:09:36.218Z'
 TQID: 'https://experienceleague.adobe.com/oDbECno-v-PJ5uUiZPotv22pRrofxIb8nkdJdafYnG0'
-product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2: id: d998adac-2f81-400b-a669-d07bb196e4eb
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
 source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
 workflow-type: tm+mt
 source-wordcount: 82
