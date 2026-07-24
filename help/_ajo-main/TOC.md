@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 57c9805e1a1f9f7392c90955902009df56751058
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1555'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + ジャーニー {#journeys}
   + [ジャーニーデザイナー - 概要](/help/journeys/journey-designer-overview.md)
   + [新しいジャーニーキャンバスの概要](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Journey エージェントを使用したジャーニーの分析と作成](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[新しいジャーニーデザイナーについて](/help/journeys/new-journey-designer.md)
   + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
-  + [ジャーニーでのデータセット参照の使用](/help/journeys/lookup-dataset.md)
+  + [AIを活用したジャーニーの分析と構築](/help/ai-agents/journey-agent-overview.md)
   + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
+  + {hide-from-toc}[外部オーディエンスを使用したジャーニーのシミュレーション &#x200B;](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
   + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
-  + [複数属性フィルタリングの習得](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [ジャーニーでのデータセット検索の使用](/help/journeys/lookup-dataset.md)
+  + [マスター多属性フィルタリング](/help/journeys/mastering-multi-attribute-filtering.md)
   + [ジャーニーの連合オーディエンスを含むマルチエンティティターゲティングの使用](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [ジャーニードライランを使用したジャーニーロジックの検証](/help/journeys/journey-dry-run.md)
   + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -124,6 +124,7 @@ ht-degree: 97%
     + [WhatsApp チャネルの概要](/help/channels/whatsapp-introduction.md)
     + [WhatsApp チャネルの設定](/help/channels/set-up-whatsapp.md)
     + [WhatsApp ジャーニーの作成](/help/channels/create-a-whatsapp-journey.md)
+  + {hide-from-toc}[&#x200B; カスタムチャネルの設定と使用](/help/channels/configure-and-use-custom-channels.md)
 + コンテンツ管理{#content-management}
   + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
   + アセットの管理 {#assets}
