@@ -44,7 +44,7 @@ ht-degree: 95%
   + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
   + [AIを活用したジャーニーの分析と構築](/help/ai-agents/journey-agent-overview.md)
   + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
-  + {hide-from-toc}[外部オーディエンスを使用したジャーニーのシミュレーション ](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + {hide-from-toc}[外部オーディエンスを使用したジャーニーのシミュレーション &#x200B;](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
   + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
   + [ジャーニーでのデータセット検索の使用](/help/journeys/lookup-dataset.md)
