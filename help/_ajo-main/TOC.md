@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 40ceb7f4414af6b2d311491f03be4daff1c72c19
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1550'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + ジャーニー {#journeys}
   + [ジャーニーデザイナー - 概要](/help/journeys/journey-designer-overview.md)
   + [新しいジャーニーキャンバスの概要](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Journey エージェントを使用したジャーニーの分析と作成](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[新しいジャーニーデザイナーについて](/help/journeys/new-journey-designer.md)
   + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
-  + [ジャーニーでのデータセット参照の使用](/help/journeys/lookup-dataset.md)
+  + [AIを活用したジャーニーの分析と構築](/help/ai-agents/journey-agent-overview.md)
   + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
+  + [外部オーディエンスを使用したジャーニーのシミュレーション](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
   + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
-  + [複数属性フィルタリングの習得](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [ジャーニーでのデータセット検索の使用](/help/journeys/lookup-dataset.md)
+  + [マスター多属性フィルタリング](/help/journeys/mastering-multi-attribute-filtering.md)
   + [ジャーニーの連合オーディエンスを含むマルチエンティティターゲティングの使用](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [ジャーニードライランを使用したジャーニーロジックの検証](/help/journeys/journey-dry-run.md)
   + [補助 ID を使用したジャーニーの再エントリのロック解除](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -93,7 +93,7 @@ ht-degree: 97%
     + [E メールデザイナーでコンテンツを作成](/help/channels/create-content-with-the-email-designer.md)
     + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
     + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
-    + [AIを活用したブランドに即したコンテンツ制作 – チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AIを活用したブランドに即したコンテンツ制作 – チュートリアル](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + コンテンツカード{#content-cards}
     + [コンテンツカードの作成](/help/channels/create-content-cards.md)
   + アプリ内チャネル{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 97%
   + [プロファイルの環境設定や傾向スコアに基づいてチャネルを最適化](/help/channels/channel-optimization.md)
   + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
   + [チャネルオーサリングで外部データ統合を有効にする](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + コンテンツのパーソナライズ {#personalize-content}
   + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
   + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
