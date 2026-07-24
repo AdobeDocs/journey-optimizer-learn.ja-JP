@@ -8,11 +8,10 @@ doc-type: Feature Video
 duration: 121
 last-substantial-update: 2026-07-24T00:00:00Z
 jira: KT-22142
-badgeLA: label="限定提供" type="Informative"
-source-git-commit: bd6dab91e0bbc696fd9e9273413601cf98603486
+source-git-commit: 57c9805e1a1f9f7392c90955902009df56751058
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 2%
+source-wordcount: '96'
+ht-degree: 0%
 
 ---
 
