@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 57c9805e1a1f9f7392c90955902009df56751058
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1555'
+source-wordcount: '1562'
 ht-degree: 95%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 95%
   + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
   + [AIを活用したジャーニーの分析と構築](/help/ai-agents/journey-agent-overview.md)
   + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
-  + {hide-from-toc}[外部オーディエンスを使用したジャーニーのシミュレーション &#x200B;](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + {hide-from-toc}[外部オーディエンスを使用したジャーニーのシミュレーション ](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
   + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
   + [ジャーニーでのデータセット検索の使用](/help/journeys/lookup-dataset.md)
@@ -93,7 +93,7 @@ ht-degree: 95%
     + [E メールデザイナーでコンテンツを作成](/help/channels/create-content-with-the-email-designer.md)
     + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
     + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
-    + [AIを活用したブランドに即したコンテンツ制作 – チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AIを活用したブランドに即したコンテンツ制作 – チュートリアル](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + コンテンツカード{#content-cards}
     + [コンテンツカードの作成](/help/channels/create-content-cards.md)
   + アプリ内チャネル{#in-app-channel}
@@ -124,7 +124,7 @@ ht-degree: 95%
     + [WhatsApp チャネルの概要](/help/channels/whatsapp-introduction.md)
     + [WhatsApp チャネルの設定](/help/channels/set-up-whatsapp.md)
     + [WhatsApp ジャーニーの作成](/help/channels/create-a-whatsapp-journey.md)
-  + {hide-from-toc}[&#x200B; カスタムチャネルの設定と使用](/help/channels/configure-and-use-custom-channels.md)
+  + {hide-from-toc}[ カスタムチャネルの設定と使用](/help/channels/configure-and-use-custom-channels.md)
 + コンテンツ管理{#content-management}
   + [メッセージオーサリング - 概要](/help/content-management/message-authoring-overview.md)
   + アセットの管理 {#assets}
@@ -150,7 +150,7 @@ ht-degree: 95%
   + [プロファイルの環境設定や傾向スコアに基づいてチャネルを最適化](/help/channels/channel-optimization.md)
   + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
   + [チャネルオーサリングで外部データ統合を有効にする](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + コンテンツのパーソナライズ {#personalize-content}
   + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
   + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -178,6 +178,7 @@ ht-degree: 95%
       + [決定を使用したメールのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
       + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[web ビジュアルエディター内で決定を使用](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [決定を含む Experience Manager コンテンツフラグメントの使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 外部トリガーとインタラクションからの決定のトリガー {#trigger}
