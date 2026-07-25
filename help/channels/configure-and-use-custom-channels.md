@@ -31,4 +31,4 @@ Slack、WeChat、Telegram、独自の基盤など、Adobe Journey Optimizerで�
 
 このビデオでは、カスタムアウトバウンドチャネルをエンドツーエンドで構築し、ジャーニーで使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496287/?captions=jpn&learn=on&enablevpops)

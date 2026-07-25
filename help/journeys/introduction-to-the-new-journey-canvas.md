@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizerの新しいジャーニーキャンバス体験をご覧ください。 このアップデートでは、ジャーニーキャンバスを強化する最新のレンダリングエンジンが導入され、オーケストレーションされたキャンペーンやオーディエンス構成で既に使用されているエクスペリエンスに合わせられます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496194/?captions=jpn&learn=on&enablevpops)

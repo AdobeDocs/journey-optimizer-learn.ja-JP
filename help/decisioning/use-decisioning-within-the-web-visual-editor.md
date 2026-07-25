@@ -29,4 +29,4 @@ ht-degree: 0%
 
 web ビジュアルエディター内で決定機能を使用してweb ページをパーソナライズする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496304/?captions=jpn&learn=on&enablevpops)
