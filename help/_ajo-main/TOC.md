@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 57c9805e1a1f9f7392c90955902009df56751058
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1555'
+source-wordcount: '1562'
 ht-degree: 95%
 
 ---
@@ -178,6 +178,7 @@ ht-degree: 95%
       + [決定を使用したメールのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
       + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[web ビジュアルエディター内で決定を使用](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [決定を含む Experience Manager コンテンツフラグメントの使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 外部トリガーとインタラクションからの決定のトリガー {#trigger}
