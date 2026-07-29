@@ -19,4 +19,4 @@ ht-degree: 0%
 
 購入、支出、およびカスタムイベントアクティビティ（実施要件ルール、除外、再利用可能なタスクテンプレートなど）を使用して、ロイヤルティチャレンジタスクを作成および設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496442/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496443/?captions=jpn&learn=on&enablevpops)
