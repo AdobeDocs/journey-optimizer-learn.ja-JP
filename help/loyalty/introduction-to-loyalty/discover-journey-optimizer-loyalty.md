@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer Loyaltyを活用して、AIを活用したインサイト、gamificationの適応性、統合された顧客プロファイルによりロイヤルティデータをパーソナライズされたエクスペリエンスに変換し、エンゲージメントとロイヤルティの成果を促進する方法をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496441/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496452/?captions=jpn&learn=on&enablevpops)
