@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 375545aa89523d2e9b6a8975b0f2a459274fb2b4
+source-git-commit: b8b058d92e642d5a7787115b3ee7218d5d12c46f
 workflow-type: tm+mt
-source-wordcount: '1562'
-ht-degree: 95%
+source-wordcount: '1557'
+ht-degree: 94%
 
 ---
 
@@ -63,8 +63,6 @@ ht-degree: 95%
     + [ユースケース - オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)
   + チュートリアル{#tutorials}
     + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ ロイヤルティ {#loyalty}
-  + {hide-from-toc}[ロイヤルティの課題の作成](/help/loyalty/create-a-loyalty-challenge.md)
 + 競合管理と優先順位付け {#conflict-management}
   + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
   + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -93,7 +91,7 @@ ht-degree: 95%
     + [E メールデザイナーでコンテンツを作成](/help/channels/create-content-with-the-email-designer.md)
     + [HTML メールコンテンツの読み込みと作成](/help/channels/import-and-author-html-email-content.md)
     + [プレビュー、配達確認、公開](/help/channels/preview-proof-and-publish.md)
-    + [AIを活用したブランドに即したコンテンツ制作 – チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AIを活用したブランドに即したコンテンツ制作 – チュートリアル](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + コンテンツカード{#content-cards}
     + [コンテンツカードの作成](/help/channels/create-content-cards.md)
   + アプリ内チャネル{#in-app-channel}
@@ -150,7 +148,7 @@ ht-degree: 95%
   + [プロファイルの環境設定や傾向スコアに基づいてチャネルを最適化](/help/channels/channel-optimization.md)
   + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
   + [チャネルオーサリングで外部データ統合を有効にする](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Journey Optimizerでのブランドに即したコンテンツの作成 – チュートリアル](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + コンテンツのパーソナライズ {#personalize-content}
   + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
   + [プロファイルとオーディエンスのメンバーシップベースのパーソナライゼーション](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
