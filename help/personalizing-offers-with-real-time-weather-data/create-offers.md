@@ -55,7 +55,7 @@ ht-degree: 0%
 ### コレクションを作成
 
 **_Decisioning -> Catalogs ->Collection->Create collectionに移動します_**
-コレクションに**Weather-Related-Offers**&#x200B;という名前を付けます
+コレクションに&#x200B;**Weather-Related-Offers**&#x200B;という名前を付けます
 
 ルールビルダーを使用して、このコレクションでこれらのオファーをグループ化します。
 
