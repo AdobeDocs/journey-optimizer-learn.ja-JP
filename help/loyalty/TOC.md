@@ -26,4 +26,4 @@ ht-degree: 0%
 + チャレンジを適用して表示 {#apply-and-display-your-challenge}
   + [コードベースのエクスペリエンスで課題のあるコンテンツカードを構築する](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 + 分析とレポート {#analyze-and-report}
-  + {hide-from-toc}[ チャレンジレポートでパフォーマンスを追跡](./analyze-and-report/track-performance-with-the-challenge-report.md)
+  + {hide-from-toc}[&#x200B; チャレンジレポートでパフォーマンスを追跡](./analyze-and-report/track-performance-with-the-challenge-report.md)
