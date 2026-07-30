@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: 構築
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 22b92b46ddf2d970ddb37bccd4de9ec289cd5ed8
+source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 # Journey Optimizerロイヤルティの基本を学ぶ {#loyalty}
 
-+ {hide-from-toc}[&#x200B; マーケター向けJourney Optimizer ロイヤルティの基本を学ぶ](./overview.md)
++ [マーケター向けJourney Optimizerロイヤルティの導入方法](./overview.md)
 + [Journey Optimizerのロイヤルティの詳細](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + チャレンジの設定 {#configure-your-challenge}
   + [ロイヤルティへの挑戦を設定する](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [ロイヤルティ向上のためのタスクを作成](./configure-your-challenge/create-tasks.md)
   + [ロイヤルティへの挑戦に対する報酬の設定](./configure-your-challenge/configure-rewards.md)
-  + {hide-from-toc}[&#x200B; ロイヤルティ AI エージェントで課題を作成し、インサイトを得る](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
+  + [Loyalty AI エージェントで課題を作成し、インサイトを獲得](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + チャレンジを適用して表示 {#apply-and-display-your-challenge}
-  + {hide-from-toc}[&#x200B; コードベースのエクスペリエンスでチャレンジコンテンツカードを作成する](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
+  + [コードベースのエクスペリエンスで課題のあるコンテンツカードを構築する](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 + 分析とレポート {#analyze-and-report}
-  + {hide-from-toc}[&#x200B; チャレンジレポートでパフォーマンスを追跡](./analyze-and-report/track-performance-with-the-challenge-report.md)
+  + {hide-from-toc}[ チャレンジレポートでパフォーマンスを追跡](./analyze-and-report/track-performance-with-the-challenge-report.md)
