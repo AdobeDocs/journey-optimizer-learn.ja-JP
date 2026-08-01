@@ -19,4 +19,4 @@ ht-degree: 0%
 
 オーディエンス、報酬、スケジュール、自動ジャーニー設定など、自然言語を使用してロイヤルティの課題を作成、設定、設定および立ち上げるためにCX Enterprise Workfrontを使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496539/?captions=jpn&learn=on&enablevpops)
