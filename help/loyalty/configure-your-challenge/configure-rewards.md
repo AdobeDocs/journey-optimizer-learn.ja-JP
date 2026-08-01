@@ -19,4 +19,4 @@ ht-degree: 8%
 
 報酬タイプの選択、配信方法の定義、主要なマイルストーンまたはチャレンジ完了時の参加者への報酬を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496481/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496482/?captions=jpn&learn=on&enablevpops)
