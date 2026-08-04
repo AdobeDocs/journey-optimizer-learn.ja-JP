@@ -30,6 +30,6 @@ ht-degree: 100%
 
 重複するオーディエンス、同時タイムライン、共有されたコミュニケーションチャネル、ジャーニーやキャンペーン間の頻度制約など、潜在的な競合を特定および管理し、シームレスで顧客に優しいコミュニケーションエクスペリエンスを実現する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445645/?captions=jpn&learn=on&enablevpops)
 
 [ジャーニーとキャンペーンでの潜在的な競合の検出](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/conflict-prioritization/conflicts)方法について詳しくは、製品ドキュメントを参照してください。
