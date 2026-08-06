@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Web ビジュアルエディター内で web ページをパーソナライズする決定の使用方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496304/?captions=jpn&learn=on&enablevpops)
