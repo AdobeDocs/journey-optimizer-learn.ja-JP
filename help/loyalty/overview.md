@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 267ca3f93581e5198a3d147ec8c261882dc6b540
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 12%
+source-wordcount: '365'
+ht-degree: 10%
 
 ---
 
@@ -26,15 +26,22 @@ ht-degree: 12%
 * [Journey Optimizer ロイヤルティの概要を確認](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Journey Optimizerロイヤルティの概要、AJOの基盤、課題とそのライフサイクルをご確認ください。
 
+## ロイヤルティの設定
+
+このセクションでは、チャレンジの作成を開始する前に必要な最初の1回のセットアップについて説明します。
+
+* [ ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+Adobe Journey Optimizerが外部報酬システムを通じてロイヤルティ報酬を発行できるように、報酬プロバイダーの設定、報酬の定義の作成、報酬ペイロードの設定を行う方法について説明します。
+
 ## チャレンジの設定
 
 このセクションでは、タイプ、構造、スケジュール、タスク、報酬など、ロイヤルティチャレンジをエンドツーエンドで作成および設定する方法について説明します。
 
-* [&#x200B; ロイヤルティチャレンジの設定](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+* [ ロイヤルティチャレンジの設定](./configure-your-challenge/set-up-a-loyalty-challenge.md)
 適切なチャレンジタイプの選択、オーディエンスとスケジュールの設定、参加ルールの定義、進捗状況の追跡と報酬の制御などにより、ロイヤルティチャレンジを設定する方法を説明します。
-* [&#x200B; ロイヤルティ チャレンジのタスクを設定](./configure-your-challenge/create-tasks.md)
+* [ ロイヤルティ チャレンジのタスクを設定](./configure-your-challenge/create-tasks.md)
 購入と支出、数量、対象品目と除外項目、再利用などのタスクの設定方法について説明します。
-* [&#x200B; ロイヤルティ チャレンジの報酬を設定](./configure-your-challenge/configure-rewards.md)
+* [ ロイヤルティ チャレンジの報酬を設定](./configure-your-challenge/configure-rewards.md)
 報酬を設定する方法：プロバイダー、マイルストーンと完了配信、報酬タイプとクーポン。
 * [CX Enterprise Coworkerでロイヤルティに関する課題を作成し、インサイトを獲得](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 オーディエンス、報酬、スケジュール、自動ジャーニー設定など、自然言語を使用してロイヤルティの課題を作成、設定、設定および立ち上げるためにCX Enterprise Workfrontを使用する方法について説明します。
@@ -43,5 +50,5 @@ Journey Optimizerロイヤルティの概要、AJOの基盤、課題とそのラ
 
 このセクションでは、コンテンツカードやコードベースのエクスペリエンスを通じて、顧客に新たな課題をもたらす方法を紹介します。
 
-* [&#x200B; チャレンジ コンテンツ カードを作成する](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+* [ チャレンジ コンテンツ カードを作成する](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 オプトイン、進行中、完了の各ステージにおけるオプトインと動的な進捗に加えて、報酬とチャネル設定をカバーする、チャレンジコンテンツカード/コードベースのエクスペリエンスを構築する方法について説明します。

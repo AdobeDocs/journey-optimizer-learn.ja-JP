@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 構築
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 5b445c087b1f483523d1558a83f8defe7c24d21a
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 0%
 
 + [マーケター向けJourney Optimizerロイヤルティの導入方法](./overview.md)
 + [Journey Optimizerのロイヤルティの詳細](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
++ ロイヤルティの設定 {#set-up-loyality}
+  + [ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + チャレンジの設定 {#configure-your-challenge}
   + [ロイヤルティへの挑戦を設定する](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [ロイヤルティ向上のためのタスクを作成](./configure-your-challenge/create-tasks.md)
@@ -26,4 +28,4 @@ ht-degree: 0%
 + チャレンジを適用して表示 {#apply-and-display-your-challenge}
   + [コードベースのエクスペリエンスで課題のあるコンテンツカードを構築する](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 + 分析とレポート {#analyze-and-report}
-  + {hide-from-toc}[&#x200B; チャレンジレポートでパフォーマンスを追跡](./analyze-and-report/track-performance-with-the-challenge-report.md)
+  + {hide-from-toc}[ チャレンジレポートでパフォーマンスを追跡](./analyze-and-report/track-performance-with-the-challenge-report.md)
