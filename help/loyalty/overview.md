@@ -30,18 +30,18 @@ Journey Optimizerロイヤルティの概要、AJOの基盤、課題とそのラ
 
 このセクションでは、チャレンジの作成を開始する前に必要な最初の1回のセットアップについて説明します。
 
-* [ ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+* [&#x200B; ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 Adobe Journey Optimizerが外部報酬システムを通じてロイヤルティ報酬を発行できるように、報酬プロバイダーの設定、報酬の定義の作成、報酬ペイロードの設定を行う方法について説明します。
 
 ## チャレンジの設定
 
 このセクションでは、タイプ、構造、スケジュール、タスク、報酬など、ロイヤルティチャレンジをエンドツーエンドで作成および設定する方法について説明します。
 
-* [ ロイヤルティチャレンジの設定](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+* [&#x200B; ロイヤルティチャレンジの設定](./configure-your-challenge/set-up-a-loyalty-challenge.md)
 適切なチャレンジタイプの選択、オーディエンスとスケジュールの設定、参加ルールの定義、進捗状況の追跡と報酬の制御などにより、ロイヤルティチャレンジを設定する方法を説明します。
-* [ ロイヤルティ チャレンジのタスクを設定](./configure-your-challenge/create-tasks.md)
+* [&#x200B; ロイヤルティ チャレンジのタスクを設定](./configure-your-challenge/create-tasks.md)
 購入と支出、数量、対象品目と除外項目、再利用などのタスクの設定方法について説明します。
-* [ ロイヤルティ チャレンジの報酬を設定](./configure-your-challenge/configure-rewards.md)
+* [&#x200B; ロイヤルティ チャレンジの報酬を設定](./configure-your-challenge/configure-rewards.md)
 報酬を設定する方法：プロバイダー、マイルストーンと完了配信、報酬タイプとクーポン。
 * [CX Enterprise Coworkerでロイヤルティに関する課題を作成し、インサイトを獲得](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 オーディエンス、報酬、スケジュール、自動ジャーニー設定など、自然言語を使用してロイヤルティの課題を作成、設定、設定および立ち上げるためにCX Enterprise Workfrontを使用する方法について説明します。
@@ -50,7 +50,7 @@ Adobe Journey Optimizerが外部報酬システムを通じてロイヤルティ
 
 このセクションでは、コンテンツカードやコードベースのエクスペリエンスを通じて、顧客に新たな課題をもたらす方法を紹介します。
 
-* [ チャレンジ コンテンツ カードを作成する](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+* [&#x200B; チャレンジ コンテンツ カードを作成する](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 オプトイン、進行中、完了の各ステージにおけるオプトインと動的な進捗に加えて、報酬とチャネル設定をカバーする、チャレンジコンテンツカード/コードベースのエクスペリエンスを構築する方法について説明します。
 * [課題のライフサイクルメッセージの設定](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 招待状やエンゲージメントメッセージから完了や報酬の通知まで、ロイヤルティの課題のあらゆる段階に対してマルチチャネルメッセージを設定する方法について説明します。
