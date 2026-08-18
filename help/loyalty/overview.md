@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 12%
+source-wordcount: '393'
+ht-degree: 10%
 
 ---
 
@@ -25,6 +25,13 @@ ht-degree: 12%
 
 * [Journey Optimizer ロイヤルティの概要を確認](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Journey Optimizerロイヤルティの概要、AJOの基盤、課題とそのライフサイクルをご確認ください。
+
+## ロイヤルティの設定
+
+このセクションでは、チャレンジの作成を開始する前に必要な最初の1回のセットアップについて説明します。
+
+* [&#x200B; ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+Adobe Journey Optimizerが外部報酬システムを通じてロイヤルティ報酬を発行できるように、報酬プロバイダーの設定、報酬の定義の作成、報酬ペイロードの設定を行う方法について説明します。
 
 ## チャレンジの設定
 
@@ -44,4 +51,6 @@ Journey Optimizerロイヤルティの概要、AJOの基盤、課題とそのラ
 このセクションでは、コンテンツカードやコードベースのエクスペリエンスを通じて、顧客に新たな課題をもたらす方法を紹介します。
 
 * [&#x200B; チャレンジ コンテンツ カードを作成する](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
-オプトイン、進行中、完了の各ステージにおけるオプトインと動的な進捗に加えて、報酬とチャネル設定をカバーする、チャレンジコンテンツカード/コードベースのエクスペリエンスを構築する方法について説明します。
+オプトイン、進捗状況、完了の各ステージにおけるオプトインと動的な進捗状況、さらに報酬とチャネル設定をカバーする課題コンテンツカードを構築する方法について説明します。
+* [課題のライフサイクルメッセージの設定](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+招待状やエンゲージメントメッセージから完了や報酬の通知まで、ロイヤルティの課題のあらゆる段階に対してマルチチャネルメッセージを設定する方法について説明します。
