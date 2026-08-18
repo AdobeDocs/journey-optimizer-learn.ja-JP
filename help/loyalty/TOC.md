@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 構築
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: fce0679771726c36f758ae8c244d6691be71a573
+source-git-commit: 9cf282f2c9f448648852931bfe0f3f7bb789205d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
   + [ロイヤルティへの挑戦に対する報酬の設定](./configure-your-challenge/configure-rewards.md)
   + [Loyalty AI エージェントで課題を作成し、インサイトを獲得](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + チャレンジを適用して表示 {#apply-and-display-your-challenge}
-  + [コードベースのエクスペリエンスで課題のあるコンテンツカードを構築する](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [課題のコンテンツカードを作成](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [課題にライフサイクルメッセージを設定する](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + 分析とレポート {#analyze-and-report}
-  + {hide-from-toc}[&#x200B; チャレンジレポートでパフォーマンスを追跡](./analyze-and-report/track-performance-with-the-challenge-report.md)
+  + {hide-from-toc}[ チャレンジレポートでパフォーマンスを追跡](./analyze-and-report/track-performance-with-the-challenge-report.md)
