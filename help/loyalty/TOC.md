@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: 構築
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
+source-git-commit: 96600e2e66fc410a7f265824f3e05c7511b94d25
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -30,4 +30,4 @@ ht-degree: 0%
   + [コードベースのエクスペリエンスチャネルを使用して、課題のコンテンツを表示する](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
   + [課題にライフサイクルメッセージを設定する](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + 分析とレポート {#analyze-and-report}
-  + {hide-from-toc}[&#x200B; チャレンジレポートでパフォーマンスを追跡](./analyze-and-report/track-performance-with-the-challenge-report.md)
+  + [チャレンジレポートでチャレンジのパフォーマンスを測定する](./analyze-and-report/measure-performance-with-challenge-reports.md)
