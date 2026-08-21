@@ -64,7 +64,7 @@ ht-degree: 99%
     + [ユースケース - オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)
   + チュートリアル{#tutorials}
     + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [ ロイヤルティ ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
++ [&#x200B; ロイヤルティ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + 競合管理と優先順位付け {#conflict-management}
   + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
   + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
