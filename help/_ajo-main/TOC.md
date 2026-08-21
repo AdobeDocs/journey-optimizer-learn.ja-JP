@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 9a3164399d0a0e0f1434650e1f7a7bca55eb9793
+source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
 workflow-type: tm+mt
 source-wordcount: '1573'
 ht-degree: 99%
@@ -64,7 +64,7 @@ ht-degree: 99%
     + [ユースケース - オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)
   + チュートリアル{#tutorials}
     + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [ロイヤルティ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/overview)
++ [ ロイヤルティ ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + 競合管理と優先順位付け {#conflict-management}
   + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
   + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -178,7 +178,7 @@ ht-degree: 99%
       + [決定を使用したメールのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
       + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[Web ビジュアルエディター内での決定の使用](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [web ビジュアルエディターでの意思決定の使用](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [決定を含む Experience Manager コンテンツフラグメントの使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 外部トリガーとインタラクションからの決定のトリガー {#trigger}
