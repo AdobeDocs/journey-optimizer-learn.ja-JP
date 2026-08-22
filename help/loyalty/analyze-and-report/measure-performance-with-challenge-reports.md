@@ -28,4 +28,4 @@ ht-degree: 0%
 
 チャレンジレポートとパフォーマンスダッシュボードを使用して、参加率、完了率、収益アトリビューション、ロイヤルティプログラム全体のパフォーマンスを測定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497560/?captions=jpn&learn=on&enablevpops)
