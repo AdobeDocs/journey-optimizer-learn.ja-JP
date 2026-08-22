@@ -28,4 +28,4 @@ ht-degree: 0%
 
 コードベースのエクスペリエンスを使用して、HTMLやJSONを使用してロイヤルティの課題をプロモーションし、課題の進捗状況を表示し、アプリ内でパーソナライズされたコンテンツを配信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497466/?captions=jpn&learn=on&enablevpops)

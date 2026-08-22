@@ -19,4 +19,4 @@ ht-degree: 0%
 
 クイックシミュレーションは、主要なプロセスを自動化することで、カスタマージャーニーのテストを簡素化します。 テストプロファイルの生成、イベントの調整、待ち時間の短縮、シナリオの検証を実行できます。 このツールは、複雑なジャーニーが公開前の意図したとおりに機能することを確認するのに役立ち、時間を節約し、精度を向上させます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497476/?captions=jpn&learn=on&enablevpops)

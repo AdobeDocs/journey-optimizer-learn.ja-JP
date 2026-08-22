@@ -30,4 +30,4 @@ ht-degree: 0%
 
 課題を公開してジャーニーを自動的に生成する方法を説明します。 チャレンジコミュニケーションがどのようにジャーニーオーケストレーションに変換されるかを確認し、生成されたジャーニー構造を確認し、追加の条件、決定、最適化ロジックを使用してカスタマイズします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498577/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3498578/?captions=jpn&learn=on&enablevpops)
