@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizerが外部報酬システムを通じてロイヤルティ報酬を発行できるように、報酬プロバイダーの設定、報酬の定義の作成、報酬ペイロードの設定を行う方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497346/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497410/?captions=jpn&learn=on&enablevpops)

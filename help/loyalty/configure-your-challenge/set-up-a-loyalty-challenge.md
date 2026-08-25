@@ -31,4 +31,4 @@ ht-degree: 0%
 
 適切なチャレンジタイプの選択、オーディエンスとスケジュールの設定、参加ルールの定義、進捗状況の追跡と報酬の制御などにより、ロイヤルティチャレンジを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496471/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496472/?captions=jpn&learn=on&enablevpops)

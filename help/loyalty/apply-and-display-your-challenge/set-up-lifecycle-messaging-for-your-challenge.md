@@ -31,4 +31,4 @@ ht-degree: 0%
 
 招待状やエンゲージメントメッセージから完了や報酬の通知まで、ロイヤルティの課題のあらゆる段階に対してマルチチャネルメッセージを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497455/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497456/?captions=jpn&learn=on&enablevpops)
