@@ -6,10 +6,27 @@ role: User
 level: Beginner
 doc-type: Tutorial
 jira: KT-21773
-last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 7b6c6587612fab4f027e6084c58d3fca8a5d83b0
+last-substantial-update: '2026-07-28T00:00:00.000Z'
+autotag-review: '2026-08-25T19:43:05.657Z'
+TQID: 'https://experienceleague.adobe.com/k0YmuHe8wolVlL-fbnh0lPOyPiF5avG4ewbZm-b-cDM'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
+subfeature_v2:
+  - id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
 workflow-type: tm+mt
-source-wordcount: '1288'
+source-wordcount: 1288
 ht-degree: 43%
 
 ---
