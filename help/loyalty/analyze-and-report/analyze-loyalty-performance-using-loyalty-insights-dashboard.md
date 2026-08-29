@@ -33,4 +33,4 @@ ht-degree: 0%
 
 ロイヤルティインサイトダッシュボードでは、AIが生成したインサイトを利用して、ロイヤルティプログラムのパフォーマンスにおける大きな変化を特定し、ビジネス KPIにもとづいて調査結果に優先順位を付け、最も重要な指標に対して行動を起こすことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502413/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502423/?captions=jpn&learn=on&enablevpops)
