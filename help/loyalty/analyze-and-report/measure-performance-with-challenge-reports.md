@@ -31,4 +31,4 @@ ht-degree: 0%
 
 チャレンジレポートとダッシュボードを使用して、ロイヤルティプログラムの参加率、完了率、売上を測定します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497560/?captions=jpn&learn=on&enablevpops)

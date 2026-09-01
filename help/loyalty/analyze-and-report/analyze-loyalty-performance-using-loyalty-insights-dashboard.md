@@ -19,4 +19,4 @@ ht-degree: 0%
 
 ロイヤルティインサイトダッシュボードでは、AIが生成したインサイトによって大きな変化が明らかになり、KPIによって結果に優先順位が付けられます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502413/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502423/?captions=jpn&learn=on&enablevpops)
