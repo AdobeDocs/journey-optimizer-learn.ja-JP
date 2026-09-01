@@ -1,24 +1,24 @@
 ---
-user-guide-title: Journey Optimizerロイヤルティの基本を学ぶ
-user-guide-description: Adobe Journey Optimizer ロイヤルティへのオンボーディング、チャレンジの設定、適用と表示、パフォーマンスの分析を行う方法について説明します。
+user-guide-title: Journey Optimizer Loyaltyの導入方法
+user-guide-description: Adobe Journey Optimizer Loyaltyへのオンボーディング、チャレンジの設定、チャレンジの適用と表示、パフォーマンスの分析方法について説明します。
 role: User
 level: Beginner
 breadcrumb-title: 構築
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: ec6a72a4743d05e19d86970f54d15ef3a7eff842
+source-git-commit: 3062d3cfc74a3e6c578d9c5282ec2ac07185033a
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 
-# Journey Optimizerロイヤルティの基本を学ぶ {#loyalty}
+# Journey Optimizer Loyaltyの導入方法 {#loyalty}
 
-+ [マーケター向けJourney Optimizerロイヤルティの導入方法](./overview.md)
-+ [Journey Optimizerのロイヤルティの詳細](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
-+ {hide-from-toc}[&#x200B; ロイヤルティチャレンジの概念について](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
++ [マーケター向けJourney Optimizer Loyaltyの基本を学ぶ](./overview.md)
++ ロイヤルティの概要 {#introduction}
+  + [Journey Optimizer Loyaltyについて詳しく見る](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + ロイヤルティの設定 {#set-up-loyality}
   + [ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + チャレンジの設定 {#configure-your-challenge}
