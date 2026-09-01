@@ -18,7 +18,7 @@ ht-degree: 0%
 
 + [マーケター向けJourney Optimizerロイヤルティの導入方法](./overview.md)
 + [Journey Optimizerのロイヤルティの詳細](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
-+ {hide-from-toc}[ ロイヤルティチャレンジの概念について](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
++ {hide-from-toc}[&#x200B; ロイヤルティチャレンジの概念について](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + ロイヤルティの設定 {#set-up-loyality}
   + [ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + チャレンジの設定 {#configure-your-challenge}

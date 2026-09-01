@@ -6,11 +6,17 @@ publish: true
 jira: KT-22490
 autotag-review: '2026-08-31T23:24:52.116Z'
 TQID: 'https://experienceleague.adobe.com/7Zfph4De6BNcMSk0oQ70f2nJ4PLExFoma-sJzdh2qYw'
-product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2: id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
-subfeature_v2: id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
+subfeature_v2:
+  - id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: ec6a72a4743d05e19d86970f54d15ef3a7eff842
 workflow-type: tm+mt
 source-wordcount: 702
@@ -31,7 +37,7 @@ Adobe Journey Optimizer Loyaltyで何かを構築する前に、ロイヤルテ�
 
 :::slide
 
-![ ロイヤルティチャレンジの概念を理解する](../../assets/kt-22490/Slide1.png)のスクリーンショット
+![&#x200B; ロイヤルティチャレンジの概念を理解する](../../assets/kt-22490/Slide1.png)のスクリーンショット
 
 ### ロイヤルティチャレンジの概念について
 
@@ -41,7 +47,7 @@ Adobe Journey Optimizer Loyaltyで何かを構築する前に、ロイヤルテ�
 
 :::slide
 
-![ ロイヤルティチャレンジとは何ですか？](../../assets/kt-22490/Slide2.png)のスクリーンショット
+![&#x200B; ロイヤルティチャレンジとは何ですか？](../../assets/kt-22490/Slide2.png)のスクリーンショット
 
 ### ロイヤルティの課題？
 
@@ -61,7 +67,7 @@ Adobe Journey Optimizer Loyaltyで何かを構築する前に、ロイヤルテ�
 
 :::slide
 
-![ チャレンジを構成する方法のスクリーンショット ](../../assets/kt-22490/Slide4.png)
+![&#x200B; チャレンジを構成する方法のスクリーンショット &#x200B;](../../assets/kt-22490/Slide4.png)
 
 ### 課題を構築する方法
 
@@ -71,7 +77,7 @@ Adobe Journey Optimizer Loyaltyで何かを構築する前に、ロイヤルテ�
 
 :::slide
 
-![ アイデアからライブチャレンジまでのスクリーンショット ](../../assets/kt-22490/Slide5.png)
+![&#x200B; アイデアからライブチャレンジまでのスクリーンショット &#x200B;](../../assets/kt-22490/Slide5.png)
 
 ### アイデアからライブチャレンジへ
 
@@ -81,7 +87,7 @@ Adobe Journey Optimizer Loyaltyで何かを構築する前に、ロイヤルテ�
 
 :::slide
 
-![覚えておくべき重要な用語のスクリーンショット ](../../assets/kt-22490/Slide6.png)
+![覚えておくべき重要な用語のスクリーンショット &#x200B;](../../assets/kt-22490/Slide6.png)
 
 ### 覚えておくべき重要な用語
 
@@ -95,7 +101,7 @@ Adobe Journey Optimizer Loyaltyで何かを構築する前に、ロイヤルテ�
 
 ![スライドのスクリーンショット](../../assets/kt-22490/Slide7.png)
 
-### 
+### &#x200B;
 
 
 
