@@ -1,24 +1,24 @@
 ---
-user-guide-title: Journey Optimizer Loyaltyの導入方法
-user-guide-description: Adobe Journey Optimizer Loyaltyへのオンボーディング、チャレンジの設定、チャレンジの適用と表示、パフォーマンスの分析方法について説明します。
+user-guide-title: Journey Optimizerロイヤルティの基本を学ぶ
+user-guide-description: Adobe Journey Optimizer ロイヤルティへのオンボーディング、チャレンジの設定、適用と表示、パフォーマンスの分析を行う方法について説明します。
 role: User
 level: Beginner
 breadcrumb-title: 構築
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 3062d3cfc74a3e6c578d9c5282ec2ac07185033a
+source-git-commit: b812dd2c5228314771c572a184ae396aa400d524
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 
-# Journey Optimizer Loyaltyの導入方法 {#loyalty}
+# Journey Optimizerロイヤルティの基本を学ぶ {#loyalty}
 
-+ [マーケター向けJourney Optimizer Loyaltyの基本を学ぶ](./overview.md)
++ [マーケター向けJourney Optimizerロイヤルティの導入方法](./overview.md)
 + ロイヤルティの概要 {#introduction}
-  + [Journey Optimizer Loyaltyについて詳しく見る](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [Journey Optimizerのロイヤルティの詳細](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + ロイヤルティの設定 {#set-up-loyality}
   + [ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + チャレンジの設定 {#configure-your-challenge}
@@ -29,6 +29,7 @@ ht-degree: 0%
 + チャレンジを適用して表示 {#apply-and-display-your-challenge}
   + [課題のコンテンツカードを作成](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [コードベースのエクスペリエンスチャネルを使用して、課題のコンテンツを表示する](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
+  + [カスタムアクションを使用した、チャレンジ属性によるコンテンツのパーソナライズ](./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md)
   + [課題にライフサイクルメッセージを設定する](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
   + [課題を公開してジャーニーを生成する](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + 分析とレポート {#analyze-and-report}
