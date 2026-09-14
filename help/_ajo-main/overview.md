@@ -69,7 +69,7 @@ CARDS
 
 <!-- 
 CARDS
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26
+* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26
     {title = How to efficiently test, simulate and validate journeys before going live}
     {description = In this Experience League Live session, we dive into journey testing and validation tools in Adobe Journey Optimizer, so you can go live with confidence.}
 * https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
