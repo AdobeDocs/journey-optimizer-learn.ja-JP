@@ -35,4 +35,4 @@ ht-degree: 0%
 
 カスタムアクションを使用してチャレンジデータを取得し、各メンバーのチャレンジの進捗状況と報酬に基づいて、コンテンツカードとコードベースのエクスペリエンスを動的にパーソナライズする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503375/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503385/?captions=jpn&learn=on&enablevpops)
