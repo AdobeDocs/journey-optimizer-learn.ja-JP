@@ -11,26 +11,33 @@ autotag-review: '2026-08-25T19:43:05.657Z'
 TQID: 'https://experienceleague.adobe.com/k0YmuHe8wolVlL-fbnh0lPOyPiF5avG4ewbZm-b-cDM'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
+    internal-label: Use cases
 subfeature_v2:
   - id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
+    internal-label: Loyalty challenges
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 8b6b00c0ce8aabe6e683005a283ff219487bf6b4
+    internal-label: Insights
+source-git-commit: 444312e236dff0ec294b0a150a6f29bae4175a64
 workflow-type: tm+mt
-source-wordcount: 1519
+source-wordcount: '1625'
 ht-degree: 43%
-
 ---
-
 
 # Journey Optimizer Loyaltyの導入方法
 
@@ -43,8 +50,10 @@ ht-degree: 43%
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
+* https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts
+    {decription = Before you build anything in Adobe Journey Optimizer Loyalty, it helps to understand what a loyalty challenge is and the few pieces it's made of.}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -53,8 +62,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Journey Optimizer Loyaltyについて詳しく見る" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496452/?captions=jpn&format=jpeg&nocache=1789156823533" alt="Journey Optimizer Loyaltyについて詳しく見る"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Journey Optimizer Loyaltyについて詳しく見る" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496441/?format=jpeg&nocache=1789773692859" alt="Journey Optimizer Loyaltyについて詳しく見る"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,12 +71,35 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Journey Optimizer Loyaltyについて詳しく見る">Journey Optimizer Loyaltyの詳細</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Journey Optimizer Loyaltyについて詳しく見る">Journey Optimizer Loyaltyの詳細</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer Loyaltyの概要、AJOの活用方法、課題のライフサイクルを解説します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Understand loyalty challenge concepts">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" title="ロイヤルティチャレンジの概念について" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/slides/media_1f770caceb9f5f729468044b7d16782f0857bc158.png?width=400&format=pjpg&optimize=medium" alt="ロイヤルティチャレンジの概念について"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="ロイヤルティチャレンジの概念について"> ロイヤルティチャレンジの概念について</a>
+                    </p>
+                    <p class="is-size-6">Adobe Journey Optimizer Loyaltyで何かを構築する前に、ロイヤルティの課題とは何か、その一部を理解しておくことが重要です。 ...</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -94,7 +126,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/set-up-a-loyalty-reward-provider.md" title="ロイヤルティ報酬プロバイダーの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497410/?captions=jpn&format=jpeg&nocache=1789156823971" alt="ロイヤルティ報酬プロバイダーの設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497346/?format=jpeg&nocache=1789773693279" alt="ロイヤルティ報酬プロバイダーの設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +172,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/set-up-a-loyalty-challenge.md" title="ロイヤルティへの挑戦を設定する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496472/?captions=jpn&format=jpeg&nocache=1789156824314" alt="ロイヤルティへの挑戦を設定する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496471/?format=jpeg&nocache=1789773693529" alt="ロイヤルティへの挑戦を設定する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +195,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-tasks.md" title="ロイヤルティ向上のためのタスクを作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496443/?captions=jpn&format=jpeg&nocache=1789156824304" alt="ロイヤルティ向上のためのタスクを作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496442/?format=jpeg&nocache=1789773693520" alt="ロイヤルティ向上のためのタスクを作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +218,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/configure-rewards.md" title="報酬を設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496482/?captions=jpn&format=jpeg&nocache=1789156824293" alt="報酬を設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496481/?format=jpeg&nocache=1789773693538" alt="報酬を設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -208,8 +240,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="Cx Enterprise Coworkerでロイヤルティに関する課題を作成し、インサイトを獲得" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496539/?captions=jpn&format=jpeg&nocache=1789156824322" alt="Cx Enterprise Coworkerでロイヤルティに関する課題を作成し、インサイトを獲得"
+                    <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="CX Enterprise Coworkerを利用して、ロイヤルティに関する課題を解決し、インサイトを獲得しましょう" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496528/?format=jpeg&nocache=1789773693547" alt="CX Enterprise Coworkerを利用して、ロイヤルティに関する課題を解決し、インサイトを獲得しましょう"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -217,9 +249,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" target="_blank" rel="referrer" title="Cx Enterprise Coworkerでロイヤルティに関する課題を作成し、インサイトを獲得">CX Enterprise Coworkerでロイヤルティに関する課題を作成し、インサイトを獲得</a>
+                        <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" target="_blank" rel="referrer" title="CX Enterprise Coworkerを利用して、ロイヤルティに関する課題を解決し、インサイトを獲得しましょう">CX Enterprise Coworkerを利用して、ロイヤルティに関する課題を作成し、インサイトを獲得</a>
                     </p>
-                    <p class="is-size-6">オーディエンス、報酬、スケジュール、自動ジャーニー設定など、自然言語を使用してロイヤルティの課題を作成、設定、設定および立ち上げるためにCX Enterprise Workfrontを使用する方法について説明します。</p>
+                    <p class="is-size-6">CX Enterprise Coworkerを使用して、オーディエンス、報酬、スケジュール、自動ジャーニー設定など、自然言語を使用してロイヤルティの課題を特定、設定、解決する方法を説明します。</p>
                 </div>
                 <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
@@ -255,7 +287,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/build-a-challenge-content-card.md" title="課題のコンテンツカードを作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496530/?captions=jpn&format=jpeg&nocache=1789156824978" alt="課題のコンテンツカードを作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496529/?format=jpeg&nocache=1789773694058" alt="課題のコンテンツカードを作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +310,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md" title="コードベースのエクスペリエンスチャネルを使用して、課題のコンテンツを表示する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497466/?captions=jpn&format=jpeg&nocache=1789156824965" alt="コードベースのエクスペリエンスチャネルを使用して、課題のコンテンツを表示する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497465/?format=jpeg&nocache=1789773694053" alt="コードベースのエクスペリエンスチャネルを使用して、課題のコンテンツを表示する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +333,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" title="カスタムアクションを使用した、チャレンジ属性によるコンテンツのパーソナライズ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503385/?captions=jpn&format=jpeg&nocache=1789156824989" alt="カスタムアクションを使用した、チャレンジ属性によるコンテンツのパーソナライズ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503375/?format=jpeg&nocache=1789773694068" alt="カスタムアクションを使用した、チャレンジ属性によるコンテンツのパーソナライズ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -324,7 +356,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md" title="課題にライフサイクルメッセージを設定する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497456/?captions=jpn&format=jpeg&nocache=1789156824972" alt="課題にライフサイクルメッセージを設定する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497455/?format=jpeg&nocache=1789773694045" alt="課題にライフサイクルメッセージを設定する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -347,7 +379,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md" title="課題を公開してジャーニーを生成する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498578/?captions=jpn&format=jpeg&nocache=1789156824984" alt="課題を公開してジャーニーを生成する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498577/?format=jpeg&nocache=1789773694063" alt="課題を公開してジャーニーを生成する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -388,7 +420,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/measure-performance-with-challenge-reports.md" title="チャレンジレポートでチャレンジのパフォーマンスを測定する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497560/?captions=jpn&format=jpeg&nocache=1789156825529" alt="チャレンジレポートでチャレンジのパフォーマンスを測定する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497534/?format=jpeg&nocache=1789773694557" alt="チャレンジレポートでチャレンジのパフォーマンスを測定する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -411,7 +443,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" title="インサイトダッシュボードでロイヤルティパフォーマンスを分析" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502423/?captions=jpn&format=jpeg&nocache=1789156825538" alt="インサイトダッシュボードでロイヤルティパフォーマンスを分析"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502413/?format=jpeg&nocache=1789773694561" alt="インサイトダッシュボードでロイヤルティパフォーマンスを分析"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
