@@ -19,4 +19,4 @@ HTTP ベースの統合を使用して、送信データをリアルタイムで
 
 **HTTP ストリーミングのエンドポイントを定義**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478497?captions=jpn)

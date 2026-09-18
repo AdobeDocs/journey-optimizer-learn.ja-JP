@@ -19,4 +19,4 @@ ht-degree: 0%
 
 **_InvestmentPreference_**&#x200B;というカスタムイベントを定義します
 
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478484?captions=jpn)

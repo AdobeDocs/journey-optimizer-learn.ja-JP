@@ -16,4 +16,4 @@ ht-degree: 0%
 # オファー、選択戦略、ランキング式の作成
 
 このビデオでは、オファーの作成方法、オファーを選択するための選択戦略、オファーを優先するためのランキング式を説明します
->[!VIDEO](https://video.tv.adobe.com/v/3476427/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476450/?captions=jpn&learn=on)
