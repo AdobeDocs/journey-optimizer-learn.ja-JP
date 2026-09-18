@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: 構築
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 46d45d93310e930dff2cc491b76b19658630811f
+source-git-commit: b01ac079dd907d420e91dae44e47d11660587e2d
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 + [マーケター向けJourney Optimizer Loyaltyの基本を学ぶ](./overview.md)
 + ロイヤルティの概要 {#introduction}
   + [Journey Optimizer Loyaltyについて詳しく見る](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
-  + [ロイヤルティチャレンジの概念について](./help/loyalty/introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
+  + [ロイヤルティチャレンジの概念について](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + ロイヤルティの設定 {#set-up-loyality}
   + [ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + チャレンジの設定 {#configure-your-challenge}
