@@ -30,7 +30,7 @@ ht-degree: 0%
 ## オファーにトラッキングトークンを追加
 
 フォールバックオファーを追加して、キャンペーンで使用される決定ポリシーを編集します
-![ フォールバック ](assets/fallback.png)
+![&#x200B; フォールバック &#x200B;](assets/fallback.png)
 
 トラッキングトークンとItemIDは、左側のナビゲーションの決定ポリシーアイコンをクリックし、決定ツリーをドリルダウンしてitemIDとtrackingTokenを選択することで追加できます。
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 ## インプレッションおよびトラッキングイベントの送信
 
-既存のJavaScript コードを変更して、オファーのインプレッションおよびインタラクションイベントをキャプチャし、Adobe Web SDKを使用してAdobe Experience Platformに送信します。 ここで提供されている[ サンプルコードを参照してください。](capture-impression-click-events.md)
+既存のJavaScript コードを変更して、オファーのインプレッションおよびインタラクションイベントをキャプチャし、Adobe Web SDKを使用してAdobe Experience Platformに送信します。 ここで提供されている[&#x200B; サンプルコードを参照してください。](capture-impression-click-events.md)

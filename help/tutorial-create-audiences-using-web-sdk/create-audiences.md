@@ -33,12 +33,12 @@ Adobe Experience Platformの「オーディエンス」とは、パーソナラ�
   * CDに興味のあるユーザー
 
 
-* リアルタイムの選定のために、各オーディエンスの評価方法が&#x200B;_**Edge**_に設定されていることを確認します。
+* リアルタイムの選定のために、各オーディエンスの評価方法が&#x200B;_&#x200B;**Edge**&#x200B;_に設定されていることを確認します。
   ![edge-audience](assets/audience-edge.png)
 
 * 「PreferredFinancialInstrument」フィールドを使用して、選択した投資関心（株、債券、CDなど）に基づいてユーザーをセグメント化します
 
-![ イベント ](assets/event-attribute.png)
+![&#x200B; イベント &#x200B;](assets/event-attribute.png)
 
 ![PreferredFinancialInstrument](assets/stock-customers.png)
 
@@ -47,7 +47,7 @@ Adobe Experience Platformの「オーディエンス」とは、パーソナラ�
 
 >[!NOTE]
 >
->>「イベント」タブにPreferredFinancialInstrument フィールドが表示されない場合は、設定アイコンをクリックし、「完全なXDM スキーマを表示」を切り替えます。
+>&#x200B;>「イベント」タブにPreferredFinancialInstrument フィールドが表示されない場合は、設定アイコンをクリックし、「完全なXDM スキーマを表示」を切り替えます。
 
 
 
