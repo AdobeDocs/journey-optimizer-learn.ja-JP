@@ -1,51 +1,48 @@
 ---
-title: AJO キャンペーンのフリークエンシーキャップの有効化
-description: Adobe Journey Optimizerのフリークエンシーキャップは、個々のオファーレベルで適用され、オファーのインプレッションとクリックイベントの両方をキャプチャします。 これには、Adobe Web SDKを使用してトラッキング decisioning.propositionDisplay イベントと decisioning.propositionInteract イベントをトラッキングし、Adobe Experience Platformで更新された XDM エクスペリエンスイベントスキーマにマッピングする必要があります。
+title: AJO キャンペーンの頻度キャップを有効にする
+description: Adobe Journey Optimizerの頻度キャッピングは、個々のオファーレベルで適用され、オファーインプレッションとクリックイベントの両方を取得する必要があります。 そのためには、Adobe Web SDKを使用してトラッキング decisioning.propositionDisplayおよびdecisioning.propositionInteract イベントを作成し、Adobe Experience Platformで更新されたXDM Experience Event スキーマにマッピングする必要があります。
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21
 jira: KT-18526
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+exl-id: 34027499-0037-4ea1-813b-51be15eafe24
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '230'
 ht-degree: 0%
-
 ---
+# AJO キャンペーンの頻度キャップを有効にする
 
-# AJO キャンペーンのフリークエンシーキャップの有効化
-
-オファーにフリークエンシーキャップを適用するには、次の手順を実行します。
+オファーに頻度キャップを適用するには、次の手順を実行します。
 
 ## イベントスキーマの更新
 
 * 次に示すように、フィールドグループを追加して、既存のイベントスキーマを更新します
 * ![event-schema](assets/schema.png)
 
-## オファーのフリークエンシーキャップの更新
+## オファーの頻度キャップを更新します
 
 
 * ![オファー](assets/offer-capping.png)
 
 ## オファーにトラッキングトークンを追加
 
-フォールバックオファーを追加して、キャンペーンで使用する決定ポリシーを編集
+フォールバックオファーを追加して、キャンペーンで使用される決定ポリシーを編集します
 ![&#x200B; フォールバック &#x200B;](assets/fallback.png)
 
-trackingToken と ItemID を追加するには、左側のナビゲーションで「決定ポリシー」アイコンをクリックし、決定ツリーをドリルダウンして、itemID と trackingToken を選択します。
+トラッキングトークンとItemIDは、左側のナビゲーションの決定ポリシーアイコンをクリックし、決定ツリーをドリルダウンしてitemIDとtrackingTokenを選択することで追加できます。
 
-以下に示すように、オファーを含む div に項目 ID とトラッキングトークンを追加します
+次に示すように、アイテム IDとトラッキングトークンをオファーを含むdivに追加します
 ![id-and-tracking-token](assets/id-and-tracking-token.png)
 
-これにより、レンダリングされた各オファーにデータトラッキングトークンが含まれます。これは、正確なインプレッションおよびクリックイベントの追跡に不可欠です。
+これにより、レンダリングされた各オファーにデータトラッキングトークンが含まれるようになり、正確なインプレッションとクリックイベントのトラッキングに不可欠です。
 
 
 変更したキャンペーンをアクティブ化します。
 
 
-## インプレッションとトラッキングイベントの送信
+## インプレッションおよびトラッキングイベントの送信
 
-既存のJavaScript コードを変更し、Adobe web SDKを使用して、オファーのインプレッションとインタラクションイベントを取得してAdobe Experience Platformに送信します。 ここで提供される [&#x200B; サンプルコード &#x200B;](capture-impression-click-events.md) を参照してください。
-
-
+既存のJavaScript コードを変更して、オファーのインプレッションおよびインタラクションイベントをキャプチャし、Adobe Web SDKを使用してAdobe Experience Platformに送信します。 ここで提供されている[&#x200B; サンプルコードを参照してください。](capture-impression-click-events.md)
