@@ -15,7 +15,7 @@ Adobe Journey Optimizerは、次の両方の主要なモバイルプラットフ
 * **[iOSのライブアクティビティ](/help/channels/ios-live-activities.md)** — iPhoneのロック画面とダイナミック島のリッチなリアルタイム更新。
 * **[Android ライブ更新](/help/channels/android-live-updates.md)** — Android通知シェードのリアルタイムの永続的な更新。
 
-Mobile SDKを設定し、APIを使用してカスタマージャーニー全体でライブエクスペリエンスを開始、更新、終了するには、[ ライブアクティビティの設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}を参照してください。
+Mobile SDKを設定し、APIを使用してカスタマージャーニー全体でライブエクスペリエンスを開始、更新、終了するには、[&#x200B; ライブアクティビティの設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}を参照してください。
 
 ## ユースケース
 

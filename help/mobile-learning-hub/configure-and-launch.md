@@ -61,16 +61,16 @@ Mobile SDKをアプリに統合しないと、Journey Optimizerは次の信頼�
 >次を持っていることを確認します。
 >
 > * 組織にプロビジョニングされた&#x200B;**Adobe Journey Optimizer** （AJO）。
-> * [ データ収集とJourney Optimizer権限](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions)を持つAdobe Experience Platform アクセス。
+> * [&#x200B; データ収集とJourney Optimizer権限](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions)を持つAdobe Experience Platform アクセス。
 > * チャネルと設定の設定に関するAJOの管理者権限。
 > * モバイルアプリのソースコード（iOS、Android、クロスプラットフォームフレームワーク）へのアクセス。
 > * アプリで必要なOS レベルの機能（プッシュ権限、通知サービス拡張機能、バックグラウンドモードなど）が有効になっています。
-> * 既存の設定オプションを使用している場合は、[現在のAdobe Experience Platform Mobile SDK バージョン ](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}を使用していることを確認してください
+> * 既存の設定オプションを使用している場合は、[現在のAdobe Experience Platform Mobile SDK バージョン &#x200B;](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}を使用していることを確認してください
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
-詳しくは、[ ガイド付きチャネル設定の基本を学ぶ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=ja){target="_blank"}を参照してください
+詳しくは、[&#x200B; ガイド付きチャネル設定の基本を学ぶ](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=ja){target="_blank"}を参照してください
 
 
 #### プッシュチャネルの手動設定
@@ -298,7 +298,7 @@ CARDS
 5. 必要に応じて、アプリのコードからローカルにアクティビティをトリガーしたり、Journey Optimizerからリモートでアクティビティを開始、更新、終了したりできます。
 6. 必要に応じて、`LiveActivityAssuranceDebuggable`を実装して、Adobe Assuranceのライブアクティビティをデバッグします。
 
-Androidの設定を含む完全な構成参照については、[ ライブアクティビティの設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}を参照してください。
+Androidの設定を含む完全な構成参照については、[&#x200B; ライブアクティビティの設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}を参照してください。
 
 ### WhatsApp
 
@@ -595,10 +595,10 @@ CARDS
 | # | 問題/症状 | よくある落とし穴 | 一目で確認 |
 |---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
 | 1 | ガイド付きチャネルの設定に失敗しました。トラフィックがゼロまたは少ない | [SDKのバージョンまたは拡張機能が一致しません](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/拡張機能のバージョンを更新、Assuranceで検証 |
-| 2 | バッチのトラッキングに失敗します。AEPのエラー | [ データストリームまたはデータセットが正しく設定されていません](#2-misconfigured-datastreams-or-datasets) | イベントをイベントデータセットに、プロファイルをプロファイルデータセットにマッピング |
+| 2 | バッチのトラッキングに失敗します。AEPのエラー | [&#x200B; データストリームまたはデータセットが正しく設定されていません](#2-misconfigured-datastreams-or-datasets) | イベントをイベントデータセットに、プロファイルをプロファイルデータセットにマッピング |
 | 3 | ジャーニーは生まれない；奇妙なパーソナライゼーション | [IDまたは同意が見つからない/一貫性がない](#3-missing-or-inconsistent-identity-and-consent) | Edge IDと同意の実装、Assuranceでの検証 |
-| 4 | レポートにプッシュ配信または開封数がありません | [ プッシュトークンの登録またはトラッキングが壊れています](#4-push-token-registration-and-tracking-not-wired-correctly) | SDKによるトークン登録とインタラクション追跡の修正 |
-| 5 | アクティブなキャンペーンにもかかわらず、アプリ内でのインプレッションがない | [ アプリ内メッセージまたはコンテンツカードが表示されない](#5-in-app-messages-or-content-cards-not-displaying) | メッセージ拡張機能、トリガー、Assuranceの意思決定応答の確認 |
+| 4 | レポートにプッシュ配信または開封数がありません | [&#x200B; プッシュトークンの登録またはトラッキングが壊れています](#4-push-token-registration-and-tracking-not-wired-correctly) | SDKによるトークン登録とインタラクション追跡の修正 |
+| 5 | アクティブなキャンペーンにもかかわらず、アプリ内でのインプレッションがない | [&#x200B; アプリ内メッセージまたはコンテンツカードが表示されない](#5-in-app-messages-or-content-cards-not-displaying) | メッセージ拡張機能、トリガー、Assuranceの意思決定応答の確認 |
 
 ### 落とし穴ごとの詳細ガイダンス
 
@@ -623,7 +623,7 @@ CARDS
 * サポートされているMobile SDKおよびJourney Optimizer拡張機能のバージョンにアップグレードします。
 * アプリを再構築し、Assuranceに再接続し、ガイド付きチャネル設定を再実行します。
 
-関連項目：[ モバイルとwebの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
+関連項目：[&#x200B; モバイルとwebの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
 
 +++
 
@@ -647,7 +647,7 @@ CARDS
 * データストリームマッピング（イベント→イベントデータセット、プロファイル→プロファイルデータセット）を修正します。
 * アドホック変更ではなく、ガイド付きのチャネル設定または文書化されたデータストリームステップを優先します。
 
-Adobe Journey Optimizerの[ プッシュ通知フロー](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}を参照してください。
+Adobe Journey Optimizerの[&#x200B; プッシュ通知フロー](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}を参照してください。
 
 +++
 
@@ -697,7 +697,7 @@ Adobe Journey Optimizerの[ プッシュ通知フロー](https://experienceleagu
   * Mobile SDKを介してプッシュインタラクションイベント（オープン、却下、カスタムアクション）を送信します。
 * Assuranceを使用して、登録イベントとトラッキングイベントが期待どおりに起動していることを確認します。
 
-Adobe Journey Optimizerの[ プッシュ通知フロー](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}を参照してください。
+Adobe Journey Optimizerの[&#x200B; プッシュ通知フロー](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}を参照してください。
 
 +++
 
@@ -726,7 +726,7 @@ Adobe Journey Optimizerの[ プッシュ通知フロー](https://experienceleagu
   * SDKを通じて、やり取りを追跡します。
 
 参照：
-* [ アプリ内メッセージの作成と送信](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
+* [&#x200B; アプリ内メッセージの作成と送信](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
 * [Mobile SDK でのコンテンツカードのサポートの設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 +++
