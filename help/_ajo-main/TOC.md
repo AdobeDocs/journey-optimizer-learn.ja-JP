@@ -3,13 +3,11 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
+source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
 workflow-type: tm+mt
-source-wordcount: '1573'
-ht-degree: 99%
-
+source-wordcount: '1579'
+ht-degree: 98%
 ---
-
 
 # Journey Optimizer チュートリアル {#tutorials}
 
@@ -64,7 +62,7 @@ ht-degree: 99%
     + [ユースケース - オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)
   + チュートリアル{#tutorials}
     + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [&#x200B; ロイヤルティ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
++ [ ロイヤルティ ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + 競合管理と優先順位付け {#conflict-management}
   + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
   + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -104,6 +102,7 @@ ht-degree: 99%
     + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
   + ライブアクティビティ {#live-activities}
     + [iOS ライブアクティビティ](/help/channels/ios-live-activities.md)
+    + [Androidのライブアップデートの設定](/help/channels/android-live-updates.md)
   + プッシュチャネル{#push-channel}
     + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
     + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
