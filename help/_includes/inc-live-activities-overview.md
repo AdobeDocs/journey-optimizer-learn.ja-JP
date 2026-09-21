@@ -1,5 +1,5 @@
 ---
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: fc279f2ff41f624e4a6a0c4c930cedfcc2745dc5
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 3%
@@ -8,14 +8,14 @@ ht-degree: 3%
 
 ## もう一度
 
-**ライブアクティビティ**&#x200B;を使用すると、注文の準備、配送中の配送、移動中の乗り物など、アクティビティの進行状況に合わせて顧客に情報を提供するように、リアルタイムで永続的な更新を配信できます。 更新ごとに新しい通知を送信するのではなく、単一のライブアクティビティを作成し、アクティビティの進化に合わせて更新および終了することで、顧客のロック画面または通知の色合いをリアルタイムで維持します。
+**ライブアクティビティ**&#x200B;を使用すると、注文の準備、配送中の配送、途中の乗り物など、アクティビティの進行状況に合わせて顧客に情報を提供するように、リアルタイムで永続的な更新を配信できます。 更新ごとに新しい通知を送信するのではなく、単一のライブアクティビティを作成し、アクティビティの進化に合わせて更新および終了することで、顧客のロック画面または通知の色合いをリアルタイムで維持します。
 
 Adobe Journey Optimizerは、次の両方の主要なモバイルプラットフォームでライブアクティビティをサポートしています。
 
-* **[iOSのライブアクティビティ](/help/channels/ios-live-activities.md)** — iPhoneのロック画面とダイナミック島のリッチなリアルタイム更新。
-* **[Android ライブ更新](/help/channels/android-live-updates.md)** — Android通知シェードのリアルタイムの永続的な更新。
+* **[iOSのライブアクティビティ](/help/channels/ios-live-activities.md)**:iPhoneのロック画面とダイナミックアイランドで、リッチでリアルタイムに更新されます。
+* **[Android ライブ更新](/help/channels/android-live-updates.md)**: Android通知シェードのリアルタイムの永続的な更新。
 
-Mobile SDKを設定し、APIを使用してカスタマージャーニー全体でライブエクスペリエンスを開始、更新、終了するには、[&#x200B; ライブアクティビティの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}を参照してください。
+Mobile SDKを設定し、APIを使用してカスタマージャーニー全体でライブエクスペリエンスを開始、更新、終了するには、[ ライブアクティビティの設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}を参照してください。
 
 ## ユースケース
 
@@ -30,7 +30,7 @@ Mobile SDKを設定し、APIを使用してカスタマージャーニー全体�
 
 ## *not*&#x200B;がライブアクティビティを使用する場合
 
-* 明確な終わりのない長期状態やオープンエンド状態の場合は、基礎となるプロセスが完了したらアクティビティを終了します。
-* プロモーションコンテンツやマーケティングコンテンツには、プッシュ通知、アプリ内メッセージ、コンテンツカードを代わりに使用できます。
-* アップデートの頻度が非常に高い場合、頻繁なアップデートはOSによって調整されるか、ユーザーにノイズを感じさせることができます。
+* 明確な終わりのない長時間実行またはオープンエンド状態の場合は、基礎となるプロセスが完了したらアクティビティを終了します。
+* プロモーションコンテンツやマーケティングコンテンツの場合：プッシュ通知、アプリ内メッセージ、コンテンツカードを代わりに使用します。
+* アップデートの頻度が非常に高い場合 – 頻繁なアップデートは、OSによって調整されるか、ユーザーに騒々しく感じることができます。
 * お使いのアプリがiOS Live ActivitiesまたはAndroid Live Updatesに必要なOSの最小バージョンをサポートしていない場合。
