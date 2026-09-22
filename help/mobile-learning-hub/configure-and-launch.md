@@ -7,15 +7,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19869
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '2976'
-ht-degree: 24%
-
+source-wordcount: '3810'
+ht-degree: 36%
 ---
-
 
 # 設定と起動
 
@@ -46,7 +44,7 @@ Journey Optimizerでのモバイル実装は、アプリでの&#x200B;**Adobe Ex
 * アプリイベント（画面表示、タップ、購入、ライフサイクルイベントなど）を収集します。 **Adobe Experience Platform Edge Network**&#x200B;に送信します。
 * **ID**&#x200B;と&#x200B;**同意**&#x200B;を管理するので、Journey Optimizerでは顧客プロファイルを安全に構築して使用できます。
 * **プッシュトークン**&#x200B;を登録および更新し、**プッシュおよびアプリ内トラッキングイベント**&#x200B;をAdobe Experience Platformに送信します。
-* Integrates with the **[Journey Optimizer mobile extension](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)** so messages can be delivered, rendered, and measured end‑to‑end.
+* **[Journey Optimizer モバイル拡張機能](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)**&#x200B;と統合して、メッセージをエンドツーエンドで配信、レンダリング、測定できるようにします。
 
 Mobile SDKをアプリに統合しないと、Journey Optimizerは次の信頼性を維持できません。
 
@@ -279,6 +277,29 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+### ライブアクティビティ
+
+ライブアクティビティは、アクティビティの進行に伴い、iOS Lock Screen/Dynamic IslandおよびAndroidの通知シェードにリアルタイムで永続的な更新を提供します（例えば、注文の準備や転送中の配送など）。
+
+>[!PREREQUISITES]
+>
+>**iOS**
+>
+> * 基本的なライブアクティビティ用のiOS 16.1以降、プッシュトゥスタートのサポート用のiOS 17.2以降、ブロードキャストチャネルのサポート用のiOS 18以降。
+> * Xcode 14.0以降およびSwift 5.7以降。
+> * AEP Mobile SDK: iOS Messaging 5.11.0以降、および&#x200B;**AEPMessagingLiveActivity**&#x200B;拡張機能と&#x200B;**ActivityKit** Appleが追加されています。
+
+ライブアクティビティ用にMobile SDKを設定するには、次の手順を実行します。
+
+1. **AEPMessaging**、**AEPMessagingLiveActivity**&#x200B;および&#x200B;**ActivityKit** フレームワークをiOS プロジェクトに読み込みます。
+2. アクティビティの属性を、`LiveActivityAttributes`に準拠する構造体で定義します。この構造体には、個々のユーザーに`liveActivityData` プロパティ （`liveActivityID`、ブロードキャストに`channelID`）と、時間の経過とともに更新される動的コンテンツに`ContentState`構造体が含まれます。
+3. SDKの初期化後にAppDelegateで`Messaging.registerLiveActivity()`を呼び出して、トークンの収集とライフサイクル管理を有効にします。
+4. `ActivityConfiguration`を実装して、ロック画面とDynamic Islandのウィジェット UIを定義します。
+5. 必要に応じて、アプリのコードからローカルにアクティビティをトリガーしたり、Journey Optimizerからリモートでアクティビティを開始、更新、終了したりできます。
+6. 必要に応じて、`LiveActivityAssuranceDebuggable`を実装して、Adobe Assuranceのライブアクティビティをデバッグします。
+
+Androidの設定を含む完全な構成参照については、[&#x200B; ライブアクティビティの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}を参照してください。
+
 ### WhatsApp
 
 **WhatsApp チャネル**&#x200B;の設定方法について説明します。
@@ -308,7 +329,7 @@ CARDS
                     <p class="is-size-6">このチュートリアルでは、Adobe Journey Optimizer で WhatsApp チャネルを設定して、リアルタイムのビジネスメッセージを有効にする方法について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -316,7 +337,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### SMS/MMS/RCS
+### SMS／MMS／RCS
 
 標準プロバイダー（Twilio、SynchまたはInfobip）を使用するか、カスタム SMS プロバイダーを使用して&#x200B;**SMS/MMS/RCS チャネル**&#x200B;を設定します。
 
@@ -352,7 +373,7 @@ CARDS
                     <p class="is-size-6">Journey Optimizer を SMS サービスプロバイダーに接続する方法と SMS チャネルサーフェスを作成する方法について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -375,7 +396,7 @@ CARDS
                     <p class="is-size-6">Journey Optimizerでカスタム SMS プロバイダーを設定する方法、API資格情報とwebhookを設定する方法、オプトイン/オプトアウトキーワードを管理する方法、パーソナライズされたキャンペーンを開始する方法について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -398,7 +419,7 @@ CARDS
                     <p class="is-size-6">Journey Optimizer を MMS サービスプロバイダーに接続する方法と、MMS チャネルサーフェスを作成する方法について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -421,7 +442,7 @@ CARDS
                     <p class="is-size-6">カスタム SMS プロバイダーを使用して、ブランド化されたインタラクティブな RCS メッセージを Adobe Journey Optimizer で設定および送信する方法について説明します。 このチュートリアルでは、ネイティブメッセージアプリ内で、API 資格情報、Webhook、チャネル設定を指定し、リッチでパーソナライズされたメッセージエクスペリエンスを提供するジャーニーを作成するすべての手順について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -510,7 +531,7 @@ CARDS
                     <p class="is-size-6">Adobe Experience Platform のガバナンス機能について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -533,7 +554,7 @@ CARDS
                     <p class="is-size-6">スキーマとデータセットにラベルを適用する方法を説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -556,7 +577,7 @@ CARDS
                     <p class="is-size-6">データ使用ポリシーを作成および管理する方法について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -567,64 +588,64 @@ CARDS
 
 ## 一般的な実装の落とし穴とその回避方法
 
-ほとんどのモバイルの問題は、**SDKまたはデータ収集設定**&#x200B;に起因するもので、Journey Optimizer ジャーニーやキャンペーン自体には発生しません。 Use the table below to identify what&#39;s going wrong, then expand the corresponding section for details.
+ほとんどのモバイルの問題は、**SDKまたはデータ収集設定**&#x200B;に起因するもので、Journey Optimizer ジャーニーやキャンペーン自体には発生しません。 以下の表を使用して問題を特定し、対応するセクションを展開して詳細を確認します。
 
-### Pitfalls at a glance
+### 陥りやすい失敗
 
-| # | Issue / symptom | Common pitfall | Fix at a glance |
+| # | 問題/症状 | よくある落とし穴 | 一目で確認 |
 |---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
-| 1 | Guided Channel Setup fails; no or low traffic | [SDK versions or extensions not aligned](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | Update SDK/extension versions; validate in Assurance |
-| 2 | Tracking batches fail; errors in AEP | [Datastreams or datasets misconfigured](#2-misconfigured-datastreams-or-datasets) | Map events to event dataset &amp; profiles to profile dataset |
-| 3 | Journeys don&#39;t fire; odd personalization | [Identity or consent missing / inconsistent](#3-missing-or-inconsistent-identity-and-consent) | Implement Edge Identity &amp; Consent; verify in Assurance |
-| 4 | No push delivery or opens in reports | [Push token registration or tracking broken](#4-push-token-registration-and-tracking-not-wired-correctly) | Fix token registration &amp; interaction tracking via SDK |
-| 5 | No in‑app impressions despite active campaigns | [In‑app messages or content cards not displaying](#5-in-app-messages-or-content-cards-not-displaying) | Check messaging extensions, triggers, and Assurance decision responses |
+| 1 | ガイド付きチャネルの設定に失敗しました。トラフィックがゼロまたは少ない | [SDKのバージョンまたは拡張機能が一致しません](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | SDK/拡張機能のバージョンを更新、Assuranceで検証 |
+| 2 | バッチのトラッキングに失敗します。AEPのエラー | [&#x200B; データストリームまたはデータセットが正しく設定されていません](#2-misconfigured-datastreams-or-datasets) | イベントをイベントデータセットに、プロファイルをプロファイルデータセットにマッピング |
+| 3 | ジャーニーは生まれない；奇妙なパーソナライゼーション | [IDまたは同意が見つからない/一貫性がない](#3-missing-or-inconsistent-identity-and-consent) | Edge IDと同意の実装、Assuranceでの検証 |
+| 4 | レポートにプッシュ配信または開封数がありません | [&#x200B; プッシュトークンの登録またはトラッキングが壊れています](#4-push-token-registration-and-tracking-not-wired-correctly) | SDKによるトークン登録とインタラクション追跡の修正 |
+| 5 | アクティブなキャンペーンにもかかわらず、アプリ内でのインプレッションがない | [&#x200B; アプリ内メッセージまたはコンテンツカードが表示されない](#5-in-app-messages-or-content-cards-not-displaying) | メッセージ拡張機能、トリガー、Assuranceの意思決定応答の確認 |
 
-### Detailed guidance per pitfall
+### 落とし穴ごとの詳細ガイダンス
 
-Open the pitfall that matches your symptoms to see what to check and how to fix it.
+症状に合った落とし穴を開けて、何をチェックし、どのように修正するかを確認します。
 
-+++ 1. SDK versions and extensions not aligned with channel requirements
-**What you&#39;ll notice**
++++ &#x200B;1. SDKのバージョンと拡張機能がチャネル要件に準拠していない
+**お知らせします**
 
-* Push or in‑app activities do not reach the device.
-* Guided Channel Setup or channel validation fails.
-* Assurance shows missing Journey Optimizer, Edge, or Identity extensions.
+* プッシュまたはアプリ内アクティビティがデバイスに届かない。
+* ガイド付きチャネル設定またはチャネル検証が失敗する。
+* Assuranceに、Journey Optimizer、Edge、またはID拡張機能が表示されない。
 
-**What to check**
+**チェック対象**
 
-* Are you using the minimum **Mobile Core** and **Journey Optimizer** extension versions required by Guided Channel Setup?
-* In **Assurance**, under extensions and events:
-   * Do you see the expected extensions loaded?
-   * Are events being sent to the Edge Network and acknowledged?
+* ガイド付きチャネル設定で必要な最小&#x200B;**モバイルコア**&#x200B;および&#x200B;**Journey Optimizer**&#x200B;拡張機能バージョンを使用していますか？
+* **Assurance**&#x200B;の拡張機能とイベント：
+  * 予想される拡張機能が読み込まれていますか？
+  * イベントはEdge Networkに送信され、承認されますか？
 
-**How to fix**
+**解決方法**
 
-* Upgrade to the supported Mobile SDK and Journey Optimizer extension versions.
-* Rebuild the app, reconnect to Assurance, and re‑run Guided Channel Setup.
+* サポートされているMobile SDKおよびJourney Optimizer拡張機能のバージョンにアップグレードします。
+* アプリを再構築し、Assuranceに再接続し、ガイド付きチャネル設定を再実行します。
 
-See: [Set up mobile and web](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
+関連項目：[&#x200B; モバイルとwebの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
 
 +++
 
-+++ 2. Misconfigured datastreams or datasets
-**What you&#39;ll notice**
++++ &#x200B;2. 設定ミスのあるデータストリームまたはデータセット
+**お知らせします**
 
-* Events or push tracking batches fail in Platform datasets.
-* Data ingestion errors (for example, &quot;Updates are not supported for events&quot;).
-* Push or in‑app reports show little or no tracking.
+* Platform データセットでイベントまたはプッシュトラッキングバッチが失敗する。
+* データ取り込みエラー（「更新はイベントではサポートされていません」など）。
+* プッシュ通知やアプリ内レポートでは、追跡機能はほとんどありません。
 
-**What to check**
+**チェック対象**
 
-* Did anyone change **system schemas or datasets** created for Journey Optimizer tracking?
-* In your **datastream**:
-   * Are experience events mapped to an **event dataset**?
-   * Are profile attributes mapped to a **profile dataset**?
+* Journey Optimizer トラッキング用に作成された&#x200B;**システムスキーマまたはデータセット**&#x200B;を変更した人はいますか？
+* **データストリーム**&#x200B;で：
+  * エクスペリエンスイベントは&#x200B;**イベントデータセット**&#x200B;にマッピングされますか？
+  * プロファイル属性は&#x200B;**プロファイルデータセット**&#x200B;にマッピングされていますか？
 
-**How to fix**
+**解決方法**
 
-* Do not edit system datasets/schemas created by AJO.
-* Correct the datastream mapping (events → event dataset, profiles → profile dataset).
-* Prefer Guided Channel Setup or the documented datastream steps instead of ad‑hoc changes.
+* AJOで作成されたシステムデータセット/スキーマは編集しないでください。
+* データストリームマッピング（イベント→イベントデータセット、プロファイル→プロファイルデータセット）を修正します。
+* アドホック変更ではなく、ガイド付きのチャネル設定または文書化されたデータストリームステップを優先します。
 
 Adobe Journey Optimizerの[&#x200B; プッシュ通知フロー](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}を参照してください。
 
@@ -642,8 +663,8 @@ Adobe Journey Optimizerの[&#x200B; プッシュ通知フロー](https://experie
 * Edge Network **の** IDは実装され、安定したプライマリ ID （ログイン IDなど）を送信しますか？
 * 環境設定が変更されたときに&#x200B;**Edge Networkの同意が実装され、更新されますか？**
 * **Assurance**&#x200B;で：
-   * アウトバウンドイベントには同意値が含まれますか？
-   * ECIDとプライマリ IDは一貫して含まれていますか？
+  * アウトバウンドイベントには同意値が含まれますか？
+  * ECIDとプライマリ IDは一貫して含まれていますか？
 
 **解決方法**
 
@@ -664,53 +685,53 @@ Adobe Journey Optimizerの[&#x200B; プッシュ通知フロー](https://experie
 **チェック対象**
 
 * アプリは、Journey Optimizer拡張機能にプッシュトークンを登録します。
-   * 最初のインストール時に？
-   * アプリをアップデートするたびに？
-   * Whenever the OS refreshes the token?
-* When a user opens or dismisses a notification, do you see tracking events in Assurance?
+  * 最初のインストール時に？
+  * アプリをアップデートするたびに？
+  * OSがトークンを更新するたびに？
+* ユーザーが通知を開いたり閉じたりすると、Assuranceにトラッキングイベントが表示されますか？
 
 **解決方法**
 
-* Add or correct the code that:
-   * Registers the token via the Journey Optimizer mobile extension whenever it is created or refreshed.
-   * Sends push interaction events (open, dismiss, custom actions) via the Mobile SDK.
-* Use Assurance to confirm registration and tracking events are firing as expected.
+* 次のコードを追加または修正します。
+  * トークンが作成または更新されるたびに、Journey Optimizer モバイル拡張機能を介してトークンを登録します。
+  * Mobile SDKを介してプッシュインタラクションイベント（オープン、却下、カスタムアクション）を送信します。
+* Assuranceを使用して、登録イベントとトラッキングイベントが期待どおりに起動していることを確認します。
 
 Adobe Journey Optimizerの[&#x200B; プッシュ通知フロー](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}を参照してください。
 
 +++
 
-+++ 5. In‑app messages or content cards not displaying
++++ &#x200B;5. アプリ内メッセージやコンテンツカードが表示されない
 **お知らせします**
 
-* In‑app messages or content cards never appear, despite active campaigns or journeys.
-* Reporting shows 0 impressions.
+* アクティブなキャンペーンやジャーニーにもかかわらず、アプリ内メッセージやコンテンツカードが表示されることはありません。
+* レポートは0 インプレッションを示しています。
 
 **チェック対象**
 
-* Are the **Journey Optimizer mobile messaging / in‑app extension** and **Messaging SDK** installed and registered in the app?
-* In your **tags** configuration:
-   * Do you have rules that trigger requests on the correct events (for example, screen views or custom events)?
+* **Journey Optimizer モバイルメッセージング / アプリ内拡張機能**&#x200B;および&#x200B;**Messaging SDK**&#x200B;がインストールされ、アプリに登録されていますか？
+* **tags**&#x200B;設定で、次の操作を行います。
+  * トリガーが正しいイベント（スクリーンビューやカスタムイベントなど）に対してリクエストするルールはありますか？
 * **Assurance**&#x200B;で：
-   * When those events fire, do you see in‑app or content‑card decision requests going out?
-   * Do you see responses coming back from the Edge Network?
+  * そのようなイベントが発生した場合、アプリ内またはコンテンツカード内の意思決定リクエストが送信されますか？
+  * Edge Networkから回答が返ってくるということはありますか？
 
 **解決方法**
 
-* Install and register the required messaging extensions.
-* Add or correct rules that trigger decisions on your target events (screens, custom events).
-* For content cards, ensure you:
-   * Fetch cards via the Messaging SDK APIs.
-   * Render them in your UI.
-   * Track interactions back via the SDK.
+* 必要なメッセージング拡張機能をインストールして登録します。
+* ターゲットイベント（画面、カスタムイベント）に関する意思決定をトリガーするルールを追加または修正します。
+* コンテンツカードの場合、次のことを確認します。
+  * Messaging SDK APIを使用してカードを取得します。
+  * UIでレンダリングします。
+  * SDKを通じて、やり取りを追跡します。
 
 参照：
-* [Create and send in‑app messages](https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
+* [&#x200B; アプリ内メッセージの作成と送信](https://experienceleague.adobe.com/ja/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
 * [Mobile SDK でのコンテンツカードのサポートの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 +++
 
 ## その他のリソース
 
-* [Using CDN based client side personalization (ODD) on mobile for faster personalizations (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=ja){target="_blank"}
-* [The Secret to Next-Level Mobile App Engagement and Growth (Summit Session)](https://business.adobe.com/jp/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
+* [モバイルでのCDN ベースのクライアントサイドパーソナライゼーション（ODD）の使用によるパーソナライゼーションの高速化（ブログ）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=ja){target="_blank"}
+* [「モバイルアプリのエンゲージメントと成長の次のレベルへの秘訣」（Summit セッション）](https://business.adobe.com/jp/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)

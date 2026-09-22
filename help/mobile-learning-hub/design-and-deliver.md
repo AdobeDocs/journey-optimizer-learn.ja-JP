@@ -6,15 +6,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19870
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '3509'
-ht-degree: 69%
-
+source-wordcount: '3622'
+ht-degree: 67%
 ---
-
 # デザインと配信
 
 Adobe Journey Optimizerを利用して、インパクトのあるモバイルコミュニケーションを構築、配信する方法をご確認ください。 プッシュ通知、アプリ内メッセージ、コンテンツカード、SMS/MMS/RCS、WhatsApp マーケティングメッセージ、オーディエンスに合わせてカスタマイズされ、モバイルエンゲージメントに最適化されたコードベースの体験など、様々な種類のメッセージを作成、設計、送信する方法を説明します。
@@ -272,6 +270,32 @@ CARDS
 
 | ![&#x200B; コンテンツカードの作成と設定&#x200B;](./assets/configuration.svg) [**コンテンツカードの作成と設定**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![&#x200B; コンテンツカードのデザイン &#x200B;](./assets/content-management.png){width="50"}[**コンテンツカードのデザイン**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+>[!TAB  ライブアクティビティ ]
+
+### ライブアクティビティ
+
+>[!PREREQUISITES]
+>
+> 1. アプリがMobile SDKと統合され、ライブアクティビティ拡張機能で設定されていることを確認します（[&#x200B; ライブアクティビティの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}を参照）。
+> 2. 顧客プロファイルとオーディエンスセグメントをターゲティングする準備が整っています。
+
+#### iOS ライブアクティビティ
+
+iOS ライブアクティビティを Adobe Journey Optimizer と連携して設定し、iPhone のロック画面と Dynamic Island でリッチなリアルタイム更新を提供する方法について説明します。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479865/?captions=jpn&learn=on&enablevpops)
+
+#### Android Live Updates
+
+Adobe Journey OptimizerでAndroidのライブアップデートを作成して配信し、アクティビティの進捗に合わせてユーザーに情報を提供するリアルタイムで永続的な顧客体験を実現する方法をご紹介します。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+
+#### 製品ドキュメント
+
+| ![&#x200B; ライブアクティビティの設定&#x200B;](./assets/configuration.svg) [**ライブアクティビティの設定**](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
 

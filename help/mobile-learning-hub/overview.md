@@ -6,15 +6,13 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 1b8691391bcbe2f8dfa8c8b7f98058933af11a15
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '973'
 ht-degree: 7%
-
 ---
-
 # Journey Optimizer - Mobile Learning Hub
 
 Adobe Journey Optimizer を使用して、モバイルエンゲージメント戦略をすぐに開始または強化します。 モバイル学習ハブは、開発者、管理者、マーケターおよびアナリストに、インバウンドとアウトバウンドのモバイルチャネルを設定し、強力なクロスチャネルキャンペーンやジャーニーへとシームレスに統合するために必要なすべてを提供します。
@@ -34,9 +32,9 @@ Journey Optimizerは、インバウンドとアウトバウンドの両方のモ
 
 Adobe Journey Optimizerのすべてのアウトバウンドチャネルでは、メッセージ送信時にカスタム同意ポリシーが適用されます。 特定のマーケティングアクションに対して同意が付与されない場合、メッセージは自動的に抑制され、コンプライアンスを遵守した配信が保証されます。
 
-| ![&#x200B; プッシュ通知](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[プッシュ通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
-|-------------------------------------|------------------------------------|-------------------------------|
-| アプリの外に送信されたプッシュメッセージは、すぐに注目を集めます。 このようなツールは、時間の制約のある更新を促し、ユーザーがアプリを再訪問するように促すのに最適です。 | アプリを必要とせずにユーザーの携帯電話に送信されるダイレクトメッセージ。 緊急アラート、リマインダー、画像や動画などのリッチメディアコンテンツに最適です。 | 広く使用されているメッセージングアプリを通じた会話型チャネルにより、パーソナライズされた双方向のコミュニケーションとインタラクティブなキャンペーンが可能になります。 |
+| ![&#x200B; プッシュ通知](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[プッシュ通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![&#x200B; ライブアクティビティ &#x200B;](/help/mobile-learning-hub/assets/live-activities.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[ライブアクティビティ](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+|-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
+| アプリの外に送信されたプッシュメッセージは、すぐに注目を集めます。 このようなツールは、時間の制約のある更新を促し、ユーザーがアプリを再訪問するように促すのに最適です。 | アプリを必要とせずにユーザーの携帯電話に送信されるダイレクトメッセージ。 緊急アラート、リマインダー、画像や動画などのリッチメディアコンテンツに最適です。 | 広く使用されているメッセージングアプリを通じた会話型チャネルにより、パーソナライズされた双方向のコミュニケーションとインタラクティブなキャンペーンが可能になります。 | ロック画面、ダイナミックアイランド、通知シェードでリアルタイムの永続的な更新を利用して、アクティビティの進捗に合わせて顧客に情報を提供できます。 |
 
 ### インバウンドチャネル
 
