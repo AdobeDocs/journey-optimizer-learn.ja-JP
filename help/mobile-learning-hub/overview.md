@@ -19,7 +19,7 @@ Adobe Journey Optimizer を使用して、モバイルエンゲージメント�
 
 Adobe Experience Manager Sitesのベストプラクティスを確認し、導入を促す方法や、一元化されたレポートワークフローを構築する方法などを確認できます。これにより、いつでもどこでも顧客にリーチできる、データ主導のインパクトのあるモバイル体験を提供できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476999?captions=jpn&quality=12&learn=on){transcript=true}
 
 
 ## モバイルチャネルの概要
