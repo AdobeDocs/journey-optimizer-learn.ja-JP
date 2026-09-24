@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: 726f2e6dc3c833245653b93b38840ea5f3470bde
+source-git-commit: 9d4108ac6e2a300e0be06398a8f7d97d5ce879ab
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Adobe Journey Optimizer とは何か、このアプリケーションでビジネス上のどのような課題が解決されるのか、主要なユースケースは何かを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430316?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on){transcript=true}
 
   <br>
