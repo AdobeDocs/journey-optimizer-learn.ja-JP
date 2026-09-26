@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Adobe Journey OptimizerでAndroidのライブアップデートを作成して配信し、アクティビティの進捗に合わせてユーザーに情報を提供するリアルタイムで永続的な顧客体験を実現する方法をご紹介します。 このチュートリアルでは、Android Live Updates チャネルを設定し、キャンペーンを作成およびアクティブ化し、APIを使用してカスタマージャーニー全体でライブエクスペリエンスを開始、更新、終了する方法を示します
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503647/?captions=jpn&learn=on&enablevpops)
