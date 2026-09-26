@@ -290,7 +290,7 @@ iOS ライブアクティビティを Adobe Journey Optimizer と連携して設
 
 Adobe Journey OptimizerでAndroidのライブアップデートを作成して配信し、アクティビティの進捗に合わせてユーザーに情報を提供するリアルタイムで永続的な顧客体験を実現する方法をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503647/?captions=jpn&learn=on&enablevpops)
 
 #### 製品ドキュメント
 
