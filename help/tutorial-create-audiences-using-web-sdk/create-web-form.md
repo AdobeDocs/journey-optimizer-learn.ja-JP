@@ -1,29 +1,27 @@
 ---
 title: Web フォームの作成
-description: HTMLページで投資環境設定を選択できるフォームを作成します
+description: HTMLのページで、投資の環境設定を選択できるフォームを作成します
 feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 20de8dec-aac8-43ed-8305-e723f82a5dd9
 source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '125'
 ht-degree: 0%
-
 ---
-
 # Web フォームの作成
 
-次のHTML フォームは、ユーザーの環境設定を取り込むために作成されました
+次のHTML フォームは、ユーザー設定をキャプチャするために作成されました
 ![html-form](assets/web-form.png)
 
-ユーザーが web ページのボタンをクリックすると、選択した金融環境設定（株式、債券、CD など）がキャプチャされ、Adobe Data Layer にプッシュされます。 このイベント（assetClassSelection）は、ユーザーの選択をリアルタイムで保存します。 次に、Adobe Launch はこのイベントをリッスンし、選択した投資オプション（PreferredFinancialInstrument）を取得し、データをAdobe Experience Platform（AEP）に送信したり、パーソナライゼーションルールを更新したりといったトリガーアクションを実行できます
+オーディエンスがweb ページのボタンをクリックすると、選択した財務情報（在庫、債券、CDなど）が取り込まれ、Adobeデータレイヤーにプッシュされます。 このイベント（assetClassSelection）は、ユーザーの選択をリアルタイムで保存します。 Adobe Launchは、このイベントをリッスンし、選択した投資オプション（PreferredFinancialInstrument）を取得します。また、データをAdobe Experience Platform（AEP）に送信したり、パーソナライゼーションルールを更新したりするなど、アクションをトリガーできます
 
-フォームの送信を処理するために、次のJavaScriptが作成されました
+次のJavaScriptは、フォームの送信を処理するために作成されました
 
 ```javascript
 function handleSubmission() {
@@ -61,4 +59,4 @@ function handleSubmission() {
 }
 ```
 
-[サンプルのHTML フォームは、このチュートリアルの一部として提供されています](assets/webform.zip)
+[HTML フォームのサンプルは、このチュートリアルの一部として提供されています](assets/webform.zip)
