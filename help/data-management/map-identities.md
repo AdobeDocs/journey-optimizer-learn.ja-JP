@@ -1,6 +1,6 @@
 ---
 title: ID のマッピング
-description: スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法を説明します。ID をプライマリにするタイミングと、ID データの取り込みと検証の方法について説明します。
+description: スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法を説明します。 ID をプライマリにするタイミングと、ID データの取り込みと検証の方法について説明します。
 jira: KT-7564
 thumbnail: 335918.jpg
 feature: Identities, Data Ingestion
@@ -11,11 +11,9 @@ level: Beginner
 exl-id: 05264e3e-7ed1-422e-8cde-f09c6d7e590b
 source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '68'
 ht-degree: 100%
-
 ---
-
 # ID のマッピング
 
 スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法、ID をプライマリにするタイミング、ID データの取得と検証方法について説明します。
