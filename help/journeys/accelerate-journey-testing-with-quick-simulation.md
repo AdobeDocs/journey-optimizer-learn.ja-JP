@@ -17,4 +17,4 @@ ht-degree: 100%
 
 クイックシミュレーションは、主要なプロセスを自動処理してカスタマージャーニーのテストを簡素化します。テストプロファイルの生成、イベントの調整、待ち時間の高速化、シナリオの検証を実行します。このツールは、複雑なジャーニーを公開する前に意図したとおりに機能することを確認するのに役立ち、時間を節約し、精度を向上させます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497476/?captions=jpn&learn=on&enablevpops)
