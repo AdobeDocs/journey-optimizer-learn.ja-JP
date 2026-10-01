@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
 source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1579'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Journey Optimizer チュートリアル {#tutorials}
@@ -43,7 +43,7 @@ ht-degree: 98%
   + [AI を使用したジャーニーの分析と作成](/help/ai-agents/journey-agent-overview.md)
   + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
   + [外部オーディエンスを使用したジャーニーのシミュレート](/help/journeys/simulate-journeys-with-external-audiences.md)
-  + [クイックシミュレーションでジャーニーのテストを加速](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
+  + [クイックシミュレーションでのジャーニーテストの高速化](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
   + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
   + [ジャーニーでのデータセット参照の使用](/help/journeys/lookup-dataset.md)
@@ -62,7 +62,7 @@ ht-degree: 98%
     + [ユースケース - オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)
   + チュートリアル{#tutorials}
     + [フォーム送信時のジャーニーのトリガー](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [&#x200B; ロイヤルティ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
++ [ロイヤルティ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + 競合管理と優先順位付け {#conflict-management}
   + [潜在的な競合の特定](/help/conflict-management/identify-potential-conflicts.md)
   + [優先度スコアの割り当て](/help/conflict-management/assign-priority-score.md)
@@ -102,7 +102,7 @@ ht-degree: 98%
     + [アプリ内メッセージ用のコンテンツ実験の設定](/help/experimentation/content-experiments-for-in-app-messages.md)
   + ライブアクティビティ {#live-activities}
     + [iOS ライブアクティビティ](/help/channels/ios-live-activities.md)
-    + [Androidのライブアップデートの設定](/help/channels/android-live-updates.md)
+    + [Android のライブアップデートの設定](/help/channels/android-live-updates.md)
   + プッシュチャネル{#push-channel}
     + [プッシュ通知 - 概要](/help/channels/push-notifications-overview.md)
     + [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
@@ -177,7 +177,7 @@ ht-degree: 98%
       + [決定を使用したメールのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [プッシュ通知での決定の使用](/help/decisioning/decisioning-in-push-notifications.md)
       + [SMS メッセージでの決定の使用](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + [web ビジュアルエディターでの意思決定の使用](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [Web ビジュアルエディター内での決定の使用](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [決定を使用した web オファーのパーソナライズ（チュートリアル）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [決定を含む Experience Manager コンテンツフラグメントの使用](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 外部トリガーとインタラクションからの決定のトリガー {#trigger}
