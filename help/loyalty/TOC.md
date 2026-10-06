@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 構築
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 76bddb8b4e71ed4a059ec8bf808bc98a31377e28
+source-git-commit: c6d18e0a5cc1f80affb52852be6d7fcc6c832fe1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
   + ロイヤルティデータ取り込みの設定 {#set-up-loyalty-data-ingestion}
     + [プロファイルおよびイベントスキーマとデータセットの作成](./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md)
     + [HTTP API ソースとマップロイヤルティデータの設定](./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md)
-    + [ロイヤルティデータの取り込みをテスト](./set-up-loyalty/test-loyalty-data-ingestion.md)
+    + [ロイヤルティデータの検証とパフォーマンスレポートの設定](./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md)
   + [ロイヤルティ報酬プロバイダーの設定](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + チャレンジの設定 {#configure-your-challenge}
   + [ロイヤルティへの挑戦を設定する](./configure-your-challenge/set-up-a-loyalty-challenge.md)
