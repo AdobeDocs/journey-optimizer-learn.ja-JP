@@ -6,17 +6,32 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 209
-last-substantial-update: 2024-10-03T00:00:00Z
+last-substantial-update: 2024-10-03T00:00:00.000Z
 jira: KT-16267
 hide: false
 exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
-source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 9bb0ff1a-29d5-5edf-a6a2-8ec9c30e28c8
+    internal-label: Privacy
+  - id: aeebb91a-f216-4d5f-8da1-3a7e6f696ed0
+    internal-label: Data management activity
+subfeature_v2:
+  - id: f2c0f677-2df6-47f0-a531-ae6a5aa47f37
+    internal-label: Governance
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
-
 ---
-
 # データ使用ポリシーの作成
 
 データ使用ポリシーを作成および管理する方法について説明します。 データ使用ポリシーを使用すると、データのラベル付けに基づく特定の目的に対するデータ使用を制限できます。 API ベースのアプローチについて詳しくは、[API を使用したデータ使用ポリシーの作成](https://experienceleague.adobe.com/ja/docs/experience-platform/data-governance/policies/create)を参照してください。
@@ -27,6 +42,6 @@ ht-degree: 100%
 >
 >Journey Optimizer チャネルでポリシーを適用する方法について詳しくは、この[チュートリアル](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/37133/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
 Journey Optimizer での[同意ポリシーの使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/privacy/consent/consent)方法について詳しくは、製品ドキュメントを参照してください。

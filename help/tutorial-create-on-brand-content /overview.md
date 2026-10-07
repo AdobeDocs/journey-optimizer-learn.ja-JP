@@ -6,14 +6,21 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 jira: KT-20379
-last-substantial-update: 2026-07-15T00:00:00Z
-source-git-commit: 13b8db0a6de25fbc564d9b0374c4f10774996537
+last-substantial-update: 2026-07-15T00:00:00.000Z
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '638'
 ht-degree: 0%
-
 ---
-
 
 # ADOBE JOURNEY OPTIMIZERのAIを利用したブランドに即したコンテンツ制作
 
@@ -35,25 +42,25 @@ Adobe Journey OptimizerのAIを利用して、ブランドの設定からキャ�
 Adobe Journey OptimizerのAIを利用して、単一のプロンプトからブランドイメージに即した完全に生成されたメールまで、ブランド基準に準拠したメールコンテンツを大規模に制作する方法をご確認ください。
 * [Adobe Journey OptimizerでAIを活用したコンテンツ用にブランドを設定する](./configure-brands.md)
 AIを利用して、コンテンツの生成や検証、トーンオブボイスのマッピング、法的制約、画像のルールなどを作成し、設定できます。
-* [&#x200B; クリエイティブツール間でブランドガイドラインを拡張](./brands-tips-and-tricks.md)
+* [ クリエイティブツール間でブランドガイドラインを拡張](./brands-tips-and-tricks.md)
 Adobe Journey Optimizerで設定したブランドをGenStudioとAdobe Express全体に適用する方法、例を追加する方法、複数のブランドを管理する方法について説明します。
 
 ### AIを活用してコンテンツを生成する
 
 このモジュールでは、Adobe Journey OptimizerのAI機能を利用して、エンドツーエンドでブランドに即したコンテンツを制作、調整する方法を紹介します。 プロンプトから電子メールやプッシュ通知、アプリ内アセットを自動生成し、件名、プリヘッダー、画像などのセクションを個別に編集して、ビジュアルを強化し、ブランドボイスを維持しながら多言語バージョンを作成できます。 最後に、アイデアから洗練された多言語のブランドに即したコピーとビジュアルを作成します。
 
-* [&#x200B; オムニチャネルコンテンツをゼロから作成](./create-content-from-scratch.md)
+* [ オムニチャネルコンテンツをゼロから作成](./create-content-from-scratch.md)
 テンプレートから始め、AI機能、ブランドガイドライン、設定可能なトーンと画像の設定などを使用して、電子メール、プッシュ通知、アプリ内メッセージをすべて生成できます。
-* [&#x200B; セクションコンテンツの編集とパーソナライズ](./edit-and-personalize-section-content.md)
+* [ セクションコンテンツの編集とパーソナライズ](./edit-and-personalize-section-content.md)
 AIを活用して、件名、プリヘッダー、テキストブロック、画像を変更しながら、ブランドボイスとコンプライアンスを維持することで、メールテンプレートの個々のセクションを編集し、パーソナライズできます。
 * [AIでビジュアルコンテンツを強化](./enhance-your-visual-content.md)
 AIを利用して、インフォグラフィックの生成、オーバーレイの追加、画像の調整を実施できます。また、Adobe Expressで編集内容を拡張し、ブランドに即した適切なビジュアルを作成できます。
-* [&#x200B; コンテンツの多言語バージョンを作成および調整する](./create-and-refine-multilingual-content.md)
+* [ コンテンツの多言語バージョンを作成および調整する](./create-and-refine-multilingual-content.md)
 AIの機能、ブランドガイドライン、自動化されたスコアリングなどを活用して、コンテンツを他の言語に翻訳および調整し、ブランドに即してローカライズしたコンテンツを維持できます。
 
 ### 品質、ブランドの整合性、ガバナンス
 
 このモジュールは、AIが生成したコンテンツを公開前に評価し、管理するのに役立ちます。 ブランド調整スコアを使用して、コンテンツをガイドラインに照らし合わせてチェックし、自動化された品質チェックを実施して、読みやすさとコンプライアンスを確保し、承認プロセスの一環として人間によるレビューを適用します。 最終的には、AI出力を「信頼しながら検証」し、あらゆるアセットのコンプライアンスと一貫性を維持する方法を把握できます。
 
-* [&#x200B; コンテンツの品質、ブランドの整合性、ガバナンスを確保](./quality-brand-alignment-and-governance.md)
+* [ コンテンツの品質、ブランドの整合性、ガバナンスを確保](./quality-brand-alignment-and-governance.md)
 AIが生成し、手作業で作成したアセットについて、コンテンツの品質とブランドの整合性を評価します。また、コンテンツを公開する前に、レビュープロセスの一環としてガバナンスを適用します。

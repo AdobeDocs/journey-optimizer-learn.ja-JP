@@ -6,13 +6,23 @@ role: User
 hide: true
 index: false
 exl-id: 57586174-2727-4f3d-96b4-7ca248941ab6
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '2110'
 ht-degree: 0%
-
 ---
-
 # 課題解決型ロイヤルティ
 
 ## 長期的なエンゲージメントを促進する行動Gamificationシステムの設計

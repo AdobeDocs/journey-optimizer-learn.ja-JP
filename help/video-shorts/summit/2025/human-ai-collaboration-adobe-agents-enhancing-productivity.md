@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: d6fbe5e7-69d4-461e-b27d-630278f348b0
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
-
 ---
-
 # Human-AI Collaboration:Adobe Agentsによる生産性の向上
 
 Adobe Agentsが、実務担当者と連携して、実用的なインサイトの獲得やワークフローの最適化を行い、課題にリアルタイムで積極的に対処する方法を解説します。
 
 <!-- 62_S653_3442539_98_humanai-collaboration-adobe-agents-enhancing-productivity -->
->[!VIDEO](https://video.tv.adobe.com/v/3460396/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458189/?learn=on&enablevpops=true)

@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: ee940654-6c6c-42d2-8c33-e0b1dfa5c3ed
-source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
-
 ---
-
 # 動的な決定とランキングをテストするオファーを作成します
 
 これらのオファーは、Adobe Web SDK（alloy （「sendEvent」）を介して渡されるリアルタイムのコンテキスト入力（温度など）に基づいて、動的な決定とランキングをテストするように設計されています。
@@ -55,7 +68,7 @@ ht-degree: 0%
 ### コレクションを作成
 
 **_Decisioning -> Catalogs ->Collection->Create collectionに移動します_**
-コレクションに&#x200B;**Weather-Related-Offers**&#x200B;という名前を付けます
+コレクションに**Weather-Related-Offers**&#x200B;という名前を付けます
 
 ルールビルダーを使用して、このコレクションでこれらのオファーをグループ化します。
 

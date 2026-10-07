@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: c7950c3e-1a5a-4fe9-8e15-d9669f2acb56
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizerによるジオフェンスベースのアプリ内メッセージ
 
 Adobe Journey OptimizerとPlaces サービスの連携を利用して、位置情報にもとづくアプリ内メッセージを作成し、顧客エンゲージメントをパーソナライズする方法を説明します。
 
 <!-- 72_S522_3442522_189_geofencebased-inapp-messaging-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460409/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458203/?learn=on&enablevpops=true)

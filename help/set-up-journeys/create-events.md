@@ -9,16 +9,31 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 6275786c-d407-4d46-95f0-e366acad1054
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+subfeature_v2:
+  - id: fa683eda-48de-4558-af32-2673edcd44fe
+    internal-label: Events
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '36'
 ht-degree: 100%
-
 ---
-
 # イベントの作成
 
 イベントの設定、ストリーミングエンドポイントとイベントペイロードの指定を行う方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431517?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 

@@ -5,17 +5,30 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '305'
 ht-degree: 5%
-
 ---
-
 # サンプル CRM データをAEP プロファイルデータセットにインポートする
 
 IDの合成を開始するには、サンプル CRM プロファイルデータを、Adobe Experience Platformのプロファイル対応スキーマに関連付けられたデータセットに読み込みます
@@ -24,11 +37,11 @@ IDの合成を開始するには、サンプル CRM プロファイルデータ�
 
 * 顧客/ID/IDの作成に移動します。
 * 下のスクリーンショットに示すように、「個々のクロスデバイス ID」を選択し、表示名とID記号を指定します。
-  ![&#x200B; カスタム名前空間](assets/custom-namespace.png)
+  ![ カスタム名前空間](assets/custom-namespace.png)
 
 ## プロファイル対応スキーマの作成
 
-**_FinWiseProfileSchema_**&#x200B;という名前の個々のプロファイルスキーマを作成します。 annualIncome、email、firstName、lastName、loyaltyStatusなどのフィールドを含めます。
+**_FinWiseProfileSchema_**という名前の個々のプロファイルスキーマを作成します。 annualIncome、email、firstName、lastName、loyaltyStatusなどのフィールドを含めます。
 図のように、ID フィールド **_crmid_**&#x200B;を追加します。 crmid フィールドをIDおよびプライマリとしてマークします。
 
 
@@ -51,10 +64,10 @@ IDの合成を開始するには、サンプル CRM プロファイルデータ�
 * 前の手順で作成した&#x200B;**_FinWiseProfileSchema_**&#x200B;に基づいて、**_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;というデータセットを作成します。データセットがプロファイルに対して有効になっていることを確認してください。
 
 * 接続/ソース/ローカルシステムに移動します
-* ローカルファイルのアップロードで「**_データを追加_**」を選択します。 ターゲットデータセットとして&#x200B;_&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_を選択してください。
+* ローカルファイルのアップロードで「**_データを追加_**」を選択します。 ターゲットデータセットとして&#x200B;_**FinWiseCustomerDataSetWithAnnualIncome**_を選択してください。
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
-* 次の画面に移動します。 [csv ファイル &#x200B;](assets/finwise_profiles.csv)をアップロードし、マッピングを確認します
-  ![&#x200B; マッピング &#x200B;](assets/mappings.png)
+* 次の画面に移動します。 [csv ファイル ](assets/finwise_profiles.csv)をアップロードし、マッピングを確認します
+  ![ マッピング ](assets/mappings.png)
 
 * 「完了」をクリックして、データ取り込みプロセスを開始します
 

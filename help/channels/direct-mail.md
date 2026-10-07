@@ -5,11 +5,28 @@ feature: Direct Mail
 role: User, Admin
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-07-26
+last-substantial-update: 2023-07-26T00:00:00.000Z
 jira: KT-10585
 thumbnail: 3422019.jpeg
 exl-id: 8e620838-315d-42c2-a6e4-0e581055e582
-source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cb1f1586-9fb4-4de2-8332-02cebb88d42d
+    internal-label: Direct mail
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 100%
@@ -18,4 +35,4 @@ ht-degree: 100%
 
 ダイレクトメールチャネルの設定方法と、ダイレクトメールキャンペーンの作成およびプレビュー方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449355/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}

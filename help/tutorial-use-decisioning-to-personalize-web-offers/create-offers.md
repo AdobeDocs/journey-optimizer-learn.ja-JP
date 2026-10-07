@@ -5,11 +5,26 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-05
+last-substantial-update: 2025-05-05T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 1%
@@ -18,7 +33,7 @@ ht-degree: 1%
 
 AJOのオファー項目には、パーソナライズされたコンテンツが含まれています。 コンテンツとは、意思決定ロジックにもとづいて、ユーザーに配信されるプロモーション、メッセージ、レコメンデーションなどです。
 
-AJOでオファー項目を作成する場合は、[!UICONTROL Decisioning スキーマ &#x200B;]に基づく必要があります。 このスキーマは、タイトル、説明、imageURL、offerTextなど、オファーで使用できる構造とフィールドを定義します。
+AJOでオファー項目を作成する場合は、[!UICONTROL Decisioning スキーマ ]に基づく必要があります。 このスキーマは、タイトル、説明、imageURL、offerTextなど、オファーで使用できる構造とフィールドを定義します。
 
 このスキーマ：
 
@@ -46,7 +61,7 @@ AJOでオファー項目を作成する場合は、[!UICONTROL Decisioning ス�
 
 1. 前の手順で作成したタグを使用して、オファーにタグ付けします。
 1. 各オファーに適切なオーディエンスを追加。
-   ![&#x200B; オファーの実施要件](assets/offer-eligibility.png)
+   ![ オファーの実施要件](assets/offer-eligibility.png)
 1. オファーを承認します。
 
 標準属性とカスタム属性が定義された完了オファー：

@@ -1,21 +1,34 @@
 ---
 title: AI モデルトレーニング用のAdobe Web SDKによるオファーインタラクションの取得
-description: この記事では、Adobe Experience Platform Web SDK（alloy.js）を使用して、オファーのインプレッション数やクリック数などのユーザーインタラクションデータを取得する方法について説明します。 このデータは、Adobe Journey Optimizer（AJO）の AI モデルをトレーニングし、ユーザーの行動とコンテキストシグナルに基づいてオファーをインテリジェントにランク付けする基盤として機能します。
+description: この記事では、Adobe Experience Platform Web SDK（alloy.js）を使用して、オファーのインプレッション数やクリック数などのユーザーインタラクションデータを取得する方法について説明します。 このデータは、Adobe Journey Optimizer（AJO）の AI モデルをトレーニングし、ユーザーの行動とコンテキストシグナルに基づいてオファーをインテリジェントにランキングする基盤として機能します。
 feature: Decisioning
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2025-07-08T00:00:00Z
+last-substantial-update: 2025-07-08T00:00:00.000Z
 jira: KT-18451
 exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
-source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 4%
-
 ---
-
 # AI モデルトレーニング用のAdobe Web SDKによるオファーインタラクションの取得
 
 >[!NOTE]
@@ -41,7 +54,7 @@ Adobe Journey Optimizerでオファーランキング用のAI モデルを作成
 
 Adobe Experience Platformで：
 
-- 天気ベースのオファーに使用している既存の&#x200B;_&#x200B;**天気スキーマ**&#x200B;_ エクスペリエンスイベントスキーマを開きます。
+- 天気ベースのオファーに使用している既存の&#x200B;_**天気スキーマ**_ エクスペリエンスイベントスキーマを開きます。
 
 - フィールドグループを追加します。
 エクスペリエンスイベント – 提案インタラクション
@@ -161,4 +174,4 @@ child.querySelectorAll("a, button").forEach(el => {
 
 ## 解決策をテスト
 
-[既存のweb ページ &#x200B;](assets/weather-offers.html)に[更新されたJavaScript ファイル &#x200B;](assets/ai-model.js)を含めます
+[既存のweb ページ ](assets/weather-offers.html)に[更新されたJavaScript ファイル ](assets/ai-model.js)を含めます

@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 68e01fc1-d4b5-47b6-abb1-630406679cb7
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
-
 ---
-
 # ADOBE JOURNEY OPTIMIZERのAIを活用した意思決定
 
 Adobe Journey Optimizerが、AI （人工知能）とマシンラーニング（機械学習）を活用して、次善のアクション、ジャーニーの最適化、意思決定を実現し、パーソナライズされた顧客体験を提供するのにどのように役立つのかをご確認ください。
 
 <!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460265/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)

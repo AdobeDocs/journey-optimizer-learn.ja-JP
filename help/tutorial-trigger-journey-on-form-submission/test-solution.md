@@ -5,25 +5,35 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25T00:00:00Z
+last-substantial-update: 2025-12-25T00:00:00.000Z
 jira: KT-20014
 exl-id: 9b4a3e0c-d153-4a6b-a7de-b926bd669f6a
-source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '144'
 ht-degree: 1%
-
 ---
-
 # 解決策をテスト
 
 
 解決策をテスト
->[!VIDEO](https://video.tv.adobe.com/v/3478547?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## サンプルアセットのデプロイ
 
-Node.jsがインストールされていない場合は、ここからダウンロードして[&#x200B; インストールします](https://nodejs.org/)
+Node.jsがインストールされていない場合は、ここからダウンロードして[ インストールします](https://nodejs.org/)
 
 次のコマンドを実行してインストールを確認します。
 
