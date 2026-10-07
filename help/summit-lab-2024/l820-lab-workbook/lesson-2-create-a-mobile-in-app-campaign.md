@@ -49,22 +49,22 @@ ht-degree: 2%
    **パスワード：** Adobe2024!
    <br>
 ログインの詳細は、ラボマシンのデスクトップで確認できます。 Adobe IDとパスワードを使用します。
-   ![ デスクトップ ](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
+   ![&#x200B; デスクトップ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
 
-   ![ ログイン画面](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
+   ![&#x200B; ログイン画面](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
    <br>
 3. 次の2つの画面をスキップできます。
    <br>
    ![電話番号](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
    <br>
-   ![Personalization ポップアップ ](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
+   ![Personalization ポップアップ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
 
 >[!SUCCESS]
 >
 >Journey Optimizerにログインし、ホームページで次の操作を行う必要があります。
 >
->![AJO ホームページ ](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
+>![AJO ホームページ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
 
 
 ## 演習2.2 モバイルアプリ内キャンペーンの作成
@@ -75,7 +75,7 @@ ht-degree: 2%
 
 1. 「**[!UICONTROL キャンペーンを作成]**」をクリックします。
 
-   ![ キャンペーンの作成](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![&#x200B; キャンペーンの作成](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
 1. **[!UICONTROL キャンペーンを作成]** ページの&#x200B;**[!UICONTROL アクション]** セクションで、**[!UICONTROL アプリ内メッセージ]** チェックボックスを選択します。
 
@@ -85,23 +85,23 @@ ht-degree: 2%
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
 
-   ![ アプリサーフェス ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-1-create.png)
+   ![&#x200B; アプリサーフェス &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-1-create.png)
 
 >[!SUCCESS]
 >
 >これで、キャンペーンのプロパティに移動します。
 >
-> ![ キャンペーンのプロパティ ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
+> ![&#x200B; キャンペーンのプロパティ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
 
 ## 演習2.3 キャンペーンの設定
 
-### 2.3.1 [!UICONTROL  プロパティセクション ]
+### 2.3.1 [!UICONTROL &#x200B; プロパティセクション &#x200B;]
 
 キャンペーンに名前を付けます。 名前は必ず座席番号で始めてください。そうすれば、キャンペーンを簡単に再び見つけることができます。
 
 例えば、座席番号が99の場合：`99 - Welcome Campaign`。
 
-![ プロパティ セクション ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
+![&#x200B; プロパティ セクション &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
 
 ### 2.3.2 カスタムトリガールールの設定
 
@@ -110,19 +110,19 @@ ht-degree: 2%
    ![変更](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. ルールビルダーで、**[!UICONTROL Application Launch]**&#x200B;をクリックし、ドロップダウンから「*データをPlatform*に送信」を選択します。
-   ![ データプラットフォームに送信](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![&#x200B; データプラットフォームに送信](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. **[!UICONTROL 条件を追加]**&#x200B;をクリックして条件を追加します。
 
-   ![条件を追加ボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![条件を追加ボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. **[!UICONTROL 特性を選択]** ドロップダウンから、**[!UICONTROL XDM イベントタイプ]**&#x200B;を選択します。
 
-   ![XDM イベントタイプ ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM イベントタイプ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 1. 次のテキストフィールドに、覚えておくことができる&#x200B;*`<custom string value>`*&#x200B;を追加します。
 
-1. 値を保存するには、「[!UICONTROL 追加**] `<custom string value>`」**クリックします。
+1. 値を保存するには、「[!UICONTROL 追加&#x200B;**] `<custom string value>`」**&#x200B;クリックします。
 
    このカスタム文字列値は、後でメッセージを実行するために使用されます。
 
@@ -131,7 +131,7 @@ ht-degree: 2%
    > 
    > 例：`99exerciseTrigger`
 
-   ![ カスタムトリガー文字列値を追加](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
+   ![&#x200B; カスタムトリガー文字列値を追加](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
 
 1. 右上の「**[!UICONTROL 完了]**」をクリックします。
 
@@ -146,9 +146,9 @@ ht-degree: 2%
 
 **[!UICONTROL アクション]** セクションで、**[!UICONTROL コンテンツを編集]**&#x200B;をクリックします。
 
-![ コンテンツを編集ボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+![&#x200B; コンテンツを編集ボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
-[!UICONTROL  アプリ内メッセージ ] エディターが表示され、アプリ内メッセージのコンテンツを設定できます。
+[!UICONTROL &#x200B; アプリ内メッセージ &#x200B;] エディターが表示され、アプリ内メッセージのコンテンツを設定できます。
 
 #### 2.3.3.1 レイアウト
 
@@ -156,7 +156,7 @@ ht-degree: 2%
 
 例えば、**[!UICONTROL モーダル]**&#x200B;をクリックして、アプリ内メッセージをモーダルレイアウトにします。
 
-![ モーダルボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
+![&#x200B; モーダルボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
 
 #### 2.3.3.2 メッセージのオーサリングとキャンペーンの公開
 
@@ -164,16 +164,16 @@ ht-degree: 2%
    <br>
    値フィールドの外をクリックすると、画像が表示されます。
 
-   プレビューに表示される![ メディア ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
+   プレビューに表示される![&#x200B; メディア &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
 2. 次の&#x200B;**[!UICONTROL コンテンツ]** セクションでは、**[!UICONTROL ヘッダー]**&#x200B;と&#x200B;**[!UICONTROL 本文]**&#x200B;のメッセージに表示する独自のカスタムテキストを追加します。
 
-   ![ ヘッダーと本文](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
+   ![&#x200B; ヘッダーと本文](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
 
 3. その他のオプション：
    1. **ボタン：**
 
-      ![ ボタンのセクション ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-buttons.png)
+      ![&#x200B; ボタンのセクション &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-buttons.png)
 
       1. このセクションでは、「ボタンテキスト」フィールドを編集して、CTAボタンのテキストをカスタマイズできます。
 
@@ -198,11 +198,11 @@ ht-degree: 2%
       1. フォントカラー
       1. 揃え
 
-      ![詳細な書式設定オプション ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
+      ![詳細な書式設定オプション &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
 
    3. **設定タブ**
 
-      このタブに移動し、**[!UICONTROL プレビュー]** セクションで、**アプリプレビュー**を変更できます。
+      このタブに移動し、**[!UICONTROL プレビュー]** セクションで、**アプリプレビュー**&#x200B;を変更できます。
       <br>\
       ![設定タブ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
       <br>
@@ -222,9 +222,9 @@ ht-degree: 2%
 
    >[!SUCCESS]
    >
-   > これで、モバイルのアプリ内メッセージのオーサリングが完了しました。 これで、]**ページをアクティブ化するためにキャンペーン**[!UICONTROL  レビューに参加する必要があります。
+   > これで、モバイルのアプリ内メッセージのオーサリングが完了しました。 これで、**ページをアクティブ化するためにキャンペーン** レビューに参加する必要があります。
    >
-   >![ レビューしてアクティブ化](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
+   >![&#x200B; レビューしてアクティブ化](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
    >
    > ここでは、メッセージの完全な概要を確認できます。
    >
@@ -235,14 +235,14 @@ ht-degree: 2%
 
 5. キャンペーンのレビューが完了したら、「アクティブ化」ボタンを押してキャンペーンを公開します。
    <br>
-   ![ アクティブ化](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-2-activate.png)
+   ![&#x200B; アクティブ化](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-2-activate.png)
 
 
 >[!SUCCESS]
 >
 > キャンペーンダッシュボードが表示されます。 スクロールするか検索機能を使用して、キャンペーンを見つけます。 キャンペーンのステータスが&#x200B;**[!UICONTROL ライブ]** （～1分）に変更されると、キャンペーンは公開されました。
 >
-> ![公開されたキャンペーン ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-published-campaign.png)
+> ![公開されたキャンペーン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-published-campaign.png)
 >
 
 
@@ -254,7 +254,7 @@ ht-degree: 2%
 2. Fréscopa アプリを再度開きます。
 3. 次に、アプリの「演習」タブに移動します。
 
-   ![ エクササイズボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
+   ![&#x200B; エクササイズボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
 
 4. テキストフィールドに、Campaignで定義したカスタムトリガー値を入力します。 次に、「送信」を押します。
 
@@ -265,7 +265,7 @@ ht-degree: 2%
 >
 >「送信」をクリックすると、手動でトリガーが実行され、作成したアプリ内通知がポップアップ表示されます。
 >
->![ アプリ内メッセージ ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
+>![&#x200B; アプリ内メッセージ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
 >
 > *メッセージのトリガーに問題がある場合は、次の点を確認してください。*
 > 
@@ -283,14 +283,14 @@ ht-degree: 2%
 1. キャンペーンダッシュボードページでキャンペーンの名前をクリックして、作成したキャンペーンを開き、キャンペーンを開きます。 これにより、**[!UICONTROL レビューキャンペーン]** ページに戻ります。
 1. **[!UICONTROL 複製ボタン]**&#x200B;を押します。 複製されている新しいキャンペーンに名前を付ける新しいプロンプトが開きます。 覚えやすい新しい名前を追加するか、**[!DNL _copy]**&#x200B;がデフォルトで追加されるデフォルト名を使用します。
 
-   ![ キャンペーンを複製](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-duplicate-campaign.png)
+   ![&#x200B; キャンペーンを複製](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-duplicate-campaign.png)
 
 1. 「複製」ボタンを押すと、複製されたキャンペーンが作成され、キャンペーンダッシュボードに戻ります。
 1. キャンペーンが複製されたら、新しいキャンペーンを開きます。
 
 1. デバイスのプレビュー機能には、**[!UICONTROL Campaign レビュー]** ページまたは&#x200B;**[!UICONTROL Campaign オーサー]** ステップからアクセスできます。
 
-   デバイス上の![ プレビューボタン](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
+   デバイス上の![&#x200B; プレビューボタン](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
 
 1. 次に、デバイスに接続の画面から&#x200B;**[!UICONTROL 開始ボタン]**&#x200B;をクリックします。
@@ -300,7 +300,7 @@ ht-degree: 2%
 
 1. Fréscopa アプリを起動するように設定されているベース URLを入力してください：`dxdemo://`
 
-   ![ プレビューurl](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
+   ![&#x200B; プレビューurl](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
 
    <br>
 
@@ -309,11 +309,11 @@ ht-degree: 2%
    2. AJOに表示されているピンを入力し、ピンを入力すると右下に表示される「Assurance」ボタンをクリックします。
 
 
-   ![ ピンを入力](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
+   ![&#x200B; ピンを入力](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
    <br>
 1. このポップアップはコンピューターの画面に表示されます
 
-   ![ ポップアップ ](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
+   ![&#x200B; ポップアップ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
 
 1. 「完了」ボタンをクリックします。 これにより、ダイアログボックスが閉じ、デバイス上のプレビューに電話が接続されます。
 

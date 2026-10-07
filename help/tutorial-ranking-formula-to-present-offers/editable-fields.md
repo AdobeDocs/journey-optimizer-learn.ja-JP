@@ -31,22 +31,22 @@ ht-degree: 22%
 ---
 # AJOのコードベースのエクスペリエンスでの編集可能なフォームフィールドの使用
 
-多くのマーケティングジャーニーにおいて、特に規制が厳しい業界では、キャンペーン、地域、製品に応じて異なる免責条項を含めることが不可欠です。 マーケターや法務部門は、AJO Personalizationエディターで[編集可能なフィールド ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)を直接使用することで、開発者の関与や意思決定ロジックの変更なしに、免責事項のテキストを完全に制御することができます。
+多くのマーケティングジャーニーにおいて、特に規制が厳しい業界では、キャンペーン、地域、製品に応じて異なる免責条項を含めることが不可欠です。 マーケターや法務部門は、AJO Personalizationエディターで[編集可能なフィールド &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)を直接使用することで、開発者の関与や意思決定ロジックの変更なしに、免責事項のテキストを完全に制御することができます。
 
 これにより、オファーなどの決定済みのコンテンツを活用しながら、迅速な更新が可能になり、キャンペーン全体のコンプライアンスを確保できます。
 
 ## パーソナライゼーションエディターへの編集可能フィールドの挿入
 
 - 前の手順で作成したキャンペーンを開きます。
-- 「_**キャンペーンを変更**_」をクリックします
-- 「_**コンテンツ**_」タブに移動します
-- 「_**コードを編集**_」をクリックし、パーソナライゼーションエディターで次の構文を使用して、legalDisclaimerという編集可能フィールドをデフォルト値で挿入します
+- 「_&#x200B;**キャンペーンを変更**&#x200B;_」をクリックします
+- 「_&#x200B;**コンテンツ**&#x200B;_」タブに移動します
+- 「_&#x200B;**コードを編集**&#x200B;_」をクリックし、パーソナライゼーションエディターで次の構文を使用して、legalDisclaimerという編集可能フィールドをデフォルト値で挿入します
 
 - `{{#inline "legalDisclaimer" name="Legal Disclaimer"}} Legal Disclaimer will go here {{/inline}}`
 
 - 以下に示すように、テンプレートで`{{{legalDisclaimer}}}`変数を使用します
 
-- ![編集可能フィールド ](assets/editable-fields.png)
+- ![編集可能フィールド &#x200B;](assets/editable-fields.png)
 
 - マーケターは、パーソナライゼーションエディターを開くことなく、「免責事項」フィールドを簡単に編集できます。
 - ![editable-field-marketer](assets/editable-field-marketer-view.png)

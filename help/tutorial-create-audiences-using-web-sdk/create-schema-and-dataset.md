@@ -35,9 +35,9 @@ ht-degree: 0%
 * Adobe Experience Platformにログインします
 * データ管理/スキーマ/スキーマの作成
 
-* _Financial Advisors_&#x200B;という名前のXDM イベントベースのスキーマを作成します。 スキーマの作成に慣れていない場合は、この[ ドキュメント ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)に従ってください
+* _Financial Advisors_&#x200B;という名前のXDM イベントベースのスキーマを作成します。 スキーマの作成に慣れていない場合は、この[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)に従ってください
 
-* スキーマに次の構造を追加します。 PreferredFinancialInstrument要素には、ユーザーのStocks、Bonds、CDに対する好みが格納されます。 **__techmarketingdemos_**はテナント IDであり、環境によって異なります。
+* スキーマに次の構造を追加します。 PreferredFinancialInstrument要素には、ユーザーのStocks、Bonds、CDに対する好みが格納されます。 **__techmarketingdemos_**&#x200B;はテナント IDであり、環境によって異なります。
   ![xdm-schema](assets/xdm-schema.png)
 
 * PreferredFinancialInstrument要素には、次のように定義された列挙値があります
@@ -62,9 +62,9 @@ Adobe Experience Platformのデータストリームは、web サイトやアプ
 * データ収集/データストリームを選択し、「新規データストリーム」をクリックします。 データストリーム _Financial Advisors DataStream_&#x200B;に名前を付けます
 
 * 以下のスクリーンショットに示すように、次の詳細を入力します
-  ![ データストリーム ](assets/datastream.png)
+  ![&#x200B; データストリーム &#x200B;](assets/datastream.png)
 * 「保存」をクリックし、「マッピングを追加」をクリックして、図のようにAdobe Experience Platform サービスとイベントデータセットを追加します
-  ![ データストリームマッピング ](assets/datastream-service.png)
+  ![&#x200B; データストリームマッピング &#x200B;](assets/datastream-service.png)
 
 * 適切なイベントデータセット（以前に作成）を選択します。
 

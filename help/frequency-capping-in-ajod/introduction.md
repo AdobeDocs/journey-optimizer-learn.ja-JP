@@ -32,7 +32,7 @@ ht-degree: 7%
 
 このチュートリアルでは、Adobe Journey Optimizerのオファーに頻度キャッピングを適用して、ユーザーが同じオファーを表示する頻度を制御する方法を説明します。
 
-このチュートリアルでは、気象条件に基づくオファーのパーソナライズに関する[ チュートリアル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)に従って、AJO キャンペーンを既に設定していることを前提としています
+このチュートリアルでは、気象条件に基づくオファーのパーソナライズに関する[&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)に従って、AJO キャンペーンを既に設定していることを前提としています
 
 decisioning.propositionDisplayおよびdecisioning.propositionInteract イベントをAdobe Web SDKを通じてキャプチャし、それらをAdobe Experience Platform（AEP）のXDM スキーマにマッピングすることで、Adobe Journey Optimizerはオファーインプレッションとインタラクションを正確に追跡でき、頻度の上限を設定してユーザーにオファーを表示する頻度を制限することができます。
 

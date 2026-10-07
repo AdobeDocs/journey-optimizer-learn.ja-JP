@@ -53,7 +53,7 @@ JSON コンテンツタイプを持つコードベースエクスペリエンス
 ![default-code](assets/handlebar-code-default.png)
 このループは、ポリシーによって返されたすべての決定項目を繰り返し処理し、各オファーからofferText フィールドを挿入します。 このデフォルトの構造は、HTML コンテンツタイプで適切に機能しますが、JSON コンテンツを使用する場合、特に結果がプログラムで解析されている場合は、有効なJSON配列またはオブジェクトを生成するために再構築が必要になる場合があります。
 
-![再構築コード ](assets/restructured-code.png)
+![再構築コード &#x200B;](assets/restructured-code.png)
 
 このHandlebars テンプレートは、オファーオブジェクトのJSON配列を出力するように設計されており、各オブジェクトには1つのofferText フィールドが含まれています。 指定された決定ポリシーによって返された決定項目をループし、各offerTextをJSON オブジェクト形式でラップします。
 
@@ -81,4 +81,4 @@ AJOからの応答には、`propositions[].items[].data.content[]`構造下に�
 まずは、サンプルのHTML ファイルとJavaScript ファイルをダウンロードして、JSON ベースのオファーを使用し、web ページ上で動的にレンダリングする方法を確認してください。
 
 [JavaScript コード](assets/weather-related-offers-script-multiple-json.js)
-[HTML ファイル ](assets/multiple-json.html)
+[HTML ファイル &#x200B;](assets/multiple-json.html)

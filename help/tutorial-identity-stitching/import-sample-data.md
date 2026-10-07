@@ -37,11 +37,11 @@ IDの合成を開始するには、サンプル CRM プロファイルデータ�
 
 * 顧客/ID/IDの作成に移動します。
 * 下のスクリーンショットに示すように、「個々のクロスデバイス ID」を選択し、表示名とID記号を指定します。
-  ![ カスタム名前空間](assets/custom-namespace.png)
+  ![&#x200B; カスタム名前空間](assets/custom-namespace.png)
 
 ## プロファイル対応スキーマの作成
 
-**_FinWiseProfileSchema_**という名前の個々のプロファイルスキーマを作成します。 annualIncome、email、firstName、lastName、loyaltyStatusなどのフィールドを含めます。
+**_FinWiseProfileSchema_**&#x200B;という名前の個々のプロファイルスキーマを作成します。 annualIncome、email、firstName、lastName、loyaltyStatusなどのフィールドを含めます。
 図のように、ID フィールド **_crmid_**&#x200B;を追加します。 crmid フィールドをIDおよびプライマリとしてマークします。
 
 
@@ -64,10 +64,10 @@ IDの合成を開始するには、サンプル CRM プロファイルデータ�
 * 前の手順で作成した&#x200B;**_FinWiseProfileSchema_**&#x200B;に基づいて、**_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;というデータセットを作成します。データセットがプロファイルに対して有効になっていることを確認してください。
 
 * 接続/ソース/ローカルシステムに移動します
-* ローカルファイルのアップロードで「**_データを追加_**」を選択します。 ターゲットデータセットとして&#x200B;_**FinWiseCustomerDataSetWithAnnualIncome**_を選択してください。
+* ローカルファイルのアップロードで「**_データを追加_**」を選択します。 ターゲットデータセットとして&#x200B;_&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_を選択してください。
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
-* 次の画面に移動します。 [csv ファイル ](assets/finwise_profiles.csv)をアップロードし、マッピングを確認します
-  ![ マッピング ](assets/mappings.png)
+* 次の画面に移動します。 [csv ファイル &#x200B;](assets/finwise_profiles.csv)をアップロードし、マッピングを確認します
+  ![&#x200B; マッピング &#x200B;](assets/mappings.png)
 
 * 「完了」をクリックして、データ取り込みプロセスを開始します
 

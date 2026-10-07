@@ -55,7 +55,7 @@ ht-degree: 5%
 
 1. 次のURLを入力します。**https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *メッセージが表示されるweb ページです。*
 
-   ![ アプリ内URL](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![&#x200B; アプリ内URL](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
 
@@ -63,7 +63,7 @@ ht-degree: 5%
 
 このページでは、キャンペーンのプロパティと、アプリ内メッセージをトリガーしてweb ページに表示するイベントを定義します。 その他の設定はすべてデフォルトのままにします。 この演習では、特定のオーディエンスを定義する必要はありません。
 
-### 3.2.1 [!UICONTROL  プロパティセクション ]
+### 3.2.1 [!UICONTROL &#x200B; プロパティセクション &#x200B;]
 
 1. **プロパティ** セクションで、キャンペーンに一意の&#x200B;**名前**&#x200B;を指定します。
 
@@ -73,7 +73,7 @@ ht-degree: 5%
    > 
    > 例えば、座席番号が99の場合： 
    >
-   > ![ プロパティ名](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![&#x200B; プロパティ名](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 カスタムトリガールールの設定
@@ -85,15 +85,15 @@ ht-degree: 5%
    ![変更](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. ルールビルダーで、**[!UICONTROL Application Launch]**&#x200B;をクリックし、ドロップダウンから「*データをPlatform*に送信」を選択します。
-   ![トリガーイベントドロップダウン ](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![トリガーイベントドロップダウン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. **[!UICONTROL +条件を追加]**&#x200B;をクリックして条件を追加します。
 
-   ![条件を追加ボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![条件を追加ボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. **[!UICONTROL 特性を選択]** ドロップダウンから、**[!UICONTROL XDM イベントタイプ]**&#x200B;を選択します。
 
-   ![XDM イベントタイプ ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM イベントタイプ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
 1. 次のテキストフィールドに、覚えておくことができる&#x200B;*`<custom string value>`*&#x200B;を追加し、**[!UICONTROL Add]** `<custom string value>`を押して値を保存します。
@@ -106,7 +106,7 @@ ht-degree: 5%
    > 例：`99web`
    > 
 
-   ![ カスタムトリガー文字列値を追加](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![&#x200B; カスタムトリガー文字列値を追加](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
 1. 右上の「**[!UICONTROL 完了]**」ボタンを押します。
 
@@ -114,7 +114,7 @@ ht-degree: 5%
 >
 >これで、カスタムトリガーイベントを使用してweb アプリ内メッセージを定義しました。
 >
->カスタムトリガーが定義された![Web キャンペーン ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>カスタムトリガーが定義された![Web キャンペーン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3 アプリ内メッセージのコンテンツの編集
@@ -123,7 +123,7 @@ ht-degree: 5%
 
 1. 「**アクション**」セクションの「**コンテンツを編集**」ボタンをクリックして、オーサリング構成にアクセスします。
 
-   ![ コンテンツを編集ボタン ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+   ![&#x200B; コンテンツを編集ボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. オーサリングプロセスは、上記のモバイルのアプリ内演習で完了したプロセスと同じです。 時間をかけて、独自のタイトル、本文、メディアコンテンツでメッセージを自由に編集しましょう。
 
@@ -141,13 +141,13 @@ ht-degree: 5%
 
 1. FréscopaのWeb サイトに移動し、ブラウザーの&#x200B;**演習** ページに移動します。
 
-   ![Web演習リンク ](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![Web演習リンク &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. 必ずweb ページを更新してください。
 
 1. キャンペーンで定義した一意の文字列値を入力します。
 
-   ![演習ページ ](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
+   ![演習ページ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. 「**[!UICONTROL 送信]**」をクリックします。
 

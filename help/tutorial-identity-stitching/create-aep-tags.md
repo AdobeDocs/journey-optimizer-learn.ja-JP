@@ -33,7 +33,7 @@ ht-degree: 10%
 
 Adobe Experience Platform Tagsは、CRMIDをAdobe Experience Platform（AEP）に送信するために使用されます。これは、ブラウザーから直接ID データを送信するための柔軟なイベント駆動型メカニズムを提供するからです。 ユーザーログイン後にCRMIDを送信すると、AEPは匿名のECIDを既知のCRM プロファイルにリンクさせ、正確なID合成を可能にします。 この連携は、Adobe Journey Optimizer（AJO）で統合された顧客プロファイルを構築し、オーディエンスを選定して、リアルタイムでパーソナライズされた体験を提供するための基盤となります。
 
-_**FinWise**_&#x200B;という名前のExperience Platform Tags プロパティが作成されます。 Tags プロパティに次の拡張機能が追加されました
+_&#x200B;**FinWise**&#x200B;_&#x200B;という名前のExperience Platform Tags プロパティが作成されます。 Tags プロパティに次の拡張機能が追加されました
 
 ![tags-extensions](assets/tags-extensions.png)
 
@@ -56,7 +56,7 @@ Experience Cloud ID サービスは、デバッグ目的でタグプロパティ
 次のイベントとアクションを含むLoginEventというルールを作成します
 
 イベント
-![ イベント ](assets/data-pushed-event1.png)
+![&#x200B; イベント &#x200B;](assets/data-pushed-event1.png)
 
 変数アクションを更新
 ![update-variable](assets/update-variable1.png)
