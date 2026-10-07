@@ -15,20 +15,29 @@ autotag-review: '2026-05-18T17:28:58.574Z'
 TQID: 'https://experienceleague.adobe.com/g23bJq77YO-MHj3cjN-ap4l-KmgdYuCwUZSa0cVV8yU'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+subfeature_v2:
+  - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
+    internal-label: Business rules
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
+    internal-label: Customer engagement
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: '86'
 ht-degree: 100%
-
 ---
-
 # クワイエットアワーの設定と適用
 
 Adobe Journey Optimizer のクワイエットアワー機能を使用して、指定した時間帯にメッセージが顧客に送信されないようにする方法について説明します。これにより、マーケターは不適切な時間にコミュニケーションが送信されることを回避し、顧客エンゲージメントを向上させることができます。

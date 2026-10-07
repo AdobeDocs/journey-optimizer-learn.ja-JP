@@ -33,10 +33,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 15d0be3f2fb94737746f3f7fb2d668838c124d36
+source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
 workflow-type: tm+mt
-source-wordcount: '1658'
-ht-degree: 42%
+source-wordcount: '1946'
+ht-degree: 43%
 ---
 
 # Journey Optimizer Loyaltyの導入方法
@@ -110,18 +110,93 @@ CARDS
 
 ## ロイヤルティの設定
 
-この節では、課題の作成を開始する前に必要な1回限りの設定について説明します。
+このセクションでは、ロイヤルティデータの取り込み、パフォーマンスレポート、報酬プロバイダーなど、課題の作成を開始する前に必要な1回限りの設定について説明します。
 
 
 <!--
 CARDS
 
+* ./set-up-loyalty/prepare-loyalty-data-structures.md
+    {description = Learn how to create XDM schemas and profile-enabled datasets in Adobe Experience Platform to receive loyalty member profile data and loyalty event data.}
+* ./set-up-loyalty/connect-and-map-loyalty-data.md
+    {description = Learn how to configure an HTTP API source connection and dataflows in Adobe Experience Platform, then map loyalty profile and event fields to your datasets.}
+* ./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md
+    {description = Learn how to test loyalty profile and event data ingestion, verify datasets and unified customer profiles, and configure Loyalty Performance settings.}
 * ./set-up-loyalty/set-up-a-loyalty-reward-provider.md
   {description = Learn how to set up a reward provider, create reward definitions, and configure reward payloads so Adobe Journey Optimizer can issue loyalty rewards through your external rewards system.}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Prepare loyalty data structures">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" title="ロイヤルティデータ構造の準備" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504120/?format=jpeg" alt="ロイヤルティデータ構造の準備"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" target="_blank" rel="referrer" title="ロイヤルティデータ構造の準備"> ロイヤルティデータ構造の準備</a>
+                    </p>
+                    <p class="is-size-6">Adobe Experience PlatformでXDM スキーマとプロファイル対応データセットを作成して、ロイヤルティメンバーのプロファイルデータとロイヤルティイベントデータを受け取る方法を説明します。</p>
+                </div>
+                <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Connect and map loyalty data">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" title="ロイヤルティデータの接続とマッピング" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504118/?format=jpeg" alt="ロイヤルティデータの接続とマッピング"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" target="_blank" rel="referrer" title="ロイヤルティデータの接続とマッピング"> ロイヤルティデータの接続とマッピング </a>
+                    </p>
+                    <p class="is-size-6">Adobe Experience PlatformでHTTP API ソース接続とデータフローを設定し、ロイヤルティプロファイルとイベントフィールドをデータセットにマッピングする方法について説明します。</p>
+                </div>
+                <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Verify loyalty data and configure performance reporting">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" title="ロイヤルティデータの検証とパフォーマンスレポートの設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504119/?format=jpeg" alt="ロイヤルティデータの検証とパフォーマンスレポートの設定"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" title="ロイヤルティデータの検証とパフォーマンスレポートの設定"> ロイヤルティデータの確認とパフォーマンスレポートの設定</a>
+                    </p>
+                    <p class="is-size-6">ロイヤルティプロファイルとイベントデータの取り込みをテストする方法、データセットと統合顧客プロファイルを検証する方法、ロイヤルティパフォーマンス設定を設定する方法について説明します。</p>
+                </div>
+                <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up a loyalty reward provider">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">

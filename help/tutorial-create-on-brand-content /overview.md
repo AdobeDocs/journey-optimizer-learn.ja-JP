@@ -6,14 +6,21 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 jira: KT-20379
-last-substantial-update: 2026-07-15T00:00:00Z
-source-git-commit: 13b8db0a6de25fbc564d9b0374c4f10774996537
+last-substantial-update: 2026-07-15T00:00:00.000Z
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '638'
 ht-degree: 0%
-
 ---
-
 
 # ADOBE JOURNEY OPTIMIZERのAIを利用したブランドに即したコンテンツ制作
 

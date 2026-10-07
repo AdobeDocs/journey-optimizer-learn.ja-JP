@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 46ccbbf7-3b20-496e-a0b8-073f5550a8a8
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
-
 ---
-
 # AJO ルックアップを使用したPersonalizationの強化
 
 Adobe Journey Optimizerで、レコードベースのデータセットを利用して、顧客プロファイルを肥大化させることなく、メッセージをパーソナライズする方法を解説します。

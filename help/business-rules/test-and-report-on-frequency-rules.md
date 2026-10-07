@@ -15,21 +15,28 @@ autotag-review: '2026-05-18T17:32:12.150Z'
 TQID: 'https://experienceleague.adobe.com/85VExXKbqJlN6QzDwI1speZRF73-JmOxFEAbcuNe7UE'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
 subfeature_v2:
   - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
+    internal-label: Business rules
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: 54
+source-wordcount: '54'
 ht-degree: 100%
-
 ---
-
 # メッセージ頻度ルールの設定
 
 頻度ルールをテストおよびレポートする方法について説明します。 メッセージに継承する頻度ルールを決定する方法について説明します。

@@ -1,30 +1,43 @@
 ---
-title: Adobe Experience Platformへの CRMID の送信
-description: Adobe Experience Platform タグを作成して、ブラウザーから受信した CRMID をAdobe Experience Platformに送信します。
+title: Adobe Experience PlatformへのCRMIDの送信
+description: Adobe Experience Platform タグを作成して、ブラウザーから受信したCRMIDをAdobe Experience Platformに送信する
 feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '240'
 ht-degree: 10%
-
 ---
+# Adobe Experience PlatformへのCRMIDの送信
 
-# Adobe Experience Platformへの CRMID の送信
+Adobe Experience Platform Tagsは、CRMIDをAdobe Experience Platform（AEP）に送信するために使用されます。これは、ブラウザーから直接ID データを送信するための柔軟なイベント駆動型メカニズムを提供するからです。 ユーザーログイン後にCRMIDを送信すると、AEPは匿名のECIDを既知のCRM プロファイルにリンクさせ、正確なID合成を可能にします。 この連携は、Adobe Journey Optimizer（AJO）で統合された顧客プロファイルを構築し、オーディエンスを選定して、リアルタイムでパーソナライズされた体験を提供するための基盤となります。
 
-Adobe Experience Platform タグは、ブラウザーから直接 ID データを送信するための柔軟なイベント駆動型のメカニズムを提供するので、CRMID をAdobe Experience Platform（AEP）に送信するために使用されます。 ユーザーログイン後に CRMID を送信すると、AEPで匿名 ECID を既知の CRM プロファイルにリンクできるので、正確な ID のステッチが可能になります。 この連携は、統合された顧客プロファイルを作成し、オーディエンスを絞り込み、パーソナライズされたエクスペリエンスをAdobe Journey Optimizer（AJO）でリアルタイムに提供するための基盤となります。
-
-_&#x200B;**FinWise**&#x200B;_ というExperience Platform タグプロパティが作成されます。 タグプロパティに追加された拡張機能は次のとおりです
+_&#x200B;**FinWise**&#x200B;_&#x200B;という名前のExperience Platform Tags プロパティが作成されます。 Tags プロパティに次の拡張機能が追加されました
 
 ![tags-extensions](assets/tags-extensions.png)
 
-前の手順で作成した Financial Advisors DataStream を使用して、AEP Web SDK拡張機能を設定します。
+前の手順で作成したFinancial Advisors DataStreamを使用して、AEP Web SDK拡張機能を設定します。
 Experience Cloud ID サービスは、デバッグ目的でタグプロパティに追加されるオプションの拡張機能です。
 
 ## タグデータ要素
@@ -33,23 +46,23 @@ Experience Cloud ID サービスは、デバッグ目的でタグプロパティ
 
 | データ要素 | 拡張機能 | データ要素タイプ | カスタム設定 |
 |--------------|-----------------------------------|---------------------------|----------------------------------------|
-| crmid | Adobe Client Data Layer | データレイヤーの計算済み状態 | user.crmid |
+| crmid | Adobe Client Data Layer | データレイヤーの計算状態 | user.crmid |
 | ECID | Experience Cloud ID サービス | ECID |                                        |
 | ID | Adobe Experience Platform Web SDK | ID マップ | ![画像](assets/identity-settings.png) |
 | XDMVariable | Adobe Experience Platform Web SDK | Variable | ![画像](assets/xdmvariable.png) |
 
 ## ルールを作成
 
-次のイベントとアクションを持つ LoginEvent というルールを作成します
+次のイベントとアクションを含むLoginEventというルールを作成します
 
 イベント
 ![&#x200B; イベント &#x200B;](assets/data-pushed-event1.png)
 
-変数を更新アクション
+変数アクションを更新
 ![update-variable](assets/update-variable1.png)
 イベント送信アクション
 ![send-event](assets/send-event1.png)
 
 ## 保存してビルド
 
-変更を保存し、ライブラリを作成およびビルドします。
+変更を保存し、ライブラリを作成および構築します。

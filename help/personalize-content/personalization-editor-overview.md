@@ -6,10 +6,22 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 90
-last-substantial-update: 2024-10-07
+last-substantial-update: 2024-10-07T00:00:00.000Z
 jira: KT-16295
 exl-id: 9f16031f-4383-411f-b565-239f0165161f
-source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: e27fbada-1278-56f5-ac8f-e77b392cb15b
+    internal-label: Personalization
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 100%

@@ -17,9 +17,13 @@ product_v2:
 feature_v2:
   - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
     internal-label: Communication channels
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+    internal-label: Content management
 subfeature_v2:
   - id: f88eedcc-cf3e-46b8-9e94-0293589325f3
     internal-label: Code based channel
+  - id: bc543dba-f0db-4234-b5da-877a5c1664e2
+    internal-label: Content cards
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -30,7 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%

@@ -5,15 +5,32 @@ jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: fda7be7c-b81e-42c0-95a9-616e5b893c03
+    internal-label: Build expressions
+subfeature_v2:
+  - id: a9db6739-b0ee-4ac1-bf1b-d880e21c6a00
+    internal-label: Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
-
 ---
-
 # 夏物コレクションのお知らせの作成 - 課題
 
 | 課題 | 夏物コレクションのお知らせの作成 |
@@ -84,7 +101,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >[!ENDTABS]
 
 
-### 手順 2：ジャーニーを作成 - 夏物コレクションのお知らせ
+### 手順 2：ジャーニーの作成 - 夏物コレクションのお知らせ
 
 >[!BEGINTABS]
 
@@ -109,17 +126,17 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
       * メール本文には、提供された HTML ファイル `SeasonalCollectionEmail.html` を使用します。
    1. 2 日待ってから、よりターゲットを絞った内容を含むフォローアップメールメッセージを送信します。
       * 男性の顧客には、**Luma メンズコレクション**&#x200B;メールが届きます。
-         * メッセージタイトル：*Luma メンズコレクション*
-         * 件名：*（受信者の名）様、メンズの新しいアスレチックギアを探索してください。*
-         * メール本文：メール本文の `MensCollectionEmail.html`。
+        * メッセージタイトル：*Luma メンズコレクション*
+        * 件名：*（受信者の名）様、メンズの新しいアスレチックギアを探索してください。*
+        * メール本文：メール本文の `MensCollectionEmail.html`。
       * 女性の顧客には、**Luma レディースコレクション**&#x200B;メールが届きます。
-         * メッセージタイトル：*Luma レディースコレクション*
-         * 件名：*（受信者の名）様、Luma のレディースコレクションを探索してください。*
-         * メール本文： `WomensCollectionEmail.html`
+        * メッセージタイトル：*Luma レディースコレクション*
+        * 件名：*（受信者の名）様、Luma のレディースコレクションを探索してください。*
+        * メール本文： `WomensCollectionEmail.html`
       * その他の顧客には、**Luma - 20％オフコレクション**&#x200B;メールが届きます。
-         * メッセージタイトル：*Luma - 20％オフコレクション*
-         * 件名：*（受信者の名）様、20％オフのセールをお楽しみください。*
-         * メール本文：`20OOffCollectionEmail.html`
+        * メッセージタイトル：*Luma - 20％オフコレクション*
+        * 件名：*（受信者の名）様、20％オフのセールをお楽しみください。*
+        * メール本文：`20OOffCollectionEmail.html`
    1. 上記のターゲットメールを送信した後、メールが開封されるまで 2 日間待ちます
    1. ターゲットメールが 2 日以内に開かれない場合は、最後のリターゲティング試行として **Luma - 20％オフコレクションのメール**&#x200B;を送信します
 
@@ -207,9 +224,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 * Luma - 新作シーズンコレクションのお知らせ
 * 使用したテストプロファイルに応じて、次のいずれかのメールが届きます。
-   * Leora：Luma レディースコレクション
-   * Stanleigh：Luma メンズコレクション
-   * Louise：Luma - 20％割引コレクション
+  * Leora：Luma レディースコレクション
+  * Stanleigh：Luma メンズコレクション
+  * Louise：Luma - 20％割引コレクション
 * 2 通目のメールを開いていない場合：Luma - 20％割引コレクション
 
 >[!TAB 作業内容を確認する]

@@ -7,15 +7,34 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19871
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18T00:00:00.000Z
 exl-id: fb06f781-3370-4825-a815-14ef33ad2322
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a9f73820-6899-47c2-a597-3fec28ab756a
+    internal-label: Reporting
+  - id: 9bb0ff1a-29d5-5edf-a6a2-8ec9c30e28c8
+    internal-label: Privacy
+  - id: aeebb91a-f216-4d5f-8da1-3a7e6f696ed0
+    internal-label: Data management activity
+subfeature_v2:
+  - id: f2c0f677-2df6-47f0-a531-ae6a5aa47f37
+    internal-label: Governance
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 81%
-
+source-wordcount: '424'
+ht-degree: 87%
 ---
-
 # パフォーマンスを測定し、最適化する
 
 レポートにアクセスし、パフォーマンスを分析し、戦略を改善して成果を向上させます。
@@ -51,7 +70,7 @@ CARDS
                     <p class="is-size-6">Journey Optimizer のレポートについて説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -74,7 +93,7 @@ CARDS
                     <p class="is-size-6">チャネルレベルでレポートにアクセス、ナビゲートおよび書き出す方法について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -97,7 +116,7 @@ CARDS
                     <p class="is-size-6">Journey Optimizer レポートは Customer Journey Analytics 機能と完全に統合されるようになりました。これにより、両方のプラットフォームをまたいでレポートが標準化され、データの一貫性と信頼性が向上します。 Journey Optimizer と Customer Journey Analytics のシームレスな統合により、パフォーマンス指標をより明確に把握でき、より十分な情報に基づいた意思決定が可能になります。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>

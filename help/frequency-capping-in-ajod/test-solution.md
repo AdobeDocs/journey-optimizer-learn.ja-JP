@@ -1,26 +1,39 @@
 ---
-title: ソリューションのテスト
-description: シンプルな web ページを作成して、オファーのインプレッションとクリックイベントを取り込みます。
+title: 解決策をテスト
+description: シンプルなweb ページを作成して、オファーのインプレッションとクリックイベントをキャプチャします。
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-07-18T00:00:00Z
+last-substantial-update: 2025-07-18T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18526
 exl-id: 6b6c66d3-218d-4f5b-adb0-a2eca05989ab
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 1%
-
+source-wordcount: '241'
+ht-degree: 2%
 ---
-
-# ソリューションのテスト
+# 解決策をテスト
 
 ## サンプルアセットのデプロイ
 
-Node.js がインストールされていない場合は、ダウンロードして [&#x200B; ここからインストールしてください &#x200B;](https://nodejs.org/)
+Node.jsがインストールされていない場合は、ここからダウンロードして[&#x200B; インストールします](https://nodejs.org/)
 
 次のコマンドを実行してインストールを確認します。
 
@@ -46,21 +59,21 @@ Node.js がインストールされていない場合は、ダウンロードし
 
 ## アセットファイルをコピー
 
-* [server.zip](assets/server.zip) を解凍し、`frequency-capping` フォルダーに配置します。
-* [public.zip](assets/public.zip) の内容を「frequency-capping」フォルダーに抽出します。
+* [server.zip](assets/server.zip)の内容を解凍して、`frequency-capping` フォルダーに配置します。
+* [public.zip](assets/public.zip)のコンテンツを「frequency-capping」フォルダーに抽出します
 
-## Javascript ファイルのサーフェス URL を更新します
+## JavaScript ファイルのサーフェス URLを更新します
 
-`frequency-capping.js` にある `public\scripts` を開き、キャンペーンで使用されているチャネル設定と一致するように surfaces プロパティを更新します。
+`public\scripts`にある`frequency-capping.js`を開き、キャンペーンで使用されているチャネル設定と一致するようにSURFACES プロパティを更新します
 
-## Node js サーバーを起動します。
+## 開始ノード js サーバー
 
-フォルダーに移動 `c:\frequency-capping` ます。 `node server.js` コマンドを実行して、ポート 3000 で node js サーバーを起動します。
+`c:\frequency-capping` フォルダーに移動します。 `node server.js` コマンドを実行して、ポート 3000でノード js サーバーを開始します
 
 
-## Adobe Experience Platform タグプロパティの更新
+## Adobe Experience Platform Tags プロパティの更新
 
-テキストエディターの `frequency-capping.html` フォルダーにある `public` ファイルを開き、スクリプトタグを、このチュートリアルの前の手順で作成したAdobe Experience Platform タグプロパティのスクリプトタグに置き換えます。 必ずファイルを保存してください。
+テキストエディターで`public` フォルダーにある`frequency-capping.html` ファイルを開き、このチュートリアルの前の手順で作成したAdobe Experience Platform タグプロパティのスクリプトタグにスクリプトタグを置き換えます。 必ずファイルを保存してください
 
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
@@ -68,13 +81,13 @@ Node.js がインストールされていない場合は、ダウンロードし
 
 ## オファーの操作
 
-* お気に入りのブラウザーで [web ページ &#x200B;](http://localhost:3000) を開きます。
-* オファーとのインタラクション
+* お気に入りのブラウザーで[web ページ &#x200B;](http://localhost:3000)を開きます。
+* オファーの操作
 * ページの更新
-* フリークエンシーキャッピングルールに応じて、新しいオファーが表示されます
+* 頻度の上限ルールに応じて、新しいオファーが表示されます
 
-## レポートを表示
+## レポートを読む
 
-* Journey Optimizerにログインします
-* ジャーニー管理/ キャンペーンに移動します。
-* キャンペーンをクリックして、レポートメニューから適切なレポートを選択します。
+* Journey Optimizerへのログイン
+* ジャーニー管理/ キャンペーンに移動します
+* キャンペーンをクリックし、レポートメニューから適切なレポートを選択します。

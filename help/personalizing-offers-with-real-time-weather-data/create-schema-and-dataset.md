@@ -1,64 +1,77 @@
 ---
-title: AEPでの XDM スキーマ、データセット、データストリームの設定
-description: XDM スキーマ、データセット、データストリームの作成
+title: AEPでのXDM スキーマ、データセットおよびデータストリームの設定
+description: XDM スキーマ、データセットおよびデータストリームの作成
 feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 1c7fe9e7-ab72-4d7b-960a-512d0e25808b
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '336'
 ht-degree: 0%
-
 ---
-
-# AEPでの XDM スキーマ、データセット、データストリームの設定
+# AEPでのXDM スキーマ、データセットおよびデータストリームの設定
 
 ## XDM スキーマの作成
 
-Web ページでAdobe Experience Platform Web SDK（Alloy.js）を使用するには、AEP タグを、XDM イベントスキーマにマッピングされるデータストリームに関連付ける必要があります。 Web SDK（alloy.sendEvent）は、データをエクスペリエンスイベントとしてAEPに送信します。これは、XDM ExperienceEvent クラスに基づく XDM スキーマに準拠する必要があります。
+Web ページでAdobe Experience Platform Web SDK（Alloy.js）を使用するには、XDM イベントスキーマにマッピングされたデータストリームにAEP タグを関連付ける必要があります。 Web SDK（alloy.sendEvent）は、データをExperience EventsとしてAEPに送信します。これは、XDM ExperienceEvent クラスに基づくXDM スキーマに準拠する必要があります。
 
 XDM スキーマを作成するには
 
 - Adobe Experience Platformにログインします
-- _&#x200B;**データ管理/スキーマ/スキーマを作成**&#x200B;_ に移動します。
+- _&#x200B;**データ管理/ スキーマ / スキーマの作成**&#x200B;_&#x200B;に移動します
 
-- **_Weather-Schema_** という XDM イベントベースのスキーマを作成します。 スキーマの作成に詳しくない場合は、この [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/tutorials/create-schema-ui) に従ってください。
+- **_Weather-Schema_**&#x200B;という名前のXDM イベントベースのスキーマを作成します。 スキーマの作成に慣れていない場合は、この[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/tutorials/create-schema-ui)に従ってください
 
 
 - スキーマに、適切なデータタイプを持つ次のフィールドがあることを確認します。
 
 - ![weather-schema](assets/weather-schema.png)
 
-- フィールドグループ _&#x200B;**Web 詳細**&#x200B;_ をスキーマに追加します。 このフィールドグループは、レポート目的で必要です。
+- フィールドグループ _&#x200B;**Web詳細**&#x200B;_&#x200B;をスキーマに追加します。 このフィールドグループは、レポートの目的で必要です。
 
 ## スキーマに基づくデータセットの作成
 
-**Adobe Experience Platform（AEP）のデータセット）**、定義済みの XDM スキーマに基づいてデータを取り込み、保存およびアクティブ化するために使用される構造化ストレージコンテナです。
+Adobe Experience Platform （AEP） **の** データセットは、定義されたXDM スキーマに基づいてデータを取り込み、保存、アクティブ化するために使用される構造化ストレージコンテナです。
 
-- _&#x200B;**データ管理/データセット/データセットを作成**&#x200B;_ に移動します。
-- 前の手順で作成した XDM スキーマ（**_Weather-Schema_**）に基づいて、_&#x200B;**Weather-schema-dataset**&#x200B;_ というデータセットを作成します。
+- _&#x200B;**データ管理/ データセット / データセットの作成**&#x200B;_&#x200B;に移動します
+- 前の手順で作成したXDM スキーマ（_&#x200B;**Weather-Schema**&#x200B;_）に基づいて、**_Weather-schema-dataset_**&#x200B;というデータセットを作成します。
 
 
 ## データストリームの作成
 
-Adobe Experience Platformのデータストリームは、web サイトやアプリをAdobe サービスに接続する安全なパイプライン（またはハイウェイ）のようなもので、データの流入と、パーソナライズされたコンテンツの戻りを可能にします。
+Adobe Experience Platformのデータストリームは、web サイトやアプリとAdobe サービスを結ぶ安全なパイプライン（高速道路）のようなもので、データを流し込み、パーソナライズされたコンテンツを元に戻すことができます。
 
-- _&#x200B;**データ収集/データストリーム**&#x200B;_ に移動し、「新しいデータストリーム」をクリックします。 データストリームに「**weather-related-datastream**」という名前を付けます。
+- _&#x200B;**データ収集/ データストリーム**&#x200B;_&#x200B;に移動し、「新しいデータストリーム」をクリックします。 データストリーム **weather-related-datastream**&#x200B;に名前を付けます
 
 
 - 以下のスクリーンショットに示すように、次の詳細を入力します
-  ![datastream](assets/datastream.png)
+  ![&#x200B; データストリーム &#x200B;](assets/datastream.png)
 - 「保存」をクリックし、「マッピングを追加」をクリックして、適切なチェックボックスを選択したAdobe Experience Platform サービスとイベントデータセットを追加します
-  ![datastream-mapping](assets/datastream-service.png)
+  ![&#x200B; データストリームマッピング &#x200B;](assets/datastream-service.png)
 
 - データストリームを保存します。
 
 
 >[!NOTE]
 >
->新しく作成されたデータセットは、ランキング式またはPersonalization エディターで選択できるようになるまで最大 24 時間かかる場合があることに注意してください。
+>新しく作成されたデータセットは、ランキング式またはPersonalization エディターで選択できるようになるまでに最大24時間かかる場合があることに注意してください。

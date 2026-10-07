@@ -1,6 +1,6 @@
 ---
-title: レッスン 4：プッシュキャンペーンの作成
-description: プロファイルデータを確認し、Journey Optimizerでオーディエンスにプッシュ通知を作成して送信する方法を学びます。
+title: レッスン 4 - プッシュキャンペーンの作成
+description: プロファイルデータを確認し、Journey Optimizerでオーディエンスにプッシュ通知を作成して送信する方法を説明します。
 feature: Push
 role: User
 level: Intermediate
@@ -9,39 +9,49 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 2%
-
+source-wordcount: '825'
+ht-degree: 4%
 ---
+# レッスン 4 - プッシュキャンペーンの作成
 
-# レッスン 4：プッシュキャンペーンの作成
+前の演習では、あなたはコーヒー愛好家、フレスコーパの顧客でした。 web サイトとFréscopa アプリを通じて企業と接触し、多くのトランザクションメッセージを受け取りました。 これらのメッセージは、ユーザーがweb サイトまたはアプリケーションとインタラクションすることによってトリガーされます。
 
-前の演習では、あなたはコーヒー愛好家、Fréscopa の顧客でした。 あなたは彼らのウェブサイトと Fréscopa アプリを通じてブランドとやり取りし、多くのトランザクションメッセージを受信しました。 これらのメッセージは、ユーザーの web サイトやアプリケーションとのやり取りを通じてトリガーされます。
-
-この演習では、マーケターに帽子をかぶせ、Frésopa のマーケティングキャンペーンを実装します。このキャンペーンは、プッシュチャネルを利用して Fréscopa アプリのユーザーをターゲットにします。 プッシュ通知は、アプリを使用していない場合でもアプリのユーザーに情報を提供し続けるためだけでなく、ユーザーをアプリに再び関わらせるためにも使用されます。 目的は、10% の割引を提供することで、お客様にハウスブレンドを購入するように促すことです。
+この演習では、マーケターに帽子をかぶせて、Frésopaのマーケティングキャンペーンを実装します。このキャンペーンでは、プッシュチャネルを利用してFréscopa アプリユーザーをターゲットにします。 プッシュ通知は、アプリを使用していない場合でも、アプリのユーザーに情報を提供するためだけでなく、アプリで再エンゲージするためにも使用されます。 その目的は、10%の割引を提供することで、顧客にハウスブレンドを購入するように促すことです。
 
 ## 学習内容
 
-* プッシュキャンペーンの作成方法を理解する。
-* プッシュメッセージのデザイン方法を理解する。
+* プッシュキャンペーンの作成方法。
+* プッシュメッセージのデザイン方法。
 
 <br>
 
-## 演習 4.1 - プッシュキャンペーンの作成
+## 演習4.1 - プッシュキャンペーンの作成
 
-この演習では、プッシュキャンペーンを作成し、プッシュ通知をデザインおよびカスタマイズして、プッシュ通知を独自のデバイスに送信します。
+この演習では、プッシュ キャンペーンを作成し、プッシュ通知をデザインおよびカスタマイズして、プッシュ通知を自分のデバイスに送信します。
 
-1. Journey Optimizerの左側のナビゲーションの「**[!UICONTROL ジャーニー管理]**」セクションで、「**キャンペーン**」を選択します。
+1. Journey Optimizerの左側のナビゲーションの「**[!UICONTROL キャンペーン管理]**」セクションで、「**ジャーニー**」を選択します。
 
-1. **[!UICONTROL キャンペーンを作成]** をクリックします。
+1. 「**[!UICONTROL キャンペーンを作成]**」をクリックします。
 
-   ![&#x200B; キャンペーンを作成 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![&#x200B; キャンペーンの作成](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
-1. **[!UICONTROL キャンペーンを作成]** ページの「**[!UICONTROL アクション]**」セクションで、「**[!UICONTROL プッシュ通知]**」チェックボックスを選択します。
+1. **[!UICONTROL キャンペーンを作成]** ページの&#x200B;**[!UICONTROL アクション]** セクションで、**[!UICONTROL プッシュ通知]** チェックボックスを選択します。
 
-1. **[!UICONTROL アプリサーフェス]** ドロップダウンから「*[!DNL Frecopa-Push]*」を選択します。
+1. **[!UICONTROL アプリサーフェス]** ドロップダウンから、*[!DNL Frecopa-Push]*&#x200B;を選択します。
 
 1. 「**[!UICONTROL 作成]**」をクリックして、プッシュキャンペーンを作成します。
 
@@ -49,135 +59,135 @@ ht-degree: 2%
 
 >[!SUCCESS]
 >
->これで、キャンペーンのプロパティページが表示されます。
-> ![キャンペーンプロパティ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+>これで、キャンペーンのプロパティページに移動します。
+> ![キャンペーンのプロパティ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
-## 演習 4.2 - キャンペーンの設定
+## 演習4.2 - キャンペーンの設定
 
-このページでは、キャンペーンのプロパティ、オーディエンス、アクションおよびスケジュールを設定します。
+このページでは、キャンペーンのプロパティ、オーディエンス、アクション、スケジュールを設定します。
 
 ### 4.2.1 [!UICONTROL &#x200B; プロパティセクション &#x200B;]
 
-キャンペーンに名前を付けます。 キャンペーンを検索する際にキャンペーンを簡単に見つけられるように、名前はシート番号で始めてください。
+キャンペーンに名前を付けます。 名前は必ず座席番号で始めましょう。検索するとキャンペーンが簡単に見つかります。
 
-例えば、シート番号が 99 の場合：`99 - 10% Discount Campaign` です。
+例えば、座席番号が99の場合：`99 - 10% Discount Campaign`。
 
 ### 4.2.2 **[!UICONTROL オーディエンスセクション]**
 
-1. 「オーディエンス」セクションで、「**[!UICONTROL オーディエンスを選択]**」をクリックします。
+1. オーディエンスセクションで、**[!UICONTROL オーディエンスを選択]**&#x200B;をクリックします。
 
    ![&#x200B; オーディエンスセクション &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
-1. **[!UICONTROL オーディエンスを選択]** 画面で、オーディエンスを検索します。
+1. **[!UICONTROL オーディエンスを選択]**&#x200B;画面で、オーディエンスを検索します。
 
-   **Lab - Seat`your seat number`**
+   **Lab - シート`your seat number`**
 
-1. オーディエンスを選択し、「**[!UICONTROL 保存]**」をクリックします。
+1. オーディエンスを選択し、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
-   ![&#x200B; オーディエンスの選択 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
+   ![&#x200B; オーディエンスの選択](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
-### 4.2.3 プッシュ通知の内容を編集する
+### 4.2.3 プッシュ通知のコンテンツの編集
 
-この演習では、プッシュ通知をデザインしカスタマイズします。
+この演習では、プッシュ通知をデザインしてカスタマイズします。
 
-1. 「**[!UICONTROL アクション]**」セクションで、「**[!UICONTROL コンテンツを編集 &#x200B;] ボタンをクリックします**。
+1. 「**[!UICONTROL アクション]**」セクションで、「**[!UICONTROL コンテンツを編集]」ボタン**&#x200B;をクリックします。
 
    ![&#x200B; コンテンツを編集ボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
-1. 次の画面で、使用しているモバイルデバイスに応じて、「[!DNL iOS™]」または「[!DNL Android™]」タブを選択して、コンテンツを設定します。
+1. 次の画面で、お持ちのモバイルデバイスに応じて、「[!DNL iOS™]」または「[!DNL Android™]」タブを選択してコンテンツを設定します。
 
 >[!BEGINTABS]
 
 >[!TAB iOS]
 
-![&#x200B; 「iOS」タブ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
+![iOS タブ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB Android]
 
-![&#x200B; 「Android」タブ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
+![Android タブ &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
-#### 4.2.3.1[!UICONTROL &#x200B; メッセージを作成 &#x200B;] セクション
+#### 4.2.3.1 [!UICONTROL &#x200B; メッセージの作成] セクション
 
-1. **メッセージの作成：** 任意のテキストを自由に追加できます。 次のような例を使用できます。
+1. **メッセージを作成：**&#x200B;必要なテキストを自由に追加できます。 ここでは、例をいくつか紹介します。
 
    * タイトル：`Get 10% off today!`
    * 本文：`Today only! Get 10% off on your House Blend coffee purchase!`
 
-     ![&#x200B; メッセージを作成 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
+     ![&#x200B; メッセージを作成](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
 
-#### 4.2.3.2 メッセージのクリック時の動作を **製品ページを開く** に変更します
+#### 4.2.3.2 メッセージのクリック時の動作を&#x200B;**製品ページを開く**&#x200B;に変更します
 
-1. 「**[!UICONTROL クリック時の動作]**」セクションで、「**[!UICONTROL 本文のクリック動作]**」ドロップダウンから「**[!UICONTROL ディープリンク]**」を選択します。
+1. **[!UICONTROL クリック時の動作]** セクションで、**[!UICONTROL ボディクリックの動作]** ドロップダウンから&#x200B;**[!UICONTROL ディープリンク]**&#x200B;を選択します。
 
-1. 次の URL をコピーして **URL フィールド** に貼り付けます。
+1. 次のURLをコピーして、**URL フィールド**&#x200B;に貼り付けます。
 
    `dxdemo://exoticVibes`
 
    ![&#x200B; ディープリンク &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
 
-#### 4.2.3.3 メッセージへの画像の追加
+#### 4.2.3.3 メッセージに画像を追加
 
-1. 「**[!UICONTROL メディアを追加]**」セクションで、「**[!UICONTROL メディアを追加]**」をクリックします。
+1. **[!UICONTROL メディアを追加]** セクションで、**[!UICONTROL メディアを追加]**&#x200B;をクリックします。
 
-   ![&#x200B; メディアを追加ボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+   ![&#x200B; メディアボタンを追加](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
-1. **[!UICONTROL Assetsを選択]** 画面の左側のナビゲーションで **Fréscopa フォルダーを開き** そのフォルダーから画像を選択します。
+1. **[!UICONTROL Assetsを選択]**&#x200B;画面で、左側のナビゲーションで&#x200B;**Fréscopa フォルダー**&#x200B;を開き、そのフォルダーから画像を選択します。
 
    例：`HouseBlend.png`
 
-1. 画像をクリックし、**[!UICONTROL 選択 &#x200B;] ボタン** をクリックして、プッシュ通知に画像を追加します。
+1. 画像をクリックし、**[!UICONTROL 選択] ボタン**&#x200B;をクリックして、画像をプッシュ通知に追加します。
 
-   ![&#x200B; 画像を選択 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
+   ![画像を選択](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
-   > 1. プレビュー画面で、「**[!UICONTROL ビューを展開]**」をクリックします。
-   > 1. メッセージのプレビュー。
+   > 1. プレビュー画面で、**[!UICONTROL ビューを展開]**&#x200B;をクリックします。
+   > 1. メッセージをプレビューします。
    > <br>
    >
-   > ![&#x200B; ビューを展開 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![&#x200B; ビューを展開](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 ### ボーナス演習
 
-演習のこの部分を完了しても時間がある場合は、ボーナス演習を試してください。
+あなたが演習のこの部分を完了し、まだ時間がある場合は、ボーナスの演習を試してください：
 
 +++ ボーナス演習
 
-#### 受信者の名を追加して、送信するメッセージをパーソナライズします
+#### 受信者の名前を追加して、送信するメッセージをパーソナライズします
 
-1. **本文** フィールドの横にある **[!UICONTROL パーソナライゼーションダイアログ]** をクリックします。
+1. **[!UICONTROL 本文]** フィールドの横にある&#x200B;**パーソナライゼーションダイアログ**&#x200B;をクリックします。
 
    ![&#x200B; パーソナライゼーションボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
-1. **パーソナライゼーションダイアログ** 画面で、テキストの名を追加する位置にカーソルを置きます。
+1. **パーソナライゼーションダイアログ**&#x200B;画面で、テキストの最初の名前を追加する場所にカーソルを置きます。
 
-1. 左側のナビゲーションで **プロファイル属性** が選択されていることを確認します。
+1. 左側のナビゲーションで&#x200B;**プロファイル属性**&#x200B;が選択されていることを確認します。
 
-   ![&#x200B; プロファイル属性 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   ![&#x200B; プロファイル属性](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
-1. **検索フィールド** で、`first name` を検索します。
+1. **検索フィールド**&#x200B;で、`first name`を検索します。
 
-1. **名（プロファイル属性/ユーザー/姓名）の横にある**+**をクリックして** パーソナライゼーションフィールドをテキストに追加します。
+1. **名（プロファイル属性>人物> フルネーム）**&#x200B;の横にある&#x200B;**+**&#x200B;をクリックして、パーソナライゼーションフィールドをテキストに追加します。
 
-   ![&#x200B; 名を検索 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   ![名を検索](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
    >[!SUCCESS]
    >
-   > テキストは次のようになります。
+   > 次のようなテキストを作成します。
    > 
    >![Personalization トークン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
 
-1. **[!UICONTROL 保存]** をクリックして、パーソナライゼーションを保存します。
+1. 「**[!UICONTROL 保存]**」をクリックして、パーソナライゼーションを保存します。
 
 
    >[!SUCCESS]
    >
-   > 1. プレビュー画面で、「**[!UICONTROL ビューを展開]**」をクリックします。
-   > 1. メッセージのプレビュー。
+   > 1. プレビュー画面で、**[!UICONTROL ビューを展開]**&#x200B;をクリックします。
+   > 1. メッセージをプレビューします。
    > 
-   > ![&#x200B; ビューを展開 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![&#x200B; ビューを展開](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 +++
 
@@ -185,33 +195,33 @@ ht-degree: 2%
 
 メッセージの内容に満足している場合は、メッセージをアクティベートできます。
 
-1. **[!UICONTROL アクティブ化するレビュー]** をクリックします。
+1. 「**[!UICONTROL レビュー」をクリックして]**&#x200B;をアクティブ化します。
 
-   ![&#x200B; レビューしてアクティブ化ボタン &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![&#x200B; ボタンのレビューとアクティベート &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
-1. **[!UICONTROL アクティブ化するレビュー]** 画面で、「**[!UICONTROL アクティブ化]**」をクリックします。
+1. **[!UICONTROL アクティブ化のレビュー]**&#x200B;画面で、**[!UICONTROL アクティブ化]**&#x200B;をクリックします。
 
-   ![&#x200B; アクティブ化するレビュー画面 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
+   ![画面をアクティベートするためのレビュー](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
-> **キャンペーンの概要ページ** で、キャンペーンを見つけて、ステータスを確認します。
+> **キャンペーンの概要ページ**&#x200B;で、キャンペーンを検索し、ステータスを確認します。
 >
 > ![&#x200B; キャンペーンステータス &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
-> ステータスが「処理中」から「ライブ」に変わります。この処理には数分かかる場合があります。
-> ステータスが完了に変更されたら、次の操作を行います。
+> ステータスが処理からライブに変わり、完了します。これには数分かかる場合があります。
+> ステータスが「完了」に変更されたら、次の操作を行います。
 >
-> ![&#x200B; プッシュ結果 &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> ![&#x200B; プッシュ結果](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
 ## その他のリソース
 
-**ビデオガイド：**
+**ビデオの操作方法：**
 
 * [プッシュキャンペーンの設定と送信](/help/channels/create-a-push-campaign.md)
 
 **製品ドキュメント：**
 
-* [&#x200B; プッシュ通知の概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/get-started-push)
+* [プッシュ通知の基本を学ぶ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/get-started-push)
 * [プッシュ通知の作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/create-push)
 * [プッシュ通知のデザイン](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/design-push)
-* [&#x200B; プッシュ通知を確認して送信する &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/send-push)
+* [プッシュ通知の確認と送信](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/send-push)

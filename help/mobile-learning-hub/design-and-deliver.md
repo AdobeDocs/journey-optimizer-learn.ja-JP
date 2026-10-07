@@ -6,12 +6,23 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19870
-last-substantial-update: 2025-12-18
+last-substantial-update: 2025-12-18T00:00:00.000Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '3622'
-ht-degree: 67%
+ht-degree: 68%
 ---
 # デザインと配信
 
@@ -288,7 +299,7 @@ iOS ライブアクティビティを Adobe Journey Optimizer と連携して設
 
 #### Android Live Updates
 
-Adobe Journey OptimizerでAndroidのライブアップデートを作成して配信し、アクティビティの進捗に合わせてユーザーに情報を提供するリアルタイムで永続的な顧客体験を実現する方法をご紹介します。
+Adobe Journey Optimizer で Android ライブアップデートを作成して配信する方法について説明します。これにより、アクティビティの進行状況に合わせてユーザーに情報を提供するリアルタイムで永続的なカスタマーエクスペリエンスを実現できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503647/?captions=jpn&learn=on&enablevpops)
 

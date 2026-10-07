@@ -7,17 +7,40 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: e30b0a1a-b594-47b8-af94-1e3a2be6df11
+    internal-label: Get started
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '1552'
 ht-degree: 100%
-
 ---
-
 
 # Journey Optimizer チュートリアル
 
-Journey Optimizer を使用すると、会社は一貫性がありコンテキストに沿う、パーソナライズされた顧客体験を作成できます。 最初の連絡窓口からサイトを離れる瞬間まで、ブランドとのジャーニー全体を通じて顧客をシームレスにガイドし、すべてのタッチポイントでつながりのある満足のいくエクスペリエンスを確保します。
+Journey Optimizer を使用すると、会社は一貫性がありコンテキストに沿う、パーソナライズされた顧客体験を作成できます。 最初の連絡窓口からサイトを離れる瞬間まで、ブランドとのジャーニー全体を通じて顧客をシームレスにガイドし、すべての顧客接点でつながりのある満足のいくエクスペリエンスを確保します。
 
 このユーザーガイドには、Adobe Journey Optimizer の特長や機能に関するビデオとチュートリアルが含まれています。 [Journey Optimizer の課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)に移動して、学習した内容を実践してみましょう。
 
@@ -58,7 +81,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -100,7 +123,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -123,7 +146,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -146,7 +169,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -184,7 +207,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -207,7 +230,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -226,11 +249,11 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" title="ルールビルダーを使用したオーディエンスの作成">ルールビルダーを使用してオーディエンスを作成する</a>
                     </p>
-                    <p class="is-size-6">Journey Optimizer（AJO）がルールを使用してオーディエンスを生成する方法を理解し、属性、イベント、既存のオーディエンスを使用してオーディエンスを作成する方法について説明します。</p>
+                    <p class="is-size-6">Journey Optimizer（AJO）がルールを使用してオーディエンスを生成する方法を理解し、属性、イベント、既存のオーディエンスを使用してオーディエンスを作成する方法を学びます。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -258,13 +281,13 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="コンテンツ生成用 AI アシスタントを使用してコンテンツを生成する">コンテンツ生成用 AI アシスタントを使用してコンテンツを生成する</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="コンテンツ生成用 AI アシスタントを使用したコンテンツの作成">コンテンツ生成用 AI アシスタントを使用してコンテンツを生成する</a>
                     </p>
                     <p class="is-size-6">コンテンツ生成用 AI アシスタントを使用して、テキストと画像の両方にプロアクティブなコンテンツバリエーション提案を生成する方法について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -272,8 +295,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="決定に関するエンドツーエンドのチュートリアル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1782495516587" alt="決定に関するエンドツーエンドのチュートリアル"
+                    <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="Decisioning のエンドツーエンドのチュートリアル" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1782495516587" alt="Decisioning のエンドツーエンドのチュートリアル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -281,13 +304,13 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="決定に関するエンドツーエンドのチュートリアル">決定に関するエンドツーエンドのチュートリアル</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="決定に関するエンドツーエンドのチュートリアル">Decisioning のエンドツーエンドのチュートリアル</a>
                     </p>
-                    <p class="is-size-6">Journey Optimizer の決定に関するエンドツーエンドのチュートリアル</p>
+                    <p class="is-size-6">Journey Optimizer の Decisioning に関するエンドツーエンドのチュートリアル</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -310,7 +333,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>

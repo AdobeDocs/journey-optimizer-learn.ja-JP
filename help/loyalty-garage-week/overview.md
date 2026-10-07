@@ -6,13 +6,23 @@ role: User
 hide: true
 index: false
 exl-id: 1c8da00a-45c0-44fb-8e4e-e17a3978b4fe
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 2%
-
+source-wordcount: '621'
+ht-degree: 33%
 ---
-
 # ロイヤルティガレージウィーク – 概要
 
 <!--

@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 63994b8e-6e0d-4e56-81fd-a080af6545bd
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizerのコンテンツカードの概要
 
 Adobe Journey Optimizerのコンテンツカード機能を利用して、モバイルアプリ内でパーソナライズされた魅力的なコンテンツを直接配信する方法をご確認ください。

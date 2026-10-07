@@ -7,15 +7,36 @@ level: Beginner, Intermediate, Experienced
 jira: KT-10168
 thumbnail: 342103.jpeg
 exl-id: e01d8609-18ab-4efb-83cc-24015cee0583
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 6eb7d9ad-3477-58b3-957a-080ef7738a30
+    internal-label: SMS
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '26'
 ht-degree: 100%
-
 ---
-
 # デベロッパー向けモバイル機能
 
 Adobe Journey Optimizer が提供するデベロッパー向けのモバイル機能について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/344617?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344617?captions=jpn&quality=12&learn=on){transcript=true}

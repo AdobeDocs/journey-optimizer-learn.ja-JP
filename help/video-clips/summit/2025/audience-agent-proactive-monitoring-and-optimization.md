@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 3a9d2c74-0fb8-47cb-8eb1-c7b70bae74cb
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
-
 ---
-
 # Audience Agent：プロアクティブなモニタリングと最適化
 
 Adobe Journey OptimizerのAudience Agentが、オーディエンスの健全性を先見的にモニタリングして問題を特定し、エンゲージメントを強化するための実用的なソリューションを提案する方法をご覧ください。

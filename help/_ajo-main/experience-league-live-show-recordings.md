@@ -4,13 +4,20 @@ description: Experience League ライブ番組は、Experience League チーム�
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '2456'
 ht-degree: 100%
-
 ---
-
 # Experience League ライブ番組
 
 Experience League ライブ番組は、デジタルエクスペリエンスプロダクトイネーブルメントチームが制作したライブストリーミング番組です。 アドビ製品のエキスパートとつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
@@ -51,7 +58,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -74,7 +81,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -125,7 +132,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" title="実験の次世代：エージェント型 AI がよりスマートなテストと成長を促進する方法（2025年10月30日（PT））" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" title="実験の次世代：エージェント型 AI がよりスマートなテストと成長を促進する仕組み（2025年10月30日（PT））" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476426/?format=jpeg&nocache=1775836545563" alt="実験の次世代：エージェント型 AI がよりスマートなテストと成長を促進する方法（2025年10月30日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -136,11 +143,11 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" target="_blank" rel="referrer" title="実験の次世代：エージェント型 AI がよりスマートなテストと成長を促進する方法（2025年10月30日（PT））">実験の次世代：エージェント型 AI がよりスマートなテストと成長を促進する方法（2025年10月30日（PT））</a>
                     </p>
-                    <p class="is-size-6">この Experience League ライブセッションでは、実験、製品、成長チームがキャンペーンやカスタマージャーニーをテスト、学習、最適化する方法を変革することを目的に構築された新しい AI ファーストアプリケーションである、Adobe Journey Optimizer 実験アクセラレーターを公開します。</p>
+                    <p class="is-size-6">この Experience League ライブセッションでは、実験、製品、成長チームがキャンペーンやカスタマージャーニーをテスト、学習、最適化する方法を変革することを目的に構築された新しい AI ファーストアプリケーションである、Adobe Journey Optimizer Experimentation Accelerator を公開します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -163,7 +170,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -186,7 +193,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -209,7 +216,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -232,7 +239,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -255,7 +262,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -278,7 +285,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -301,7 +308,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -324,7 +331,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -347,7 +354,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -370,7 +377,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -393,7 +400,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
-                
+                </a>
             </div>
         </div>
     </div>

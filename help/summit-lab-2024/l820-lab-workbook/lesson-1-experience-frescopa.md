@@ -10,13 +10,28 @@ recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
 exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '601'
 ht-degree: 1%
-
 ---
-
 # レッスン 1 - Experience Fréscopa
 
 このレッスンでは、次のレッスンでマーケターとしてモバイルエクスペリエンスを設定する前に、消費者としての企業とのインタラクションを体験します。
@@ -132,10 +147,10 @@ web サイト：
 
 * ログイン。
 * アプリを探索して、モバイルのアプリ内エクスペリエンスをトリガーします。
-   * コーヒー調査を完了します。
-   * コーヒーのサブスクリプションに登録します。
-   * ショッピングカートに商品を追加します。
-   * 買い物かごをチェック。
+  * コーヒー調査を完了します。
+  * コーヒーのサブスクリプションに登録します。
+  * ショッピングカートに商品を追加します。
+  * 買い物かごをチェック。
 
 これらのアクティビティごとにバッジを受け取ります。
 

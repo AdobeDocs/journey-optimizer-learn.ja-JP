@@ -5,13 +5,23 @@ feature: Overview
 role: User
 index: false
 exl-id: 726b5620-50a9-4ecf-8e62-a10358cc772b
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '6132'
 ht-degree: 0%
-
 ---
-
 # AIを活用したロイヤルティオーケストレーション
 
 ## RFMからReal-Time Personalizationへ
@@ -127,7 +137,7 @@ AIを活用したオーケストレーションを導入する準備ができて
   実装する1つまたは2つの予測モデル（解約リスク、商品レコメンデーションなど）を選択します。 ロイヤルティプラットフォームに組み込まれたツールや、データサイエンスに精通していないシンプルなAI サービスを使用しましょう。 A/B テストを実施し、パフォーマンスの向上を実証。 基本的な解約モデルを用いた試験的な施策でも、具体的なROIを示して賛同を得ることができます。
 
 - **AIを活用したロイヤルティプラットフォームへの投資：**\
-  現在のシステムがリアルタイムの意思決定に対応していない場合は、アップグレードを検討しましょう。 Einstein AI、Adobe Experience Cloud（Journey Optimizer）、Oracle CrowdTwist、Epsilon PeopleCloud Loyalty[[62]](https://www.epsilon.com/us/insights/blog/boost-loyalty-efficiency-with-ai) [[63]](https://www.epsilon.com/us/insights/blog/boost-loyalty-efficiency-with-ai)を使用したSalesforce Loyalty Managementなどのエンタープライズソリューション、またはジャーニーオーケストレーション用のBrazeやmParticleなどのモジュラーツールを検討します。 新しいベンダーが強力なAIと自動化機能を備えていることを確認し、トリガー、セグメンテーション、パーソナライズをすぐに処理できるようにします。
+  現在のシステムがリアルタイムの意思決定に対応していない場合は、アップグレードを検討しましょう。 Einstein AI、Adobe Experience Cloud （Journey Optimizer）、Oracle CrowdTwist、Epsilon PeopleCloud Loyalty[[62]](https://www.epsilon.com/us/insights/blog/boost-loyalty-efficiency-with-ai) [[63]](https://www.epsilon.com/us/insights/blog/boost-loyalty-efficiency-with-ai)を使用したSalesforce Loyalty Managementなどのエンタープライズソリューション、またはジャーニーオーケストレーション用のBrazeやmParticleなどのモジュラーツールを検討します。 新しいベンダーが強力なAIと自動化機能を備えていることを確認し、トリガー、セグメンテーション、パーソナライズをすぐに処理できるようにします。
 
 - **早期にAI ガバナンスを確立：**\
   部門横断的なチーム（マーケティング、分析、法務、運用）を編成して、AI ガイドラインを設定します[[64]](https://www.linkedin.com/pulse/from-reactive-predictive-how-ai-accelerating-loyalty-guinand-ph-d--jbhhe)。 連絡先の頻度、パーソナライゼーションの境界に関するポリシーの決定（例：顧客を惹きつける可能性のある機密性の高いパーソナライゼーションの回避）、バイスチェック（AIによるオファーが公平で包括的なものであることを確認する）を行います。 ガバナンスを確立することで、後で拡張がスムーズになります。

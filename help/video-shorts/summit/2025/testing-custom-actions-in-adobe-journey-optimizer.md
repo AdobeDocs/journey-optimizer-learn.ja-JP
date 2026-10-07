@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: ff22ce7a-55fd-4262-b2a0-e7e25479716b
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizerでのカスタムアクションのテスト
 
 カスタマージャーニー全体を実行することなく、Adobe Journey Optimizerで直接カスタムアクションをテストし、時間と労力を節約する方法をご確認ください。

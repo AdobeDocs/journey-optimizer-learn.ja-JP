@@ -14,19 +14,26 @@ autotag-review: '2026-05-14T18:06:39.097Z'
 TQID: 'https://experienceleague.adobe.com/RhakXFIXtr2jOrXUJAMMaYumlMUkbeYdjIOAX-CDp74'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: b856530c-d60b-42d8-a19d-df2dfd7fe62a
+    internal-label: Access control
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+subfeature_v2:
+  - id: d712382d-29ef-487a-93a7-cbebdd2ef24a
+    internal-label: Access management
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: 34
+source-wordcount: '34'
 ht-degree: 100%
-
 ---
-
 # アクセス管理
 
 製品プロファイルと権限を管理する方法と、ユーザーを追加および管理する方法について説明します。

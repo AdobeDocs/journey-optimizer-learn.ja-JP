@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 013da55a-924f-4593-8d6f-fdc1295bf09b
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizerの新しいチャネルと統合機能
 
 WhatsApp、iOS Live Activities、RCS メッセージなど、Adobe Journey Optimizerの最新のチャネルイノベーションと統合機能を確認して、顧客エンゲージメントを強化できます。
