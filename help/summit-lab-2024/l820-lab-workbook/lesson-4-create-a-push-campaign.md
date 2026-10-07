@@ -221,7 +221,7 @@ ht-degree: 4%
 
 **製品ドキュメント：**
 
-* [プッシュ通知の基本を学ぶ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
-* [プッシュ通知の作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
-* [プッシュ通知のデザイン](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
-* [プッシュ通知の確認と送信](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
+* [プッシュ通知の基本を学ぶ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/get-started-push)
+* [プッシュ通知の作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/create-push)
+* [プッシュ通知のデザイン](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/design-push)
+* [プッシュ通知の確認と送信](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/push/send-push)
