@@ -35,4 +35,4 @@ ht-degree: 100%
 
 データソースとは何かを理解し、Experience Platform と外部データソースを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416779?captions=jpn&quality=12&learn=on){transcript=true}

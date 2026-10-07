@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobeが、プラットフォームを活用したソリューションを利用して、テストを拡大するための主要な障壁を特定し、対処した方法を紹介します。
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460371/?captions=jpn&learn=on&enablevpops=true)

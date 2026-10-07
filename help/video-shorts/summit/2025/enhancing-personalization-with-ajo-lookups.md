@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizerで、レコードベースのデータセットを利用して、顧客プロファイルを肥大化させることなく、メッセージをパーソナライズする方法を解説します。
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460332/?captions=jpn&learn=on&enablevpops=true)

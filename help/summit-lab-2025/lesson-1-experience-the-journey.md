@@ -33,4 +33,4 @@ ht-degree: 0%
 
 このレッスンでは、新しいSecurFinancial顧客のオンボーディングジャーニーを体験します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457972/?captions=jpn&learn=on&enablevpops)

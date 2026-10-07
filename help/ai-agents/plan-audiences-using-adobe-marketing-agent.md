@@ -44,7 +44,7 @@ Adobe Marketing Agent for Microsoft 365 Copilot で、Microsoft Teams 内で直�
 
 Adobe Marketing Agent の実際のライブデモを参照するには、以下の組み込みのビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491171/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491184/?captions=jpn&learn=on&enablevpops)
 
 開始方法の詳細については、[Adobe Marketing Agent for Microsoft 365 Copilotの使用を開始する](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}をご覧ください。
 マーケターがAdobe Marketing Agent for Microsoft 365 Copilotを使用して、キャンペーンの計画、パフォーマンスのレビュー、実行中のジャーニーのモニタリングをどのように行っているかを確認するには、[Adobe Marketing Agent for Microsoft 365 Copilotを使用したマーケティングワークフロー](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}をご覧ください。

@@ -34,4 +34,4 @@ ht-degree: 100%
 
 ライブジャーニーのコンテンツを更新する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439604/?captions=jpn&learn=on)

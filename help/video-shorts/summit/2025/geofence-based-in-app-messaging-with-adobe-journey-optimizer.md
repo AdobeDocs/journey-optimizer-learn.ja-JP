@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey OptimizerとPlaces サービスの連携を利用して、位置情報にもとづくアプリ内メッセージを作成し、顧客エンゲージメントをパーソナライズする方法を説明します。
 
 <!-- 72_S522_3442522_189_geofencebased-inapp-messaging-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458203/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460409/?captions=jpn&learn=on&enablevpops=true)

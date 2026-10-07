@@ -30,6 +30,6 @@ ht-degree: 100%
 
 パーソナライズ機能のヘルパー関数を使用してパーソナライゼーション値を変換する方法と、ヘルパー関数の様々なユースケースを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416781?captions=jpn&quality=12&learn=on){transcript=true}
 
 [ヘルパー関数](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=ja)について詳しくは、製品ガイドを参照してください。

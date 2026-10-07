@@ -48,4 +48,4 @@ Adobe Journey Optimizer で WhatsApp をネイティブチャネルとして統�
 
 世界で一番人気のメッセージプラットフォームの 1 つを通じてリーチとエンゲージメントの拡張を検討しているマーケターに最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470245/?captions=jpn&learn=on&enablevpops)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizerのコンテンツカード機能を利用して、パーソナライズされた邪魔にならないコンテンツをアプリ内で直接配信し、エンゲージメントとコンバージョンを促進する方法をご確認ください。
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460082/?captions=jpn&learn=on&enablevpops=true)

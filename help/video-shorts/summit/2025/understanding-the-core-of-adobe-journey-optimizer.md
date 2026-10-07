@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizer（AJO）が、リアルタイムの顧客データを活用して、チャネルをまたいで一貫性のある適切な顧客体験を提供する方法をご確認ください。
 
 <!-- 62_S522_3442522_82_understanding-the-core-of-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458249/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460487/?captions=jpn&learn=on&enablevpops=true)

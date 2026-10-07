@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizerが、AI （人工知能）とマシンラーニング（機械学習）を活用して、次善のアクション、ジャーニーの最適化、意思決定を実現し、パーソナライズされた顧客体験を提供するのにどのように役立つのかをご確認ください。
 
 <!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460265/?captions=jpn&learn=on&enablevpops=true)
