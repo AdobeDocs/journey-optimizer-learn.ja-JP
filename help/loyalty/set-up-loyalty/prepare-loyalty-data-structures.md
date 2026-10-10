@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Adobe Experience Platformでロイヤルティメンバーとイベントデータを受信するために必要なXDM スキーマとプロファイル対応データセットを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504120/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504139/?captions=jpn&learn=on)

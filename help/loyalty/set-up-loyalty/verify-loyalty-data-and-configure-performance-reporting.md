@@ -34,4 +34,4 @@ ht-degree: 0%
 
 サンプルのロイヤルティプロファイルとイベントデータをAdobe Experience Platformに送信し、データセットと統合顧客プロファイルに表示されることを確認してから、データセットを選択し、ロイヤルティパフォーマンス設定でKPIを優先する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504119/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504121/?captions=jpn&learn=on)
