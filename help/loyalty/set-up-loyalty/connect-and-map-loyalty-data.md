@@ -34,4 +34,4 @@ ht-degree: 0%
 
 HTTP API接続とデータフローを作成し、受信ロイヤルティプロファイルとイベントフィールドをデータセットにマッピングする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504130/?captions=jpn&learn=on)
