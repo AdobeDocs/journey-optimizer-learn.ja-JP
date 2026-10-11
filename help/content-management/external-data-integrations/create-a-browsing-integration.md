@@ -41,6 +41,6 @@ ht-degree: 0%
 
 外部APIのブラウジング統合を設定し、それを標準の統合にリンクし、マーケターが値を手動で入力せずにAJO エディターでアイテムを検索、参照、選択できるようにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504296/?captions=jpn&learn=on&enablevpops)
 
 詳しくは、[統合ドキュメントの参照](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)を参照してください。

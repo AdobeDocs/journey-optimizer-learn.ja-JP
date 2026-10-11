@@ -41,6 +41,6 @@ ht-degree: 19%
 
 Adobe Journey Optimizer チャネルオーサリングで外部データとコンテンツを使用するための標準統合の作成方法について説明します。 これは、アウトバウンドチャネルでのパーソナライゼーションを強化し、エンゲージメントを向上させるのに役立ちます。 詳しくは、以下のビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484119/?captions=jpn&learn=on&enablevpops)
 
 詳しくは、[標準統合ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)を参照してください。
