@@ -43,4 +43,4 @@ Adobe Journey Optimizer チャネルオーサリングで外部データとコ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-詳しくは、[標準統合ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)を参照してください。
+詳しくは、[標準統合ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)を参照してください。

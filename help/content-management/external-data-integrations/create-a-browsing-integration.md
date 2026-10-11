@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-詳しくは、[統合ドキュメントの参照](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)を参照してください。
+詳しくは、[統合ドキュメントの参照](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)を参照してください。
