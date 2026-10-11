@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: ht
-source-wordcount: '1579'
-ht-degree: 100%
+source-git-commit: cec289fc6f0240c67a5fe6a297ba9a1512d9005f
+workflow-type: tm+mt
+source-wordcount: '1583'
+ht-degree: 99%
 ---
 
 # Journey Optimizer チュートリアル {#tutorials}
@@ -78,6 +78,7 @@ ht-degree: 100%
   + [サブスクリプションとランディングページ](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + チャネル {#channels}
   + [モバイルアプリの最適化 - 概要](/help/channels/mobile-app-optimization-overview.md)
+  + [プロファイルの環境設定や傾向スコアに基づいてチャネルを最適化](/help/channels/channel-optimization.md)
   + コードベースのエクスペリエンスチャネル{#code-based-experience-channel}
     + [コードベースエクスペリエンスキャンペーンの作成](/help/channels/create-a-code-based-experience-campaign.md)
     + [フォームフィールドをコードベースのエクスペリエンスチャネルテンプレートに追加する](/help/channels/form-fields-in-code-based-experiences.md)
@@ -146,9 +147,10 @@ ht-degree: 100%
     + [コンテンツ生成用 AI アシスタント - 概要](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [コンテンツ生成用 AI アシスタントを使用してコンテンツを作成する](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [ブランドガイドラインの作成と管理](/help/content-management/brand-guideline-creation-and-management.md)
-  + [プロファイルの環境設定や傾向スコアに基づいてチャネルを最適化](/help/channels/channel-optimization.md)
   + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
-  + [チャネルオーサリングで外部データ統合を有効にする](/help/content-management/external-data-integrations-in-channel-authoring.md)
+  + 外部データ統合 {#external-data-integrations}
+    + [標準統合の作成](/help/content-management/external-data-integrations/create-a-standard-integration.md)
+    + [ブラウジング統合を作成](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [Journey Optimizer でのブランドに即したコンテンツの作成 - チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + コンテンツのパーソナライズ {#personalize-content}
   + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)
