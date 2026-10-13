@@ -6,23 +6,26 @@ level: Beginner,Intermediate
 breadcrumb-title: aiを活用したweb体験の意思決定
 breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/ai-powered-decisioning-for-web-experiences/introduction
 auto-video-transcripts: true
+autotag-review: '2026-05-12T21:22:53.986Z'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: a4cb03e1-327e-499d-9de8-e0c0db8a63a2
+    internal-label: Decision capabilities
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-12T21:22:53.986Z'
-source-git-commit: 1407603a3f81764185a3f0cab4684544ee9a361a
+    internal-label: Intermediate
+source-git-commit: 690bace76fc718e0892ed4bf54a15b0ff6b4d2ac
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: '116'
 ht-degree: 0%
-
 ---
-
 
 # web エクスペリエンス向けAIを活用した意思決定 {#ai-powered-decisioning-for-web-experiences}
 
