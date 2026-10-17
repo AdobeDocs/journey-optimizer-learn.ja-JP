@@ -32,4 +32,4 @@ ht-degree: 0%
 
 グローバル設定、レポート、報酬、イベントマッピング、製品インベントリ、除外事項など、ロイヤルティの課題をサポートする設定オプションをご確認ください。 設定ガイダンスについて詳しくは、リワードプロバイダーとイベントマッピングに関する専用の動画をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504415/?captions=jpn&learn=on&enablevpops)
