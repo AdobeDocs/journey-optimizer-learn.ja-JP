@@ -11,15 +11,14 @@ index: true
 auto-video-transcripts: true
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 autotag-review: '2026-05-14T17:54:05.354Z'
 usetq: true
 source-git-commit: c38ca8d42c50403a496f54f40043ef40ba0e44ed
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '66'
 ht-degree: 100%
-
 ---
-
 
 # 内部使用のメタデータ
 
