@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: cec289fc6f0240c67a5fe6a297ba9a1512d9005f
+source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
 workflow-type: tm+mt
-source-wordcount: '1583'
-ht-degree: 99%
+source-wordcount: '1589'
+ht-degree: 98%
 ---
 
 # Journey Optimizer チュートリアル {#tutorials}
@@ -41,6 +41,7 @@ ht-degree: 99%
   + [新しいジャーニーキャンバスの概要](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
   + [AI を使用したジャーニーの分析と作成](/help/ai-agents/journey-agent-overview.md)
+  + [自然言語を使用してジャーニー条件を作成する](/help/journeys/create-journey-conditions-using-natural-language.md)
   + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
   + [外部オーディエンスを使用したジャーニーのシミュレート](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [クイックシミュレーションでのジャーニーテストの高速化](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
