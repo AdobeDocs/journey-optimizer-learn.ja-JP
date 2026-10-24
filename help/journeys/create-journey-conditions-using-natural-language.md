@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Adobe Journey OptimizerのAI機能が、エクスプレッション言語を記述することなく、平易な英語のプロンプトをジャーニーの条件に変換する方法をご紹介します。 このビデオでは、ロイヤルティメンバーシップと休眠ユーザーチェックを使用して、より関連性の高いカスタマーパスを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504895/?captions=jpn&learn=on&enablevpops)
