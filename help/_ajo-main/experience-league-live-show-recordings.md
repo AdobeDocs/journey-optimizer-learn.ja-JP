@@ -14,13 +14,13 @@ subfeature_v2:
   - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
     internal-label: Overview
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2456'
 ht-degree: 100%
 ---
 # Experience League ライブ番組
 
-Experience League LIVE は、デジタルエクスペリエンスプロダクトイネーブルメントチームが制作したライブストリーミング番組です。 アドビ製品のエキスパートとつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
+Experience League ライブ番組は、デジタルエクスペリエンスプロダクトイネーブルメントチームが制作したライブストリーミング番組です。 アドビ製品のエキスパートとつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
 
 ## 最近のエピソード
 
@@ -224,8 +224,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" title="大規模にパーソナライズされたコンテンツ向けのアジャイルワークフロー（2025年6月5日（PT））" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463407/?format=jpeg&nocache=1775836545549" alt="大規模にパーソナライズされたコンテンツ向けのアジャイルワークフロー（2025年6月5日（PT））"
+                    <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" title="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463407/?format=jpeg&nocache=1775836545549" alt="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -233,7 +233,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" title="大規模にパーソナライズされたコンテンツ向けのアジャイルワークフロー（2025年6月5日（PT））">パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" title="パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））">パーソナライズされた大規模なコンテンツに対するアジャイルワークフロー（2025年6月5日（PT））</a>
                     </p>
                     <p class="is-size-6">このセッションでは、アドビのエキスパートである Chris Ivory、Amarnath Vannarath および Rohan Bhatt が、Adobe Journey Optimizer（AJO）が、Adobe Express や GenStudio for Performance Marketing とどのようにシームレスに統合されているかについてご紹介します。 これらのツールがどのようにして、マーケティングワークフローに比類のない柔軟性、共同作業、AI を活用した創造性をもたらしているかを説明します。</p>
                 </div>
@@ -258,7 +258,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Adobe Experience Platform で AI アシスタントを使用して運用上のインサイトを引き出す（2025年2月27日（PT））">Adobe Experience Platform で AI アシスタントを使用して運用上のインサイトを引き出す（2025年2月27日（PT））</a>
                     </p>
-                    <p class="is-size-6">専門家は、AI アシスタントが Adobe Experience Platform とそのプラットフォームベースのアプリケーションにおける貴重な運用上のインサイトを引き出し、生産性を向上させ、業務を再定義する方法について説明しました。</p>
+                    <p class="is-size-6">当社の専門家は、AI アシスタントが Adobe Experience Platform とそのプラットフォームベースのアプリケーションにおける貴重な運用上のインサイトを引き出し、生産性を向上させ、業務を再定義する方法について説明しました。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
@@ -304,7 +304,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Experience Ecosystems のオーディエンスのハーモナイズ - Experience Platform の連合オーディエンス構成（2024年10月24日（PT））">Experience Ecosystems のオーディエンスのハーモナイズ - Experience Platform の連合オーディエンス構成（2024年10月24日（PT））</a>
                     </p>
-                    <p class="is-size-6">連合オーディエンス構成について説明します。連合オーディエンス構成では、Real-Time CDP と Journey Optimizer を使用して、オーディエンスのキュレーションとアクティベーションに対する包括的なアプローチを提供します。</p>
+                    <p class="is-size-6">連合オーディエンス構成について説明します。連合オーディエンス構成では、Real-Time CDP と Journey Optimizer を使用して、オーディエンスのキュレーションとアクティブ化に対する包括的なアプローチを提供します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
@@ -362,7 +362,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja" title="Adobe Journey Optimizer での API トリガーによるメッセージング" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ja" title="Adobe Journey Optimizer での API トリガーによるメッセージ" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1775836545890" alt="Adobe Journey Optimizer での API トリガーによるメッセージ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -394,9 +394,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja" target="_blank" rel="referrer" title="Experience League ライブイベント">Experience League LIVE イベント</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja" target="_blank" rel="referrer" title="Experience League ライブイベント">Experience League ライブイベント</a>
                     </p>
-                    <p class="is-size-6">Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform によって提供されるプッシュチャネル用にアプリを設定する方法について技術的な詳細を説明します。</p>
+                    <p class="is-size-6">Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform を使用したプッシュ通知のアプリを設定する方法について技術的な詳細を説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>

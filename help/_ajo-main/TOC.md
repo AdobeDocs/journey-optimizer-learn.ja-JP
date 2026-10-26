@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
 workflow-type: tm+mt
 source-wordcount: '1589'
-ht-degree: 98%
+ht-degree: 99%
 ---
 
 # Journey Optimizer チュートリアル {#tutorials}
@@ -151,7 +151,7 @@ ht-degree: 98%
   + [GenStudio を使用したメールの作成](/help/content-management/create-an-email-using-genstudio.md)
   + 外部データ統合 {#external-data-integrations}
     + [標準統合の作成](/help/content-management/external-data-integrations/create-a-standard-integration.md)
-    + [ブラウジング統合を作成](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
+    + [参照統合の作成](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [Journey Optimizer でのブランドに即したコンテンツの作成 - チュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + コンテンツのパーソナライズ {#personalize-content}
   + [パーソナライゼーションエディター - 概要](/help/personalize-content/personalization-editor-overview.md)

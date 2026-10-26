@@ -1,6 +1,6 @@
 ---
-title: ブラウジング統合を作成
-description: 外部APIのブラウジング統合を設定し、それを標準の統合にリンクし、マーケターが値を手動で入力せずにAJO エディターでアイテムを検索、参照、選択できるようにする方法について説明します。
+title: 参照統合の作成
+description: 外部 API の参照統合を設定し、これを標準統合にリンクし、マーケターが値を手動で入力せずに AJO エディターで項目を検索、参照、選択できるようにする方法について説明します。
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -32,15 +32,15 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# ブラウジング統合を作成
+# 参照統合の作成
 
-外部APIのブラウジング統合を設定し、それを標準の統合にリンクし、マーケターが値を手動で入力せずにAJO エディターでアイテムを検索、参照、選択できるようにする方法について説明します。
+外部 API の参照統合を設定し、これを標準統合にリンクし、マーケターが値を手動で入力せずに AJO エディターで項目を検索、参照、選択できるようにする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504296/?captions=jpn&learn=on&enablevpops)
 
-詳しくは、[統合ドキュメントの参照](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)を参照してください。
+詳しくは、[参照統合ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)を参照してください。

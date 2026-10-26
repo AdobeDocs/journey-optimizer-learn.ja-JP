@@ -1,5 +1,5 @@
 ---
-title: プロファイルの環境設定や傾向スコアに基づいたチャネルの最適化
+title: プロファイルの環境設定や傾向スコアに基づいてチャネルを最適化
 description: Adobe Journey Optimizer のチャネルの最適化機能を使用すると、手動の優先度、プロファイル属性、アドビの AI モデルを使用して、最も効果的なチャネルで顧客にリーチし、各顧客がエンゲージする可能性が最も高い場所にメッセージを配信できる方法について説明します。
 feature: Channels
 role: Developer
@@ -36,12 +36,12 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 ---
 
-# プロファイルの環境設定や傾向スコアに基づいたチャネルの最適化
+# プロファイルの環境設定や傾向スコアに基づいてチャネルを最適化
 
 {{limited-availability}}
 
