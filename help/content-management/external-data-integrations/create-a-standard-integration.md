@@ -1,6 +1,6 @@
 ---
 title: 標準統合の作成
-description: Adobe Journey Optimizerのチャネルオーサリングで外部データとコンテンツを使用し、アウトバウンドチャネル全体でパーソナライゼーションを強化するための標準統合の作成方法について説明します。
+description: Adobe Journey Optimizer チャネルオーサリングで外部データとコンテンツを使用し、アウトバウンドチャネル全体のパーソナライゼーションを強化するための標準統合を作成する方法について説明します。
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -33,14 +33,14 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 19%
+ht-degree: 100%
 ---
 # 標準統合の作成
 
-Adobe Journey Optimizer チャネルオーサリングで外部データとコンテンツを使用するための標準統合の作成方法について説明します。 これは、アウトバウンドチャネルでのパーソナライゼーションを強化し、エンゲージメントを向上させるのに役立ちます。 詳しくは、以下のビデオをご覧ください。
+Adobe Journey Optimizer チャネルオーサリングで外部データとコンテンツを使用する標準統合の作成方法について説明します。これは、アウトバウンドチャネルでのパーソナライゼーションを強化し、エンゲージメントを向上させるのに役立ちます。 詳しくは、以下のビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3484119/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-詳しくは、[標準統合ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)を参照してください。
+詳しくは、[標準統合ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)を参照してください。

@@ -24,7 +24,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 ---
@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Web プッシュを使用すると、ブラウザーがバックグラウンドにある場合でも、web サイトからユーザーのデバイスに直接通知を送信できます。 Adobe Journey Optimizer で web プッシュ通知を作成および送信する方法について説明します。 このチュートリアルでは、チャネル設定の選択、メッセージのオーサリング、オーディエンスの選択、キャンペーンの公開を行って、モバイルデバイス以外にもリーチを拡大する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479342/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479341/?learn=on&enablevpops)

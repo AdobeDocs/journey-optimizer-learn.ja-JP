@@ -34,7 +34,7 @@ topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
     internal-label: Customer engagement
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 ---
@@ -42,4 +42,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer のクワイエットアワー機能を使用して、指定した時間帯にメッセージが顧客に送信されないようにする方法について説明します。これにより、マーケターは不適切な時間にコミュニケーションが送信されることを回避し、顧客エンゲージメントを向上させることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475853/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

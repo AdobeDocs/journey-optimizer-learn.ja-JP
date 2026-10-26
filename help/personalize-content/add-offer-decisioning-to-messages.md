@@ -29,7 +29,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
 ht-degree: 100%
 ---
@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Journey Optimizer で意思決定管理コンポーネントをメッセージに追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416051?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on){transcript=true}

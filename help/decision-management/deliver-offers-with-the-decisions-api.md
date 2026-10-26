@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 ---
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 [決定ハブ API を使用して](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=ja)オファーを配信する方法について説明します。 [!DNL Postman] を使用して、API 呼び出しによるコンテナ ID の取得のデモを行います。 次に、アクティビティ ID、プレースメント ID、ID 名前空間および顧客 ID でサンプルの決定 API 呼び出しをカスタマイズして、パーソナライズされたオファーを取得します。 パーソナライズされたオファーを決定 API で取得したら、そのオファーコンテンツをマーケティングシステムに統合できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/342831?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on){transcript=true}
 
 >[!INFO]
 >

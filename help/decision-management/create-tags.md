@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 ---
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 [!DNL Decision Management] で[タグを作成する](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=ja)方法について説明します。 タグは、オファーのオプションの構成要素です。 これらを使用すると、オファーを整理して、動的なコレクションにグループ化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/341372?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on){transcript=true}
 
 API を使用してタグを作成する方法について詳しくは、[製品ガイド](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=ja)を参照してください。

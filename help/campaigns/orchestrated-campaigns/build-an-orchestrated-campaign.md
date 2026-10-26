@@ -1,6 +1,6 @@
 ---
 title: オーケストレーションキャンペーンの作成
-description: Adobe Journey Optimizerとワークフローを組み合わせて、オーディエンスの構築、データの処理、マルチチャネル配信などの施策を設計および実行する方法を説明します。
+description: Adobe Journey Optimizer を使用して、オーディエンスの作成、データの操作、マルチチャネル配信のワークフローを活用したキャンペーンを設計および実行する方法について説明します。
 feature: Campaigns
 role: User
 level: Beginner, Intermediate
@@ -10,9 +10,9 @@ last-substantial-update: 2026-05-02
 jira: KT-20991
 exl-id: e14a4923-fbfd-4fa7-9266-ef20d22d52e2
 source-git-commit: 0db5fb0d647929c7712b69531423c5c99e2dad90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 75%
+ht-degree: 100%
 ---
 # オーケストレーションキャンペーンの作成
 

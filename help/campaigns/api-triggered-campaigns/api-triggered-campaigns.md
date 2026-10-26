@@ -31,7 +31,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 ---
@@ -39,4 +39,4 @@ ht-degree: 100%
 
 [インタラクティブメッセージ実行 REST API](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution) を使用して、キャンペーンを作成し、ユーザーインタラクションに基づいて外部システムからキャンペーンをトリガーする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452726/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)

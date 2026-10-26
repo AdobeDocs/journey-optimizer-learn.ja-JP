@@ -29,7 +29,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 ---
@@ -39,6 +39,6 @@ ht-degree: 100%
 
 このレポートは、問題の特定、ジャーニーのパフォーマンスの強化、スムーズな運用の確保に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479542/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configure-journeys/action-journeys/report)を参照してください。

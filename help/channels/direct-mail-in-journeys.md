@@ -26,7 +26,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 ---
@@ -34,6 +34,6 @@ ht-degree: 100%
 
 Adobe Journey Optimizer のダイレクトメールチャネルを活用して、ジャーニー内のダイレクトメールの配信を自動化およびスケジュールする方法について説明します。 ファイルルーティングの設定を確認、作成頻度を設定し、ジャーニーキャンバスでダイレクトメールアクションを利用します。 このビデオでは、AJO で参加者をキューに追加し、一定間隔でタイムスタンプ付きのファイルを生成し、アクティブ化すると自動的に送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479163/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail)を参照してください。

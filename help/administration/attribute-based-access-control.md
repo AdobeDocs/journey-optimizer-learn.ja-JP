@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 属性ベースのアクセス制御を設定して、特定の Experience Platform リソースへのアクセスを制限する方法について説明します。 詳しくは、[アクセス制御のドキュメント](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html?lang=ja)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451828?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345641?learn=on)

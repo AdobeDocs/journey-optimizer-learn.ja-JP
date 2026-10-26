@@ -29,7 +29,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 ---
@@ -37,4 +37,4 @@ ht-degree: 100%
 
 IP プールを作成して、送信者のレピュテーションを保護し、メールの配信品質を高める方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463250/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)

@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 ---
@@ -35,6 +35,6 @@ ht-degree: 100%
 
 独自のブランドを作成およびカスタマイズして、コミュニケーション全体で視覚的および言語的なアイデンティティを明確に定義する方法について説明します。 ブランド一致スコアを使用して、コンテンツがブランドのトーン、スタイル、ガイドラインをどの程度反映しているかに関するリアルタイムのフィードバックを受信する方法を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470547/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands)を参照してください。

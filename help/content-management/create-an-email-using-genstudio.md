@@ -32,7 +32,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
 ht-degree: 100%
 ---
@@ -46,6 +46,6 @@ ht-degree: 100%
 
 [!DNL Journey Optimizer] から [!DNL GenStudio for Performance Marketing] にメールテンプレートをエクスポート、[!DNL GenStudio] のテンプレートを使用してブランドに準拠したメールを作成し、[!DNL Journey Optimizer] にシームレスにインポートするプロセスについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3456050/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
 [!DNL GenStudio for Performance Marketing] について詳しくは、[[!DNL Adobe GenStudio for Performance Marketing] ユーザーガイド](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}または [Adobe GenStudio for Performance Marketing チュートリアル](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing-learn/tutorials/overview)を参照してください。

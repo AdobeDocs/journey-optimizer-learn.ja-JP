@@ -26,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ Adobe Journey Optimizer の多言語メッセージ機能を使用すると、1 
 
 自動翻訳用の翻訳プロジェクトを設定する方法と、多言語メッセージの手動翻訳および自動翻訳プロジェクトに必要な言語設定について説明します。
  
->[!VIDEO](https://video.tv.adobe.com/v/3453544/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)

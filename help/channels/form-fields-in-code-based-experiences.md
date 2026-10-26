@@ -25,7 +25,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 ---
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 コードベースのエクスペリエンスチャネル内で編集可能なフィールドを有効にすることで、開発者がマーケティングチームとの共同作業をどのように効率化できるかを紹介します。 コンテンツテンプレートで編集可能な JSON フィールドと HTML フィールドを定義する方法を説明します。これにより、マーケターはコードに触れることなく、タイトルや説明などのキャンペーン要素を更新できます。 埋め込まれた決定ポリシーにより、テンプレート内で直接パーソナライゼーションがどのように強化され、効率の向上、エラーの削減、キャンペーン配信の高速化が実現するかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463992/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
 詳しくは、詳細な[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields)を参照してください。

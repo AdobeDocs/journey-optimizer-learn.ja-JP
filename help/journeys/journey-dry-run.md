@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '217'
 ht-degree: 100%
 ---
@@ -30,6 +30,6 @@ ht-degree: 100%
 
 このチュートリアルでは、Adobe Journey Optimizer のジャーニードライラン機能を紹介します。この機能を使用すると、マーケターは実際の通信を送信することなく、ジャーニーロジックをテストできます。 ドライランモードでジャーニーをアクティブ化する方法、待機時間や外部データソースの無効化などのオプションを設定する方法、プロファイルフロー指標を解釈してオーディエンスのセグメント化と条件付きロジックを検証する方法について説明します。 条件ノードの入力ミスなどの問題を特定して修正する方法と、ジャーニーをライブで開始する前に、ドライランレポートにアクセスしてエクスポートし、さらに分析する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464683/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run)を参照してください。

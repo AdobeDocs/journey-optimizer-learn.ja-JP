@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
 ---
@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer でお客様データを統合する方法、ドラッグ＆ドロップインターフェイスでオーディエンスの作成を簡素化する方法、パーソナライズされたエンゲージメントに対してプロファイルを強化する方法、正確なターゲティングを行うオーディエンスをランキングする方法、堅牢なガバナンスツールでプライバシーを確保する方法について説明します。これにより、チャネルをまたいでより効果的なキャンペーンを作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476987/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476986/?learn=on)

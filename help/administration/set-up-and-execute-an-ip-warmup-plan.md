@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
 ht-degree: 100%
 ---
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 IP ウォーミングの概要と、Adobe Journey Optimizer で IP ウォームアッププランを設定および実行する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453841/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
 [ターゲティング条件](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria)、[IP ウォーミング時の ISP 固有の考慮事項](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming)、IP ウォーミング時の[ボリューム](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume)に関するベストプラクティスについては、[配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/ja/docs/deliverability-learn/deliverability-best-practice-guide/introduction)を参照してください。
 

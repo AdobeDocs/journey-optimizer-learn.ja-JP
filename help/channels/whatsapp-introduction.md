@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 ---
@@ -35,4 +35,4 @@ ht-degree: 100%
 
 このビデオでは、WhatsApp と Adobe Journey Optimizer の統合の価値の概要を紹介します。 WhatsApp のグローバルなリーチとエンゲージメントのメリットを強調し、WhatsApp ビジネスアカウントの設定、アクセストークンの生成、メッセージテンプレートの作成などの主な前提条件を概説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470297/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)

@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Journey Optimizer のキャンペーンオーケストレーションで使用されるリレーショナルストアの基本的な概念（スキーマデザイン、データ取り込み、サポートされるソース、リアルタイムプロファイルストアとの主な違いなど）について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470215/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)

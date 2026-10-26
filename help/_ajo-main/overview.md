@@ -33,7 +33,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1552'
 ht-degree: 100%
 ---
@@ -56,7 +56,7 @@ Journey Optimizer を使用すると、会社は一貫性がありコンテキ�
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/mobile-learning-hub/overview 
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview 
     {description = The Mobile Learning Hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys.}
    {image = /help/assets/mobile-learning-hub.jpg}
 -->
@@ -92,13 +92,13 @@ CARDS
 
 <!-- 
 CARDS
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26
     {title = How to efficiently test, simulate and validate journeys before going live}
     {description = In this Experience League Live session, we dive into journey testing and validation tools in Adobe Journey Optimizer, so you can go live with confidence.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
     {title = New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging (April 8 12, 2026)}
     {description = In this Experience League Live session, we explore new surfaces and use cases for customer engagement as brands move beyond one-way, single-channel messaging. Discover how marketing and product teams can create more visible, contextual, and persistent experiences-driving continuous engagement and richer, real-time interactions across channels.}
-* https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
     {title = Get to Know Campaign Orchestration in Adobe Journey Optimizer (March 12, 2026)}
     {description = In this Experience League Live session, see how campaign orchestration in Journey Optimizer manages your large, one‑to‑many multi-channel marketing programs—from audience creation to launch.}
 -->
@@ -182,9 +182,9 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -193,7 +193,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="主な機能とユーザーインターフェイス" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430316?captions=jpn&format=jpeg&nocache=1782495515016" alt="主な機能とユーザーインターフェイス"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1782495515016" alt="主な機能とユーザーインターフェイス"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -216,7 +216,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="ジャーニー構築の概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430350?captions=jpn&format=jpeg&nocache=1782495515010" alt="ジャーニー構築の概要"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1782495515010" alt="ジャーニー構築の概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,7 +239,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="ルールビルダーを使用したオーディエンスの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430329?captions=jpn&format=jpeg&nocache=1782495514945" alt="ルールビルダーを使用したオーディエンスの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1782495514945" alt="ルールビルダーを使用したオーディエンスの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -262,9 +262,9 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -273,7 +273,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="コンテンツ生成用 AI アシスタントを使用してコンテンツを生成する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434636/?captions=jpn&format=jpeg&nocache=1782495516144" alt="コンテンツ生成用 AI アシスタントを使用してコンテンツを生成する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1782495516144" alt="コンテンツ生成用 AI アシスタントを使用してコンテンツを生成する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,7 +319,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="アプリ内メッセージ用のコンテンツ実験の設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445289/?captions=jpn&format=jpeg&nocache=1782495516148" alt="アプリ内メッセージ用のコンテンツ実験の設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1782495516148" alt="アプリ内メッセージ用のコンテンツ実験の設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

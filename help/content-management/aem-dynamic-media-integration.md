@@ -35,7 +35,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
 ht-degree: 100%
 ---
@@ -45,6 +45,6 @@ Adobe Experience Manager Dynamic Media を Adobe Journey Optimizer と統合し�
 
 このチュートリアルでは、AJO 内で画像を直接変更する方法、HTML モードを使用してテキストオーバーレイを追加する方法、AEM で高度なパーソナライゼーション用の Dynamic Media テンプレートを作成する方法、様々なオーディエンスセグメントに合わせてコンテンツを調整してキャンペーンをパーソナライズする方法について説明します。 この統合により、マーケターは、アプリケーションを切り替えずに、パーソナライズされた魅力的なキャンペーンを効率的に作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463783/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/aem-dynamic)を参照してください。

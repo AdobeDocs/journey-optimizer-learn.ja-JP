@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 ---
@@ -33,5 +33,5 @@ ht-degree: 100%
 
 メールをゼロから作成する方法を説明します。 Adobe Experience Manager Assets Essentials ライブラリのアセットの使用方法、レスポンシブメールデザインの編集方法およびテンプレートからのメールの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416418?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on){transcript=true}
 
