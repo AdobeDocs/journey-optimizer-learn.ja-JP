@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Journey Optimizer を MMS サービスプロバイダーに接続する方法と、MMS チャネルサーフェスを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428872/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438047/?captions=jpn&learn=on)

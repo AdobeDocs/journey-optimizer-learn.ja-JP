@@ -30,4 +30,4 @@ ht-degree: 100%
 
 サーバーサイド、API ベースまたは SDK ベースの実装方法のサポートでパーソナライゼーションの規模を拡大・縮小して開発環境とシームレスに統合するコードベースのエクスペリエンスキャンペーンを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449454/?captions=jpn&learn=on)

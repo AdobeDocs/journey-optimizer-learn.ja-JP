@@ -34,4 +34,4 @@ ht-degree: 100%
 
 ユーザーがジャーニーの様々なステップをどのように操作しているか（エントリと離脱の統計、エラーおよび実行されたアクションなど）について、個々のジャーニーのパフォーマンスを追跡する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471464/?captions=jpn&learn=on&enablevpops)

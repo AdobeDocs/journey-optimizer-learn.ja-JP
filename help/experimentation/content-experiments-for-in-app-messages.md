@@ -35,4 +35,4 @@ ht-degree: 100%
 
 アプリ内メッセージの A/B テストを行うコンテンツ実験を設定および分析する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445289/?captions=jpn&learn=on){transcript=true}

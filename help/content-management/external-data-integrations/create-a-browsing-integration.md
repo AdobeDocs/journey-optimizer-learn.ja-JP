@@ -41,6 +41,6 @@ ht-degree: 100%
 
 外部 API の参照統合を設定し、これを標準統合にリンクし、マーケターが値を手動で入力せずに AJO エディターで項目を検索、参照、選択できるようにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504296/?captions=jpn&learn=on&enablevpops)
 
 詳しくは、[参照統合ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)を参照してください。

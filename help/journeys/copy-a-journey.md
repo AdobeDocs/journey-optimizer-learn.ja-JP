@@ -31,4 +31,4 @@ ht-degree: 100%
 
 ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413055?captions=jpn&quality=12&learn=on){transcript=true}

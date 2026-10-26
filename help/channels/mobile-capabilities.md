@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer が提供するマーケター向けのモバイル機能について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430376?captions=jpn&quality=12&learn=on){transcript=true}

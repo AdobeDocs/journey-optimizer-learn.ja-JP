@@ -35,4 +35,4 @@ ht-degree: 100%
 
 データセットの作成、スキーマへのマッピング、データの追加、データの取り込みの確認の方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416782?captions=jpn&quality=12&learn=on){transcript=true}

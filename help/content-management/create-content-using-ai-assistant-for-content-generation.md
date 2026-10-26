@@ -38,4 +38,4 @@ ht-degree: 100%
 
 コンテンツ生成用 AI アシスタントを使用して、テキストと画像の両方にプロアクティブなコンテンツバリエーション提案を生成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434636/?captions=jpn&learn=on)
