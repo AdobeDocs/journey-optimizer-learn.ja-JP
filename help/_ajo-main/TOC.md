@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
+source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
 workflow-type: tm+mt
-source-wordcount: '1589'
+source-wordcount: '1598'
 ht-degree: 99%
 ---
 
@@ -47,6 +47,7 @@ ht-degree: 99%
   + [クイックシミュレーションでのジャーニーテストの高速化](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
   + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
+  + [チャネルの最適化により、顧客がエンゲージする場所でリーチしたい](/help/journeys/use-channel-optimization.md)
   + [ジャーニーでのデータセット参照の使用](/help/journeys/lookup-dataset.md)
   + [複数属性フィルタリングの習得](/help/journeys/mastering-multi-attribute-filtering.md)
   + [ジャーニーの連合オーディエンスを含むマルチエンティティターゲティングの使用](/help/journeys/multi-entity-targeting-in-journeys.md)
