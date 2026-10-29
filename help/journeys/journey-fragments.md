@@ -12,12 +12,16 @@ autotag-review: '2026-05-20T23:14:06.458Z'
 TQID: 'https://experienceleague.adobe.com/FB2ifhGA6-XNe3AGbDCor7wbfw8TgAJp6xHm-WcGiBQ'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 source-git-commit: 2949be4c0b1ff5c6b4374c2f1c5b13ce20866f1a
 workflow-type: ht
 source-wordcount: 84

@@ -10,8 +10,10 @@ exl-id: f2e491fc-d547-455e-aff3-43d2bfc550fb
 TQID: 'https://experienceleague.adobe.com/CTm8cJgzPqEoGLU23jZsYUCkJNuxMJYrI0Q-aGFxFlM'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
 workflow-type: tm+mt
 source-wordcount: 64
