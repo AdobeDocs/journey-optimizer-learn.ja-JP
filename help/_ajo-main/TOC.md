@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 4d18b0b77c1a7dc115d58575ab46213493dad6aa
+source-git-commit: 53fb6e5aed7d0b3e1782490e938af5dbb5f61082
 workflow-type: tm+mt
 source-wordcount: '1604'
 ht-degree: 98%
@@ -12,7 +12,7 @@ ht-degree: 98%
 # Journey Optimizer チュートリアル {#tutorials}
 
 + [Journey Optimizer チュートリアル](/help/_ajo-main/overview.md)
-+ {hide-from-toc}[Journey OptimizerのCX Enterprise Coworker](/help/_ajo-main/coworker.md)
++ [Journey OptimizerのCX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + Journey Optimizer の概要 {#introduction-to-journey-optimizer}
   + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
   + [Journey Optimizer の概要](/help/introduction/introduction.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [プレイブックインスタンスの作成と公開](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 演習、ラボ、課題 {#exercises-and-challenges}
   + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + [課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + サミットラボ {#summit-labs}
     + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
