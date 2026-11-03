@@ -39,4 +39,4 @@ ht-degree: 0%
 
 CX Enterprise Coworkerなら、平易な言葉でプロンプトを入力し、ロイヤルティに関する課題を設定、解決できます。 このビデオでは、オーディエンス、報酬、スケジュールの設定、ジャーニーの設定の自動化、および課題のインサイトのレビュー方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496539/?captions=jpn&learn=on&enablevpops)

@@ -111,13 +111,13 @@ CARDS
 * https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language
   {title = Generate journeys from natural language}
   {description = Turn a plain-language prompt into a draft Journey Optimizer journey with Coworker.}
-  {image = https://video.tv.adobe.com/v/3496867?format=jpeg}
+  {image = https://video.tv.adobe.com/v/3496877?captions=jpn&format=jpeg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image
   {title = Create a journey from an image}
   {description = Turn a flowchart image into a draft Journey Optimizer journey that you can review and edit.}
-  {image = https://video.tv.adobe.com/v/3504865?format=jpeg}
+  {image = https://video.tv.adobe.com/v/3504866?captions=jpn&format=jpeg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker
@@ -129,13 +129,13 @@ CARDS
 * https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video
   {title = Create, simulate, and analyze cross-channel journeys}
   {description = Build a journey with email and SMS content. Simulate its paths and identify configuration issues with Coworker.}
-  {image = https://video.tv.adobe.com/v/3504706?format=jpeg}
+  {image = https://video.tv.adobe.com/v/3504707?captions=jpn&format=jpeg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge
   {title = Create a loyalty challenge and surface insights}
   {description = Create loyalty challenges with Coworker. Configure audiences, rewards, and schedules, then review challenge insights.}
-  {image = https://video.tv.adobe.com/v/3496528?format=jpeg}
+  {image = https://video.tv.adobe.com/v/3496539?captions=jpn&format=jpeg}
   {cta = Watch}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -145,7 +145,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" title="自然言語からのジャーニーの生成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496867?format=jpeg" alt="自然言語からのジャーニーの生成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496877?captions=jpn&format=jpeg" alt="自然言語からのジャーニーの生成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,7 +168,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" title="画像からのジャーニーの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504865?format=jpeg" alt="画像からのジャーニーの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504866?captions=jpn&format=jpeg" alt="画像からのジャーニーの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +214,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video" title="クロスチャネルジャーニーの作成、シミュレーション、分析" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504706?format=jpeg" alt="クロスチャネルジャーニーの作成、シミュレーション、分析"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504707?captions=jpn&format=jpeg" alt="クロスチャネルジャーニーの作成、シミュレーション、分析"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" title="ロイヤルティに関する課題を作成し、インサイトを獲得" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496528?format=jpeg" alt="ロイヤルティに関する課題を作成し、インサイトを獲得"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496539?captions=jpn&format=jpeg" alt="ロイヤルティに関する課題を作成し、インサイトを獲得"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
