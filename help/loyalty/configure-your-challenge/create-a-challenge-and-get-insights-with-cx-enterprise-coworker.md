@@ -1,6 +1,6 @@
 ---
-title: Cx Enterprise Coworkerでロイヤルティに関する課題を作成し、インサイトを獲得
-description: オーディエンス、報酬、スケジュール、自動ジャーニー設定など、自然言語を使用してロイヤルティの課題を作成、設定、設定および立ち上げるためにCX Enterprise Workfrontを使用する方法について説明します。
+title: CX Enterprise Coworkerを利用して、ロイヤルティに関する課題を解決し、インサイトを獲得しましょう
+description: CX Enterprise Coworkerを使用して、Adobe Journey Optimizerでロイヤルティに関する課題を解決し、解決する方法を説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -29,16 +29,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6b3d2ad0ea5d8f185d6c8482e2f4f92f4bb75ded
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 0%
-
 ---
 
+# CX Enterprise Coworkerを利用して、ロイヤルティに関する課題を解決し、インサイトを獲得しましょう
 
-# Cx Enterprise Coworkerでロイヤルティに関する課題を作成し、インサイトを獲得
+CX Enterprise Coworkerなら、平易な言葉でプロンプトを入力し、ロイヤルティに関する課題を設定、解決できます。 このビデオでは、オーディエンス、報酬、スケジュールの設定、ジャーニーの設定の自動化、および課題のインサイトのレビュー方法について説明します。
 
-オーディエンス、報酬、スケジュール、自動ジャーニー設定など、自然言語を使用してロイヤルティの課題を作成、設定、設定および立ち上げるためにCX Enterprise Workfrontを使用する方法について説明します。
-
->[!VIDEO](https://video.tv.adobe.com/v/3496539/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
