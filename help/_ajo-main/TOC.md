@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
+source-git-commit: 75df71a17b6a7b1b60f88b45a9b82ecbe725233a
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 99%
+source-wordcount: '1604'
+ht-degree: 98%
 ---
 
 # Journey Optimizer チュートリアル {#tutorials}
@@ -20,6 +20,7 @@ ht-degree: 99%
   + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
   + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
   + [AI アシスタントに関するお問い合わせ](/help/ai-agents/ai-assistant.md)
++ [Journey OptimizerのCX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + [Journey Optimizer - モバイル学習ハブ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + キャンペーン {#create-campaigns}
   + アクションキャンペーン {#action-campaigns}
@@ -275,7 +276,7 @@ ht-degree: 99%
     + [プレイブックインスタンスの作成と公開](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 演習、ラボ、課題 {#exercises-and-challenges}
   + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + [課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[課題target="_blank"](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + サミットラボ {#summit-labs}
     + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
