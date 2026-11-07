@@ -37,6 +37,6 @@ ht-degree: 53%
 
 この記事では、6つのレッスンで、シンプルなアウトバウンドメッセージから高度なオムニチャネル体験へとビジネスコミュニケーションを進化させる方法を解説します。 実用的な例を通じて、プロアクティブなアウトリーチとレスポンシブなエンゲージメントをシームレスに組み合わせたカスタマージャーニーを作成するインサイトが得られます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505705/?captions=jpn&learn=on&enablevpops)
 
 ブック [をここからダウンロードします](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf)。
