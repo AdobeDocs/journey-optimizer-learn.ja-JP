@@ -31,4 +31,4 @@ ht-degree: 0%
 
 アクショングループを使用してメール、プッシュ通知、SMSを組み合わせ、手作業による優先度、顧客の嗜好、AIのエンゲージメントスコアなどを活用してチャネルの選択を最適化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505311/?captions=jpn&learn=on&enablevpops)

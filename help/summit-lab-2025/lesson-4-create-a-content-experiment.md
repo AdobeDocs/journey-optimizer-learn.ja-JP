@@ -39,7 +39,7 @@ ht-degree: 0%
 
 このレッスンでは、プッシュメッセージにコンテンツの実験を適用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505869/?captions=jpn&learn=on&enablevpops)
 
 
 このトピックに関する詳細なガイダンスについては、[実験 – 概要](/help/experimentation/introduction-to-experimentation.md)、[&#x200B; メールキャンペーンのコンテンツ実験の設定](/help/experimentation/content-experiments-for-emails.md)および[&#x200B; プッシュ通知 – 概要](/help/channels/push-notifications-overview.md)を参照してください。

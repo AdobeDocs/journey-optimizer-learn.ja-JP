@@ -35,6 +35,6 @@ ht-degree: 0%
 
 この演習では、既存のジャーニーに基づいて、ウェルカムジャーニーの構築を開始します。 AI コンテンツアクセラレーターを使用して、まず入力条件を定義し、最初にメールメッセージを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505843/?captions=jpn&learn=on&enablevpops)
 
 このトピックに関する詳細なガイダンスについては、[&#x200B; ジャーニーの構築に関する概要](/help/journeys/introduction-to-building-a-journey.md)および[&#x200B; ユースケース – オーディエンスの選定](/help/journeys/use-case-audience-qualification.md)を参照してください。

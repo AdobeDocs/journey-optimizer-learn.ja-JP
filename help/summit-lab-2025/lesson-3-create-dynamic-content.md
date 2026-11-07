@@ -39,6 +39,6 @@ ht-degree: 0%
 
 この演習では、例としてSMSに動的コンテンツを適用しますが、すべてのチャネルに適用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505852/?captions=jpn&learn=on&enablevpops)
 
 このトピックに関する詳細なガイダンスについては、[条件ルールビルダー](/help/personalize-content/create-dynamic-content.md)を使用した動的コンテンツの作成を参照してください。
