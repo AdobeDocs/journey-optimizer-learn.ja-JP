@@ -276,7 +276,7 @@ ht-degree: 98%
     + [プレイブックインスタンスの作成と公開](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 演習、ラボ、課題 {#exercises-and-challenges}
   + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[課題target="_blank"](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + サミットラボ {#summit-labs}
     + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
