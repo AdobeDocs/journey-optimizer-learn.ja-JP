@@ -32,4 +32,4 @@ ht-degree: 8%
 
 顧客データやオーディエンスからジャーニー、チャネル、コンテンツ、意思決定、ロイヤルティに至るまで、Adobe Adobe Journey Optimizerの主な能力と、AIが業務をどのようにサポートするのかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430316?captions=jpn&learn=on){transcript=true}
