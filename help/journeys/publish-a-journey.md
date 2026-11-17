@@ -8,7 +8,7 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-last-substantial-update: 2024-01-29T00:00:00.000Z
+last-substantial-update: 2026-11-16
 exl-id: cf7fe165-b6eb-49f0-adb9-32d43efa43ca
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
@@ -22,8 +22,8 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: ht
+source-git-commit: 1301548766a0228572e8ccb24c4316fc8c94959b
+workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 100%
 ---
