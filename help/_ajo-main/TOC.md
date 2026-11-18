@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1600'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Journey Optimizer チュートリアル {#tutorials}
@@ -20,7 +20,7 @@ ht-degree: 98%
   + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
   + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
   + [AI アシスタントに関するお問い合わせ](/help/ai-agents/ai-assistant.md)
-+ [Journey OptimizerのCX Enterprise Coworker](/help/_ajo-main/coworker.md)
++ [Journey Optimizer の CX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + [Journey Optimizer - モバイル学習ハブ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + キャンペーン {#create-campaigns}
   + アクションキャンペーン {#action-campaigns}
@@ -42,13 +42,13 @@ ht-degree: 98%
   + [新しいジャーニーキャンバスの概要](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [ジャーニー構築の概要](/help/journeys/introduction-to-building-a-journey.md)
   + [AI を使用したジャーニーの分析と作成](/help/ai-agents/journey-agent-overview.md)
-  + [自然言語を使用してジャーニー条件を作成する](/help/journeys/create-journey-conditions-using-natural-language.md)
+  + [自然言語を使用したジャーニー条件の作成](/help/journeys/create-journey-conditions-using-natural-language.md)
   + [テストプロファイルの作成](/help/journeys/test-a-journey.md)
   + [外部オーディエンスを使用したジャーニーのシミュレート](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [クイックシミュレーションでのジャーニーテストの高速化](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [ジャーニーの公開](/help/journeys/publish-a-journey.md)
   + [コンテンツ決定アクティビティ](/help/journeys/content-decision-activity.md)
-  + [チャネルの最適化により、顧客がエンゲージする場所でリーチしたい](/help/journeys/use-channel-optimization.md)
+  + [顧客が関与する場所で顧客にリーチするチャネルの最適化の使用](/help/journeys/use-channel-optimization.md)
   + [ジャーニーでのデータセット参照の使用](/help/journeys/lookup-dataset.md)
   + [複数属性フィルタリングの習得](/help/journeys/mastering-multi-attribute-filtering.md)
   + [ジャーニーの連合オーディエンスを含むマルチエンティティターゲティングの使用](/help/journeys/multi-entity-targeting-in-journeys.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [プレイブックインスタンスの作成と公開](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 演習、ラボ、課題 {#exercises-and-challenges}
   + [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[課題target="_blank"](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[課題](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + サミットラボ {#summit-labs}
     + [Adobe Journey Optimizer でパーソナライズされたモバイルモーメントの作成（2024年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Adobe Journey Optimizer でのオーケストレーションのオムニチャネルエンゲージメントへの拡大（2025年）](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}

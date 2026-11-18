@@ -1,6 +1,6 @@
 ---
 title: 主な機能
-description: オーディエンス、ジャーニー、チャネル、コンテンツ、意思決定、ロイヤルティ、AI支援ワークフローなど、Adobe Journey Optimizerの能力をご確認ください。
+description: オーディエンス、ジャーニー、チャネル、コンテンツ、決定、ロイヤルティ、AI 支援によるワークフローなど、Adobe Journey Optimizer の機能について説明します。
 jira: KT-7606
 thumbnail: 3424995.jpeg
 feature: Overview
@@ -23,13 +23,13 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 8%
+ht-degree: 100%
 ---
 
 # 主な機能
 
-顧客データやオーディエンスからジャーニー、チャネル、コンテンツ、意思決定、ロイヤルティに至るまで、Adobe Adobe Journey Optimizerの主な能力と、AIが業務をどのようにサポートするのかをご確認ください。
+お客様データとオーディエンスからジャーニー、チャネル、コンテンツ、決定、ロイヤルティまで、Adobe Adobe Journey Optimizer の主な機能と、AI が作業をサポートできる仕組みについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430316?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}

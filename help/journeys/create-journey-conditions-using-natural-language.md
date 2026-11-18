@@ -1,6 +1,6 @@
 ---
-title: 自然言語を使用してジャーニー条件を作成する
-description: 自然言語プロンプトを使用して、Adobe Journey Optimizerでジャーニー条件を作成する方法を説明します。 AIを利用して、ロイヤルティメンバーシップをチェックし、休眠ユーザーを特定する。
+title: 自然言語を使用したジャーニー条件の作成
+description: 自然言語プロンプトを使用して、Adobe Journey Optimizer でジャーニー条件を作成する方法について説明します。 AI を使用して、ロイヤリティメンバーシップをチェックし、休眠状態のユーザーを特定します。
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -20,13 +20,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# 自然言語を使用してジャーニー条件を作成する
+# 自然言語を使用したジャーニー条件の作成
 
-Adobe Journey OptimizerのAI機能が、エクスプレッション言語を記述することなく、平易な英語のプロンプトをジャーニーの条件に変換する方法をご紹介します。 このビデオでは、ロイヤルティメンバーシップと休眠ユーザーチェックを使用して、より関連性の高いカスタマーパスを作成する方法を説明します。
+Adobe Journey Optimizer の AI 機能が、式言語を書き込むことなく、平易な英語のプロンプトをジャーニー条件に変換する方法について説明します。 このビデオでは、ロイヤルティメンバーシップと休眠状態のユーザーチェックを使用して、より関連性の高いカスタマーパスを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504895/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
