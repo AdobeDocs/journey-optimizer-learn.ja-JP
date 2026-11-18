@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer チュートリアル
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: これらは、Journey Optimizer のチュートリアルです。
 auto-video-transcripts: true
-source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: ht
-source-wordcount: '1600'
-ht-degree: 100%
+source-git-commit: 71ab3fccd68cf11ccc392533220ce455e302fb66
+workflow-type: tm+mt
+source-wordcount: '1605'
+ht-degree: 99%
 ---
 
 # Journey Optimizer チュートリアル {#tutorials}
@@ -16,6 +16,7 @@ ht-degree: 100%
   + [Journey Optimizer - 概要](/help/introduction/journey-optimizer-overview.md)
   + {hide-from-toc}[Journey Optimizer の概要](/help/introduction/introduction.md)
   + [主な機能](/help/introduction/key-capabilities.md)
+  + [役割とユーザーインターフェイス](/help/introduction/roles-and-the-user-interface-feature-video.md)
   + {hide-from-toc}[アーキテクチャ](/help/introduction/architecture.md)
   + [マーケター向けモバイル機能](/help/channels/mobile-capabilities.md)
   + [デベロッパー向けモバイル機能](/help/channels/mobile-capabilities-for-developers.md)
