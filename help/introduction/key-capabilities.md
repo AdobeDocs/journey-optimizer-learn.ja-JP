@@ -32,4 +32,4 @@ ht-degree: 100%
 
 お客様データとオーディエンスからジャーニー、チャネル、コンテンツ、決定、ロイヤルティまで、Adobe Adobe Journey Optimizer の主な機能と、AI が作業をサポートできる仕組みについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430316?captions=jpn&learn=on){transcript=true}

@@ -31,4 +31,4 @@ ht-degree: 100%
 
 アクショングループを使用して、メール、プッシュ、SMS を組み合わせ、手動による優先度、顧客の環境設定、AI エンゲージメントスコアを使用してチャネルの選択を最適化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505311/?captions=jpn&learn=on&enablevpops)
