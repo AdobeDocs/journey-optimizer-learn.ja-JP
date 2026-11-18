@@ -1,6 +1,6 @@
 ---
-title: チャネルの最適化により、顧客がエンゲージする場所でリーチしたい
-description: アクショングループを使用してメール、プッシュ通知、SMSを組み合わせ、手作業による優先度、顧客の嗜好、AIのエンゲージメントスコアなどを活用してチャネルの選択を最適化する方法を説明します。
+title: 顧客が関与する場所で顧客にリーチするチャネルの最適化の使用
+description: アクショングループを使用して、メール、プッシュ、SMS を組み合わせ、手動による優先度、顧客の環境設定、AI エンゲージメントスコアを使用してチャネルの選択を最適化する方法について説明します。
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -22,13 +22,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# チャネルの最適化により、顧客がエンゲージする場所でリーチしたい
+# 顧客が関与する場所で顧客にリーチするチャネルの最適化の使用
 
-アクショングループを使用してメール、プッシュ通知、SMSを組み合わせ、手作業による優先度、顧客の嗜好、AIのエンゲージメントスコアなどを活用してチャネルの選択を最適化する方法を説明します。
+アクショングループを使用して、メール、プッシュ、SMS を組み合わせ、手動による優先度、顧客の環境設定、AI エンゲージメントスコアを使用してチャネルの選択を最適化する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3505311/?captions=jpn&learn=on&enablevpops)
