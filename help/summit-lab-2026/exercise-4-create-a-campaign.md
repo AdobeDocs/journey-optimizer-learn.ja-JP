@@ -44,4 +44,4 @@ ht-degree: 0%
 
 この演習では、選択戦略をコードベースのエクスペリエンスにリンクして、リアルタイムのweb バナーのパーソナライゼーションを実現します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508541/?captions=jpn&learn=on)
