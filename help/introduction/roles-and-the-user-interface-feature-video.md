@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizerを操作する方法、4つの主要なユーザーロールについて理解する方法、およびロールに関連するツールと設定を見つける方法について説明します。 組織、サンドボックス、権限が、最初のユースケースを構築する前に、どのようにワークスペースを形成するのかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508506?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508508?captions=jpn&learn=on){transcript=true}
